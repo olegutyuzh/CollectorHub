@@ -1,0 +1,3086 @@
+[
+  {
+    "id": 508412,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51a"
+      }
+    ],
+    "comment": "Prefix: A0"
+  },
+  {
+    "id": 565620,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51a"
+      }
+    ],
+    "comment": "Prefix: A0"
+  },
+  {
+    "id": 565621,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51a"
+      }
+    ],
+    "comment": "Prefix: A1"
+  },
+  {
+    "id": 565622,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51a"
+      }
+    ],
+    "comment": "Prefix: A1"
+  },
+  {
+    "id": 565623,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51a"
+      }
+    ],
+    "comment": "Prefix: A2"
+  },
+  {
+    "id": 565624,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51a"
+      }
+    ],
+    "comment": "Prefix: A2"
+  },
+  {
+    "id": 926048,
+    "is_dated": false,
+    "min_year": 1972,
+    "max_year": 1993,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51s1"
+      }
+    ],
+    "comment": "Specimen"
+  },
+  {
+    "id": 508413,
+    "is_dated": true,
+    "year": 1975,
+    "gregorian_year": 1975,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51b"
+      }
+    ],
+    "comment": "Prefix: A3"
+  },
+  {
+    "id": 565625,
+    "is_dated": true,
+    "year": 1975,
+    "gregorian_year": 1975,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51b"
+      }
+    ],
+    "comment": "Prefix: A3"
+  },
+  {
+    "id": 565626,
+    "is_dated": true,
+    "year": 1975,
+    "gregorian_year": 1975,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51b"
+      }
+    ],
+    "comment": "Prefix: A4"
+  },
+  {
+    "id": 565627,
+    "is_dated": true,
+    "year": 1975,
+    "gregorian_year": 1975,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51b"
+      }
+    ],
+    "comment": "Prefix: A4"
+  },
+  {
+    "id": 565628,
+    "is_dated": true,
+    "year": 1975,
+    "gregorian_year": 1975,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51b"
+      }
+    ],
+    "comment": "Prefix: A5"
+  },
+  {
+    "id": 565629,
+    "is_dated": true,
+    "year": 1975,
+    "gregorian_year": 1975,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51b"
+      }
+    ],
+    "comment": "Prefix: A5"
+  },
+  {
+    "id": 508414,
+    "is_dated": true,
+    "year": 1976,
+    "gregorian_year": 1976,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51c"
+      }
+    ],
+    "comment": "Prefix: A6"
+  },
+  {
+    "id": 565630,
+    "is_dated": true,
+    "year": 1976,
+    "gregorian_year": 1976,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51c"
+      }
+    ],
+    "comment": "Prefix: A6"
+  },
+  {
+    "id": 508415,
+    "is_dated": true,
+    "year": 1977,
+    "gregorian_year": 1977,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51d"
+      }
+    ],
+    "comment": "Prefix: A7"
+  },
+  {
+    "id": 565631,
+    "is_dated": true,
+    "year": 1977,
+    "gregorian_year": 1977,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51d"
+      }
+    ],
+    "comment": "Prefix: A7"
+  },
+  {
+    "id": 508416,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51e"
+      }
+    ],
+    "comment": "Prefix: A8"
+  },
+  {
+    "id": 565632,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51e"
+      }
+    ],
+    "comment": "Prefix: A8"
+  },
+  {
+    "id": 565633,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51e"
+      }
+    ],
+    "comment": "Prefix: A8"
+  },
+  {
+    "id": 565634,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51e"
+      }
+    ],
+    "comment": "Prefix: A9"
+  },
+  {
+    "id": 565635,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51e"
+      }
+    ],
+    "comment": "Prefix: A9"
+  },
+  {
+    "id": 565636,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51e"
+      }
+    ],
+    "comment": "Prefix: A9"
+  },
+  {
+    "id": 565637,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51e"
+      }
+    ],
+    "comment": "Prefix: B0"
+  },
+  {
+    "id": 565638,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51e"
+      }
+    ],
+    "comment": "Prefix: B0"
+  },
+  {
+    "id": 565639,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51e"
+      }
+    ],
+    "comment": "Prefix: B0"
+  },
+  {
+    "id": 508417,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51f"
+      }
+    ],
+    "comment": "Prefix: B1"
+  },
+  {
+    "id": 565640,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51f"
+      }
+    ],
+    "comment": "Prefix: B1"
+  },
+  {
+    "id": 565641,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51f"
+      }
+    ],
+    "comment": "Prefix: B1"
+  },
+  {
+    "id": 565642,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51f"
+      }
+    ],
+    "comment": "Prefix: B2"
+  },
+  {
+    "id": 565643,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51f"
+      }
+    ],
+    "comment": "Prefix: B2"
+  },
+  {
+    "id": 565644,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51f"
+      }
+    ],
+    "comment": "Prefix: B2"
+  },
+  {
+    "id": 565645,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51f"
+      }
+    ],
+    "comment": "Prefix: B3"
+  },
+  {
+    "id": 565646,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51f"
+      }
+    ],
+    "comment": "Prefix: B3"
+  },
+  {
+    "id": 565647,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51f"
+      }
+    ],
+    "comment": "Prefix: B3"
+  },
+  {
+    "id": 508418,
+    "is_dated": true,
+    "year": 1981,
+    "gregorian_year": 1981,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51g"
+      }
+    ],
+    "comment": "Prefix: B4"
+  },
+  {
+    "id": 565648,
+    "is_dated": true,
+    "year": 1981,
+    "gregorian_year": 1981,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51g"
+      }
+    ],
+    "comment": "Prefix: B4"
+  },
+  {
+    "id": 565649,
+    "is_dated": true,
+    "year": 1981,
+    "gregorian_year": 1981,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51g"
+      }
+    ],
+    "comment": "Prefix: B4"
+  },
+  {
+    "id": 508419,
+    "is_dated": true,
+    "year": 1981,
+    "gregorian_year": 1981,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51h"
+      }
+    ],
+    "comment": "Prefix: C0"
+  },
+  {
+    "id": 565650,
+    "is_dated": true,
+    "year": 1981,
+    "gregorian_year": 1981,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51h"
+      }
+    ],
+    "comment": "Prefix: C0"
+  },
+  {
+    "id": 565651,
+    "is_dated": true,
+    "year": 1981,
+    "gregorian_year": 1981,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51h"
+      }
+    ],
+    "comment": "Prefix: C0"
+  },
+  {
+    "id": 565652,
+    "is_dated": true,
+    "year": 1981,
+    "gregorian_year": 1981,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51h"
+      }
+    ],
+    "comment": "Prefix: C1"
+  },
+  {
+    "id": 565653,
+    "is_dated": true,
+    "year": 1981,
+    "gregorian_year": 1981,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51h"
+      }
+    ],
+    "comment": "Prefix: C1"
+  },
+  {
+    "id": 565654,
+    "is_dated": true,
+    "year": 1981,
+    "gregorian_year": 1981,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51h"
+      }
+    ],
+    "comment": "Prefix: C1"
+  },
+  {
+    "id": 508420,
+    "is_dated": true,
+    "year": 1982,
+    "gregorian_year": 1982,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51i"
+      }
+    ],
+    "comment": "Prefix: C2"
+  },
+  {
+    "id": 565655,
+    "is_dated": true,
+    "year": 1982,
+    "gregorian_year": 1982,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51i"
+      }
+    ],
+    "comment": "Prefix: C2"
+  },
+  {
+    "id": 565656,
+    "is_dated": true,
+    "year": 1982,
+    "gregorian_year": 1982,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51i"
+      }
+    ],
+    "comment": "Prefix: C2"
+  },
+  {
+    "id": 508421,
+    "is_dated": true,
+    "year": 1983,
+    "gregorian_year": 1983,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51j"
+      }
+    ],
+    "comment": "Prefix: C3"
+  },
+  {
+    "id": 565657,
+    "is_dated": true,
+    "year": 1983,
+    "gregorian_year": 1983,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51j"
+      }
+    ],
+    "comment": "Prefix: C3"
+  },
+  {
+    "id": 565658,
+    "is_dated": true,
+    "year": 1983,
+    "gregorian_year": 1983,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51j"
+      }
+    ],
+    "comment": "Prefix: C3"
+  },
+  {
+    "id": 565659,
+    "is_dated": true,
+    "year": 1983,
+    "gregorian_year": 1983,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51j"
+      }
+    ],
+    "comment": "Prefix: C4"
+  },
+  {
+    "id": 565660,
+    "is_dated": true,
+    "year": 1983,
+    "gregorian_year": 1983,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51j"
+      }
+    ],
+    "comment": "Prefix: C4"
+  },
+  {
+    "id": 565661,
+    "is_dated": true,
+    "year": 1983,
+    "gregorian_year": 1983,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51j"
+      }
+    ],
+    "comment": "Prefix: C4"
+  },
+  {
+    "id": 508422,
+    "is_dated": true,
+    "year": 1984,
+    "gregorian_year": 1984,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51k"
+      }
+    ],
+    "comment": "Prefix: C5"
+  },
+  {
+    "id": 565673,
+    "is_dated": true,
+    "year": 1984,
+    "gregorian_year": 1984,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51k"
+      }
+    ],
+    "comment": "Prefix: C5"
+  },
+  {
+    "id": 565674,
+    "is_dated": true,
+    "year": 1984,
+    "gregorian_year": 1984,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51k"
+      }
+    ],
+    "comment": "Prefix: C5"
+  },
+  {
+    "id": 565675,
+    "is_dated": true,
+    "year": 1984,
+    "gregorian_year": 1984,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51k"
+      }
+    ],
+    "comment": "Prefix: C6"
+  },
+  {
+    "id": 565676,
+    "is_dated": true,
+    "year": 1984,
+    "gregorian_year": 1984,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51k"
+      }
+    ],
+    "comment": "Prefix: C6"
+  },
+  {
+    "id": 565677,
+    "is_dated": true,
+    "year": 1984,
+    "gregorian_year": 1984,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51k"
+      }
+    ],
+    "comment": "Prefix: C6"
+  },
+  {
+    "id": 508423,
+    "is_dated": true,
+    "year": 1984,
+    "gregorian_year": 1984,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51l"
+      }
+    ],
+    "comment": "Prefix: C7"
+  },
+  {
+    "id": 565678,
+    "is_dated": true,
+    "year": 1984,
+    "gregorian_year": 1984,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51l"
+      }
+    ],
+    "comment": "Prefix: C7"
+  },
+  {
+    "id": 565679,
+    "is_dated": true,
+    "year": 1984,
+    "gregorian_year": 1984,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51l"
+      }
+    ],
+    "comment": "Prefix: C7"
+  },
+  {
+    "id": 508424,
+    "is_dated": true,
+    "year": 1985,
+    "gregorian_year": 1985,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51m"
+      }
+    ],
+    "comment": "Prefix: C8"
+  },
+  {
+    "id": 565680,
+    "is_dated": true,
+    "year": 1985,
+    "gregorian_year": 1985,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51m"
+      }
+    ],
+    "comment": "Prefix: C8"
+  },
+  {
+    "id": 565681,
+    "is_dated": true,
+    "year": 1985,
+    "gregorian_year": 1985,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51m"
+      }
+    ],
+    "comment": "Prefix: C8"
+  },
+  {
+    "id": 565682,
+    "is_dated": true,
+    "year": 1985,
+    "gregorian_year": 1985,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51m"
+      }
+    ],
+    "comment": "Prefix: C9"
+  },
+  {
+    "id": 565683,
+    "is_dated": true,
+    "year": 1985,
+    "gregorian_year": 1985,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51m"
+      }
+    ],
+    "comment": "Prefix: C9"
+  },
+  {
+    "id": 565684,
+    "is_dated": true,
+    "year": 1985,
+    "gregorian_year": 1985,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51m"
+      }
+    ],
+    "comment": "Prefix: C9"
+  },
+  {
+    "id": 508425,
+    "is_dated": true,
+    "year": 1985,
+    "gregorian_year": 1985,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51n"
+      }
+    ],
+    "comment": "Prefix: H0; Rare"
+  },
+  {
+    "id": 565685,
+    "is_dated": true,
+    "year": 1985,
+    "gregorian_year": 1985,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51n"
+      }
+    ],
+    "comment": "Prefix: H0; Rare"
+  },
+  {
+    "id": 565686,
+    "is_dated": true,
+    "year": 1985,
+    "gregorian_year": 1985,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51n"
+      }
+    ],
+    "comment": "Prefix: H0; Rare"
+  },
+  {
+    "id": 508426,
+    "is_dated": true,
+    "year": 1986,
+    "gregorian_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51o"
+      }
+    ],
+    "comment": "Prefix: D0"
+  },
+  {
+    "id": 565687,
+    "is_dated": true,
+    "year": 1986,
+    "gregorian_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51o"
+      }
+    ],
+    "comment": "Prefix: D0"
+  },
+  {
+    "id": 565688,
+    "is_dated": true,
+    "year": 1986,
+    "gregorian_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51o"
+      }
+    ],
+    "comment": "Prefix: D0"
+  },
+  {
+    "id": 565689,
+    "is_dated": true,
+    "year": 1986,
+    "gregorian_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51o"
+      }
+    ],
+    "comment": "Prefix: D1"
+  },
+  {
+    "id": 565690,
+    "is_dated": true,
+    "year": 1986,
+    "gregorian_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51o"
+      }
+    ],
+    "comment": "Prefix: D1"
+  },
+  {
+    "id": 565691,
+    "is_dated": true,
+    "year": 1986,
+    "gregorian_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51o"
+      }
+    ],
+    "comment": "Prefix: D1"
+  },
+  {
+    "id": 565692,
+    "is_dated": true,
+    "year": 1986,
+    "gregorian_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51o"
+      }
+    ],
+    "comment": "Prefix: D2"
+  },
+  {
+    "id": 565693,
+    "is_dated": true,
+    "year": 1986,
+    "gregorian_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51o"
+      }
+    ],
+    "comment": "Prefix: D2"
+  },
+  {
+    "id": 565694,
+    "is_dated": true,
+    "year": 1986,
+    "gregorian_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51o"
+      }
+    ],
+    "comment": "Prefix: D2"
+  },
+  {
+    "id": 565695,
+    "is_dated": true,
+    "year": 1986,
+    "gregorian_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51p"
+      }
+    ],
+    "comment": "Prefix: R1"
+  },
+  {
+    "id": 508427,
+    "is_dated": true,
+    "year": 1986,
+    "gregorian_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51p"
+      }
+    ],
+    "comment": "Prefix: R1; Rare"
+  },
+  {
+    "id": 565696,
+    "is_dated": true,
+    "year": 1986,
+    "gregorian_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Knud Billestrup",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51p"
+      }
+    ],
+    "comment": "Prefix: R1; Rare"
+  },
+  {
+    "id": 508428,
+    "is_dated": true,
+    "year": 1987,
+    "gregorian_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51q"
+      }
+    ],
+    "comment": "Prefix: D3"
+  },
+  {
+    "id": 565706,
+    "is_dated": true,
+    "year": 1987,
+    "gregorian_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51q"
+      }
+    ],
+    "comment": "Prefix: D3"
+  },
+  {
+    "id": 565707,
+    "is_dated": true,
+    "year": 1987,
+    "gregorian_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51q"
+      }
+    ],
+    "comment": "Prefix: D3"
+  },
+  {
+    "id": 565708,
+    "is_dated": true,
+    "year": 1987,
+    "gregorian_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51q"
+      }
+    ],
+    "comment": "Prefix: D4"
+  },
+  {
+    "id": 565709,
+    "is_dated": true,
+    "year": 1987,
+    "gregorian_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51q"
+      }
+    ],
+    "comment": "Prefix: D4"
+  },
+  {
+    "id": 565710,
+    "is_dated": true,
+    "year": 1987,
+    "gregorian_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51q"
+      }
+    ],
+    "comment": "Prefix: D4"
+  },
+  {
+    "id": 508429,
+    "is_dated": true,
+    "year": 1988,
+    "gregorian_year": 1988,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51r"
+      }
+    ],
+    "comment": "Prefix: D5"
+  },
+  {
+    "id": 565711,
+    "is_dated": true,
+    "year": 1988,
+    "gregorian_year": 1988,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51r"
+      }
+    ],
+    "comment": "Prefix: D5"
+  },
+  {
+    "id": 565712,
+    "is_dated": true,
+    "year": 1988,
+    "gregorian_year": 1988,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51r"
+      }
+    ],
+    "comment": "Prefix: D5"
+  },
+  {
+    "id": 565713,
+    "is_dated": true,
+    "year": 1988,
+    "gregorian_year": 1988,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51r"
+      }
+    ],
+    "comment": "Prefix: D6"
+  },
+  {
+    "id": 565714,
+    "is_dated": true,
+    "year": 1988,
+    "gregorian_year": 1988,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51r"
+      }
+    ],
+    "comment": "Prefix: D6"
+  },
+  {
+    "id": 565715,
+    "is_dated": true,
+    "year": 1988,
+    "gregorian_year": 1988,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51r"
+      }
+    ],
+    "comment": "Prefix: D6"
+  },
+  {
+    "id": 508430,
+    "is_dated": true,
+    "year": 1989,
+    "gregorian_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51s"
+      }
+    ],
+    "comment": "Prefix: D7"
+  },
+  {
+    "id": 565716,
+    "is_dated": true,
+    "year": 1989,
+    "gregorian_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51s"
+      }
+    ],
+    "comment": "Prefix: D7"
+  },
+  {
+    "id": 565717,
+    "is_dated": true,
+    "year": 1989,
+    "gregorian_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51s"
+      }
+    ],
+    "comment": "Prefix: D7"
+  },
+  {
+    "id": 508431,
+    "is_dated": true,
+    "year": 1990,
+    "gregorian_year": 1990,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51t"
+      }
+    ],
+    "comment": "Prefix: D8"
+  },
+  {
+    "id": 565718,
+    "is_dated": true,
+    "year": 1990,
+    "gregorian_year": 1990,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51t"
+      }
+    ],
+    "comment": "Prefix: D8"
+  },
+  {
+    "id": 565719,
+    "is_dated": true,
+    "year": 1990,
+    "gregorian_year": 1990,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51t"
+      }
+    ],
+    "comment": "Prefix: D8"
+  },
+  {
+    "id": 565720,
+    "is_dated": true,
+    "year": 1990,
+    "gregorian_year": 1990,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51t"
+      }
+    ],
+    "comment": "Prefix: D9"
+  },
+  {
+    "id": 565721,
+    "is_dated": true,
+    "year": 1990,
+    "gregorian_year": 1990,
+    "signatures": [
+      {
+        "signer_name": "Richard Mikkelsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51t"
+      }
+    ],
+    "comment": "Prefix: D9"
+  },
+  {
+    "id": 565722,
+    "is_dated": true,
+    "year": 1990,
+    "gregorian_year": 1990,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51t"
+      }
+    ],
+    "comment": "Prefix: D9"
+  },
+  {
+    "id": 565723,
+    "is_dated": true,
+    "year": 1990,
+    "gregorian_year": 1990,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51t"
+      }
+    ],
+    "comment": "Prefix: E0"
+  },
+  {
+    "id": 565724,
+    "is_dated": true,
+    "year": 1990,
+    "gregorian_year": 1990,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51t"
+      }
+    ],
+    "comment": "Prefix: E0"
+  },
+  {
+    "id": 565725,
+    "is_dated": true,
+    "year": 1990,
+    "gregorian_year": 1990,
+    "signatures": [
+      {
+        "signer_name": "Bodil Nyboe Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51t"
+      }
+    ],
+    "comment": "Prefix: E0"
+  },
+  {
+    "id": 508432,
+    "is_dated": true,
+    "year": 1991,
+    "gregorian_year": 1991,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51u"
+      }
+    ],
+    "comment": "Prefix: E1"
+  },
+  {
+    "id": 565726,
+    "is_dated": true,
+    "year": 1991,
+    "gregorian_year": 1991,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51u"
+      }
+    ],
+    "comment": "Prefix: E1"
+  },
+  {
+    "id": 565727,
+    "is_dated": true,
+    "year": 1991,
+    "gregorian_year": 1991,
+    "signatures": [
+      {
+        "signer_name": "Bodil Nyboe Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51u"
+      }
+    ],
+    "comment": "Prefix: E1"
+  },
+  {
+    "id": 508433,
+    "is_dated": true,
+    "year": 1991,
+    "gregorian_year": 1991,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51v"
+      }
+    ],
+    "comment": "Prefix: E2"
+  },
+  {
+    "id": 565728,
+    "is_dated": true,
+    "year": 1991,
+    "gregorian_year": 1991,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51v"
+      }
+    ],
+    "comment": "Prefix: E2"
+  },
+  {
+    "id": 565729,
+    "is_dated": true,
+    "year": 1991,
+    "gregorian_year": 1991,
+    "signatures": [
+      {
+        "signer_name": "Bodil Nyboe Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51v"
+      }
+    ],
+    "comment": "Prefix: E2"
+  },
+  {
+    "id": 508434,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51w"
+      }
+    ],
+    "comment": "Prefix: E3"
+  },
+  {
+    "id": 565730,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "signatures": [
+      {
+        "signer_name": "Bodil Nyboe Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51w"
+      }
+    ],
+    "comment": "Prefix: E3"
+  },
+  {
+    "id": 565731,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51w"
+      }
+    ],
+    "comment": "Prefix: E3"
+  },
+  {
+    "id": 565732,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "signatures": [
+      {
+        "signer_name": "Bodil Nyboe Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51w"
+      }
+    ],
+    "comment": "Prefix: E4"
+  },
+  {
+    "id": 565733,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "signatures": [
+      {
+        "signer_name": "Ole Thomasen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51w"
+      }
+    ],
+    "comment": "Prefix: E4"
+  },
+  {
+    "id": 565734,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Erik Herly",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "51w"
+      }
+    ],
+    "comment": "Prefix: E4"
+  }
+]

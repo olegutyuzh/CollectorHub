@@ -1,0 +1,1185 @@
+[
+  {
+    "id": 996229,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "month": 6,
+    "day": 19,
+    "signatures": [
+      {
+        "signer_name": "Guillermo Ortí­z Martí­nez",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Raúl Valdés Ramos",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704as"
+      }
+    ],
+    "comment": "Specimen, Series A, Serial # \"A0000000\", black diagonal overprint \"ESPECIMEN\" on both sides, red overprint numbered 7 digits, on obverse, below face value"
+  },
+  {
+    "id": 510984,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "month": 6,
+    "day": 19,
+    "signatures": [
+      {
+        "signer_name": "Guillermo Ortí­z Martí­nez",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Raúl Valdés Ramos",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704a"
+      }
+    ],
+    "comment": "Series A"
+  },
+  {
+    "id": 510986,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "month": 6,
+    "day": 19,
+    "signatures": [
+      {
+        "signer_name": "Jesús Marcos Yacaman",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Raúl Valdés Ramos",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122b"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704a"
+      }
+    ],
+    "comment": "Series B"
+  },
+  {
+    "id": 510988,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "month": 11,
+    "day": 22,
+    "signatures": [
+      {
+        "signer_name": "Guillermo Güemez Garcí­a",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Raúl Valdés Ramos",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122c"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704b"
+      }
+    ],
+    "comment": "Series C"
+  },
+  {
+    "id": 493941,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "month": 5,
+    "day": 14,
+    "signatures": [
+      {
+        "signer_name": "José Julián Sidaoui Dib",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Raúl Valdés Ramos",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122d"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704c"
+      }
+    ],
+    "comment": "Series D"
+  },
+  {
+    "id": 510990,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "month": 5,
+    "day": 14,
+    "signatures": [
+      {
+        "signer_name": "Everardo Elizondo Almaguer",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Raúl Valdés Ramos",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122e"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704c"
+      }
+    ],
+    "comment": "Series E"
+  },
+  {
+    "id": 510992,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "month": 11,
+    "day": 20,
+    "signatures": [
+      {
+        "signer_name": "Guillermo Ortí­z Martí­nez",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Raúl Valdés Ramos",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122f"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704d"
+      }
+    ],
+    "comment": "Series F"
+  },
+  {
+    "id": 493940,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "month": 4,
+    "day": 28,
+    "signatures": [
+      {
+        "signer_name": "Guillermo Güemez Garcí­a",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Raúl Valdés Ramos",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122g"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704e"
+      }
+    ],
+    "comment": "Series G"
+  },
+  {
+    "id": 510993,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "month": 10,
+    "day": 28,
+    "signatures": [
+      {
+        "signer_name": "José Julián Sidaoui Dib",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Raúl Valdés Ramos",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122h"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704f"
+      }
+    ],
+    "comment": "Series H"
+  },
+  {
+    "id": 493939,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "month": 4,
+    "day": 23,
+    "signatures": [
+      {
+        "signer_name": "Roberto del Cueto Legaspi",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Raúl Valdés Ramos",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122j"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704g"
+      }
+    ],
+    "comment": "Series J"
+  },
+  {
+    "id": 510994,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "month": 4,
+    "day": 23,
+    "signatures": [
+      {
+        "signer_name": "Guillermo Ortí­z Martí­nez",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Raúl Valdés Ramos",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122k"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704g"
+      }
+    ],
+    "comment": "Series K"
+  },
+  {
+    "id": 493938,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "month": 5,
+    "day": 3,
+    "signatures": [
+      {
+        "signer_name": "Guillermo Güemez Garcí­a",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Raúl Valdés Ramos",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122l"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704h"
+      }
+    ],
+    "comment": "Series L"
+  },
+  {
+    "id": 510995,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "month": 5,
+    "day": 3,
+    "signatures": [
+      {
+        "signer_name": "José Julián Sidaoui Dib",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Raúl Valdés Ramos",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122m"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704h"
+      }
+    ],
+    "comment": "Series M"
+  },
+  {
+    "id": 510996,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "month": 5,
+    "day": 3,
+    "signatures": [
+      {
+        "signer_name": "Roberto del Cueto Legaspi",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Raúl Valdés Ramos",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122n"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704h"
+      }
+    ],
+    "comment": "Series N"
+  },
+  {
+    "id": 493937,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "month": 6,
+    "day": 24,
+    "signatures": [
+      {
+        "signer_name": "Manuel Sanchéz González",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122p"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704i"
+      }
+    ],
+    "comment": "Series P"
+  },
+  {
+    "id": 510997,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "month": 6,
+    "day": 24,
+    "signatures": [
+      {
+        "signer_name": "Manuel Ramos Francia",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122q"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704i"
+      }
+    ],
+    "comment": "Series Q"
+  },
+  {
+    "id": 493936,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "month": 1,
+    "day": 10,
+    "signatures": [
+      {
+        "signer_name": "Agustí­n Guillermo Carstens Carstens",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122r"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704j"
+      }
+    ],
+    "comment": "Series R"
+  },
+  {
+    "id": 510999,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "month": 1,
+    "day": 10,
+    "signatures": [
+      {
+        "signer_name": "José Julián Sidaoui Dib",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704j"
+      }
+    ],
+    "comment": "Series S"
+  },
+  {
+    "id": 511000,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "month": 1,
+    "day": 23,
+    "signatures": [
+      {
+        "signer_name": "Roberto del Cueto Legaspi",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122t"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704k"
+      }
+    ],
+    "comment": "Series T"
+  },
+  {
+    "id": 511001,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "month": 6,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "Manuel Sanchéz González",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122u"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704l"
+      }
+    ],
+    "comment": "Series U"
+  },
+  {
+    "id": 511002,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "month": 6,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "Manuel Ramos Francia",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122v"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704l"
+      }
+    ],
+    "comment": "Series V"
+  },
+  {
+    "id": 493935,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "month": 6,
+    "day": 10,
+    "signatures": [
+      {
+        "signer_name": "Javier Eduardo Guzmán Calafell",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122w"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704m"
+      }
+    ],
+    "comment": "Series W"
+  },
+  {
+    "id": 511003,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "month": 6,
+    "day": 10,
+    "signatures": [
+      {
+        "signer_name": "Agustí­n Guillermo Carstens Carstens",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122x"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704m"
+      }
+    ],
+    "comment": "Series X"
+  },
+  {
+    "id": 511008,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 7,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "Manuel Ramos Francia",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122aa"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704n"
+      }
+    ],
+    "comment": "Series AA"
+  },
+  {
+    "id": 511009,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 7,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "Javier Eduardo Guzmán Calafell",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122ab"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704n"
+      }
+    ],
+    "comment": "Series AB"
+  },
+  {
+    "id": 511010,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 7,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "Agustí­n Guillermo Carstens Carstens",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122ac"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704n"
+      }
+    ],
+    "comment": "Series AC"
+  },
+  {
+    "id": 493934,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 7,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "Roberto del Cueto Legaspi",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122y"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704n"
+      }
+    ],
+    "comment": "Series Y"
+  },
+  {
+    "id": 511004,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 7,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "Manuel Sanchéz González",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122z"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704n"
+      }
+    ],
+    "comment": "Series Z"
+  },
+  {
+    "id": 493553,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "month": 1,
+    "day": 16,
+    "signatures": [
+      {
+        "signer_name": "Roberto del Cueto Legaspi",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122ad"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704o"
+      }
+    ],
+    "comment": "Series AD"
+  },
+  {
+    "id": 630752,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "month": 8,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Manuel Ramos Francia",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122ae"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704p"
+      }
+    ],
+    "comment": "Series AE"
+  },
+  {
+    "id": 528027,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "month": 8,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Javier Eduardo Guzmán Calafell",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122af"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704p"
+      }
+    ],
+    "comment": "Series AF"
+  },
+  {
+    "id": 511012,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "month": 8,
+    "day": 24,
+    "signatures": [
+      {
+        "signer_name": "Alejandro Dí­az de León Carillo",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122ag"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704q"
+      }
+    ],
+    "comment": "Series AG"
+  },
+  {
+    "id": 630753,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "month": 12,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Alejandro Dí­az de León Carillo",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122ah"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704r"
+      }
+    ],
+    "comment": "Series AH"
+  },
+  {
+    "id": 625170,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "month": 6,
+    "day": 7,
+    "signatures": [
+      {
+        "signer_name": "Roberto del Cueto Legaspi",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "122aj"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B704s"
+      }
+    ],
+    "comment": "Series AJ"
+  }
+]

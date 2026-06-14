@@ -1,0 +1,91 @@
+{
+  "id": 204186,
+  "url": "https://en.numista.com/204186",
+  "title": "10 Pounds",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "irlande",
+    "name": "Ireland"
+  },
+  "issuing_entity": {
+    "id": 252,
+    "name": "Central Bank of Ireland"
+  },
+  "min_year": 1993,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 2858,
+      "name": "Republic",
+      "wikidata_id": "Q27"
+    }
+  ],
+  "value": {
+    "text": "10 Pounds",
+    "numeric_value": 10,
+    "currency": {
+      "id": 120,
+      "name": "Pound / Irish Pound",
+      "full_name": "Pound / Irish Pound (decimalized, 1971-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-00-00"
+  },
+  "size": 128,
+  "size2": 68,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "designers": [
+      "Robert Ballagh"
+    ],
+    "description": "James Joyce at right\r\nDublin Bay and its surroundings",
+    "lettering": "Banc Ceannais na hÉireann  \r\nDeich bPunt",
+    "lettering_translation": "Central Bank of Ireland\r\nTen Pounds",
+    "picture": "https://en.numista.com/catalogue/photos/irlande/67425b12b47ca2.22773011-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/irlande/67425b12b47ca2.22773011-180.jpg",
+    "picture_copyright": "ner.d",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Robert Ballagh"
+    ],
+    "description": "One of the heads on The Custom House, Dublin by Edward Smyth, representing the River Liffey, at left\r\nText from \"Finnegans Wake\" at right\r\nA nineteenth-century map of Dublin in background",
+    "lettering": "Central Bank of Ireland\r\n£10\r\nTen Pounds",
+    "picture": "https://en.numista.com/catalogue/photos/irlande/67425b13eac574.30593547-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/irlande/67425b13eac574.30593547-180.jpg",
+    "picture_copyright": "ner.d",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "comments": "<p>Before 4.12.1997, prefixes contained letters A-L. Starting on that date, prefixes contained letters M-Z, excluding O and Q.<br>&nbsp;</p><p>Details on the <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.irishpapermoney.com/design-of-irish-banknotes/series-c-Joyce-10-pounds.html\">design of the Series C</a> Irish 10 Pound note can be found on www.irishpapermoney.com.<br>Visit <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.irishpapermoney.com\">www.irishpapermoney.com</a> for an introduction to the Legal Tender Notes, <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.irishpapermoney.com/c-series-banknotes-central-bank-of-ireland-1992-2001.html\">Series C Banknotes</a>, and images of all dates and denominations including replacement notes. Specimen notes are also illustrated.</p>",
+  "tags": [
+    "Map"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "76"
+    }
+  ],
+  "printers": [
+    {
+      "id": 770,
+      "name": "Central Bank of Ireland"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

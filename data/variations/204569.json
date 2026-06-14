@@ -1,0 +1,40 @@
+[
+  {
+    "id": 504312,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "month": 9,
+    "day": 2,
+    "mintage": 40000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "274a"
+      }
+    ],
+    "comment": "Series A. Signatures: Francisco de Paula Gutiérrez Gutiérrez & Roy González Rojas (000 000 001​ → 042 000 000)"
+  },
+  {
+    "id": 504313,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "month": 9,
+    "day": 11,
+    "mintage": 20000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "274b"
+      }
+    ],
+    "comment": "Series B.​ Signatures: Rodrigo Bolaños Zamora & Félix Delgado Quesada (000 000 001 → ​021 599 999)"
+  }
+]

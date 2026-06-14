@@ -1,0 +1,67 @@
+[
+  {
+    "id": 495546,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Serhii Leonidovych Tihipko",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P#117a"
+  },
+  {
+    "id": 495547,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "signatures": [
+      {
+        "signer_name": "Volodymyr Semenovych Stelmakh",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P#117b"
+  },
+  {
+    "id": 495548,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "signatures": [
+      {
+        "signer_name": "Serhii Hennadiiovych Arbuzov",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P#117c"
+  },
+  {
+    "id": 495549,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "signatures": [
+      {
+        "signer_name": "Ihor Viacheslavovych Sorkin",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P#117d"
+  },
+  {
+    "id": 502104,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Yakiv Vasylovych Smolii",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P#117e"
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "id": 503869,
+    "is_dated": false,
+    "min_year": 1986,
+    "max_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Dilson Domingos Funaro",
+        "title": "President of the National Monetary Council"
+      },
+      {
+        "signer_name": "Fernío Carlos Botelho Bracher",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 235200000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C189"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "584.01"
+      }
+    ],
+    "comment": "P# 212a - Series: A0001 - A2352 (Stamp A)"
+  },
+  {
+    "id": 503873,
+    "is_dated": false,
+    "min_year": 1986,
+    "max_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Dilson Domingos Funaro",
+        "title": "President of the National Monetary Council"
+      },
+      {
+        "signer_name": "Fernío Carlos Botelho Bracher",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C189m"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "584.02"
+      }
+    ],
+    "comment": "P# 212s - Specimen (MODELO)"
+  },
+  {
+    "id": 503870,
+    "is_dated": false,
+    "min_year": 1987,
+    "max_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Dilson Domingos Funaro",
+        "title": "President of the National Monetary Council"
+      },
+      {
+        "signer_name": "Francisco Roberto André Gros",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 49000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C190"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "584.03"
+      }
+    ],
+    "comment": "P# 212b - Series: A2353 - A2842 (Stamp A)"
+  },
+  {
+    "id": 503871,
+    "is_dated": false,
+    "min_year": 1987,
+    "max_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Luiz Carlos Bresser-Pereira",
+        "title": "President of the National Monetary Council"
+      },
+      {
+        "signer_name": "Fernando Milliet de Oliveira",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 466200000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C191"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "584.04"
+      }
+    ],
+    "comment": "P# 212c - Series: A2843 - A7504 (Stamp A)"
+  },
+  {
+    "id": 503872,
+    "is_dated": false,
+    "min_year": 1988,
+    "max_year": 1988,
+    "signatures": [
+      {
+        "signer_name": "Maí­lson Ferreira da Nóbrega",
+        "title": "President of the National Monetary Council"
+      },
+      {
+        "signer_name": "Elmo de Araújo Camões",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 80500000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C192"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "584.05"
+      }
+    ],
+    "comment": "P# 212d - Series: A7505 - A8309 (Stamp A)"
+  }
+]

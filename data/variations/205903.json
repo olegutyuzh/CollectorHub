@@ -1,0 +1,43 @@
+[
+  {
+    "id": 512587,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "comment": "P#66a"
+  },
+  {
+    "id": 512588,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "comment": "P#66b"
+  },
+  {
+    "id": 509787,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "comment": "P#66c"
+  },
+  {
+    "id": 764644,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "comment": "P#66d"
+  },
+  {
+    "id": 764645,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "comment": "P#66e"
+  },
+  {
+    "id": 907972,
+    "is_dated": true,
+    "year": 2023,
+    "gregorian_year": 2023
+  }
+]

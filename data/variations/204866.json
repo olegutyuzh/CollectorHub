@@ -1,0 +1,82 @@
+[
+  {
+    "id": 505354,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "signatures": [
+      {
+        "signer_name": "Marat Ormonbekovich Alapaev",
+        "title": "President of Kyrgyz Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "24a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "220a"
+      }
+    ],
+    "comment": "Prefix: CA - CL."
+  },
+  {
+    "id": 505356,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "signatures": [
+      {
+        "signer_name": "Marat Ormonbekovich Alapaev",
+        "title": "President of Kyrgyz Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "24r"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "220ar"
+      }
+    ],
+    "comment": "Replacement: Prefix ZZ"
+  },
+  {
+    "id": 505355,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Tolkunbek Sagynbekovich Abdygulov",
+        "title": "President of Kyrgyz Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "227a"
+      }
+    ],
+    "comment": "Prefix: DA - ..."
+  }
+]

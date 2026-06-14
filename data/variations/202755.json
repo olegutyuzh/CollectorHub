@@ -1,0 +1,53 @@
+[
+  {
+    "id": 495697,
+    "is_dated": false,
+    "min_year": 1987,
+    "max_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Thomas Davis",
+        "title": "Minister of Finance"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "4a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "104"
+      }
+    ]
+  },
+  {
+    "id": 495698,
+    "is_dated": false,
+    "min_year": 1987,
+    "max_year": 1987,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "4s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "104as"
+      }
+    ],
+    "comment": "Diagonal red SPECIMEN overprint front/back, all zero serial numbers."
+  }
+]

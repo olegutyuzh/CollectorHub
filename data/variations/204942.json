@@ -1,0 +1,45 @@
+[
+  {
+    "id": 505556,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "signatures": [
+      {
+        "signer_name": "Julian W. Francis",
+        "title": "Governor of Central Bank of The Bahamas"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "68a"
+      }
+    ]
+  },
+  {
+    "id": 633913,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "signatures": [
+      {
+        "signer_name": "Julian W. Francis",
+        "title": "Governor of Central Bank of The Bahamas"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "68r"
+      }
+    ],
+    "comment": "Replacement. Prefix Z"
+  }
+]

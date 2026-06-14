@@ -1,0 +1,1067 @@
+[
+  {
+    "id": 502977,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "month": 1,
+    "day": 27,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113a"
+      }
+    ],
+    "comment": "Series: HA; Signatures: Guillermo Perez / Guillermo Borja Enríquez / P. E. Macias"
+  },
+  {
+    "id": 578806,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "month": 2,
+    "day": 20,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113a"
+      }
+    ],
+    "comment": "Series HA; Signatures: Guillermo Perez / Guillermo Borja Enríquez / A. Pareja"
+  },
+  {
+    "id": 578807,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "month": 11,
+    "day": 25,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113a"
+      }
+    ],
+    "comment": "Series: HA; Signatures: Guillermo Perez / Guillermo Borja Enríquez / Unknown"
+  },
+  {
+    "id": 578808,
+    "is_dated": true,
+    "year": 1959,
+    "gregorian_year": 1959,
+    "month": 7,
+    "day": 7,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113a"
+      }
+    ],
+    "comment": "Series HA; Signatures: G. Vallejo / Guillermo Borja Enríquez / Unknown"
+  },
+  {
+    "id": 927651,
+    "is_dated": true,
+    "year": 1959,
+    "gregorian_year": 1959,
+    "month": 12,
+    "day": 15,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113a"
+      }
+    ],
+    "comment": "Series HB; Signatures: Guillermo Perez / Guillermo Borja Enríquez / Juan Emilio Re"
+  },
+  {
+    "id": 578809,
+    "is_dated": true,
+    "year": 1960,
+    "gregorian_year": 1960,
+    "month": 4,
+    "day": 7,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113a"
+      }
+    ],
+    "comment": "Series HC; Signatures: Guillermo Perez / Guillermo Borja Enríquez / Miguel Espinoza"
+  },
+  {
+    "id": 534300,
+    "is_dated": true,
+    "year": 1961,
+    "gregorian_year": 1961,
+    "month": 6,
+    "day": 7,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113a"
+      }
+    ],
+    "comment": "Series HC; Signatures: N. Fuentes / Luis A. Ortiz Bilbao / Miguel Espinoza"
+  },
+  {
+    "id": 927652,
+    "is_dated": true,
+    "year": 1961,
+    "gregorian_year": 1961,
+    "month": 8,
+    "day": 29,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113a"
+      }
+    ],
+    "comment": "Series HC; Signatures: N. Fuentes / Luis A. Ortiz Bilbao / Jaime Acosta Velasco"
+  },
+  {
+    "id": 927653,
+    "is_dated": true,
+    "year": 1962,
+    "gregorian_year": 1962,
+    "month": 2,
+    "day": 27,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113a"
+      }
+    ],
+    "comment": "Series HC; Signatures: N. Fuentes / Luis A. Ortiz Bilbao / F. Manrique"
+  },
+  {
+    "id": 502978,
+    "is_dated": true,
+    "year": 1962,
+    "gregorian_year": 1962,
+    "month": 7,
+    "day": 6,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113a"
+      }
+    ],
+    "comment": "Series HC; Signatures: N. Fuentes / Luis A. Ortiz Bilbao / J. Salazar"
+  },
+  {
+    "id": 927654,
+    "is_dated": true,
+    "year": 1962,
+    "gregorian_year": 1962,
+    "month": 11,
+    "day": 7,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113a"
+      }
+    ],
+    "comment": "Series HC; Signatures: N. Fuentes / Luis A. Ortiz Bilbao / G. Ormaza"
+  },
+  {
+    "id": 502979,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "month": 5,
+    "day": 23,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113b"
+      }
+    ],
+    "comment": "Series HD; Signatures: N. Fuentes / Luis A. Ortiz Bilbao / P. E. Macias"
+  },
+  {
+    "id": 578810,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "month": 10,
+    "day": 29,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113b"
+      }
+    ],
+    "comment": "Series HD; Signatures: Guillermo Perez / Enrique Reyna Drouet / Jaime Acosta Velasco"
+  },
+  {
+    "id": 578811,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "month": 3,
+    "day": 4,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113b"
+      }
+    ],
+    "comment": "Series HD; Signatures: Guillermo Perez / Enrique Reyna Drouet / Unknown"
+  },
+  {
+    "id": 578812,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "month": 7,
+    "day": 23,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113b"
+      }
+    ],
+    "comment": "Series HD; Signatures: Guillermo Perez / Enrique Reyna Drouet / Alfredo Albornoz"
+  },
+  {
+    "id": 578813,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "month": 1,
+    "day": 29,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113b"
+      }
+    ],
+    "comment": "Series HE; Signatures: Guillermo Perez / Francisco Manrique Sablá / Carlos Andrade Marín"
+  },
+  {
+    "id": 578814,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "month": 8,
+    "day": 6,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113b"
+      }
+    ],
+    "comment": "Series HE; Signatures: Guillermo Perez / Francisco Manrique Sablá / Jaime Acosta Velasco"
+  },
+  {
+    "id": 527904,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "month": 4,
+    "day": 27,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113b"
+      }
+    ],
+    "comment": "Series HE; Signatures: Guillermo Perez / Benito Ottati Moreira / Jaime Acosta Velasco"
+  },
+  {
+    "id": 927656,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "month": 11,
+    "day": 17,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113b"
+      }
+    ],
+    "comment": "Series HE; Signatures: G. Vallejo / Benito Ottati Moreira / Eduardo Larrea Stacey"
+  },
+  {
+    "id": 502983,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113s"
+      }
+    ],
+    "comment": "Specimen; \"MUESTRA SIN VALOR\""
+  },
+  {
+    "id": 949379,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "month": 5,
+    "day": 24,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113b"
+      }
+    ],
+    "comment": "Serie HG; Signatures: Jorge Pareja = Benito Ottatini / G. Vallejo"
+  },
+  {
+    "id": 750989,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "month": 5,
+    "day": 24,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113b"
+      }
+    ],
+    "comment": "Series HH; Signatures: Jorge Pareja Martinez / Julio Corral Borrero / Cordero"
+  },
+  {
+    "id": 578816,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "month": 5,
+    "day": 24,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113b"
+      }
+    ],
+    "comment": "Series HH; Signatures: Jorge Pareja Martinez / Julio Corral Borrero / G. Vallejo"
+  },
+  {
+    "id": 578815,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "month": 5,
+    "day": 24,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113b"
+      }
+    ],
+    "comment": "Series HH; Signatures: Jorge Pareja Martinez / Julio Corral Borrero / Pino"
+  },
+  {
+    "id": 949405,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "month": 2,
+    "day": 27,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113b"
+      }
+    ],
+    "comment": "Serie HJ Joaquin Cevallos = Julio Moreno = ???"
+  },
+  {
+    "id": 502980,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "month": 2,
+    "day": 27,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113b"
+      }
+    ],
+    "comment": "Series HI; Signatures: Joaquín Zevallos Menéndez / Julio Moreno Espinosa / Fernando Manrique"
+  },
+  {
+    "id": 578817,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "month": 2,
+    "day": 27,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113b"
+      }
+    ],
+    "comment": "Series HI; Signatures: Joaquín Zevallos Menéndez / Julio Moreno Espinosa / H. Borrero"
+  },
+  {
+    "id": 502984,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113s"
+      }
+    ],
+    "comment": "Specimen; \"MUESTRA SIN VALOR\""
+  },
+  {
+    "id": 750974,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      }
+    ],
+    "comment": "fifth set of signatures"
+  },
+  {
+    "id": 750970,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      }
+    ],
+    "comment": "first set of signatures"
+  },
+  {
+    "id": 502981,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      }
+    ],
+    "comment": "first set of signatures"
+  },
+  {
+    "id": 750969,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      }
+    ],
+    "comment": "fourth set of signatures"
+  },
+  {
+    "id": 750973,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      }
+    ],
+    "comment": "fourth set of signatures"
+  },
+  {
+    "id": 750967,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      }
+    ],
+    "comment": "second set of signatures"
+  },
+  {
+    "id": 750971,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      }
+    ],
+    "comment": "second set of signatures"
+  },
+  {
+    "id": 954097,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "comment": "Serie HK; Signatures: Rodrigo Espinosa Bermeo \tRaúl Guerrero Andrade \tOliverio Vásconez"
+  },
+  {
+    "id": 954100,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "comment": "Serie HQ; Signature : Rodrigo Espinoza Bermeo = Raúl Guerrero Andrade = J. Semblantes"
+  },
+  {
+    "id": 954105,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "comment": "Serie HR ; Signature: Rodrigo Espinoza Bermeo = Raúl Guerrero Andrade = Luis Pérez"
+  },
+  {
+    "id": 954104,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "comment": "Serie HR; Signatures ; Rodrigo Espinosa Bermeo \tRaúl Guerrero Andrade \tJoaquín Zevallos"
+  },
+  {
+    "id": 954103,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "comment": "Serie HR; Signatures : Rodrigo Espinosa Bermeo \tRaúl Guerrero Andrade \tFrancisco Rosales"
+  },
+  {
+    "id": 954099,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "comment": "Serie IQ; Signatures: Firmas: Rodrigo Espinoza Bermeo = Raul Guerrero Andrade = R. Munoz"
+  },
+  {
+    "id": 954102,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "comment": "Series HR; Signatures: Rodrigo Espinosa Bermeo \tRaúl Guerrero Andrade \tFrancisco X. Swett"
+  },
+  {
+    "id": 750972,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      }
+    ],
+    "comment": "third set of signatures"
+  },
+  {
+    "id": 750968,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      }
+    ],
+    "comment": "third set of signatures"
+  },
+  {
+    "id": 954098,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "comment": "Serie HQ; Signatures: Rodrigo Espinoza Bermeo = Raul Guerrero Andrade = J. Reyna"
+  },
+  {
+    "id": 954101,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 25,
+    "comment": "Series HR; Signatures: Rodrigo Espinosa Bermeo \tRaúl Guerrero Andrade \tGalo Montaño"
+  },
+  {
+    "id": 502985,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113s"
+      }
+    ],
+    "comment": "Specimen; \"MUESTRA SIN VALOR\""
+  },
+  {
+    "id": 567433,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 5,
+    "day": 24,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      }
+    ],
+    "comment": "first set of signatures"
+  },
+  {
+    "id": 750979,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 5,
+    "day": 24,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      }
+    ],
+    "comment": "first set of signatures"
+  },
+  {
+    "id": 750976,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 5,
+    "day": 24,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      }
+    ],
+    "comment": "first set of signatures"
+  },
+  {
+    "id": 750977,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 5,
+    "day": 24,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      }
+    ],
+    "comment": "second set of signatures"
+  },
+  {
+    "id": 750980,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 5,
+    "day": 24,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      }
+    ],
+    "comment": "second set of signatures"
+  },
+  {
+    "id": 750975,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 5,
+    "day": 24,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      }
+    ],
+    "comment": "second set of signatures"
+  },
+  {
+    "id": 954106,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 5,
+    "day": 24,
+    "comment": "Serie HA; Signatures: Mauricio Dávalos Guevara/ \tGonzalo Estupiñán Orejuela / \tLeón Roldós Aguilera"
+  },
+  {
+    "id": 954108,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 5,
+    "day": 24,
+    "comment": "Serie HT; Signatures: Mauricio Dávalos Guevara /\tGonzalo Estupiñán Orejuela / \tAntonio Andrade"
+  },
+  {
+    "id": 954110,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 5,
+    "day": 24,
+    "comment": "Serie HT; Signatures: Mauricio Dávalos Guevara /\tGonzalo Estupiñán Orejuela / \tGermánico Salgado"
+  },
+  {
+    "id": 954109,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 5,
+    "day": 24,
+    "comment": "Serie HT; Signatures: Mauricio Dávalos Guevara /\tGonzalo Estupiñán Orejuela / \tJosé Corsino Cárdenas"
+  },
+  {
+    "id": 954107,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 5,
+    "day": 24,
+    "comment": "Series HS; Signatures: Mauricio Davalos Guevara / Gonzalo Estupiñán Orejuela / Rodrigo Paz"
+  },
+  {
+    "id": 954112,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 5,
+    "day": 24,
+    "comment": "Series HU; Signatures: Mauricio Dávalos Guevara /\tGonzalo Estupiñán Orejuela / \tAndrés Vallejo"
+  },
+  {
+    "id": 954111,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 5,
+    "day": 24,
+    "comment": "Series HU; Signatures:Mauricio Dávalos Guevara /\tGonzalo Estupiñán Orejuela / \tFrancisco Rosales"
+  },
+  {
+    "id": 954113,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 5,
+    "day": 24,
+    "comment": "Series HU;Signatures: Mauricio Dávalos Guevara /Gonzalo Estupiñán Orejuela / \tGermánico Salgado"
+  },
+  {
+    "id": 750981,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 5,
+    "day": 24,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      }
+    ],
+    "comment": "third set of signatures"
+  },
+  {
+    "id": 750978,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 5,
+    "day": 24,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      }
+    ],
+    "comment": "third set of signatures"
+  },
+  {
+    "id": 750982,
+    "is_dated": true,
+    "year": 1988,
+    "gregorian_year": 1988,
+    "month": 11,
+    "day": 22,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113d"
+      }
+    ],
+    "comment": "Series IA; Signatures: José Morillo Batlle / Gonzalo Córdova Galarza / Abelardo Pachano Bertero"
+  },
+  {
+    "id": 750990,
+    "is_dated": true,
+    "year": 1988,
+    "gregorian_year": 1988,
+    "month": 11,
+    "day": 22,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113d"
+      }
+    ],
+    "comment": "Series IB; Signatures: José Morillo Batlle / Gonzalo Córdova Galarza / José Luis Alvarez"
+  },
+  {
+    "id": 750991,
+    "is_dated": true,
+    "year": 1988,
+    "gregorian_year": 1988,
+    "month": 11,
+    "day": 22,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113d"
+      }
+    ],
+    "comment": "Series IC; Signatures: José Morillo Batlle / Gonzalo Córdova Galarza / Jorge Gallardo"
+  },
+  {
+    "id": 750992,
+    "is_dated": true,
+    "year": 1988,
+    "gregorian_year": 1988,
+    "month": 11,
+    "day": 22,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113d"
+      }
+    ],
+    "comment": "Series ID; Signatures: José Morillo Batlle / Gonzalo Córdova Galarza / Antonio Acosta"
+  },
+  {
+    "id": 502982,
+    "is_dated": true,
+    "year": 1988,
+    "gregorian_year": 1988,
+    "month": 11,
+    "day": 22,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113d"
+      }
+    ],
+    "comment": "Series IE; Signatures: José Morillo Batlle / Gonzalo Córdova Galarza / Enrique Delgado"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 503110,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "month": 8,
+    "day": 8,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "109a"
+      }
+    ],
+    "comment": "Signature: 葉一新 (prefixes AA → AE)"
+  },
+  {
+    "id": 503111,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "month": 7,
+    "day": 1,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "109b(1)"
+      }
+    ],
+    "comment": "Signature: 葉一新 (prefixes AE → AU)"
+  },
+  {
+    "id": 503112,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "month": 7,
+    "day": 1,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "109b(2)"
+      }
+    ],
+    "comment": "Signature: 李光"
+  },
+  {
+    "id": 773886,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "month": 11,
+    "day": 6,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "109c"
+      }
+    ],
+    "comment": "Signature: 李光"
+  }
+]

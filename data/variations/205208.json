@@ -1,0 +1,35 @@
+[
+  {
+    "id": 506880,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "mintage": 1500000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "219a"
+      }
+    ],
+    "comment": "Prefix: AA-BJ; Signatures: Rick N. Houenipwela & George Kiriau"
+  },
+  {
+    "id": 737422,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "219as"
+      }
+    ],
+    "comment": "Specimen"
+  }
+]

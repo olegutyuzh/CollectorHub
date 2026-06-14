@@ -1,0 +1,30 @@
+[
+  {
+    "id": 493558,
+    "is_dated": true,
+    "year": 1915,
+    "gregorian_year": 1915,
+    "comment": "Circular seal; with date"
+  },
+  {
+    "id": 493555,
+    "is_dated": true,
+    "year": 1915,
+    "gregorian_year": 1915,
+    "comment": "Circular seal; without date"
+  },
+  {
+    "id": 493559,
+    "is_dated": true,
+    "year": 1915,
+    "gregorian_year": 1915,
+    "comment": "Scalloped seal; with date"
+  },
+  {
+    "id": 493556,
+    "is_dated": true,
+    "year": 1915,
+    "gregorian_year": 1915,
+    "comment": "Scalloped seal; without date"
+  }
+]

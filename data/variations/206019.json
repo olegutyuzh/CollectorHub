@@ -1,0 +1,32 @@
+[
+  {
+    "id": 510577,
+    "is_dated": false,
+    "min_year": 2008,
+    "signatures": [
+      {
+        "signer_name": "Abdullah Saud Al-Thani",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Yousef Hussein Kamal",
+        "title": "Minister of Finance"
+      }
+    ]
+  },
+  {
+    "id": 518016,
+    "is_dated": false,
+    "min_year": 2015,
+    "signatures": [
+      {
+        "signer_name": "Abdullah Saud Al-Thani",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Ali Shareef Al Emadi",
+        "title": "Minister of Finance"
+      }
+    ]
+  }
+]

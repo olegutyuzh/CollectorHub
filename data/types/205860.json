@@ -1,0 +1,104 @@
+{
+  "id": 205860,
+  "url": "https://en.numista.com/205860",
+  "title": "500 Riels",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "cambodge",
+    "name": "Cambodia"
+  },
+  "issuing_entity": {
+    "id": 76,
+    "name": "National Bank of Cambodia (established in 1992)"
+  },
+  "min_year": 2002,
+  "max_year": 2014,
+  "ruler": [
+    {
+      "id": 2940,
+      "name": "Norodom Sihanouk",
+      "wikidata_id": "Q160318",
+      "group": {
+        "id": 170,
+        "name": "Kingdom of Cambodia"
+      }
+    }
+  ],
+  "value": {
+    "text": "500 Riels",
+    "numeric_value": 500,
+    "currency": {
+      "id": 162,
+      "name": "Second riel",
+      "full_name": "Second riel (1979-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 138,
+  "size2": 64,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Angkor Wat Temple in a reddish tone, surrounded by intertwined geometric security patterns. The value “500” appears in the upper left and lower right corners, accompanied by the denomination in Khmer script. On the right, there is a large vertical floral ornament typical of Cambodian art, while on the left a lighter area is reserved for security features, forming a composition that unites cultural tradition, historical architecture, and graphic refinement.",
+    "lettering": "ធនាគារជាតិ នៃ កម្ពុជា\r\nប្រាំរយរៀល \r\nអ្នកក្លែងក្រដាសប្រាក់នឹងត្រូវផ្តន្ទាទោសតាមច្បាប់",
+    "lettering_scripts": [
+      {
+        "name": "Khmer"
+      }
+    ],
+    "lettering_translation": "National Bank of Cambodia \r\nFive hundred riels \r\nCounterfeiters will be punished according to the law",
+    "picture": "https://en.numista.com/catalogue/photos/cambodge/699a3fa759f225.76467269-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cambodge/699a3fa759f225.76467269-180.jpg",
+    "picture_copyright": "apadilha"
+  },
+  "reverse": {
+    "description": "Depiction of a long bridge in perspective, with successive arches over the water and lighting poles along the roadway, conveying a sense of depth and movement. At the center of the composition stands a sculptural monument on a pedestal, integrated into the urban landscape. The background is filled with intricate multicolored geometric patterns typical of security elements, while the value “500” is highlighted in the corners and the denomination appears in Khmer script in the lower central band, creating a harmonious ensemble that combines engineering, decorative art, and national identity.",
+    "lettering": "500\r\nធនាគារជាតិ នៃ កម្ពុជា\r\nNational Bank of Cambodia\r\n[date]\r\nប្រាំរយរៀល\r\n500",
+    "lettering_scripts": [
+      {
+        "name": "Khmer"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "National Bank of Cambodia\r\nFive hundred riels",
+    "picture": "https://en.numista.com/catalogue/photos/cambodge/699a3fa8653d15.08065540-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cambodge/699a3fa8653d15.08065540-180.jpg",
+    "picture_copyright": "apadilha"
+  },
+  "comments": "<p>Security Thread Absent<br><br>UV activity:<br><a href=\"https://en.numista.com/catalogue/images/64a162c49f602.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a162c49f602.png\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/64a162d4035d3.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a162d4035d3.png\" alt=\"\"></a><br>© gyoschak</p>",
+  "tags": [
+    "Bridge",
+    "Religious building",
+    "River",
+    "Boat or watercraft",
+    "Car"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "54"
+    }
+  ],
+  "watermark": {
+    "description": "Bayon sculpture in Angkor Wat",
+    "picture": "https://en.numista.com/catalogue/photos/cambodge/6069d574a99e71.63645626-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6069d574a99e71.63645626-180.jpg",
+    "picture_copyright": "oXide3030",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

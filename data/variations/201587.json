@@ -1,0 +1,28 @@
+[
+  {
+    "id": 492964,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Sili Epa Tuioti",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Maiava Atalina Emma Ainuu-Enari \"2nd sign\"",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 1000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "121"
+      }
+    ]
+  }
+]

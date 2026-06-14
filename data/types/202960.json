@@ -1,0 +1,150 @@
+{
+  "id": 202960,
+  "url": "https://en.numista.com/202960",
+  "title": "5 Rupees (Dated Reverse)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "inde",
+    "name": "India"
+  },
+  "min_year": 2009,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 2943,
+      "name": "Republic",
+      "wikidata_id": "Q668"
+    }
+  ],
+  "value": {
+    "text": "5 Rupees",
+    "numeric_value": 5,
+    "currency": {
+      "id": 171,
+      "name": "Rupee",
+      "full_name": "Rupee (decimalized, 1957-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 117,
+  "size2": 63,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Dark green on pale green, yellow, and orange underprint; red serial number.\r\nMahatma Gandhi at right, Reserve Bank seal at lower right. \r\nLion capital of Asoka column at lower left.",
+    "lettering": "भारतीय रिजर्व बैंक\r\nRESERVE BANK OF INDIA\r\nकेन्द्रीय सरकार द्वारा प्रत्याभूत\r\nGUARANTEED BY THE CENTRAL GOVERNMENT\r\n5\r\nपाँच रुपये\r\nमैं धारक को पाँच रुपये अदा करने का बचन देता हूँ।\r\nI PROMISE TO PAY THE BEARER THE SUM OF FIVE RUPEES\r\nमहात्मा गांधीㅤㅤMAHATMA GANDHI",
+    "lettering_scripts": [
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/626e31c98c1397.16718779-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/626e31c98c1397.16718779-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Dark green on pale green, yellow, and orange underprint\r\nScene of a farmer ploughing through is field with a tractor while sun is rising.\r\nFive Rupees – Multilingual Depiction on Currency Note\r (15 Indian Languages – excluding Hindi and English)\r\n•\tAssamese: পাঁচ টকা\r\n•\tBengali: পাঁচ টাকা\r\n•\tGujarati: પાંચ રૂપિયા\r\n•\tKannada: ಐದು ರೂಪಾಯಿ\r\n•\tKashmiri: پانچ روپیہ\r\n•\tKonkani: पाच रुपये\r\n•\tMalayalam: അഞ്ച് രൂപ\r\n•\tMarathi: पाच रुपये\r\n•\tNepali: पाँच रुपैयाँ\r\n•\tOriya (Odia): ପାଞ୍ଚ ଟଙ୍କା\r\n•\tPunjabi (Gurmukhi): ਪੰਜ ਰੁਪਏ\r\n•\tSanskrit: पञ्च रूप्यकाणि\r\n•\tTamil: ஐந்து ரூபாய்\r\n•\tTelugu: ఐదు రూపాయలు\r\n•\tUrdu: پانچ روپیہ",
+    "lettering": "5 भारतीय रिजर्व बैंक 5\r\n\r\nপাঁচ টকা\r\nপাঁচ টাকা\r\nપાંચ રૂપિયા\r\nಐದು ರೂಪಾಯಿಗಳು\r\nپانٛژھ رۄپیہِ\r\nपांच रुपया\r\nഅഞ്ചു രൂപ\r\nपाच रुपये\r\nपाँच रुपियाँ\r\nପାଞ୍ଚ ଟଙ୍କା\r\nਪੰਜ ਰੁਪਏ\r\nपञ्चरूप्यकाणि\r\nஐந்து ரூபாய்\r\nఐదు రూపాయలు\r\nپانچ روپیے\r\n\r\n5 पाँच रुपये FIVE RUPEES",
+    "lettering_scripts": [
+      {
+        "name": "Bengali"
+      },
+      {
+        "name": "Devanagari"
+      },
+      {
+        "name": "Gujarati"
+      },
+      {
+        "name": "Kannada"
+      },
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Malayalam"
+      },
+      {
+        "name": "Odia"
+      },
+      {
+        "name": "Tamil"
+      },
+      {
+        "name": "Telugu"
+      },
+      {
+        "name": "Urdu"
+      },
+      {
+        "name": "Gurmukhi"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/inde/626e31ca8fd7d4.84808783-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/626e31ca8fd7d4.84808783-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>Date appears at bottom center of reverse.</p><p>Plate letter, if present, appears behind serial number.</p><p>&nbsp;</p><p>UV activity:<br><a href=\"https://en.numista.com/catalogue/images/64b16e753092c.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64b16e753092c.png\" alt=\"\"></a><br>© gyoschak</p><p><a href=\"https://en.numista.com/catalogue/images/6745945e56180.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6745945e56180.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p style=\"margin-left:0px;\">Security thread:</p><p style=\"margin-left:0px;\">Windowed into five sections on the obverse side, when seen under a backlight, the inscription of “RBI भारत” is repeated throughout.</p><p><a href=\"https://en.numista.com/catalogue/images/674594b51cfef.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/674594b51cfef.jpg\"></a></p><p>© Kiet Tran</p>",
+  "related_types": [
+    {
+      "id": 202954,
+      "title": "5 Rupees (No Date)",
+      "category": "banknote",
+      "country": {
+        "code": "inde",
+        "name": "India"
+      },
+      "minYear": 2002,
+      "maxYear": 2008
+    }
+  ],
+  "tags": [
+    "Agriculture",
+    "Cat or feline",
+    "Politician",
+    "Truck or tractor",
+    "Tree",
+    "Coat of Arms",
+    "Sun",
+    "Micro inscriptions"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "94A"
+    }
+  ],
+  "watermark": {
+    "description": "Portrait of Mahatma Gandhi",
+    "picture": "https://en.numista.com/catalogue/photos/inde/64b16e8dc51ca7.42861208-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/inde/64b16e8dc51ca7.42861208-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 77,
+      "name": "Security Printing and Minting Corporation of India"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

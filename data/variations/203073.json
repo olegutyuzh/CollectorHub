@@ -1,0 +1,188 @@
+[
+  {
+    "id": 497479,
+    "is_dated": false,
+    "min_year": 1943,
+    "max_year": 1943,
+    "comment": "(fr) F.05/00Sp, P#98s - spécimen, date 0.00-00-0000.0, alphabet O.000 n°00000 (perforé SPECIMEN)"
+  },
+  {
+    "id": 497472,
+    "is_dated": true,
+    "year": 1943,
+    "gregorian_year": 1943,
+    "month": 6,
+    "day": 2,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "mintage": 60000000,
+    "comment": "(fr) F.05/01 - P98a - alphabet 1-24"
+  },
+  {
+    "id": 500792,
+    "is_dated": true,
+    "year": 1943,
+    "gregorian_year": 1943,
+    "month": 6,
+    "day": 2,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "mintage": 100000,
+    "comment": "(fr) F.05/01A1 - P98a - alphabet A.1, billet 1-100 000"
+  },
+  {
+    "id": 497473,
+    "is_dated": true,
+    "year": 1943,
+    "gregorian_year": 1943,
+    "month": 7,
+    "day": 22,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "mintage": 60000000,
+    "comment": "(fr) F.05/02 - P98a - alphabet 25-48"
+  },
+  {
+    "id": 497474,
+    "is_dated": true,
+    "year": 1943,
+    "gregorian_year": 1943,
+    "month": 8,
+    "day": 5,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "mintage": 60000000,
+    "comment": "(fr) F.05/03 - P98a - alphabet 49-72"
+  },
+  {
+    "id": 497475,
+    "is_dated": true,
+    "year": 1943,
+    "gregorian_year": 1943,
+    "month": 11,
+    "day": 25,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "mintage": 60000000,
+    "comment": "(fr) F.05/04 - P98a - alphabet 73-96"
+  },
+  {
+    "id": 497476,
+    "is_dated": true,
+    "year": 1943,
+    "gregorian_year": 1943,
+    "month": 12,
+    "day": 23,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "mintage": 60000000,
+    "comment": "(fr) F.05/05 - P98a - alphabet 97-120 (alphabets 114-115 rares)"
+  },
+  {
+    "id": 497477,
+    "is_dated": true,
+    "year": 1945,
+    "gregorian_year": 1945,
+    "month": 4,
+    "day": 5,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "mintage": 60000000,
+    "comment": "(fr) F.05/06 - P98a - alphabet 121-144 (alphabet 123 rare)"
+  },
+  {
+    "id": 497478,
+    "is_dated": true,
+    "year": 1947,
+    "gregorian_year": 1947,
+    "month": 10,
+    "day": 30,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "Pol Gargam",
+        "title": "General Secretary"
+      }
+    ],
+    "mintage": 37500000,
+    "comment": "(fr) F.05/07 - P98b - alphabet 145-158"
+  },
+  {
+    "id": 500793,
+    "is_dated": true,
+    "year": 1947,
+    "gregorian_year": 1947,
+    "month": 10,
+    "day": 30,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "Pol Gargam",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F.05/08 - P98b - alphabet 159"
+  }
+]

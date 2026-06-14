@@ -1,0 +1,45 @@
+[
+  {
+    "id": 501853,
+    "is_dated": true,
+    "year": 1976,
+    "gregorian_year": 1976,
+    "signatures": [
+      {
+        "signer_name": "Mohamed Abdel Fattah Ibrahim",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 21000000,
+    "comment": "5.7.1976 to 2.10.1976; Prefix (1/س) to (21/س); 21 Prefixes"
+  },
+  {
+    "id": 940572,
+    "is_dated": true,
+    "year": 1976,
+    "gregorian_year": 1976,
+    "month": 7,
+    "day": 5,
+    "signatures": [
+      {
+        "signer_name": "Mohamed Abdel Fattah Ibrahim",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "Replacement Note (س) - no prefix number - Rare"
+  },
+  {
+    "id": 499405,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "signatures": [
+      {
+        "signer_name": "Mohamed Abdel Fattah Ibrahim",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 8000000,
+    "comment": "20.4.1978 to 3.5.1978; Prefix (22/س) to (29/س); 8 Prefixes"
+  }
+]

@@ -1,0 +1,97 @@
+{
+  "id": 205413,
+  "url": "https://en.numista.com/205413",
+  "title": "500 Escudos",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "cap-vert",
+    "name": "Cape Verde"
+  },
+  "issuing_entity": {
+    "id": 902,
+    "name": "Bank of Cape Verde",
+    "wikidata_id": "Q4077341"
+  },
+  "min_year": 2007,
+  "max_year": 2007,
+  "ruler": [
+    {
+      "id": 4333,
+      "name": "Republic",
+      "wikidata_id": "Q1011"
+    }
+  ],
+  "value": {
+    "text": "500 Escudos",
+    "numeric_value": 500,
+    "currency": {
+      "id": 1573,
+      "name": "Escudo",
+      "full_name": "Escudo (1914-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2019-06-00"
+  },
+  "size": 130,
+  "size2": 65,
+  "shape": "Rectangular (Vertical alignment)",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Green, yellow, red and multicolor.\r\nPortrait of Roberto Duarte Silva at bottom.",
+    "lettering": "BANCO DE CABO VERDE\r\nO GOVERNADOR\r\nO ADMINISTRADOR\r\nQUINHENTOS ESCUDOS\r\nROBERTO DUARTE SILVA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bank of Cape Verde\r\nGovernor\r\nAdministrator\r\nFive Hundred Escudos",
+    "picture": "https://en.numista.com/catalogue/photos/cap-vert/5e9dcdc32f1cb6.30965117-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cap-vert/5e9dcdc32f1cb6.30965117-180.jpg",
+    "picture_copyright": "alexmusat",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Sugar cane press at bottom.",
+    "lettering": "BANCO DE CABO VERDE\r\nA LEI PUNE O CONTRAFACTOR\r\nQUINHENTOS ESCUDOS\r\n 25 DE FEVEREIRO DE 2007   \r\nTRAPICHE - ILHA DE SANTO ANTÃO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bank of Cape Verde\r\nThe law punishes the counterfactor\r\nOne Thousand Escudos\r\nSeptember 25, 2007\r\nIsland of St Antão",
+    "picture": "https://en.numista.com/catalogue/photos/cap-vert/5e9dcdc525c149.09801602-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cap-vert/5e9dcdc525c149.09801602-180.jpg",
+    "picture_copyright": "alexmusat",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "2005-2007 Issue",
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "69"
+    }
+  ],
+  "watermark": {
+    "description": "Portrait of Roberto Duarte Silva."
+  },
+  "printers": [
+    {
+      "id": 7,
+      "name": "Oberthur Fiduciaire"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

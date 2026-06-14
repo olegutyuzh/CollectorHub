@@ -1,0 +1,98 @@
+[
+  {
+    "id": 498140,
+    "is_dated": true,
+    "year": 1992,
+    "gregorian_year": 1992,
+    "month": 10,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "Luis Ángel Rojo Duque",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Esteban Róspide Echeto",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Jesús Urdiola Salvador",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "163(1)"
+      }
+    ],
+    "comment": "P#163(1) Issued note; collar with light lower crease, finely hatched jacket"
+  },
+  {
+    "id": 765840,
+    "is_dated": true,
+    "year": 1992,
+    "gregorian_year": 1992,
+    "month": 10,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "Luis Ángel Rojo Duque",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Esteban Róspide Echeto",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Jesús Urdiola Salvador",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "163(2)"
+      }
+    ],
+    "comment": "P#163(2) Issued note; collar with dark lower crease, coarsely hatched jacket"
+  },
+  {
+    "id": 736969,
+    "is_dated": true,
+    "year": 1992,
+    "gregorian_year": 1992,
+    "month": 10,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "Luis Ángel Rojo Duque",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Esteban Róspide Echeto",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Jesús Urdiola Salvador",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "163r"
+      }
+    ],
+    "comment": "Replacement, prefixes 9A, 9B and 9C"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 500157,
+    "is_dated": true,
+    "year": 1994,
+    "gregorian_year": 1994,
+    "comment": "F.76/00Spn - P160s - specimen, letter A, n°00000000 (perforated SPECIMEN, overprint numbered in red)"
+  },
+  {
+    "id": 500152,
+    "is_dated": true,
+    "year": 1994,
+    "gregorian_year": 1994,
+    "mintage": 558000000,
+    "comment": "F.76/01 - P160a - number 1 to 30 999 999 (sauf numéros 003 000 000 à 007 000 000)"
+  },
+  {
+    "id": 501627,
+    "is_dated": true,
+    "year": 1994,
+    "gregorian_year": 1994,
+    "mintage": 200,
+    "comment": "F.76/01A - P160a - letter A, number 1-200"
+  },
+  {
+    "id": 500153,
+    "is_dated": true,
+    "year": 1995,
+    "gregorian_year": 1995,
+    "mintage": 90000000,
+    "comment": "F.76/02 - P160a - number 31 000 000 to 35 999 999"
+  },
+  {
+    "id": 500154,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "mintage": 18000000,
+    "comment": "F.76/03 - P160b - number 36 000 000 to 36 999 999"
+  },
+  {
+    "id": 500155,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "mintage": 108000000,
+    "comment": "F.76/04 - P160c - number 37 000 000 to 42 999 999"
+  },
+  {
+    "id": 500156,
+    "is_dated": true,
+    "year": 2000,
+    "gregorian_year": 2000,
+    "mintage": 36000000,
+    "comment": "F.76/05 - P160d - number 43 000 000 to 44 999 999"
+  }
+]

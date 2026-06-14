@@ -1,0 +1,70 @@
+[
+  {
+    "id": 497374,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Gaston Edouard Ravelojaona",
+        "title": "Governor"
+      }
+    ],
+    "comment": "(fr) P-87 as spécimen"
+  },
+  {
+    "id": 497375,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Gaston Edouard Ravelojaona",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 114000000,
+    "comment": "(fr) P-87a"
+  },
+  {
+    "id": 497376,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Frédéric Rasamoely",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 366000000,
+    "comment": "(fr) P-87b"
+  },
+  {
+    "id": 498233,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Frédéric Rasamoely",
+        "title": "Governor"
+      }
+    ],
+    "comment": "(fr) P-87bs spécimen"
+  },
+  {
+    "id": 497377,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Alain Herve Rasolofondraibe",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 64000000,
+    "comment": "(fr) P-87c"
+  }
+]

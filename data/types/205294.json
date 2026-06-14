@@ -1,0 +1,114 @@
+{
+  "id": 205294,
+  "url": "https://en.numista.com/205294",
+  "title": "25 Gulden",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "suriname",
+    "name": "Suriname"
+  },
+  "issuing_entity": {
+    "id": 945,
+    "name": "Central Bank of Suriname",
+    "wikidata_id": "Q2981941"
+  },
+  "min_year": 1991,
+  "max_year": 1998,
+  "ruler": [
+    {
+      "id": 1928,
+      "name": "Republic",
+      "wikidata_id": "Q730"
+    }
+  ],
+  "value": {
+    "text": "25 Guilders",
+    "numeric_value": 25,
+    "currency": {
+      "id": 318,
+      "name": "Guilder",
+      "full_name": "Guilder (1826-2003)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2003-12-31"
+  },
+  "size": 146,
+  "size2": 69,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Green and brown-orange on multicolor underprint.\r\nCentral Bank Building in Paramaribo at center; athletes running at upper left. \r\nVertical serial number in red color.",
+    "lettering": "CENTRALE BANK VAN SURINAME\r\n25 Gulden\r\n9 JULI 1991\r\nVIJF EN TWINTIG GULDEN",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Suriname\r\n25 Gulden\r\nJuly 9, 1991\r\nTwenty Five Gulden",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/63d13c10ddbe14.37664705-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/63d13c10ddbe14.37664705-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Coat of Arms at upper right; Anthony Nesty, olympic gold medalist in the 100m butterfly event in Seoul 1988; toucan at left",
+    "lettering": "VIJF EN TWINTIG Gulden\r\n\r\nTHOMAS DE LA RUE AND COMPANY LIMITED\r\nNADRUK VERBODEN SURINAAMS WETBOEK VAN STRAFRECHT - ARTIKEL 260",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Twenty Five Gulden\r\nThomas de La Rue and Company Limited\r\nEmphasis Forbidden Suriname's Criminal Code - Article 260",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/63d13c147d7d25.58281550-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/63d13c147d7d25.58281550-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "1991-1999 Issue \"Central Bank Building\"",
+  "comments": "<p>Banknotes series <strong>AB500001 through AE900000</strong> were issued (reprinted) in <strong>1992</strong>;<br>Banknotes series <strong>AE900001 through AG400000</strong> were issued (reprinted) in <strong>1994</strong>.<br><br>P#138a, signature Henk Goedschalk (2nd type) - Goedschalk was President of the Central Bank of Suriname from January 1985 until January 1994 and from January 1997 until August 2000.<br><br>P#138b and P#138c, signature André Telting - President of the Central Bank of Suriname from March 1994 until February 1996 and from September 2000 until August 2010.<br><br>P#138d, signature Henk Goedschalk (3rd type) - Goedschalk was President of the Central Bank of Suriname from January 1985 until January 1994 and from January 1997 until August 2000.</p><p>&nbsp;</p><p>UV activity:</p><p><a href=\"https://en.numista.com/catalogue/images/689b784b265ad.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/689b784b265ad.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/689b7853e58af.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/689b7853e58af.jpg\"></a></p><p>© gyoschak</p>",
+  "tags": [
+    "Government building",
+    "Summer Olympic Games"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "138"
+    },
+    {
+      "catalogue": {
+        "id": 2270,
+        "code": "Plomp"
+      },
+      "number": "PLS21.3"
+    }
+  ],
+  "watermark": {
+    "description": "Toucan",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/5f5c52781efff9.89880234-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/5f5c52781efff9.89880234-180.jpg",
+    "picture_copyright": "Griffin S",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 1,
+      "name": "De La Rue"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

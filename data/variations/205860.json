@@ -1,0 +1,107 @@
+[
+  {
+    "id": 512565,
+    "is_dated": true,
+    "year": 2002,
+    "gregorian_year": 2002,
+    "signatures": [
+      {
+        "signer_name": "Chea Chanto",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tieng Seng",
+        "title": "General Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "54a"
+      }
+    ],
+    "comment": "(fr) P#54a"
+  },
+  {
+    "id": 732302,
+    "is_dated": true,
+    "year": 2002,
+    "gregorian_year": 2002,
+    "signatures": [
+      {
+        "signer_name": "Chea Chanto",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tieng Seng",
+        "title": "General Cashier"
+      }
+    ],
+    "mintage": 1,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "54s"
+      }
+    ],
+    "comment": "Specimen"
+  },
+  {
+    "id": 509613,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Chea Chanto",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tieng Seng",
+        "title": "General Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "54b"
+      }
+    ],
+    "comment": "(fr) P#54b"
+  },
+  {
+    "id": 517082,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Chea Chanto",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tieng Seng",
+        "title": "General Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "54c"
+      }
+    ],
+    "comment": "បោះពុម្ពឆ្នៃំ ២០១៤ (Printed 2014) lower right"
+  }
+]

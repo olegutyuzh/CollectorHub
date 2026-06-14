@@ -1,0 +1,81 @@
+[
+  {
+    "id": 505488,
+    "is_dated": true,
+    "year": 1995,
+    "gregorian_year": 1995,
+    "comment": "(fr) F.75/00Spn - P159s - alphabet A n°00000000 (perforé SPECIMEN, surcharge numérotée)"
+  },
+  {
+    "id": 505419,
+    "is_dated": true,
+    "year": 1995,
+    "gregorian_year": 1995,
+    "comment": "(fr) F.75/01 - P159a - n°1 à 4 999 999"
+  },
+  {
+    "id": 505418,
+    "is_dated": true,
+    "year": 1995,
+    "gregorian_year": 1995,
+    "mintage": 200,
+    "comment": "(fr) F.75/01A - P159a - alphabet A, billet 1 - 200"
+  },
+  {
+    "id": 677978,
+    "is_dated": false,
+    "min_year": 1996,
+    "max_year": 1996,
+    "comment": "(fr) Série G 0133..."
+  },
+  {
+    "id": 505420,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "comment": "(fr) F.75/02 - P159a - n°5 000 000 à 36 999 999"
+  },
+  {
+    "id": 505422,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "comment": "(fr) F.75/03a - P159b - n°37 000 201 à 43 999 999"
+  },
+  {
+    "id": 505421,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "mintage": 200,
+    "comment": "(fr) F.75/03A1 - P159b - n°37 000 000 à 37 000 200"
+  },
+  {
+    "id": 505423,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "comment": "(fr) F.75/03b - P159b - n°45 000 000 à 49 999 999"
+  },
+  {
+    "id": 505424,
+    "is_dated": true,
+    "year": 1997,
+    "gregorian_year": 1997,
+    "comment": "(fr) F.75/04a - P159b - n°44 000 000 à 44 999 999"
+  },
+  {
+    "id": 505425,
+    "is_dated": true,
+    "year": 1997,
+    "gregorian_year": 1997,
+    "comment": "(fr) F.75/04b - P159b - n°50 000 000 à 70 999 999"
+  },
+  {
+    "id": 505426,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "comment": "(fr) F.75/05 - P159c - n°71 000 000 à 96 999 999"
+  }
+]

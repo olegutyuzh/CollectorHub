@@ -1,0 +1,58 @@
+[
+  {
+    "id": 503456,
+    "is_dated": true,
+    "year": 1994,
+    "gregorian_year": 1994,
+    "comment": "(fr) F.73/01a - P157Aa - numéros 14 000 000 - 17 999 999"
+  },
+  {
+    "id": 503457,
+    "is_dated": true,
+    "year": 1994,
+    "gregorian_year": 1994,
+    "comment": "(fr) F.73/01b - P157Aa - numéros 18 000 000 - 18 766 447"
+  },
+  {
+    "id": 503458,
+    "is_dated": true,
+    "year": 1994,
+    "gregorian_year": 1994,
+    "comment": "(fr) F.73/01c - P157Aa - numéros 18 776 916 - 18 999 999"
+  },
+  {
+    "id": 503459,
+    "is_dated": true,
+    "year": 1994,
+    "gregorian_year": 1994,
+    "comment": "(fr) F.73/01d - P157Aa - numéros 19 000 000 - 28 999 999"
+  },
+  {
+    "id": 503460,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "comment": "(fr) F.73/02 - P157Ab - numéros 29 000 301 - 29 999 999"
+  },
+  {
+    "id": 503462,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "comment": "(fr) F.73/03 - P157Ab - numéros 46 000 000 - 46 999 999"
+  },
+  {
+    "id": 503463,
+    "is_dated": true,
+    "year": 1997,
+    "gregorian_year": 1997,
+    "comment": "(fr) F.73/04 - P157Ab - numéros 30 000 000 - 45 999 999"
+  },
+  {
+    "id": 503464,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "comment": "(fr) F.73/05 - P157Ab - numéros 47 000 000 - 51 999 999"
+  }
+]

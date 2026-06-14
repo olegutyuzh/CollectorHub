@@ -1,0 +1,118 @@
+[
+  {
+    "id": 496395,
+    "is_dated": false,
+    "min_year": 2010,
+    "max_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "Mustafa Haidi Mkulo",
+        "title": "FInance Minister"
+      },
+      {
+        "signer_name": "Benno Ndulu",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "41a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B140a"
+      }
+    ],
+    "comment": "Prefix: AA-CX."
+  },
+  {
+    "id": 496396,
+    "is_dated": false,
+    "min_year": 2015,
+    "max_year": 2015,
+    "signatures": [
+      {
+        "signer_name": "Saada Mkuya Salum",
+        "title": "FInance Minister"
+      },
+      {
+        "signer_name": "Benno Ndulu",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "41b"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B140b"
+      }
+    ],
+    "comment": "Prefix: DH-EF."
+  },
+  {
+    "id": 496397,
+    "is_dated": false,
+    "min_year": 2019,
+    "max_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Phillipp I. N. Mpango",
+        "title": "FInance Minister"
+      },
+      {
+        "signer_name": "Florens Luoga",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B140c"
+      }
+    ]
+  },
+  {
+    "id": 938545,
+    "is_dated": false,
+    "min_year": 2023,
+    "max_year": 2023,
+    "signatures": [
+      {
+        "signer_name": "Mwigulu L. Nchemba",
+        "title": "FInance Minister"
+      },
+      {
+        "signer_name": "Emmanuel Mpawe Tutuba",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B140d"
+      }
+    ]
+  }
+]

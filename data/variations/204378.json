@@ -1,0 +1,184 @@
+[
+  {
+    "id": 503346,
+    "is_dated": false,
+    "min_year": 1990,
+    "max_year": 1990,
+    "comment": "(fr) F.66bis/00Sp1, P#151s - spécimen, alphabet Q.027, V.027, W.027 (perforé SPECIMEN)"
+  },
+  {
+    "id": 503349,
+    "is_dated": true,
+    "year": 1990,
+    "gregorian_year": 1990,
+    "comment": "(fr) F.66bis/01-31, P#151d - alphabet 031 (B-H)"
+  },
+  {
+    "id": 503348,
+    "is_dated": true,
+    "year": 1990,
+    "gregorian_year": 1990,
+    "comment": "(fr) F.66bis/01, P#151d - alphabet 027-031"
+  },
+  {
+    "id": 503350,
+    "is_dated": true,
+    "year": 1990,
+    "gregorian_year": 1990,
+    "comment": "(fr) F.66bis/01A27, P#151d - alphabet A.027"
+  },
+  {
+    "id": 503351,
+    "is_dated": true,
+    "year": 1990,
+    "gregorian_year": 1990,
+    "comment": "(fr) F.66bis/01A28, P#151d - alphabet A.028"
+  },
+  {
+    "id": 503352,
+    "is_dated": true,
+    "year": 1990,
+    "gregorian_year": 1990,
+    "comment": "(fr) F.66bis/01A29, P#151d - alphabet A.029"
+  },
+  {
+    "id": 503353,
+    "is_dated": true,
+    "year": 1990,
+    "gregorian_year": 1990,
+    "comment": "(fr) F.66bis/01A30, P#151d - alphabet A.030"
+  },
+  {
+    "id": 503355,
+    "is_dated": true,
+    "year": 1991,
+    "gregorian_year": 1991,
+    "comment": "(fr) F.66bis/02, P#151e - alphabet 032-034"
+  },
+  {
+    "id": 503356,
+    "is_dated": true,
+    "year": 1991,
+    "gregorian_year": 1991,
+    "comment": "(fr) F.66bis/02A32, P#151e - alphabet A.032"
+  },
+  {
+    "id": 503357,
+    "is_dated": true,
+    "year": 1991,
+    "gregorian_year": 1991,
+    "comment": "(fr) F.66bis/02A33, P#151e - alphabet A.033"
+  },
+  {
+    "id": 503358,
+    "is_dated": true,
+    "year": 1991,
+    "gregorian_year": 1991,
+    "comment": "(fr) F.66bis/02A34, P#151e - alphabet A.034"
+  },
+  {
+    "id": 503360,
+    "is_dated": true,
+    "year": 1992,
+    "gregorian_year": 1992,
+    "comment": "(fr) F.66bis/03, P#151f - alphabet 035-037"
+  },
+  {
+    "id": 503361,
+    "is_dated": true,
+    "year": 1992,
+    "gregorian_year": 1992,
+    "comment": "(fr) F.66bis/03A35, P#151f - alphabet A.035"
+  },
+  {
+    "id": 503362,
+    "is_dated": true,
+    "year": 1992,
+    "gregorian_year": 1992,
+    "comment": "(fr) F.66bis/03A36, P#151f - alphabet A.036"
+  },
+  {
+    "id": 503363,
+    "is_dated": true,
+    "year": 1992,
+    "gregorian_year": 1992,
+    "comment": "(fr) F.66bis/03A37, P#151f - alphabet A.037"
+  },
+  {
+    "id": 503364,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "comment": "(fr) F66bis/04, P#151f - alphabet 038-040"
+  },
+  {
+    "id": 503365,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "comment": "(fr) F66bis/04A38, P#151f - alphabet A.038"
+  },
+  {
+    "id": 503366,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "comment": "(fr) F66bis/04A39, P#151f - alphabet A.039"
+  },
+  {
+    "id": 503367,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "comment": "(fr) F66bis/04A40, P#151f - alphabet A.040"
+  },
+  {
+    "id": 503368,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "comment": "(fr) F66bis/05, P#151 g - alphabet 041-046"
+  },
+  {
+    "id": 503369,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "comment": "(fr) F66bis/05A41, P#151 g - alphabet A.041"
+  },
+  {
+    "id": 503370,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "comment": "(fr) F66bis/05A42, P#151 g - alphabet A.042"
+  },
+  {
+    "id": 503371,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "comment": "(fr) F66bis/05A43, P#151 g - alphabet A.043"
+  },
+  {
+    "id": 503372,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "comment": "(fr) F66bis/05A44, P#151 g - alphabet A.044"
+  },
+  {
+    "id": 503373,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "comment": "(fr) F66bis/05A45, P#151 g - alphabet A.045"
+  },
+  {
+    "id": 503374,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "comment": "(fr) F66bis/05A46, P#151 g - alphabet A.046"
+  }
+]

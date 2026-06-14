@@ -1,0 +1,20 @@
+[
+  {
+    "id": 507582,
+    "is_dated": true,
+    "year": 1940,
+    "gregorian_year": 1940,
+    "month": 6,
+    "day": 15,
+    "comment": "P# 108a, Serial and Prefix letters"
+  },
+  {
+    "id": 507583,
+    "is_dated": true,
+    "year": 1940,
+    "gregorian_year": 1940,
+    "month": 6,
+    "day": 15,
+    "comment": "P# 108b, letters only"
+  }
+]

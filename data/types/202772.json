@@ -1,0 +1,128 @@
+{
+  "id": 202772,
+  "url": "https://en.numista.com/202772",
+  "title": "2 Hryvni",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "ukraine",
+    "name": "Ukraine"
+  },
+  "issuing_entity": {
+    "id": 564,
+    "name": "National Bank of Ukraine",
+    "wikidata_id": "Q1070388"
+  },
+  "min_year": 1995,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 3209,
+      "name": "Republic",
+      "wikidata_id": "Q212"
+    }
+  ],
+  "value": {
+    "text": "2 Hryvni",
+    "numeric_value": 2,
+    "currency": {
+      "id": 88,
+      "name": "Hryvnia",
+      "full_name": "Hryvnia (1996-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1997-09-01"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2020-10-01"
+  },
+  "size": 133,
+  "size2": 66,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Yaroslav the Wise was a Grand Duke of Kyiv (1019-1054). In times of his ruling the “Rus' Justice” Code of the Old Rus was composed and adopted, the Christianity was finally established in Rus and the culture developed. Yaroslav the Wise was buried in the Cathedral of St. Sophia in Kyiv.",
+    "lettering": "2 УКРАЇНА\r\nНАЦІОНАЛЬНИЙ БАНК УКРАЇНИ\r\n\r\nЯрослав Мудрий\r\nДВІ ГРИВНІ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Ukraine, National Bank of Ukraine, Yaroslav the Wise, Two Hryvni",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/63bee8264bbb85.70745517-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/63bee8264bbb85.70745517-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The Cathedral of St. Sophia in Kyiv is a historical, architectural and wall painting monument of the first half of the XI century, which is famous worldwide. It was built in the golden age of Kyivan Rus to become the metropolitan's cathedral, i.e. the principal church of Rus, on the place, where Yaroslav had won a victory over Pechenegs. Yaroslav founded therein the first library in Rus.",
+    "lettering": "2 БАНК НАЦІОНАЛЬНИЙ УКРАЇНИ 2\r\n\r\nСобор Святої Софії\r\n2 ДВІ ГРИВНІ 2\r\n1995",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "National Bank of Ukraine, St. Sophia Cathedral, Two Hryvni",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/63bee8299e4fe9.96701148-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/63bee8299e4fe9.96701148-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>Banknote contains a security strip with the inscription \"2 ГРИВНІ\"<br><a href=\"https://en.numista.com/catalogue/images/65229e31c1662.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65229e31c1662.jpg\" alt=\"\"></a><br>@ ByRussia45</p><p>&nbsp;</p><p>UV activity:</p><p><a href=\"https://en.numista.com/catalogue/images/6668f34726708.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6668f34726708.png\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/6668f30216021.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6668f30216021.jpg\"></a></p><p>© Kiet Tran</p>",
+  "related_types": [
+    {
+      "id": 202867,
+      "title": "2 Hryvni",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 1992,
+      "maxYear": 1992
+    },
+    {
+      "id": 202693,
+      "title": "2 Hryvni",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2004,
+      "maxYear": 2018
+    }
+  ],
+  "tags": [
+    "Religious building",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "109"
+    }
+  ],
+  "watermark": {
+    "description": "Prince Yaroslav",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/65229e5d4aea39.39108336-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/65229e5d4aea39.39108336-180.jpg",
+    "picture_copyright": "ByRussia45",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

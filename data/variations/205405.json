@@ -1,0 +1,82 @@
+[
+  {
+    "id": 507577,
+    "is_dated": false,
+    "min_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Mohammed Yousef Al-Hashel",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Anas Khalid Al Saleh",
+        "title": "Finance Minister"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "31a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "231a"
+      }
+    ],
+    "comment": "Series: CF/01 - CF/120"
+  },
+  {
+    "id": 803977,
+    "is_dated": false,
+    "min_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Mohammed Yousef Al-Hashel",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Salem Abdulaziz Al Sabah",
+        "title": "Finance Minister"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "231b"
+      }
+    ]
+  },
+  {
+    "id": 667700,
+    "is_dated": false,
+    "min_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Mohammed Yousef Al-Hashel",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Manaf Abdulaziz Al Hajeri",
+        "title": "Finance Minister"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "231c"
+      }
+    ]
+  }
+]

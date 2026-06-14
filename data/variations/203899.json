@@ -1,0 +1,179 @@
+[
+  {
+    "id": 500663,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "272a"
+      }
+    ],
+    "comment": "Prefix A; Without watermark"
+  },
+  {
+    "id": 500671,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "272as"
+      }
+    ],
+    "comment": "Specimen; Prefix A; Without watermark"
+  },
+  {
+    "id": 500664,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "272b"
+      }
+    ],
+    "comment": "Prefix B-D; Without watermark"
+  },
+  {
+    "id": 500665,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "272c"
+      }
+    ],
+    "comment": "Prefix E; Without watermark"
+  },
+  {
+    "id": 500666,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "272d"
+      }
+    ],
+    "comment": "Prefix H-J; With watermark"
+  },
+  {
+    "id": 500667,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "272e"
+      }
+    ],
+    "comment": "Prefix L, M; Without watermark"
+  },
+  {
+    "id": 500668,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "272f"
+      }
+    ],
+    "comment": "Without watermark"
+  },
+  {
+    "id": 500669,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "272g"
+      }
+    ],
+    "comment": "Prefix N-S; Without watermark"
+  },
+  {
+    "id": 500670,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "272h"
+      }
+    ],
+    "comment": "Prefix S, T; Without watermark"
+  },
+  {
+    "id": 682844,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "272i"
+      }
+    ]
+  },
+  {
+    "id": 682845,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018
+  },
+  {
+    "id": 712814,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019
+  },
+  {
+    "id": 949334,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021
+  }
+]

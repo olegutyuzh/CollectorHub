@@ -1,0 +1,82 @@
+[
+  {
+    "id": 498312,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Gaston Edouard Ravelojaona",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 42000000,
+    "comment": "P#88a Ravelojaona"
+  },
+  {
+    "id": 498313,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Gaston Edouard Ravelojaona",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#88ar Ravelojaona remplacement Z/Z"
+  },
+  {
+    "id": 498311,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Gaston Edouard Ravelojaona",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#88as spécimen Ravelojaona"
+  },
+  {
+    "id": 498314,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Frédéric Rasamoely",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 168000000,
+    "comment": "P#88b Prefix/suffix: A/E-A/R"
+  },
+  {
+    "id": 498315,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Frédéric Rasamoely",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#88bs; spécimen"
+  },
+  {
+    "id": 498318,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Alain Herve Rasolofondraibe",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#88c; Prefix/suffix: B/C-B/D"
+  }
+]

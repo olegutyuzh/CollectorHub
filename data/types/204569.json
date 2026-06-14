@@ -1,0 +1,152 @@
+{
+  "id": 204569,
+  "url": "https://en.numista.com/204569",
+  "title": "1000 Colones",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "costa_rica",
+    "name": "Costa Rica"
+  },
+  "issuing_entity": {
+    "id": 907,
+    "name": "Central Bank of Costa Rica",
+    "wikidata_id": "Q4504273"
+  },
+  "min_year": 2009,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 3834,
+      "name": "Second Republic",
+      "wikidata_id": "Q800"
+    }
+  ],
+  "value": {
+    "text": "1000 Colones",
+    "numeric_value": 1000,
+    "currency": {
+      "id": 10,
+      "name": "Colón",
+      "full_name": "Colón (1896-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2025-11-01"
+  },
+  "size": 125,
+  "size2": 67,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Polymer"
+  },
+  "obverse": {
+    "description": "Portrait of Braulio Carrillo Colina on the left",
+    "lettering": "ESTADO DE COSTA RICA\r\n1 MIL COLONES\r\nBRAULIO CARRILLO COLINA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Costa Rica state\r\n1 Thousand Colones\r\nBraulio Carrillo Colina",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/5eb9fe3f0ff149.18412373-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/5eb9fe3f0ff149.18412373-180.jpg",
+    "picture_copyright": "SmoCa"
+  },
+  "reverse": {
+    "description": "Illustrations of cactus, white-tailed deer, and tree\r\nMIL COLONES in microprint",
+    "lettering": "BOSQUE SECO\r\n\r\nPitahaya (Hylocereus costaricensis)\r\nGuanacaste (Enterolobium cyclocarpum)\r\nVenado cola blanca (Odocoileus virginianus)\r\n\r\n1000 COLONES\r\nBANCO CENTRAL DE COSTA RICA\r\nMIL COLONES...",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Dry forest\r\n\r\nPitahaya\r\nGuanacaste\r\nWhitetail deer\r\n\r\n1000 Colones\r\nCentral Bank of Costa Rica\r\nOne Thousand Colones",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/5ebb109e0a6251.73597979-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/5ebb109e0a6251.73597979-180.jpg",
+    "picture_copyright": "SmoCa"
+  },
+  "comments": "UV activity:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64a2be52ae949.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a2be52ae949.png\" alt=\"\" width=\"200\" height=\"108\" /></a><br />\r\n© gyoschak",
+  "related_types": [
+    {
+      "id": 205013,
+      "title": "2000 Colones",
+      "category": "banknote",
+      "country": {
+        "code": "costa_rica",
+        "name": "Costa Rica"
+      },
+      "minYear": 2009,
+      "maxYear": 2015
+    },
+    {
+      "id": 205020,
+      "title": "5000 Colones",
+      "category": "banknote",
+      "country": {
+        "code": "costa_rica",
+        "name": "Costa Rica"
+      },
+      "minYear": 2009,
+      "maxYear": 2012
+    },
+    {
+      "id": 205027,
+      "title": "10 000 Colones",
+      "category": "banknote",
+      "country": {
+        "code": "costa_rica",
+        "name": "Costa Rica"
+      },
+      "minYear": 2009,
+      "maxYear": 2014
+    },
+    {
+      "id": 205032,
+      "title": "20 000 Colones",
+      "category": "banknote",
+      "country": {
+        "code": "costa_rica",
+        "name": "Costa Rica"
+      },
+      "minYear": 2009,
+      "maxYear": 2012
+    },
+    {
+      "id": 215226,
+      "title": "50 000 Colones",
+      "category": "banknote",
+      "country": {
+        "code": "costa_rica",
+        "name": "Costa Rica"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    }
+  ],
+  "tags": [
+    "Politician",
+    "Flower",
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "274"
+    }
+  ],
+  "printers": [
+    {
+      "id": 7,
+      "name": "Oberthur Fiduciaire"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

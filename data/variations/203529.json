@@ -1,0 +1,95 @@
+[
+  {
+    "id": 499409,
+    "is_dated": true,
+    "year": 2003,
+    "gregorian_year": 2003,
+    "month": 6,
+    "day": 30,
+    "signatures": [
+      {
+        "signer_name": "Jean-Claude Masangu-Mulongo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "94A"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "313b"
+      }
+    ],
+    "comment": "Printer Giesecke & Devrient"
+  },
+  {
+    "id": 526256,
+    "is_dated": true,
+    "year": 2003,
+    "gregorian_year": 2003,
+    "month": 6,
+    "day": 30,
+    "signatures": [
+      {
+        "signer_name": "Jean-Claude Masangu-Mulongo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "94a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "313a"
+      }
+    ],
+    "comment": "Printer HdM"
+  },
+  {
+    "id": 526257,
+    "is_dated": true,
+    "year": 2003,
+    "gregorian_year": 2003,
+    "month": 6,
+    "day": 30,
+    "signatures": [
+      {
+        "signer_name": "Jean-Claude Masangu-Mulongo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "94s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "313as"
+      }
+    ],
+    "comment": "Specimen; As 94a"
+  }
+]

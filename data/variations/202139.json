@@ -1,0 +1,30 @@
+[
+  {
+    "id": 501320,
+    "is_dated": false,
+    "min_year": 1994,
+    "comment": "(fr) P-75as spécimen Ravelomanana"
+  },
+  {
+    "id": 494065,
+    "is_dated": false,
+    "min_year": 1994,
+    "max_year": 1996,
+    "mintage": 71000000,
+    "comment": "P# 75a - Signature 4"
+  },
+  {
+    "id": 501321,
+    "is_dated": false,
+    "min_year": 1996,
+    "comment": "(fr) P-75bs spécimen Ravelojaona"
+  },
+  {
+    "id": 494066,
+    "is_dated": false,
+    "min_year": 1996,
+    "max_year": 2004,
+    "mintage": 194000000,
+    "comment": "P# 75b - Signature 5"
+  }
+]

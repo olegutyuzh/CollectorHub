@@ -1,0 +1,195 @@
+[
+  {
+    "id": 504744,
+    "is_dated": true,
+    "year": 1925,
+    "gregorian_year": 1925,
+    "month": 7,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Carlos Vergara Cailleaux",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Adolfo Castaño Orejón",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Bonifacio Burgos Delgado",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "69a"
+      }
+    ],
+    "comment": "Without serial, serial A-C and D to 2.000.000"
+  },
+  {
+    "id": 504745,
+    "is_dated": true,
+    "year": 1925,
+    "gregorian_year": 1925,
+    "month": 7,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Carlos Vergara Cailleaux",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Adolfo Castaño Orejón",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Bonifacio Burgos Delgado",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "69b"
+      }
+    ],
+    "comment": "Round embossed republic validation at upper left corner (1931)"
+  },
+  {
+    "id": 522526,
+    "is_dated": true,
+    "year": 1925,
+    "gregorian_year": 1925,
+    "month": 7,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Carlos Vergara Cailleaux",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Adolfo Castaño Orejón",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Bonifacio Burgos Delgado",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "69c"
+      }
+    ],
+    "comment": "D2,000,001 through Series E, F, with three signatures - Republic issue (1936)"
+  },
+  {
+    "id": 579979,
+    "is_dated": true,
+    "year": 1925,
+    "gregorian_year": 1925,
+    "month": 7,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Carlos Vergara Cailleaux",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Adolfo Castaño Orejón",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Bonifacio Burgos Delgado",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "69c"
+      }
+    ],
+    "comment": "D2,000,001 through Series E, F, without cashier's signature - Republic issue (1936)"
+  },
+  {
+    "id": 522527,
+    "is_dated": true,
+    "year": 1925,
+    "gregorian_year": 1925,
+    "month": 7,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Carlos Vergara Cailleaux",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Adolfo Castaño Orejón",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Bonifacio Burgos Delgado",
+        "title": "Cashier"
+      }
+    ],
+    "mintage": 5000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "69d"
+      }
+    ],
+    "comment": "Serie G (5 million printed but not released)."
+  },
+  {
+    "id": 522528,
+    "is_dated": true,
+    "year": 1925,
+    "gregorian_year": 1925,
+    "month": 7,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Carlos Vergara Cailleaux",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Adolfo Castaño Orejón",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Bonifacio Burgos Delgado",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "69s"
+      }
+    ],
+    "comment": "Specimen"
+  }
+]

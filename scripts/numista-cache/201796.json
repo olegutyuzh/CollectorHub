@@ -1,0 +1,194 @@
+{
+  "id": 201796,
+  "url": "https://en.numista.com/201796",
+  "title": "500 Gulden",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "suriname",
+    "name": "Suriname"
+  },
+  "issuing_entity": {
+    "id": 945,
+    "name": "Central Bank of Suriname",
+    "wikidata_id": "Q2981941"
+  },
+  "min_year": 2000,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 1928,
+      "name": "Republic",
+      "wikidata_id": "Q730"
+    }
+  ],
+  "value": {
+    "text": "500 Guilders",
+    "numeric_value": 500,
+    "currency": {
+      "id": 318,
+      "name": "Guilder",
+      "full_name": "Guilder (1826-2003)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 140,
+  "size2": 70,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Orange and green on multicolor underprint. \r\nGuianan Cock-of-the-Rock (rupicola rupicola) at left center; Coat of Arms at upper center; stylized moth.\r\nAscending size serial number in black.",
+    "lettering": "CENTRALE BANK VAN SURINAME\r\n1 JANUARY 2020\r\nRupicola rupicola\r\n500",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Suriname\r\nJanuary 1st, 2020\r\nRupicola rupicola\r\n500",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/5e9511444ece77.25712591-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/5e9511444ece77.25712591-180.jpg",
+    "picture_copyright": "James Castillo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Shining Mandevilla (mandevilla splendes) flower over Central Bank Building; stylized moth.",
+    "lettering": "DE LA RUE\r\nCENTRALE BANK VAN SURINAME\r\n\r\n500\r\nVIJF HONDERD\r\nGULDEN\r\nNADRUK VERBODEN: SURINAAMS WETBOEK VAN STRAFRECHT ARTIKEL 260\r\n\r\nMandevilla splendes",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "De La Rue\r\nCentral Bank of Suriname\r\n\r\n500\r\nFive Hundred\r\nGulden\r\nCounterfeiting Forbidden: Suriname Criminal Law, Article 260\r\n\r\nMandevilla splendes",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/5e951144c45001.35287054-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/5e951144c45001.35287054-180.jpg",
+    "picture_copyright": "James Castillo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "2000 Issue \"Birds\"",
+  "related_types": [
+    {
+      "id": 201604,
+      "title": "5 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 201607,
+      "title": "10 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 201608,
+      "title": "25 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 201614,
+      "title": "100 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 205255,
+      "title": "1000 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 241696,
+      "title": "5000 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 241697,
+      "title": "10 000 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 254527,
+      "title": "25 000 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "150"
+    },
+    {
+      "catalogue": {
+        "id": 2270,
+        "code": "Plomp"
+      },
+      "number": "PLS22.5"
+    }
+  ],
+  "printers": [
+    {
+      "id": 1,
+      "name": "De La Rue"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

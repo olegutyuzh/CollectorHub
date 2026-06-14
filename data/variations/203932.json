@@ -1,0 +1,117 @@
+[
+  {
+    "id": 500921,
+    "is_dated": false,
+    "min_year": 1992,
+    "signatures": [
+      {
+        "signer_name": "Sri Venkitaramanan",
+        "title": "Governor of the Reserve Bank of India"
+      }
+    ],
+    "comment": "P#88a without Insert Letter, signature: S. Venkitaramanan"
+  },
+  {
+    "id": 503657,
+    "is_dated": false,
+    "min_year": 1992,
+    "signatures": [
+      {
+        "signer_name": "Sri Venkitaramanan",
+        "title": "Governor of the Reserve Bank of India"
+      }
+    ],
+    "comment": "P#88b Insert Letter A, signature: S.Venkitaramanan"
+  },
+  {
+    "id": 927917,
+    "is_dated": false,
+    "min_year": 1992,
+    "max_year": 1997,
+    "signatures": [
+      {
+        "signer_name": "Chakravarthi Rangarajan",
+        "title": "Governor of the Reserve Bank of India"
+      }
+    ],
+    "comment": "Insert Letter O, signature: C. Rangarajan"
+  },
+  {
+    "id": 503662,
+    "is_dated": false,
+    "min_year": 1992,
+    "max_year": 1997,
+    "signatures": [
+      {
+        "signer_name": "Chakravarthi Rangarajan",
+        "title": "Governor of the Reserve Bank of India"
+      }
+    ],
+    "comment": "P#88 g Insert Letter E, signature: C. Rangarajan"
+  },
+  {
+    "id": 503658,
+    "is_dated": false,
+    "min_year": 1992,
+    "max_year": 1997,
+    "signatures": [
+      {
+        "signer_name": "Chakravarthi Rangarajan",
+        "title": "Governor of the Reserve Bank of India"
+      }
+    ],
+    "comment": "P#88c Insert Letter A, signature: C. Rangarajan"
+  },
+  {
+    "id": 503659,
+    "is_dated": false,
+    "min_year": 1992,
+    "max_year": 1997,
+    "signatures": [
+      {
+        "signer_name": "Chakravarthi Rangarajan",
+        "title": "Governor of the Reserve Bank of India"
+      }
+    ],
+    "comment": "P#88d Insert Letter B, signature: C. Rangarajan"
+  },
+  {
+    "id": 503660,
+    "is_dated": false,
+    "min_year": 1992,
+    "max_year": 1997,
+    "signatures": [
+      {
+        "signer_name": "Chakravarthi Rangarajan",
+        "title": "Governor of the Reserve Bank of India"
+      }
+    ],
+    "comment": "P#88e Insert Letter C, signature: C. Rangarajan"
+  },
+  {
+    "id": 503661,
+    "is_dated": false,
+    "min_year": 1992,
+    "max_year": 1997,
+    "signatures": [
+      {
+        "signer_name": "Chakravarthi Rangarajan",
+        "title": "Governor of the Reserve Bank of India"
+      }
+    ],
+    "comment": "P#88f Insert Letter D, signature: C. Rangarajan"
+  },
+  {
+    "id": 534350,
+    "is_dated": false,
+    "min_year": 1992,
+    "max_year": 1997,
+    "signatures": [
+      {
+        "signer_name": "Chakravarthi Rangarajan",
+        "title": "Governor of the Reserve Bank of India"
+      }
+    ],
+    "comment": "P#88h Insert Letter F, signature: C. Rangarajan"
+  }
+]

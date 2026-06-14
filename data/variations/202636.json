@@ -1,0 +1,20 @@
+[
+  {
+    "id": 495408,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "month": 9,
+    "day": 6,
+    "signatures": [
+      {
+        "signer_name": "Martin Gobizandla Dlamini",
+        "title": "Minister for Finance"
+      },
+      {
+        "signer_name": "Majozi Vincent Sithole",
+        "title": "Governor"
+      }
+    ]
+  }
+]

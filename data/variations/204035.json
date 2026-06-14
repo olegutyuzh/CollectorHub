@@ -1,0 +1,493 @@
+[
+  {
+    "id": 946080,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "signatures": [
+      {
+        "signer_name": "Chukwuma Charles Soludo",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Benjamin Chuks Onyido",
+        "title": "Director of Currency and Branch Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "40a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236a"
+      }
+    ]
+  },
+  {
+    "id": 517994,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "signatures": [
+      {
+        "signer_name": "Mallam Sanusi Lamido Sanusi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Benjamin Chuks Onyido",
+        "title": "Director of Currency and Branch Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "40a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236b"
+      }
+    ],
+    "comment": "6 or 7 digits on serial #"
+  },
+  {
+    "id": 545928,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "Mallam Sanusi Lamido Sanusi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Benjamin Chuks Onyido",
+        "title": "Director of Currency and Branch Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "40b"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236c/d"
+      }
+    ],
+    "comment": "6 or 7 digits on serial #"
+  },
+  {
+    "id": 515537,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "signatures": [
+      {
+        "signer_name": "Mallam Sanusi Lamido Sanusi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Mahmoud K. Umar",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "40c"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236e/f"
+      }
+    ],
+    "comment": "6 or 7 digits on serial #"
+  },
+  {
+    "id": 501713,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "signatures": [
+      {
+        "signer_name": "Mallam Sanusi Lamido Sanusi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Mahmoud K. Umar",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "40d"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236g"
+      }
+    ]
+  },
+  {
+    "id": 522567,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Olufemi Fabamwo",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "40e"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236h"
+      }
+    ]
+  },
+  {
+    "id": 556064,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Olufemi Fabamwo",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "40f"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236i"
+      }
+    ]
+  },
+  {
+    "id": 534319,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Olufemi Fabamwo",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "40g"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236j"
+      }
+    ]
+  },
+  {
+    "id": 517093,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Olufemi Fabamwo",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "40h"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236k"
+      }
+    ]
+  },
+  {
+    "id": 561885,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Priscilla Ekwueme Elege",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236l"
+      }
+    ]
+  },
+  {
+    "id": 645868,
+    "is_dated": true,
+    "year": 2020,
+    "gregorian_year": 2020,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Ahmed Bello Umar",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236m"
+      }
+    ]
+  },
+  {
+    "id": 691401,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Ahmed Bello Umar",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236n"
+      }
+    ]
+  },
+  {
+    "id": 733225,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Ahmed Bello Umar",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236o"
+      }
+    ]
+  },
+  {
+    "id": 801381,
+    "is_dated": true,
+    "year": 2023,
+    "gregorian_year": 2023,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Ahmed Bello Umar",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236p"
+      }
+    ]
+  },
+  {
+    "id": 928320,
+    "is_dated": true,
+    "year": 2024,
+    "gregorian_year": 2024,
+    "signatures": [
+      {
+        "signer_name": "Olayemi Michael Cardoso",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Mohammed-Jamiu Olayemi Solaja",
+        "title": "Director of Currency Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236q"
+      }
+    ]
+  },
+  {
+    "id": 953270,
+    "is_dated": true,
+    "year": 2025,
+    "gregorian_year": 2025,
+    "signatures": [
+      {
+        "signer_name": "Olayemi Michael Cardoso",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Mohammed-Jamiu Olayemi Solaja",
+        "title": "Director of Currency Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236r"
+      }
+    ]
+  },
+  {
+    "id": 1060845,
+    "is_dated": true,
+    "year": 2025,
+    "gregorian_year": 2025,
+    "signatures": [
+      {
+        "signer_name": "Olayemi Michael Cardoso",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Adetona Sikiru Adedeji",
+        "title": "Director of Currency Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236s"
+      }
+    ]
+  }
+]

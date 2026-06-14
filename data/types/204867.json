@@ -1,0 +1,121 @@
+{
+  "id": 204867,
+  "url": "https://en.numista.com/204867",
+  "title": "50 Som",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "kirghizistan",
+    "name": "Kyrgyzstan"
+  },
+  "issuing_entity": {
+    "id": 534,
+    "name": "Kyrgyz Bank"
+  },
+  "min_year": 2009,
+  "max_year": 2016,
+  "ruler": [
+    {
+      "id": 1317,
+      "name": "Republic",
+      "wikidata_id": "Q813"
+    }
+  ],
+  "value": {
+    "text": "50 Som",
+    "numeric_value": 50,
+    "currency": {
+      "id": 185,
+      "name": "Som",
+      "full_name": "Som (1993-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2009-07-01"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 125,
+  "size2": 61,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Qurmanjan Mamatbai Qızı (or simply Qurmanjan Datka) (1811-1907), the outstanding stateswoman of the Kyrgyz people, Tower of the Özğön architectural complex, and National ornament",
+    "lettering": "КЫРГЫЗ БАНКЫ\r\n\r\nЭЛҮҮ СОМ 50",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Bank of Kyrgyzstan, Fifty Som",
+    "picture": "https://en.numista.com/catalogue/photos/kirghizistan/63d56e2f38faf1.15148004-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kirghizistan/63d56e2f38faf1.15148004-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Minaret and mausoleum of Özğön architectural complex, one of the ancient sctructures of the Great Silk Road in Kyrgyzstan",
+    "lettering": "КЫРГЫЗ БАНКЫ\r\n\r\n50 ЭЛҮҮ СОМ |2009|",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Bank of Kyrgyzstan, Fifty Som",
+    "picture": "https://en.numista.com/catalogue/photos/kirghizistan/63d56e324c87a7.60682926-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kirghizistan/63d56e324c87a7.60682926-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "UV activity:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64d959c85f6ca.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64d959c85f6ca.png\" alt=\"\" width=\"200\" height=\"101\" /></a><br />\r\n© gyoschak",
+  "tags": [
+    "Tower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "25"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "221"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "228"
+    }
+  ],
+  "watermark": {
+    "description": "Kurmanjan Datka",
+    "picture": "https://en.numista.com/catalogue/photos/kirghizistan/625ec47a648496.00051387-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/kirghizistan/625ec47a648496.00051387-180.jpg",
+    "picture_copyright": "oXide3030",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 7,
+      "name": "Oberthur Fiduciaire"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

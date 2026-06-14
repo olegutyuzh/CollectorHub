@@ -1,0 +1,56 @@
+[
+  {
+    "id": 500076,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "month": 12,
+    "day": 8,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "199a"
+      }
+    ],
+    "comment": "Issued note"
+  },
+  {
+    "id": 510351,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "month": 12,
+    "day": 8,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "199r"
+      }
+    ],
+    "comment": "Replacement, prefix 00Α"
+  },
+  {
+    "id": 510352,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "month": 12,
+    "day": 8,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "199s"
+      }
+    ],
+    "comment": "Specimen, red overprint"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "id": 499279,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "month": 6,
+    "day": 16,
+    "signatures": [
+      {
+        "signer_name": "Ernesto Gove",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "149a"
+      }
+    ]
+  },
+  {
+    "id": 499280,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "month": 6,
+    "day": 16,
+    "signatures": [
+      {
+        "signer_name": "Rogério Zandamela",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "149b"
+      }
+    ]
+  }
+]

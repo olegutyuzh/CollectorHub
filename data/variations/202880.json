@@ -1,0 +1,33 @@
+[
+  {
+    "id": 827646,
+    "is_dated": true,
+    "year": 2002,
+    "gregorian_year": 2002,
+    "comment": "Replacement - second letter ឧ"
+  },
+  {
+    "id": 496337,
+    "is_dated": true,
+    "year": 2002,
+    "gregorian_year": 2002,
+    "signatures": [
+      {
+        "signer_name": "Chea Chanto",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tieng Seng",
+        "title": "General Cashier"
+      }
+    ],
+    "comment": "Signatures: Chea Chanto & Tieng Seng"
+  },
+  {
+    "id": 732301,
+    "is_dated": true,
+    "year": 2002,
+    "gregorian_year": 2002,
+    "comment": "Specimen"
+  }
+]

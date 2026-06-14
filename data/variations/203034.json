@@ -1,0 +1,83 @@
+[
+  {
+    "id": 497354,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Gaston Edouard Ravelojaona",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P-86 spécimen"
+  },
+  {
+    "id": 497355,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Gaston Edouard Ravelojaona",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 120000000,
+    "comment": "P-86a"
+  },
+  {
+    "id": 497356,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Gaston Edouard Ravelojaona",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P-86ar remplacement série Z/Z"
+  },
+  {
+    "id": 497357,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Frédéric Rasamoely",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 333000000,
+    "comment": "P-86b"
+  },
+  {
+    "id": 498234,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Frédéric Rasamoely",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P-86bs spécimen"
+  },
+  {
+    "id": 497358,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Alain Herve Rasolofondraibe",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 63000000,
+    "comment": "P-86c"
+  }
+]

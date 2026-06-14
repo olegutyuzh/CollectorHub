@@ -1,0 +1,134 @@
+{
+  "id": 204738,
+  "url": "https://en.numista.com/204738",
+  "title": "25 Piastres",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "egypte",
+    "name": "Egypt"
+  },
+  "issuing_entity": {
+    "id": 56,
+    "name": "Central Bank of Egypt",
+    "wikidata_id": "Q920699"
+  },
+  "min_year": 1985,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 2903,
+      "name": "Arab Republic of Egypt",
+      "wikidata_id": "Q16249924"
+    }
+  ],
+  "value": {
+    "text": "25 Piastres",
+    "numeric_value": 0.25,
+    "currency": {
+      "id": 117,
+      "name": "Pound",
+      "full_name": "Pound (1916-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 129,
+  "size2": 70,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Purple and pale on pale lilac and multicolour underprint.\r\nAl-Sayida Aisha Mosque at the centre.",
+    "lettering": "٢٥\r\nقرشا\r\nالبنك المركزى المصرى\r\nخمسَة وعِشرونَ قرشا\r\n\r\nالمحافظ\r\nمسجد السيدة عائشة\r\n٢٥ قرشا",
+    "lettering_scripts": [
+      {
+        "name": "Arabic (kufic)"
+      },
+      {
+        "name": "Arabic (naskh)"
+      }
+    ],
+    "lettering_translation": "25\r\nPiastres [Qirsh]\r\nCentral Bank of Egypt\r\nTwenty Five\r\nPiastres\r\n\r\nThe governor\r\nAl-Sayeda Aisha Mosque\r\n25\r\nPiastres",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/62ee780a48c353.97104051-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ee780a48c353.97104051-180.jpg",
+    "picture_copyright": "Akhtaruzzaman Prodhan",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Egypt Coat of arms (The Eagle), corn, cotton, and wheat at the left-centre.",
+    "lettering": "Central Bank of Egypt\r\nTwenty Five Piastres\r\n25",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/egypte/62ee780b7af2b2.53563189-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ee780b7af2b2.53563189-180.jpg",
+    "picture_copyright": "Akhtaruzzaman Prodhan",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p><strong>Information :</strong></p><ul><li>This type was updated from &nbsp;the previous design type, with lighter blue background - see links.</li><li>The letter prefix of this type is the same as the previous type, the letter &nbsp;(ص) from Prefix 141 to 459 which is the last print of this denomination dated 28/12/2008.</li><li>The serial of each prefix has 7 digit number from 1 to 9,999,999&nbsp;</li><li>To know the date of the notes from 1985 to 1999 you have to follow this example<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(Y DD MM Y) ٨٠٤٠٤٥ = 804045 = 04.04.1985</li><li>This type is considered the last issued banknote for the 25 piastres.&nbsp;</li></ul><p>&nbsp;</p><p><strong><u>Security Thread:</u></strong></p><p><i><strong>ST1</strong></i>.From prefix 141 to 164 &nbsp;(3.5.87 to &nbsp;29.11.89), buried<strong> solid black</strong> S.T. with no writing on it -&nbsp;</p><p><u>Picture is missing.</u></p><p>&nbsp;</p><p><i><strong>ST2</strong></i>.From prefix 163 to 219 &nbsp;(28.11.89 to 13.05.93), buried<strong> transparent </strong>S.T. written on it with black font “البنك المركزى المصرى ” (i.e. The Central Bank of Egypt)&nbsp;</p><p><u>Picture is missing.</u></p><p>&nbsp;</p><p><i><strong>ST3</strong></i>.From prefix 220 to 286 &nbsp;(6.11.97 to 5.12.99), buried <strong>black</strong> S.T. engraved on it “البنك المركزى المصرى ” (i.e. The Central Bank of Egypt)&nbsp;</p><p><u>Picture is missing.</u></p><p>&nbsp;</p><p><i><strong>ST4</strong></i>.From prefix 286 to 377 &nbsp;(5.12.99 to 24.9.06), buried <strong>black</strong> S.T. engraved on it &nbsp;the denomination in Arabic “ ” (i.e. ٢٥ قرش)&nbsp;</p><p><u>Picture is missing.</u></p><p>&nbsp;</p><p><i><strong>ST5</strong></i>.From prefix 377 to 459 &nbsp;(24.9.06 to 28.12.2008), buried <strong>black</strong> S.T. engraved on it &nbsp;the denomination in Arabic “ ” &nbsp;to be read in both sides of the note&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/66adb9cf6d02f.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66adb9cf6d02f.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p><strong><u>Artistic Design Features&nbsp;</u></strong></p><ul><li><i><strong><u>Sayeda Aisha Mosque</u></strong></i><strong><u>&nbsp;</u></strong></li></ul><figure class=\"image image-style-side\"><a href=\"https://en.numista.com/catalogue/images/657d5d07d4eeb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/657d5d07d4eeb.jpg\"></a></figure><p>It is a mosque in <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Cairo\">Cairo</a>, Egypt, that contains the tomb of a known female scholar Aisha bint Ja'far Al-Sadiq . It is located outside <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/w/index.php?title=Citadel_Square&amp;action=edit&amp;redlink=1\">Citadel Square</a> on a similarly named street. She was a pious and God-fearing worshipper. and lived in Egypt where she was greatly revered. She died in 145 AH (481 AD).</p><p>When <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Saladin\">Salahuddin al-Ayyubi</a> ruled Egypt, he ordered the construction of a madrasah next to the shrine. The structure was restored and took its current form in 1762 AD by Prince AbdelRahman Katkhuda.</p><p>&nbsp;</p><p><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Sayeda_Aisha_Mosque\">https://en.wikipedia.org/wiki/Sayeda_Aisha_Mosque</a></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><ul><li><i><strong>The Eagle <sub>Arab Republic of Egypt Coat of Arms</sub></strong></i></li></ul><figure class=\"image image_resized image-style-side\" style=\"width:16.19%;\"><a href=\"https://en.numista.com/catalogue/images/657d664879fd7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/657d664879fd7.jpg\"></a></figure><p>&nbsp;</p><p>Since 1984 the Eagle was used as the coat of arms of Egypt and was used in the Egyptian flag instead of the &nbsp;. falcon. This is one of the major differences between this type of banknote and its earlier type, &nbsp;see links.&nbsp;</p>",
+  "related_types": [
+    {
+      "id": 209289,
+      "title": "25 Piastres",
+      "category": "banknote",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1979,
+      "maxYear": 1979
+    },
+    {
+      "id": 209291,
+      "title": "25 Piastres",
+      "category": "banknote",
+      "country": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "minYear": 1980,
+      "maxYear": 1984
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "57"
+    },
+    {
+      "catalogue": {
+        "id": 2248,
+        "code": "MHB"
+      },
+      "number": "M8(25P.T.)"
+    }
+  ],
+  "watermark": {
+    "description": "WM1: Tutankhamun (Big Size)\r\nFrom 1.4.1985 to 24.9.2006 (Prefix 141 to 377)\r\n\r\nWM2: Tutankhamun (Small Size)\r\nFrom 15.2.2004 to 28.12.2008 (Prefix 378 to 459)",
+    "picture": "https://en.numista.com/catalogue/photos/egypte/657d0733b022c4.80159843-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/egypte/657d0733b022c4.80159843-180.jpg",
+    "picture_copyright": "T.Hashimy",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 690,
+      "name": "The Printing House of the Central Bank of Egypt"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

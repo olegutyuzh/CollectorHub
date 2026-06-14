@@ -1,0 +1,125 @@
+[
+  {
+    "id": 493862,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Jean Studer",
+        "title": "President of the Bank Council"
+      },
+      {
+        "signer_name": "Thomas J. Jordan",
+        "title": "Chairman of the Governing Board, Department I, Zürich"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75a"
+      }
+    ]
+  },
+  {
+    "id": 493799,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Jean Studer",
+        "title": "President of the Bank Council"
+      },
+      {
+        "signer_name": "Fritz Zurbrügg",
+        "title": "Vice Chairman of the Governing Board, Department II, Bern"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75b"
+      }
+    ]
+  },
+  {
+    "id": 493804,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Jean Studer",
+        "title": "President of the Bank Council"
+      },
+      {
+        "signer_name": "Andréa M. Maechler",
+        "title": "Member of the Governing Board, Department III, Zürich"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75c"
+      }
+    ]
+  },
+  {
+    "id": 641668,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Jean Studer",
+        "title": "President of the Bank Council"
+      },
+      {
+        "signer_name": "Andréa M. Maechler",
+        "title": "Member of the Governing Board, Department III, Zürich"
+      }
+    ]
+  },
+  {
+    "id": 675601,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Jean Studer",
+        "title": "President of the Bank Council"
+      },
+      {
+        "signer_name": "Thomas J. Jordan",
+        "title": "Chairman of the Governing Board, Department I, Zürich"
+      }
+    ]
+  },
+  {
+    "id": 683181,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Jean Studer",
+        "title": "President of the Bank Council"
+      },
+      {
+        "signer_name": "Fritz Zurbrügg",
+        "title": "Vice Chairman of the Governing Board, Department II, Bern"
+      }
+    ]
+  }
+]

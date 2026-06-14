@@ -1,0 +1,70 @@
+[
+  {
+    "id": 495405,
+    "is_dated": false,
+    "min_year": 1986,
+    "max_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Horacio A. Alonso",
+        "title": "Deputy General Manager"
+      },
+      {
+        "signer_name": "Juan J. A. Concepción",
+        "title": "President"
+      }
+    ],
+    "comment": "a Serie A"
+  },
+  {
+    "id": 587201,
+    "is_dated": false,
+    "min_year": 1986,
+    "max_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Horacio A. Alonso",
+        "title": "Deputy General Manager"
+      },
+      {
+        "signer_name": "Juan J. A. Concepción",
+        "title": "President"
+      }
+    ],
+    "comment": "ar Replacement (R1) : Prefix R and suffix A"
+  },
+  {
+    "id": 495406,
+    "is_dated": false,
+    "min_year": 1987,
+    "max_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Elias Salama",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Luis Machinea",
+        "title": "President"
+      }
+    ],
+    "comment": "b Serie A"
+  },
+  {
+    "id": 501335,
+    "is_dated": false,
+    "min_year": 1987,
+    "max_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Elias Salama",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Luis Machinea",
+        "title": "President"
+      }
+    ],
+    "comment": "br Replacement (R2) : Prefix R and suffix A"
+  }
+]

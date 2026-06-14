@@ -1,0 +1,81 @@
+{
+  "id": 202259,
+  "url": "https://en.numista.com/202259",
+  "title": "20 Rupees",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "sri_lanka_period",
+    "name": "Sri Lanka (1972-date)"
+  },
+  "issuing_entity": {
+    "id": 542,
+    "name": "Central Bank of Sri Lanka",
+    "wikidata_id": "Q2640939"
+  },
+  "min_year": 1995,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 589,
+      "name": "Democratic Socialist Republic",
+      "wikidata_id": "Q854"
+    }
+  ],
+  "value": {
+    "text": "20 Rupees",
+    "numeric_value": 20,
+    "currency": {
+      "id": 176,
+      "name": "Rupee",
+      "full_name": "Rupee (1972-date)"
+    }
+  },
+  "size": 129,
+  "size2": 65,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668bdd39e6.30075571-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668bdd39e6.30075571-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668beb7f56.22374902-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668beb7f56.22374902-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p><br><a href=\"https://en.numista.com/catalogue/images/63c69f472e9b9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63c69f472e9b9.jpg\" alt=\"\"></a> P109a, signature Amarananda Jayawardena<br>Jayawardena was governor of the Bank of Sri Lanka from November 15th., 1995 until June 30th., 2004<br><br><a href=\"https://en.numista.com/catalogue/images/63c69fc374d02.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63c69fc374d02.jpg\" alt=\"\"></a> P109a, signature Chandrika Bandaranika Kumaratunga<br>Kumaratunga was Minister of Finance of Sri Lanka from September 30th., 1994 until December 5th., 2001</p><p>&nbsp;</p><p>Under backlight the security strip can be read. It has “CENTRAL BANK OF SRI LANKA RUPEES TWENTY” repeated on it:</p><p><a href=\"https://en.numista.com/catalogue/images/67b271ad3a16e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67b271ad3a16e.jpg\"></a></p><p>&nbsp;</p><p>UV activity at 365nm:<br><a href=\"https://en.numista.com/catalogue/images/67b271c8d1ded.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67b271c8d1ded.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/67b271d0ab6de.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67b271d0ab6de.jpg\"></a><br><br>© Brandon Bertolli</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "109"
+    }
+  ],
+  "watermark": {
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/67b27215906f73.57264101-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/67b27215906f73.57264101-180.jpg",
+    "picture_copyright": "Brandon Bertolli",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 1,
+      "name": "De La Rue"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

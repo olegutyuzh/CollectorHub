@@ -1,0 +1,30 @@
+[
+  {
+    "id": 499116,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "comment": "P-22a; 5 digit serial number"
+  },
+  {
+    "id": 499117,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "comment": "P-22a; 6 digit serial number"
+  },
+  {
+    "id": 499118,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "comment": "P-22b"
+  },
+  {
+    "id": 499119,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "comment": "P-22c"
+  }
+]

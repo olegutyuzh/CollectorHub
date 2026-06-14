@@ -1,0 +1,162 @@
+[
+  {
+    "id": 495457,
+    "is_dated": true,
+    "year": 1997,
+    "gregorian_year": 1997,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "63a.1"
+      }
+    ],
+    "comment": "Signatures: Kjell-Olof Feldt & Urban Bäckström"
+  },
+  {
+    "id": 495470,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "63a.2"
+      }
+    ],
+    "comment": "Signatures: Kjell-Olof Feldt & Urban Bäckström"
+  },
+  {
+    "id": 495471,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "63a.3"
+      }
+    ],
+    "comment": "Signatures: Sven Hulterström & Urban Bäckström"
+  },
+  {
+    "id": 495472,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "63a.4"
+      }
+    ],
+    "comment": "Signatures: Sven Hulterström & Urban Bäckström"
+  },
+  {
+    "id": 495473,
+    "is_dated": true,
+    "year": 2002,
+    "gregorian_year": 2002,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "63a.5"
+      }
+    ],
+    "comment": "Signatures: Sven Hulterström & Urban Bäckström"
+  },
+  {
+    "id": 495474,
+    "is_dated": true,
+    "year": 2003,
+    "gregorian_year": 2003,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "63b.1"
+      }
+    ],
+    "comment": "Signatures: Jan Bergqvist & Lars Heikensten"
+  },
+  {
+    "id": 495475,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "63b.2"
+      }
+    ],
+    "comment": "Signatures: Jan Bergqvist & Lars Heikensten"
+  },
+  {
+    "id": 495476,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "63c.1"
+      }
+    ],
+    "comment": "Signatures: Jan Bergqvist & Stefan Ingves"
+  },
+  {
+    "id": 495477,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "63c.2"
+      }
+    ],
+    "comment": "Signatures: Johan Gernandt & Stefan Ingves"
+  },
+  {
+    "id": 495478,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "63c.3"
+      }
+    ],
+    "comment": "Signatures: Johan Gernandt & Stefan Ingves"
+  }
+]

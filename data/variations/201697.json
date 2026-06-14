@@ -1,0 +1,42 @@
+[
+  {
+    "id": 493214,
+    "is_dated": false,
+    "min_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Dr. Ahmed M. Muneisi Abdel-Hamid",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "68a"
+      }
+    ]
+  },
+  {
+    "id": 498559,
+    "is_dated": false,
+    "min_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Farhat O. Bengdara",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "68b"
+      }
+    ]
+  }
+]

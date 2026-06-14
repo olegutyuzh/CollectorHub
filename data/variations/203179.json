@@ -1,0 +1,174 @@
+[
+  {
+    "id": 497965,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "month": 9,
+    "day": 8,
+    "signatures": [
+      {
+        "signer_name": "Borko Stanoevski \"2nd sign\"",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tome Nenovski \"2nd sign\"",
+        "title": "Deputy Governor"
+      }
+    ],
+    "comment": "P#14a"
+  },
+  {
+    "id": 799500,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "month": 9,
+    "day": 8,
+    "signatures": [
+      {
+        "signer_name": "Borko Stanoevski \"2nd sign\"",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tome Nenovski \"2nd sign\"",
+        "title": "Deputy Governor"
+      }
+    ],
+    "comment": "P#14as specimen"
+  },
+  {
+    "id": 497966,
+    "is_dated": true,
+    "year": 1997,
+    "gregorian_year": 1997,
+    "month": 8,
+    "signatures": [
+      {
+        "signer_name": "Ljube Trpeski",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Petar Goshev",
+        "title": "Deputy Governor"
+      }
+    ],
+    "comment": "P#14b"
+  },
+  {
+    "id": 848947,
+    "is_dated": true,
+    "year": 1997,
+    "gregorian_year": 1997,
+    "month": 8,
+    "signatures": [
+      {
+        "signer_name": "Ljube Trpeski",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Petar Goshev",
+        "title": "Deputy Governor"
+      }
+    ],
+    "comment": "P#14bs specimen"
+  },
+  {
+    "id": 497967,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "month": 1,
+    "signatures": [
+      {
+        "signer_name": "Ljube Trpeski",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#14c"
+  },
+  {
+    "id": 497968,
+    "is_dated": true,
+    "year": 2003,
+    "gregorian_year": 2003,
+    "month": 1,
+    "signatures": [
+      {
+        "signer_name": "Ljube Trpeski",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#14d"
+  },
+  {
+    "id": 497969,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "month": 1,
+    "signatures": [
+      {
+        "signer_name": "Petar Goshev \"1st sign\"",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#14e"
+  },
+  {
+    "id": 497970,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "month": 1,
+    "signatures": [
+      {
+        "signer_name": "Petar Goshev \"1st sign\"",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#14f"
+  },
+  {
+    "id": 497971,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "month": 1,
+    "signatures": [
+      {
+        "signer_name": "Petar Goshev \"1st sign\"",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#14 g"
+  },
+  {
+    "id": 497972,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "month": 1,
+    "signatures": [
+      {
+        "signer_name": "Petar Goshev \"1st sign\"",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#14h"
+  },
+  {
+    "id": 497973,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "month": 12,
+    "signatures": [
+      {
+        "signer_name": "Dimitar Bogov-Pomada \"1st sign\"",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#14i"
+  }
+]

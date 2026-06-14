@@ -1,0 +1,110 @@
+{
+  "id": 202805,
+  "url": "https://en.numista.com/202805",
+  "title": "200 Lekë",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "albanie",
+    "name": "Albania"
+  },
+  "issuing_entity": {
+    "id": 324,
+    "name": "Bank of Albania",
+    "wikidata_id": "Q806714"
+  },
+  "min_year": 2017,
+  "max_year": 2019,
+  "ruler": [
+    {
+      "id": 583,
+      "name": "Fourth Republic",
+      "wikidata_id": "Q222"
+    }
+  ],
+  "value": {
+    "text": "200 Lekë",
+    "numeric_value": 200,
+    "currency": {
+      "id": 311,
+      "name": "New lek",
+      "full_name": "New lek (1965-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 125,
+  "size2": 65,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Polymer (Safeguard Polymer)"
+  },
+  "obverse": {
+    "description": "Portrait of Naim Frashëri, one of the most distinguished writers of the Albanian Renaissance; an open book in the background.",
+    "lettering": "BANKA E\r\nSHQIPËRISË\r\nNAIM FRASHËRI 1846-1900 DYQIND LEKË",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bank of\r\nAlbania\r\nNaim Frashëri 1846-1900 200 Lekë",
+    "picture": "https://en.numista.com/catalogue/photos/albanie/626c26652c1721.26369791-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/albanie/626c26652c1721.26369791-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "View of the house where Naim Frashëri was born; a page with verses from his poem: \"Ti Shqipëri më jep nder, më jep emrin Shqipëtar\"; a stylized image of his pen and signatures.",
+    "lettering": "200 BANKA E SHQIPËRISË\r\nAA6573975\r\n\r\nTi Shqipëri më jep nder, më jep emrin Shqipëtar\r\nGUVERNATORI\r\nDREJTORI\r\nDYQIND LËKË AA6573975\r\n200\r\n2017",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Latin (cursive)"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/albanie/626c2665d7df14.12875018-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/albanie/626c2665d7df14.12875018-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>UV activity:<br><a href=\"https://en.numista.com/catalogue/images/649a44847276d.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/649a44847276d.png\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/649a44937264e.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/649a44937264e.png\" alt=\"\"></a><br>© gyoschak</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/658c3704b0c35.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/658c3704b0c35.png\"></a> N202805; signatures Governor en Director of the Bank of Albania</p><p>Henksmunten</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "322"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "W-76"
+    }
+  ],
+  "watermark": {
+    "description": "Portrait of N. Frasheri",
+    "picture": "https://en.numista.com/catalogue/photos/albanie/65df2325ec1599.16372047-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/albanie/65df2325ec1599.16372047-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 1,
+      "name": "De La Rue"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

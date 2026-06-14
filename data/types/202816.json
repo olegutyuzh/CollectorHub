@@ -1,0 +1,194 @@
+{
+  "id": 202816,
+  "url": "https://en.numista.com/202816",
+  "title": "1 Leu",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "moldavie",
+    "name": "Moldova"
+  },
+  "issuing_entity": {
+    "id": 69,
+    "name": "National Bank of Moldova",
+    "wikidata_id": "Q2636071"
+  },
+  "min_year": 1994,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 1312,
+      "name": "Republic",
+      "wikidata_id": "Q217"
+    }
+  ],
+  "value": {
+    "text": "1 Leu",
+    "numeric_value": 1,
+    "currency": {
+      "id": 103,
+      "name": "Leu",
+      "full_name": "Leu (1993-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 114,
+  "size2": 58,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Stephen the Great",
+    "lettering": "REPUBLICA MOLDOVA 2010\r\n1\r\n1 UN LEU\r\nSTEFAN CEL MARE\r\nGUVERNATOR \r\n1\r\nFALSIFICAREA ACESTOR BILETE SE PEDEPSESTE CONFORM LEGILOR\r\n1",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Republic of Moldova 2010\r\n1\r\n1 One Leu\r\nStephen the Great\r\nGovernor\r\n1\r\nFalsification of this Banknote is Punishable in Accordance with the Law\r\n1",
+    "picture": "https://en.numista.com/catalogue/photos/moldavie/6270ef142d75f9.74320710-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/moldavie/6270ef142d75f9.74320710-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Capriana monastery",
+    "lettering": "BANCA NATIONALA A MOLDOVEI\r\nMANASTIREA CAPRIANA\r\nUN LEU \r\n1\r\n1\r\n1",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "National Bank of Moldova\r\nCapriana Monastery\r\nOne Leu\r\n1\r\n1\r\n1",
+    "picture": "https://en.numista.com/catalogue/photos/moldavie/6270ef14edc058.45571117-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/moldavie/6270ef14edc058.45571117-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>UV activity:<br><a href=\"https://en.numista.com/catalogue/images/64e107444cdc1.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64e107444cdc1.png\" alt=\"\"></a><br>© gyoschak</p>",
+  "related_types": [
+    {
+      "id": 203083,
+      "title": "5 Lei",
+      "category": "banknote",
+      "country": {
+        "code": "moldavie",
+        "name": "Moldova"
+      },
+      "minYear": 1994,
+      "maxYear": 2013
+    },
+    {
+      "id": 208407,
+      "title": "10 Lei",
+      "category": "banknote",
+      "country": {
+        "code": "moldavie",
+        "name": "Moldova"
+      },
+      "minYear": 1994,
+      "maxYear": 2013
+    },
+    {
+      "id": 202817,
+      "title": "20 Lei",
+      "category": "banknote",
+      "country": {
+        "code": "moldavie",
+        "name": "Moldova"
+      },
+      "minYear": 1992,
+      "maxYear": 2013
+    },
+    {
+      "id": 203088,
+      "title": "50 Lei",
+      "category": "banknote",
+      "country": {
+        "code": "moldavie",
+        "name": "Moldova"
+      },
+      "minYear": 1992,
+      "maxYear": 2013
+    },
+    {
+      "id": 203091,
+      "title": "100 Lei",
+      "category": "banknote",
+      "country": {
+        "code": "moldavie",
+        "name": "Moldova"
+      },
+      "minYear": 1992,
+      "maxYear": 2013
+    },
+    {
+      "id": 209618,
+      "title": "200 Lei",
+      "category": "banknote",
+      "country": {
+        "code": "moldavie",
+        "name": "Moldova"
+      },
+      "minYear": 1992,
+      "maxYear": 2013
+    },
+    {
+      "id": 217104,
+      "title": "500 Lei",
+      "category": "banknote",
+      "country": {
+        "code": "moldavie",
+        "name": "Moldova"
+      },
+      "minYear": 1992,
+      "maxYear": 1992
+    },
+    {
+      "id": 217105,
+      "title": "1000 Lei",
+      "category": "banknote",
+      "country": {
+        "code": "moldavie",
+        "name": "Moldova"
+      },
+      "minYear": 1992,
+      "maxYear": 1992
+    }
+  ],
+  "tags": [
+    "Religious building"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "8"
+    }
+  ],
+  "watermark": {
+    "description": "Image of Stephen the Great facing towards the centre of the note.",
+    "picture": "https://en.numista.com/catalogue/photos/moldavie/5f5622955d7992.92698622-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/moldavie/5f5622955d7992.92698622-180.jpg",
+    "picture_copyright": "RuibaiK",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 46,
+      "name": "Banque de France"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

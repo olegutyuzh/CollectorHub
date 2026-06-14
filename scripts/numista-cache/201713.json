@@ -1,0 +1,139 @@
+{
+  "id": 201713,
+  "url": "https://en.numista.com/201713",
+  "title": "5 Reais (2nd. Family)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "issuing_entity": {
+    "id": 900,
+    "name": "Central Bank of Brazil",
+    "wikidata_id": "Q806186"
+  },
+  "min_year": 2010,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "5 Reais",
+    "numeric_value": 5,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2013-07-29"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 128,
+  "size2": 65,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Symbolic effigy of the Republic, interpreted in the form of sculpture.\r\nIn the lower right corner, a tactile mark with a horizontal bar, for use by the visually impaired.",
+    "lettering": "REPÚBLICA FEDERATIVA DO BRASIL 5\r\n2010\r\n5\r\nREAIS\r\nREPÚBLICA\r\nDEUS SEJA LOUVADO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Federative Republic of Brazil\r\n5\r\n2010\r\n5\r\nReais\r\nRepublic\r\nGod be praised",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/63e65016e938d7.40651051-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e65016e938d7.40651051-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The Great Egret (Casmerodius albus) among foliage, with an image of heron in flight beside it.",
+    "lettering": "BANCO CENTRAL DO BRASIL 5\r\n5\r\nMINISTRO DA FAZENDA\r\nPRESIDENTE DO\r\nBANCO CENTRAL DO BRASIL\r\nGARÇA\r\nCINCO REAIS\r\nCASA DA MOEDA DO BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Brazilian Central Bank\r\n5\r\n5\r\nFinance Minister\r\nPresident of the Brazilian Central Bank\r\nHeron\r\nFive Reais\r\nBrazilian Mint",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/63e6501a179a77.60863269-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e6501a179a77.60863269-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "Real - 2nd Family",
+  "comments": "<p><strong>Curiosity</strong><br>(1) <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Ef%C3%ADgie_da_Rep%C3%BAblica\"><i>Effigy of the Republic</i></a><br><br>(2) <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Great_egret\"><i>Great Egret (Casmerodius albus egretta)</i></a><br>---<br><strong>Notes</strong><br><a href=\"https://en.numista.com/catalogue/images/5eb1d428e8152.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb1d428e8152.jpg\" alt=\"\"></a><br><i>more...</i> <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/numisdoc/brazil-179.html\">Federative Republic of <strong>Brazil</strong></a> and <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Brazilian_real\">Real (R$)</a><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eb1d3e357398.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb1d3e357398.jpg\" alt=\"\"></a><br><i><strong>Important:</strong> Date is frozen on 2010 (release of the new banknote series)</i><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eb2186b2f853.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb2186b2f853.jpg\" alt=\"\"></a><br><i>Tactile mark for the visually impaired</i><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eb2188778f63.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb2188778f63.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5eb21897a8c50.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb21897a8c50.jpg\" alt=\"\"></a><br><i>Specimen note sample</i></p><p>&nbsp;</p><p>UV activity:</p><p><a href=\"https://en.numista.com/catalogue/images/65f22bbfab7a8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65f22bbfab7a8.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/65f22bc79f308.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65f22bc79f308.jpg\"></a></p><p>© gyoschak</p>",
+  "related_types": [
+    {
+      "id": 202764,
+      "title": "5 Reais (1st. Family; Stamps A/B; Watermark \"Effigy\")",
+      "category": "banknote",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1994,
+      "maxYear": 1995
+    },
+    {
+      "id": 212656,
+      "title": "5 Reais (1st. Family; Stamp C; Watermark \"Flag\")",
+      "category": "banknote",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 1997,
+      "maxYear": 2009
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Bird"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "253"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "875"
+    }
+  ],
+  "watermark": {
+    "description": "Great egret (Casmerodius albus) and electrotype “5”",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/5eb2260adf4010.49999906-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eb2260adf4010.49999906-180.jpg",
+    "picture_copyright": "Wilson Roberto Vasques Nunes"
+  },
+  "printers": [
+    {
+      "id": 12,
+      "name": "Casa da Moeda do Brasil"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

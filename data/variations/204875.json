@@ -1,0 +1,31 @@
+[
+  {
+    "id": 505376,
+    "is_dated": true,
+    "year": 1997,
+    "gregorian_year": 1997,
+    "comment": "(fr) F.74/00Spn - P158s - spécimen, alphabet A n°00000000 (perforé SPECIMEN, surchargé)"
+  },
+  {
+    "id": 505374,
+    "is_dated": true,
+    "year": 1997,
+    "gregorian_year": 1997,
+    "comment": "(fr) F.74/01 - P158a - n°1 à 39 999 999"
+  },
+  {
+    "id": 505373,
+    "is_dated": true,
+    "year": 1997,
+    "gregorian_year": 1997,
+    "mintage": 1000,
+    "comment": "(fr) F.74/01A - P158a - alphabet A, billet 1 - 1000"
+  },
+  {
+    "id": 505375,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "comment": "(fr) F.74/02 - P158a - n°40 000 000 à 70 999 999"
+  }
+]

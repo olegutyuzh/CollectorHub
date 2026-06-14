@@ -1,0 +1,46 @@
+[
+  {
+    "id": 506873,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "John Panonetsa Mangudya",
+        "title": "Governor, Reserve Bank of Zimbabwe"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "102a"
+      }
+    ],
+    "comment": "Issued note"
+  },
+  {
+    "id": 1094783,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "John Panonetsa Mangudya",
+        "title": "Governor, Reserve Bank of Zimbabwe"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "102ar"
+      }
+    ],
+    "comment": "Replacement; Prefix: AZ"
+  }
+]

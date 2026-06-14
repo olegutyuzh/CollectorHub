@@ -1,0 +1,88 @@
+[
+  {
+    "id": 500445,
+    "is_dated": false,
+    "min_year": 2014,
+    "max_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Gill Marcus",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "139a"
+      }
+    ]
+  },
+  {
+    "id": 517895,
+    "is_dated": false,
+    "min_year": 2014,
+    "max_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Gill Marcus",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "139as"
+      }
+    ],
+    "comment": "Specimen"
+  },
+  {
+    "id": 500446,
+    "is_dated": false,
+    "min_year": 2015,
+    "max_year": 2015,
+    "signatures": [
+      {
+        "signer_name": "Lesetja Kganyago",
+        "title": "Governor of the South African Reserve Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "139b"
+      }
+    ]
+  },
+  {
+    "id": 517886,
+    "is_dated": false,
+    "min_year": 2015,
+    "max_year": 2015,
+    "signatures": [
+      {
+        "signer_name": "Lesetja Kganyago",
+        "title": "Governor of the South African Reserve Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "139bs"
+      }
+    ],
+    "comment": "Specimen"
+  }
+]

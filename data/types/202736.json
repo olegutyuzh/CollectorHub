@@ -1,0 +1,175 @@
+{
+  "id": 202736,
+  "url": "https://en.numista.com/202736",
+  "title": "1 Krone",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "autriche",
+    "name": "Austria"
+  },
+  "min_year": 1919,
+  "max_year": 1919,
+  "ruler": [
+    {
+      "id": 2909,
+      "name": "Republic of German-Austria",
+      "wikidata_id": "Q268970"
+    }
+  ],
+  "value": {
+    "text": "1 Krone",
+    "numeric_value": 1,
+    "currency": {
+      "id": 622,
+      "name": "Krone",
+      "full_name": "Krone (1919-1925)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1919-00-00"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "1924-01-31"
+  },
+  "size": 113,
+  "size2": 68,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "technique": {
+    "text": "Overprinted"
+  },
+  "obverse": {
+    "designers": [
+      "Rudolf Rössler",
+      "Rudolf Junk",
+      "Alois Hans Schramm"
+    ],
+    "description": "Left and right a woman's head, in the middle a caduceus as a symbol of trade, on the lower left the coat of arms of Austria, on the lower right the coat of arms of Hungary, text in German and Hungarian, in the middle green overprint \"DEUTSCHÖSTERREICH\"",
+    "lettering": "DEUTSCHÖSTERREICH\r\nEINE KRONE\r\nEGY KORONA\r\nWien, 1. DEZEMBER 1916",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/618f55f88428e5.09443465-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/618f55f88428e5.09443465-180.jpg",
+    "picture_copyright": "HVB Stiftung Geldscheinsammlung München",
+    "picture_copyright_url": "https://www.geldscheinsammlung.de/",
+    "picture_license_name": "CC BY-NC-ND 4.0",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  "reverse": {
+    "designers": [
+      "Alois Hans Schramm",
+      "Rudolf Rössler",
+      "Rudolf Junk"
+    ],
+    "description": "In the middle head with helmet, top right value indication in eight languages",
+    "lettering": "JEDNA KORUNA\r\nENA KRONA\r\nDIE NACHMACHUNG DER BANK-\r\nNOTEN WIRDGESETZLICH BE-\r\nSTRAFT",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/autriche/5e96faf2d56201.25067008-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/5e96faf2d56201.25067008-180.jpg",
+    "picture_copyright": "PUTSA KRISHNA KAMESWAR@AMALAPURAM"
+  },
+  "comments": "In circulation: 9 January 1920 - 31 January 1924<br /><br />\r\n<span style=\"font-weight:bold;\">Examples of this type:</span><br />\r\n<a href=\"http://hdl.handle.net/428894.vzg/12d9dbb2-58f1-4c0f-b589-b8a8d6281eb7\" rel=\"nofollow\">HVB Stiftung Geldscheinsammlung München #AUT-49</a>",
+  "related_types": [
+    {
+      "id": 217796,
+      "title": "1 Krone",
+      "category": "banknote",
+      "country": {
+        "code": "autriche",
+        "name": "Austria"
+      },
+      "minYear": 1920,
+      "maxYear": 1920
+    },
+    {
+      "id": 206756,
+      "title": "1 Krone",
+      "category": "banknote",
+      "country": {
+        "code": "autriche-habsbourg",
+        "name": "Austrian Empire"
+      },
+      "minYear": 1916,
+      "maxYear": 1916
+    },
+    {
+      "id": 217882,
+      "title": "1 Corona",
+      "category": "banknote",
+      "country": {
+        "code": "fiume_free_state",
+        "name": "Fiume, Free state of"
+      },
+      "minYear": 1920,
+      "maxYear": 1920
+    },
+    {
+      "id": 217943,
+      "title": "1 Corona",
+      "category": "banknote",
+      "country": {
+        "code": "fiume_free_state",
+        "name": "Fiume, Free state of"
+      },
+      "minYear": 1920,
+      "maxYear": 1920
+    },
+    {
+      "id": 216300,
+      "title": "1 Korona",
+      "category": "banknote",
+      "country": {
+        "code": "hongrie",
+        "name": "Hungary"
+      },
+      "minYear": 1916,
+      "maxYear": 1919
+    }
+  ],
+  "tags": [
+    "Armour",
+    "Caduceus"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 990,
+        "code": "KK Banknoten"
+      },
+      "number": "133"
+    },
+    {
+      "catalogue": {
+        "id": 352,
+        "code": "Pick Au"
+      },
+      "number": "193"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "49"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

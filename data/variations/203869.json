@@ -1,0 +1,130 @@
+[
+  {
+    "id": 500512,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "Emmanuel Tumusiime-Mutebile",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "George William Nyeko",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "id": 500513,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "signatures": [
+      {
+        "signer_name": "Emmanuel Tumusiime-Mutebile",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "George William Nyeko",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "id": 500514,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Emmanuel Tumusiime-Mutebile",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "George William Nyeko",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "id": 500515,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "signatures": [
+      {
+        "signer_name": "Emmanuel Tumusiime-Mutebile",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "George William Nyeko",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "id": 500516,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Emmanuel Tumusiime-Mutebile",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Susan Wasagali Kanyemibwa",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "id": 691723,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "signatures": [
+      {
+        "signer_name": "Emmanuel Tumusiime-Mutebile",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Susan Wasagali Kanyemibwa",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "id": 780441,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "signatures": [
+      {
+        "signer_name": "Michael Atingi-Ego",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Susan Wasagali Kanyemibwa",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "id": 874096,
+    "is_dated": true,
+    "year": 2024,
+    "gregorian_year": 2024,
+    "signatures": [
+      {
+        "signer_name": "Michael Atingi-Ego",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Susan Wasagali Kanyemibwa",
+        "title": "Secretary"
+      }
+    ]
+  }
+]

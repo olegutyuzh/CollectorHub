@@ -1,0 +1,250 @@
+{
+  "Nav": {
+    "catalog": "Katalog",
+    "stats": "Statistiken",
+    "addBanknote": "Banknote hinzufügen",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "logout": "Abmelden",
+    "collection": "Meine Sammlung"
+  },
+  "Footer": {
+    "copy": "© {year} CollectorHub"
+  },
+  "Home": {
+    "hero": {
+      "title": "Ihr Banknoten-Katalog",
+      "subtitle": "Organisieren Sie Ihre Sammlung, finden Sie seltene Banknoten, vernetzen Sie sich mit Sammlern",
+      "browse": "Katalog durchsuchen",
+      "registerFree": "Kostenlos registrieren"
+    },
+    "statsSection": {
+      "notes": "Banknoten im Katalog",
+      "countries": "Länder",
+      "collectors": "Sammler"
+    },
+    "features": {
+      "heading": "Alles, was ein Sammler braucht",
+      "catalog": {
+        "title": "Gesamtkatalog",
+        "desc": "Banknoten aller Länder mit Fotos, Beschreibungen und Katalognummern"
+      },
+      "collection": {
+        "title": "Meine Sammlung",
+        "desc": "Verfolgen Sie was Sie besitzen: Zustand, Preis, Kaufdatum"
+      },
+      "search": {
+        "title": "Suche & Filter",
+        "desc": "Suchen Sie nach Land, Jahr, Nennwert, Serie"
+      },
+      "community": {
+        "title": "Community",
+        "desc": "Tauschen Sie Banknoten mit Sammlern aus aller Welt"
+      }
+    }
+  },
+  "Auth": {
+    "login": {
+      "title": "Anmelden",
+      "subtitle": "Melden Sie sich bei Ihrem Konto an",
+      "password": "Passwort",
+      "submit": "Anmelden",
+      "loading": "Wird angemeldet...",
+      "error": "Ungültige E-Mail oder Passwort",
+      "noAccount": "Kein Konto?",
+      "registerLink": "Registrieren",
+      "forgotPassword": "Passwort vergessen?"
+    },
+    "forgot": {
+      "title": "Passwort zurücksetzen",
+      "subtitle": "E-Mail eingeben — wir senden Ihnen einen Reset-Link",
+      "submit": "Link senden",
+      "loading": "Wird gesendet...",
+      "success": "E-Mail gesendet",
+      "successDesc": "Prüfen Sie Ihren Posteingang {email} und klicken Sie auf den Link.",
+      "backToLogin": "Zurück zur Anmeldung",
+      "error": "E-Mail konnte nicht gesendet werden. Bitte Adresse prüfen."
+    },
+    "reset": {
+      "title": "Neues Passwort",
+      "subtitle": "Geben Sie ein neues Passwort für Ihr Konto ein",
+      "password": "Neues Passwort",
+      "confirm": "Passwort bestätigen",
+      "submit": "Passwort speichern",
+      "loading": "Wird gespeichert...",
+      "success": "Passwort geändert",
+      "successDesc": "Sie können sich jetzt mit Ihrem neuen Passwort anmelden.",
+      "toLogin": "Anmelden",
+      "errorMismatch": "Passwörter stimmen nicht überein",
+      "errorShort": "Mindestens 6 Zeichen",
+      "error": "Passwort konnte nicht geändert werden. Bitte erneut versuchen."
+    },
+    "register": {
+      "title": "Registrieren",
+      "subtitle": "Kostenlos. Keine versteckten Bedingungen.",
+      "password": "Passwort",
+      "passwordPlaceholder": "mindestens 6 Zeichen",
+      "submit": "Konto erstellen",
+      "loading": "Wird registriert...",
+      "checkEmail": "Prüfen Sie Ihre E-Mail",
+      "checkEmailDesc": "Wir haben einen Bestätigungslink an {email} gesendet.",
+      "haveAccount": "Bereits ein Konto?",
+      "loginLink": "Anmelden"
+    }
+  },
+  "Catalog": {
+    "title": "Banknotenkatalog",
+    "back": "Zurück zum Katalog",
+    "searchPlaceholder": "Nach Nennwert, Serie, Pick # suchen...",
+    "issuersPlaceholder": "Alle Herausgeber...",
+    "searchBtn": "Suchen",
+    "moreFilters": "+ Weitere Filter",
+    "clearAll": "Alle löschen",
+    "apply": "Filter anwenden",
+    "country": "Land",
+    "allCountries": "Alle Länder",
+    "currency": "Währung",
+    "allCurrencies": "Alle Währungen",
+    "year": "Jahr",
+    "series": "Serie",
+    "pickNo": "Pick #",
+    "material": "Material",
+    "allMaterials": "Alle",
+    "printer": "Druckerei",
+    "noPhoto": "Kein Foto vorhanden",
+    "obverse": "Vorderseite",
+    "reverse": "Rückseite",
+    "obverseDesc": "Beschreibung der Vorderseite",
+    "reverseDesc": "Beschreibung der Rückseite",
+    "security": "Sicherheitsmerkmale",
+    "details": {
+      "country": "Land",
+      "denomination": "Nennwert",
+      "years": "Jahr(e)",
+      "series": "Serie",
+      "pickNo": "Pick #",
+      "issuer": "Herausgeber",
+      "material": "Material",
+      "size": "Größe",
+      "printer": "Druckerei",
+      "watermark": "Wasserzeichen"
+    },
+    "filters": {
+      "searchPlaceholder": "Suche nach Nennwert, Serie, Pick #...",
+      "allIssuers": "Alle Emittenten...",
+      "search": "Suchen",
+      "moreFilters": "+ Weitere Filter",
+      "clearAll": "Alles löschen",
+      "apply": "Filter anwenden",
+      "country": "Land",
+      "allCountries": "Alle Länder",
+      "currency": "Währung",
+      "allCurrencies": "Alle Währungen",
+      "year": "Jahr",
+      "from": "von",
+      "to": "bis",
+      "series": "Serie",
+      "seriesPlaceholder": "Serienname",
+      "pickPlaceholder": "z.B. P-118",
+      "material": "Material",
+      "all": "Alle",
+      "printer": "Druckerei",
+      "printerPlaceholder": "Druckereiname"
+    },
+    "detail": {
+      "country": "Land",
+      "denomination": "Nennwert",
+      "years": "Jahr(e)",
+      "series": "Serie",
+      "issuer": "Emittent",
+      "material": "Material",
+      "size": "Größe",
+      "printer": "Druckerei",
+      "watermark": "Wasserzeichen",
+      "obverse": "Vorderseite",
+      "reverse": "Rückseite",
+      "noPhoto": "Kein Foto",
+      "obverseDesc": "Vorderseitenbeschreibung",
+      "reverseDesc": "Rückseitenbeschreibung",
+      "security": "Sicherheitsmerkmale"
+    },
+    "count": "{count} Einträge",
+    "backToCatalog": "Zurück zum Katalog"
+  },
+  "Collection": {
+    "title": "Meine Sammlung",
+    "subtitle": "{unique} einzigartig · {total} Exemplare",
+    "addBtn": "Banknote hinzufügen",
+    "emptyTitle": "Sammlung ist leer",
+    "emptyDesc": "Finden Sie eine Banknote im Katalog und fügen Sie sie hinzu",
+    "authRequired": "Melden Sie sich an, um Ihre Sammlung zu sehen",
+    "authDesc": "Registrieren Sie sich kostenlos und beginnen Sie, Ihre Banknoten zu verwalten",
+    "badges": {
+      "trade": "Tausch",
+      "sale": "Verkauf"
+    }
+  },
+  "CollectionItem": {
+    "back": "Meine Sammlung",
+    "obverse": "Vorderseite",
+    "reverse": "Rückseite",
+    "pcsUnit": "Stk.",
+    "sections": {
+      "myCopy": "Mein Exemplar",
+      "grading": "Zertifizierung (PMG)",
+      "general": "Allgemeine Informationen",
+      "refs": "Katalognummern",
+      "physical": "Physische Merkmale",
+      "manufacturer": "Hersteller",
+      "security": "Sicherheit",
+      "obverse": "Vorderseite",
+      "reverse": "Rückseite",
+      "comments": "Kommentare"
+    },
+    "fields": {
+      "grade": "Zustand",
+      "quantity": "Menge",
+      "serial": "Seriennummer",
+      "price": "Kaufpreis",
+      "purchaseDate": "Kaufdatum",
+      "forTrade": "Zum Tausch",
+      "forSale": "Zum Verkauf",
+      "yes": "Ja",
+      "company": "Firma",
+      "score": "Bewertung",
+      "certNo": "Zertifikat-Nr.",
+      "designation": "Designation",
+      "issuer": "Emittent",
+      "series": "Serie",
+      "type": "Typ",
+      "issueDate": "Ausgabedatum",
+      "demonetized": "Demonetisiert",
+      "material": "Material",
+      "size": "Größe",
+      "shape": "Form",
+      "technique": "Technik",
+      "printer": "Druckerei",
+      "watermark": "Wasserzeichen",
+      "securityFeatures": "Sicherheitsmerkmale",
+      "desc": "Beschreibung",
+      "designers": "Designer",
+      "engravers": "Graveure",
+      "text": "Text"
+    }
+  },
+  "Stats": {
+    "title": "Sammlungsstatistik",
+    "items": "Exemplare",
+    "unique": "Einzigartige",
+    "countries": "Länder",
+    "forSwap": "Zum Tausch",
+    "mapTitle": "Geografie der Sammlung",
+    "total": "Gesamt",
+    "noData": "Keine Daten",
+    "gradesTitle": "Zustandsverteilung",
+    "topCountriesTitle": "Top-Länder",
+    "moreCountries": "+{n} weitere Länder",
+    "mapError": "Karte konnte nicht geladen werden. Internetverbindung prüfen.",
+    "authRequired": "Anmelden, um Statistiken anzuzeigen"
+  }
+}

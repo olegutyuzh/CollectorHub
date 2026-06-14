@@ -1,0 +1,184 @@
+{
+  "id": 202690,
+  "url": "https://en.numista.com/202690",
+  "title": "5 Hryven",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "ukraine",
+    "name": "Ukraine"
+  },
+  "issuing_entity": {
+    "id": 564,
+    "name": "National Bank of Ukraine",
+    "wikidata_id": "Q1070388"
+  },
+  "min_year": 2004,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 3209,
+      "name": "Republic",
+      "wikidata_id": "Q212"
+    }
+  ],
+  "value": {
+    "text": "5 Hryven",
+    "numeric_value": 5,
+    "currency": {
+      "id": 88,
+      "name": "Hryvnia",
+      "full_name": "Hryvnia (1996-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2004-06-14"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2026-03-02"
+  },
+  "size": 118,
+  "size2": 63,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Bohdan Khmelnytskyi (1595-1657) is a great hetman of Ukraine, a public figure and a military leader who established the Ukrainian State by uniting the left-bank and right-bank territories of Ukraine.",
+    "lettering": "НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ\r\nГОЛОВА\r\n5\r\nБогдан Хмельницький Гетьман\r\nБОГДАН ХМЕЛЬНИЦЬКИЙ\r\n5\r\n5\r\nП'ЯТЬ ГРИВЕНЬ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "NATIONAL BANK OF UKRAINE\r\nHEAD\r\n5\r\nBohdan Khmelnytskyi Hetman\r\nBOHDAN KHMELNYTSKYI\r\n5\r\n5\r\nFIVE HRYVNIAS",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/626e4fc6c54795.28526166-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/626e4fc6c54795.28526166-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Illyinska (St. Elias) Church in Subotiv village was built in 1653 as a Khmelnytskyi family burial-vault. B. Khmelnytskyi and his son Tymosh are buried there.",
+    "lettering": "П'ЯТЬ ГРИВЕНЬ\r\nНАЦІОНАЛЬНИЙ БАНК УКРАЇНИ\r\n5\r\nЦЕРКВА В СЕЛІ СУБОТОВІ\r\n2005\r\n5",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "FIVE HRYVNIAS\r\nNATIONAL BANK OF UKRAINE\r\n5\r\nTHE CHURCH IN THE SUBOTIV VILLAGE\r\n2005\r\n5",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/626e4fc8282c57.61417372-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/626e4fc8282c57.61417372-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>UV activity:<br><a href=\"https://en.numista.com/catalogue/images/64f225583b10a.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64f225583b10a.png\" alt=\"\"></a><br>© gyoschak</p><p>&nbsp;</p><p>UV activity (2004, P#118a):</p><p><a href=\"https://en.numista.com/catalogue/images/6668f8b8a43ec.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6668f8b8a43ec.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/6668f8bc7b761.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6668f8bc7b761.jpg\"></a></p><p>© Kiet Tran</p><p><br>The banknote contains a security strip with the inscription \"5 ГРН\" with the national emblem<br><a href=\"https://en.numista.com/catalogue/images/65229ed9b1abd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65229ed9b1abd.jpg\" alt=\"\"></a><br>@ ByRussia45<br>The banknote contains a see-through register<br><a href=\"https://en.numista.com/catalogue/images/65229f0436f80.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65229f0436f80.jpg\" alt=\"\"></a><br>@ ByRussia45<br><br>Volodymyr Semenovych Stelmakh was Chairman (Governor) of the Bank of Ukraine from 2000 until 2002 and from 2004 until 2010<br>Serhiy Leonidovych Tihipko was Chairman (Governor) of the Bank of Ukraine from 2002 until 2004<br>Serhiy Hennadiiovych Arbuzov was Chairman (Governor) of the Bank of Ukraine from 2010 until 2012<br>Ihor Viacheslavovych Sorkin was Chairman (Governor) of the Bank of Ukraine from 2013 until 2014<br>Valeriya Oleksiivna Hontareva was Chairman (Governor) of the Bank of Ukraine from 2014 until May 11, 2017<br><br>[b][Donetsk People's Republic Seal/b]<br>Holographic stamp with double-headed eagle and inscription \"Donetsk People's Republic\" used in areas of the self-proclaimed terrorist organization \"Donetsk People's Republic\" in 2014.<br><a href=\"https://en.numista.com/catalogue/images/650ce4883ec0b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/650ce4883ec0b.jpg\" alt=\"\"></a></p>",
+  "related_types": [
+    {
+      "id": 202697,
+      "title": "1 Hryvnia",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2006,
+      "maxYear": 2018
+    },
+    {
+      "id": 202693,
+      "title": "2 Hryvni",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2004,
+      "maxYear": 2018
+    },
+    {
+      "id": 202679,
+      "title": "10 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2004,
+      "maxYear": 2005
+    },
+    {
+      "id": 202248,
+      "title": "20 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2003,
+      "maxYear": 2016
+    },
+    {
+      "id": 202240,
+      "title": "50 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2004,
+      "maxYear": 2014
+    },
+    {
+      "id": 202224,
+      "title": "100 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2005,
+      "maxYear": 2014
+    }
+  ],
+  "tags": [
+    "Religious building",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "118"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "846"
+    }
+  ],
+  "watermark": {
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/60b7b6dbbac642.00711818-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/60b7b6dbbac642.00711818-180.jpg",
+    "picture_copyright": "oXide3030",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 60,
+      "name": "Banknote Printing and Minting Works of the National Bank of Ukraine"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

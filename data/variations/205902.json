@@ -1,0 +1,113 @@
+[
+  {
+    "id": 509786,
+    "is_dated": false,
+    "min_year": 2017,
+    "max_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Federico Adolfo Sturzenegger",
+        "title": "President of the Central Bank of Argentina"
+      },
+      {
+        "signer_name": "Marta Gabriela Michetti",
+        "title": "President of the Honourable Chamber of Senators"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1841,
+          "code": "Bottero"
+        },
+        "number": "5001"
+      },
+      {
+        "catalogue": {
+          "id": 1841,
+          "code": "Bottero"
+        },
+        "number": "5002"
+      }
+    ],
+    "comment": "a1 - Series A, B"
+  },
+  {
+    "id": 719339,
+    "is_dated": false,
+    "min_year": 2017,
+    "max_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Federico Adolfo Sturzenegger",
+        "title": "President of the Central Bank of Argentina"
+      },
+      {
+        "signer_name": "Marta Gabriela Michetti",
+        "title": "President of the Honourable Chamber of Senators"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1841,
+          "code": "Bottero"
+        },
+        "number": "5003"
+      }
+    ],
+    "comment": "Replacement (R1) : Prefix R"
+  },
+  {
+    "id": 585256,
+    "is_dated": false,
+    "min_year": 2019,
+    "max_year": 2020,
+    "signatures": [
+      {
+        "signer_name": "Guido Martí­n Sandleris",
+        "title": "President of the Central Bank of Argentina"
+      },
+      {
+        "signer_name": "Marta Gabriela Michetti",
+        "title": "President of the Honourable Chamber of Senators"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1841,
+          "code": "Bottero"
+        },
+        "number": "5004-5006"
+      }
+    ],
+    "comment": "a2 - Series B, C"
+  },
+  {
+    "id": 775510,
+    "is_dated": false,
+    "min_year": 2019,
+    "max_year": 2020,
+    "signatures": [
+      {
+        "signer_name": "Guido Martí­n Sandleris",
+        "title": "President of the Central Bank of Argentina"
+      },
+      {
+        "signer_name": "Marta Gabriela Michetti",
+        "title": "President of the Honourable Chamber of Senators"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1841,
+          "code": "Bottero"
+        },
+        "number": "5007"
+      }
+    ],
+    "comment": "Replacement (R1) : Prefix R"
+  }
+]

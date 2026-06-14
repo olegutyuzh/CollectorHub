@@ -1,0 +1,233 @@
+[
+  {
+    "id": 507543,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "month": 1,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Mahinda Rajapaksa",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Ajith Nivard Cabraal",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "comment": "P# 125a"
+  },
+  {
+    "id": 583540,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "month": 1,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Mahinda Rajapaksa",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Ajith Nivard Cabraal",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "comment": "P# 125b, low serial number in commemorative folder"
+  },
+  {
+    "id": 583541,
+    "is_dated": false,
+    "min_year": 2010,
+    "max_year": 2017,
+    "comment": "P# 125c, uncut sheet of 40, serial number prefix CB/60"
+  },
+  {
+    "id": 583542,
+    "is_dated": false,
+    "min_year": 2010,
+    "max_year": 2017,
+    "comment": "P# 125r, replacement, serial number prefix Z/4"
+  },
+  {
+    "id": 507545,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "comment": "no Pick number"
+  },
+  {
+    "id": 507547,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "comment": "no Pick number"
+  },
+  {
+    "id": 507548,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "month": 2,
+    "day": 4,
+    "signatures": [
+      {
+        "signer_name": "Ravindra Sandresh Karunanayake",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Lakshman Arjuna Mahendran",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "comment": "P# 125d"
+  },
+  {
+    "id": 507549,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 7,
+    "day": 4,
+    "signatures": [
+      {
+        "signer_name": "Ravindra Sandresh Karunanayake",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Indrajit Coomaraswamy",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P# 125e"
+  },
+  {
+    "id": 583539,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "month": 5,
+    "day": 22,
+    "signatures": [
+      {
+        "signer_name": "Mangala Pinsiri Samaraweera",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Indrajit Coomaraswamy",
+        "title": "Governor"
+      }
+    ],
+    "comment": "no Pick number"
+  },
+  {
+    "id": 716607,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "month": 1,
+    "day": 28,
+    "signatures": [
+      {
+        "signer_name": "Mangala Pinsiri Samaraweera",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Indrajit Coomaraswamy",
+        "title": "Governor"
+      }
+    ]
+  },
+  {
+    "id": 716608,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "month": 12,
+    "day": 24,
+    "signatures": [
+      {
+        "signer_name": "Mahinda Rajapaksa",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Weligamage Don Lakshman",
+        "title": "Governor of the Central Bank"
+      }
+    ]
+  },
+  {
+    "id": 721903,
+    "is_dated": true,
+    "year": 2020,
+    "gregorian_year": 2020,
+    "month": 8,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "Mahinda Rajapaksa",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Weligamage Don Lakshman",
+        "title": "Governor of the Central Bank"
+      }
+    ]
+  },
+  {
+    "id": 781013,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "month": 9,
+    "day": 15,
+    "signatures": [
+      {
+        "signer_name": "Basil Rajapaksa",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Ajith Nivard Cabraal",
+        "title": "Governor"
+      }
+    ]
+  },
+  {
+    "id": 862348,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "month": 7,
+    "day": 4,
+    "signatures": [
+      {
+        "signer_name": "Ranil Wickremesinghe",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "P. Nandalal Weerasinghe",
+        "title": "Governor"
+      }
+    ]
+  },
+  {
+    "id": 1079246,
+    "is_dated": true,
+    "year": 2024,
+    "gregorian_year": 2024,
+    "month": 11,
+    "day": 18,
+    "signatures": [
+      {
+        "signer_name": "Anura Kumara Dissanayake",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "P. Nandalal Weerasinghe",
+        "title": "Governor"
+      }
+    ]
+  }
+]

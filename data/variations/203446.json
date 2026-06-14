@@ -1,0 +1,60 @@
+[
+  {
+    "id": 499135,
+    "is_dated": false,
+    "min_year": 1987,
+    "max_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Thomas Davis",
+        "title": "Minister of Finance"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "5a"
+      }
+    ]
+  },
+  {
+    "id": 499136,
+    "is_dated": false,
+    "min_year": 1987,
+    "max_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "M. J. Fleming",
+        "title": "Financial Secretary"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "5b"
+      }
+    ]
+  },
+  {
+    "id": 499137,
+    "is_dated": false,
+    "min_year": 1987,
+    "max_year": 1987,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "5s"
+      }
+    ],
+    "comment": "SPECIMEN"
+  }
+]

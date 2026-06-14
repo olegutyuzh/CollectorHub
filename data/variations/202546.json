@@ -1,0 +1,67 @@
+[
+  {
+    "id": 494944,
+    "is_dated": false,
+    "min_year": 1953,
+    "max_year": 1974,
+    "mintage": 518400000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "90a"
+      }
+    ],
+    "comment": "single letter serial # prefix"
+  },
+  {
+    "id": 494945,
+    "is_dated": false,
+    "min_year": 1953,
+    "max_year": 1974,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "90b"
+      }
+    ],
+    "comment": "double letter serial # prefix, light brown paper"
+  },
+  {
+    "id": 494946,
+    "is_dated": false,
+    "min_year": 1953,
+    "max_year": 1974,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "90c"
+      }
+    ],
+    "comment": "double letter serial # prefix, white paper"
+  },
+  {
+    "id": 494947,
+    "is_dated": false,
+    "min_year": 1953,
+    "max_year": 1974,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "90s"
+      }
+    ],
+    "comment": "specimen with red overprint and perforated 見本"
+  }
+]

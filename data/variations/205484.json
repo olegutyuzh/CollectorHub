@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1060121,
+    "is_dated": true,
+    "year": 1953,
+    "gregorian_year": 1953,
+    "month": 4,
+    "day": 7,
+    "signatures": [
+      {
+        "signer_name": "Joaquín Benjumea y Burín",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Antonio Victoriano Martín Martín",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Joaquín Serrano García",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "145a"
+      }
+    ],
+    "comment": "Serial format: 6-7 digits"
+  },
+  {
+    "id": 507752,
+    "is_dated": true,
+    "year": 1953,
+    "gregorian_year": 1953,
+    "month": 4,
+    "day": 7,
+    "signatures": [
+      {
+        "signer_name": "Joaquín Benjumea y Burín",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Antonio Victoriano Martín Martín",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Joaquín Serrano García",
+        "title": "Cashier"
+      }
+    ],
+    "mintage": 981000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "145a.2"
+      }
+    ],
+    "comment": "Issued note. Serial format: Letter / 7 digits"
+  },
+  {
+    "id": 873671,
+    "is_dated": true,
+    "year": 1953,
+    "gregorian_year": 1953,
+    "month": 4,
+    "day": 7,
+    "signatures": [
+      {
+        "signer_name": "Joaquín Benjumea y Burín",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Antonio Victoriano Martín Martín",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Joaquín Serrano García",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "145a.3"
+      }
+    ],
+    "comment": "Serial format: 1 digit / 1 letter / 6 digits"
+  },
+  {
+    "id": 873672,
+    "is_dated": true,
+    "year": 1953,
+    "gregorian_year": 1953,
+    "month": 4,
+    "day": 7,
+    "signatures": [
+      {
+        "signer_name": "Joaquín Benjumea y Burín",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Antonio Victoriano Martín Martín",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Joaquín Serrano García",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "145a.4"
+      }
+    ],
+    "comment": "Serial format: 1 digit / 1 letter / 7 digits"
+  },
+  {
+    "id": 578765,
+    "is_dated": true,
+    "year": 1953,
+    "gregorian_year": 1953,
+    "month": 4,
+    "day": 7,
+    "signatures": [
+      {
+        "signer_name": "Joaquín Benjumea y Burín",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Antonio Victoriano Martín Martín",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Joaquín Serrano García",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "145s"
+      }
+    ],
+    "comment": "Specimen"
+  }
+]

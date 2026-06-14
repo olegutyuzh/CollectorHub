@@ -1,0 +1,222 @@
+[
+  {
+    "id": 578802,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "month": 7,
+    "day": 31,
+    "signatures": [
+      {
+        "signer_name": "Jean-Claude Masangu-Mulongo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "98a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "320a"
+      }
+    ],
+    "comment": "Prefix: MA-MD; Printer: HdM"
+  },
+  {
+    "id": 498256,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "month": 7,
+    "day": 31,
+    "signatures": [
+      {
+        "signer_name": "Jean-Claude Masangu-Mulongo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "98A"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "320b"
+      }
+    ],
+    "comment": "Prefix: MA, MB; Printer: G&D"
+  },
+  {
+    "id": 578803,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "month": 7,
+    "day": 31,
+    "signatures": [
+      {
+        "signer_name": "Jean-Claude Masangu-Mulongo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "98s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "320as"
+      }
+    ],
+    "comment": "Specimen; Printer: HdM"
+  },
+  {
+    "id": 779883,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "month": 6,
+    "day": 30,
+    "signatures": [
+      {
+        "signer_name": "Deogratias Mutombo Mwana Nyembo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "320d"
+      }
+    ],
+    "comment": "Prefix: ME; Printer: G&D"
+  },
+  {
+    "id": 578804,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "month": 6,
+    "day": 30,
+    "signatures": [
+      {
+        "signer_name": "Deogratias Mutombo Mwana Nyembo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "98b"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "320c"
+      }
+    ],
+    "comment": "Prefix: MD / Suffix: P-W; Printer: HdM"
+  },
+  {
+    "id": 950377,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "month": 6,
+    "day": 30,
+    "signatures": [
+      {
+        "signer_name": "Deogratias Mutombo Mwana Nyembo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "320d"
+      }
+    ],
+    "comment": "Prefix: ME; Printer: HdM"
+  },
+  {
+    "id": 772578,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "month": 1,
+    "day": 4,
+    "signatures": [
+      {
+        "signer_name": "Marie-France Malangu Kabedi Mbuyi",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "320e"
+      }
+    ],
+    "comment": "Prefix: ME; Printer: HdM"
+  },
+  {
+    "id": 949821,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "month": 1,
+    "day": 4,
+    "signatures": [
+      {
+        "signer_name": "Marie-France Malangu Kabedi Mbuyi",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "320f"
+      }
+    ],
+    "comment": "Prefix: ME, MF; Printer: Oberthur"
+  }
+]

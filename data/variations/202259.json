@@ -1,0 +1,87 @@
+[
+  {
+    "id": 494375,
+    "is_dated": true,
+    "year": 1995,
+    "gregorian_year": 1995,
+    "month": 11,
+    "day": 15,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "109a"
+      }
+    ]
+  },
+  {
+    "id": 517870,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "month": 12,
+    "day": 12,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "109b"
+      }
+    ]
+  },
+  {
+    "id": 517871,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "month": 7,
+    "day": 1,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "109c"
+      }
+    ]
+  },
+  {
+    "id": 517988,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "month": 11,
+    "day": 19,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "109d"
+      }
+    ]
+  },
+  {
+    "id": 497682,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "month": 7,
+    "day": 3,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "109e"
+      }
+    ]
+  }
+]

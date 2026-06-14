@@ -1,0 +1,184 @@
+{
+  "id": 202240,
+  "url": "https://en.numista.com/202240",
+  "title": "50 Hryven",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "ukraine",
+    "name": "Ukraine"
+  },
+  "issuing_entity": {
+    "id": 564,
+    "name": "National Bank of Ukraine",
+    "wikidata_id": "Q1070388"
+  },
+  "min_year": 2004,
+  "max_year": 2014,
+  "ruler": [
+    {
+      "id": 3209,
+      "name": "Republic",
+      "wikidata_id": "Q212"
+    }
+  ],
+  "value": {
+    "text": "50 Hryven",
+    "numeric_value": 50,
+    "currency": {
+      "id": 88,
+      "name": "Hryvnia",
+      "full_name": "Hryvnia (1996-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2004-03-29"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 136,
+  "size2": 72,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Mykhailo Hrushevskyi was the founder and president of the Ukrainian People’s Republic, the chair of the Central Council, a renowned historian, scientist, writer, civic and political activist, and a public figure.",
+    "lettering": "НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ\r\n\r\n50\r\nІсторія України\r\nМИХАЙЛО ГРУШЕВСЬКИЙ\r\n\r\nП'ЯТДЕСЯТ ГРИВЕНЬ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "National Bank of Ukraine, History of Ukraine, Mykhailo Hrushevskyi, Fifty Hryven",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/63beeb2f780de8.08690846-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/63beeb2f780de8.08690846-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The Central Council building was constructed in 1912 to a design by the famous Kyiv architect Pavlo Alioshyn. In this building, the Central Council, the first national government of Ukraine, adopted its landmark universals.",
+    "lettering": "НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ\r\n\r\nП'ЯТДЕСЯТ ГРИВЕНЬ\r\n50\r\n\r\nБУДИНОК УКРАЇНСЬКОЇ ЦЕНТРАЛЬНОЇ РАДИ\r\n2004",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Fifty Hryven, National Bank of Ukraine, The Building of the Ukrainian Central Council",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/63beeb32c5c1b4.68898422-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/63beeb32c5c1b4.68898422-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>UV activity:<br><a href=\"https://en.numista.com/catalogue/images/64f2289f7d46e.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64f2289f7d46e.png\" alt=\"\"></a><br>© gyoschak</p><p><a href=\"https://en.numista.com/catalogue/images/6668fb605113c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6668fb605113c.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p style=\"margin-left:0px;\">Security thread:</p><p style=\"margin-left:0px;\">Solid, only visible under a backlight with the inscription of “50 ГРН” repeated three times as well as the national emblem.</p><p style=\"margin-left:0px;\"><a href=\"https://en.numista.com/catalogue/images/6668fb816d2ac.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6668fb816d2ac.jpg\"></a></p><p style=\"margin-left:0px;\">© Kiet Tran</p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\">The denomination “50” is printed in colour shifting ink, changes colour from purple to gold when note is tilted:</p><p style=\"margin-left:0px;\"><a href=\"https://en.numista.com/catalogue/images/6668fbea822a3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6668fbea822a3.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/6668fbefc19f0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6668fbefc19f0.jpg\"></a></p><p style=\"margin-left:0px;\">© Kiet Tran</p><p style=\"margin-left:0px;\"><br><br>Volodymyr Semenovych Stelmakh was Chairman (Governor) of the Bank of Ukraine from 2000 until 2002 and from 2004 until 2010<br>Serhiy Leonidovych Tihipko was Chairman (Governor) of the Bank of Ukraine from 2002 until 2004<br>Serhiy Hennadiiovych Arbuzov was Chairman (Governor) of the Bank of Ukraine from 2010 until 2012<br>Ihor Viacheslavovych Sorkin was Chairman (Governor) of the Bank of Ukraine from 2013 until 2014<br>Stepan Kubiv was Chairman (Governor) of the Bank of Ukraine in 2014<br>Valeriya Oleksiivna Hontareva was Chairman (Governor) of the Bank of Ukraine from 2014 until May 11, 2017</p>",
+  "related_types": [
+    {
+      "id": 202700,
+      "title": "1 Hryvnia",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2004,
+      "maxYear": 2005
+    },
+    {
+      "id": 202693,
+      "title": "2 Hryvni",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2004,
+      "maxYear": 2018
+    },
+    {
+      "id": 202690,
+      "title": "5 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2004,
+      "maxYear": 2015
+    },
+    {
+      "id": 202679,
+      "title": "10 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2004,
+      "maxYear": 2005
+    },
+    {
+      "id": 202248,
+      "title": "20 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2003,
+      "maxYear": 2016
+    },
+    {
+      "id": 202224,
+      "title": "100 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2005,
+      "maxYear": 2014
+    }
+  ],
+  "tags": [
+    "Politician",
+    "Scientist"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "121"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "850"
+    }
+  ],
+  "watermark": {
+    "description": "Mykhailo Hrushevskyi and denomination",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/64f228b91444f0.00004347-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/64f228b91444f0.00004347-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 60,
+      "name": "Banknote Printing and Minting Works of the National Bank of Ukraine"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

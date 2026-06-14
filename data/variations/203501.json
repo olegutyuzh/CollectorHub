@@ -1,0 +1,110 @@
+[
+  {
+    "id": 499350,
+    "is_dated": true,
+    "year": 2003,
+    "gregorian_year": 2003,
+    "month": 7,
+    "day": 1,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "207a"
+      }
+    ],
+    "comment": "Signature: Vincent Cheng (General Manager)"
+  },
+  {
+    "id": 499351,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "month": 1,
+    "day": 1,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "207b"
+      }
+    ],
+    "comment": "Signature: Vincent Cheng (General Manager)"
+  },
+  {
+    "id": 499352,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "month": 1,
+    "day": 1,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "207c"
+      }
+    ],
+    "comment": "Signature: Peter Wong (Executive Director)"
+  },
+  {
+    "id": 499353,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "month": 1,
+    "day": 1,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "207d"
+      }
+    ],
+    "comment": "Signature: Peter Wong (Executive Director)"
+  },
+  {
+    "id": 499354,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "month": 1,
+    "day": 1,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "207e"
+      }
+    ],
+    "comment": "Signature: Peter Wong (Executive Director)"
+  },
+  {
+    "id": 499355,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "month": 1,
+    "day": 1,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "207f"
+      }
+    ],
+    "comment": "Signature: Peter Wong (Executive Director)"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 493920,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "signatures": [
+      {
+        "signer_name": "Chea Chanto",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tieng Seng",
+        "title": "General Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "58a"
+      }
+    ]
+  },
+  {
+    "id": 493294,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "58b"
+      }
+    ]
+  },
+  {
+    "id": 497197,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "58c"
+      }
+    ],
+    "comment": "បោះពុម្ពឆ្នៃំ ២០១៤ (Printed 2014) lower right"
+  }
+]

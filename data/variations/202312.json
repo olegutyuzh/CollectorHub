@@ -1,0 +1,127 @@
+[
+  {
+    "id": 494492,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "signatures": [
+      {
+        "signer_name": "Jorge Aurelio Villalba Leguizamón",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Jorge Raúl Corvalán Mendoza",
+        "title": "President"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "234a"
+      },
+      {
+        "catalogue": {
+          "id": 1758,
+          "code": "Pratt"
+        },
+        "number": "MC221.o"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "857a"
+      }
+    ],
+    "comment": "Prefix: G"
+  },
+  {
+    "id": 494493,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Darío Rolando Arrélaga Yaluk",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Carlos Gustavo Fernández Valdovinos",
+        "title": "President"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "234b"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "857b"
+      }
+    ],
+    "comment": "Prefix: H"
+  },
+  {
+    "id": 494494,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Carlos Daniel Benitez Vieira",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Carlos Gustavo Fernández Valdovinos",
+        "title": "President"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "857c"
+      }
+    ],
+    "comment": "Prefix: I"
+  },
+  {
+    "id": 762829,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "signatures": [
+      {
+        "signer_name": "Holger Anibal Insfrán Ibarraola",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Cantero Sienra",
+        "title": "President"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "857d"
+      }
+    ],
+    "comment": "Prefix: J"
+  }
+]

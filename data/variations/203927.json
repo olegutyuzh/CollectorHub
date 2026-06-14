@@ -1,0 +1,508 @@
+[
+  {
+    "id": 503326,
+    "is_dated": false,
+    "min_year": 1996,
+    "max_year": 1996,
+    "comment": "P#188s - As a, Specimen"
+  },
+  {
+    "id": 541024,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "month": 4,
+    "day": 18,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Abel Moreira Mateus",
+        "title": "Administrator"
+      }
+    ],
+    "mintage": 56000000,
+    "comment": "P#188a; Silva# 173 - O Governador: António de Sousa / O Administrador: Abel Moreira Mateus"
+  },
+  {
+    "id": 541022,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "month": 4,
+    "day": 18,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Bernardino Manuel da Costa Pereira",
+        "title": "Administrator"
+      }
+    ],
+    "comment": "P#188a; Silva# 173 - O Governador: António de Sousa / O Administrador: Bernardino Costa Pereira"
+  },
+  {
+    "id": 541025,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "month": 4,
+    "day": 18,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Carlos Alberto de Oliveira Cruz",
+        "title": "Administrator"
+      }
+    ],
+    "comment": "P#188a; Silva# 173 - O Governador: António de Sousa / O Administrador: Carlos de Oliveira Cruz"
+  },
+  {
+    "id": 541023,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "month": 4,
+    "day": 18,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Diogo José Paredes Leite de Campos",
+        "title": "Administrator"
+      }
+    ],
+    "comment": "P#188a; Silva# 173 - O Governador: António de Sousa / O Administrador: Diogo Leite de Campos"
+  },
+  {
+    "id": 500911,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "month": 4,
+    "day": 18,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "António Manuel Martins Pereira Marta",
+        "title": "Deputy Governor"
+      }
+    ],
+    "comment": "P#188a; Silva# 173 - O Governador: António de Sousa / O Vice-Governador: António M Pereira Marta"
+  },
+  {
+    "id": 541021,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "month": 4,
+    "day": 18,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Luís Manuel Moreira de Campos e Cunha",
+        "title": "Deputy Governor"
+      }
+    ],
+    "comment": "P#188a; Silva# 173 - O Governador: António de Sousa / O Vice-Governador: Luís Campos e Cunha"
+  },
+  {
+    "id": 541029,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "month": 10,
+    "day": 31,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Abel Moreira Mateus",
+        "title": "Administrator"
+      }
+    ],
+    "mintage": 40000000,
+    "comment": "P#188b; Silva# 174 - O Governador: António de Sousa / O Administrador: Abel Moreira Mateus"
+  },
+  {
+    "id": 541027,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "month": 10,
+    "day": 31,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Bernardino Manuel da Costa Pereira",
+        "title": "Administrator"
+      }
+    ],
+    "comment": "P#188b; Silva# 174 - O Governador: António de Sousa / O Administrador: Bernardino Costa Pereira"
+  },
+  {
+    "id": 541030,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "month": 10,
+    "day": 31,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Carlos Alberto de Oliveira Cruz",
+        "title": "Administrator"
+      }
+    ],
+    "comment": "P#188b; Silva# 174 - O Governador: António de Sousa / O Administrador: Carlos de Oliveira Cruz"
+  },
+  {
+    "id": 541028,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "month": 10,
+    "day": 31,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Diogo José Paredes Leite de Campos",
+        "title": "Administrator"
+      }
+    ],
+    "comment": "P#188b; Silva# 174 - O Governador: António de Sousa / O Administrador: Diogo Leite de Campos"
+  },
+  {
+    "id": 503322,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "month": 10,
+    "day": 31,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "António Manuel Martins Pereira Marta",
+        "title": "Deputy Governor"
+      }
+    ],
+    "comment": "P#188b; Silva# 174 - O Governador: António de Sousa / O Vice-Governador: António M Pereira Marta"
+  },
+  {
+    "id": 541026,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "month": 10,
+    "day": 31,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Luís Manuel Moreira de Campos e Cunha",
+        "title": "Deputy Governor"
+      }
+    ],
+    "comment": "P#188b; Silva# 174 - O Governador: António de Sousa / O Vice-Governador: Luís Campos e Cunha"
+  },
+  {
+    "id": 541034,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "month": 3,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Abel Moreira Mateus",
+        "title": "Administrator"
+      }
+    ],
+    "mintage": 40000000,
+    "comment": "P#188c; Silva# 175 - O Governador: António de Sousa / O Administrador: Abel Moreira Mateus"
+  },
+  {
+    "id": 541032,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "month": 3,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Bernardino Manuel da Costa Pereira",
+        "title": "Administrator"
+      }
+    ],
+    "comment": "P#188c; Silva# 175 - O Governador: António de Sousa / O Administrador: Bernardino Costa Pereira"
+  },
+  {
+    "id": 541035,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "month": 3,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Carlos Alberto de Oliveira Cruz",
+        "title": "Administrator"
+      }
+    ],
+    "comment": "P#188c; Silva# 175 - O Governador: António de Sousa / O Administrador: Carlos de Oliveira Cruz"
+  },
+  {
+    "id": 541033,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "month": 3,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Diogo José Paredes Leite de Campos",
+        "title": "Administrator"
+      }
+    ],
+    "comment": "P#188c; Silva# 175 - O Governador: António de Sousa / O Administrador: Diogo Leite de Campos"
+  },
+  {
+    "id": 503323,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "month": 3,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "António Manuel Martins Pereira Marta",
+        "title": "Deputy Governor"
+      }
+    ],
+    "comment": "P#188c; Silva# 175 - O Governador: António de Sousa / O Vice-Governador: António M Pereira Marta"
+  },
+  {
+    "id": 541031,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "month": 3,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Luís Manuel Moreira de Campos e Cunha",
+        "title": "Deputy Governor"
+      }
+    ],
+    "comment": "P#188c; Silva# 175 - O Governador: António de Sousa / O Vice-Governador: Luís Campos e Cunha"
+  },
+  {
+    "id": 541036,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "month": 5,
+    "day": 21,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Abel Moreira Mateus",
+        "title": "Administrator"
+      }
+    ],
+    "mintage": 50000000,
+    "comment": "P#188c; Silva# 176 - O Governador: António de Sousa / O Administrador: Abel Moreira Mateus"
+  },
+  {
+    "id": 541037,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "month": 5,
+    "day": 21,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Bernardino Manuel da Costa Pereira",
+        "title": "Administrator"
+      }
+    ],
+    "comment": "P#188c; Silva# 176 - O Governador: António de Sousa / O Administrador: Bernardino Costa Pereira"
+  },
+  {
+    "id": 728755,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "month": 5,
+    "day": 21,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Carlos Alberto de Oliveira Cruz",
+        "title": "Administrator"
+      }
+    ],
+    "comment": "P#188c; Silva# 176 - O Governador: António de Sousa / O Administrador: Carlos de Oliveira Cruz"
+  },
+  {
+    "id": 541039,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "month": 5,
+    "day": 21,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Diogo José Paredes Leite de Campos",
+        "title": "Administrator"
+      }
+    ],
+    "comment": "P#188c; Silva# 176 - O Governador: António de Sousa / O Administrador: Diogo Leite de Campos"
+  },
+  {
+    "id": 503324,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "month": 5,
+    "day": 21,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "António Manuel Martins Pereira Marta",
+        "title": "Deputy Governor"
+      }
+    ],
+    "comment": "P#188c; Silva# 176 - O Governador: António de Sousa / O Vice-Governador: António M Pereira Marta"
+  },
+  {
+    "id": 541038,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "month": 5,
+    "day": 21,
+    "signatures": [
+      {
+        "signer_name": "António José Fernandes de Sousa",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Luís Manuel Moreira de Campos e Cunha",
+        "title": "Deputy Governor"
+      }
+    ],
+    "comment": "P#188c; Silva# 176 - O Governador: António de Sousa / O Vice-Governador: Luís Campos e Cunha"
+  },
+  {
+    "id": 503325,
+    "is_dated": true,
+    "year": 2000,
+    "gregorian_year": 2000,
+    "month": 11,
+    "day": 7,
+    "signatures": [
+      {
+        "signer_name": "Vítor Manuel Ribeiro Constâncio",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "António Manuel Martins Pereira Marta",
+        "title": "Deputy Governor"
+      }
+    ],
+    "mintage": 43000000,
+    "comment": "P#188d; Silva# 177 - O Governador: Victor Constâncio / O Vice-Governador: Antônio Pereira Marta"
+  },
+  {
+    "id": 541040,
+    "is_dated": true,
+    "year": 2000,
+    "gregorian_year": 2000,
+    "month": 11,
+    "day": 7,
+    "signatures": [
+      {
+        "signer_name": "Vítor Manuel Ribeiro Constâncio",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Luís Manuel Moreira de Campos e Cunha",
+        "title": "Deputy Governor"
+      }
+    ],
+    "comment": "P#188d; Silva# 177 - O Governador: Victor Constâncio / O Vice-Governador: Luís Campos e Cunha"
+  }
+]

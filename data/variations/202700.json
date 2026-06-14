@@ -1,0 +1,26 @@
+[
+  {
+    "id": 495572,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Serhii Leonidovych Tihipko",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ]
+  },
+  {
+    "id": 495573,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "signatures": [
+      {
+        "signer_name": "Volodymyr Semenovych Stelmakh",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ]
+  }
+]

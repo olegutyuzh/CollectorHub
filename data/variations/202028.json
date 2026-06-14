@@ -1,0 +1,28 @@
+[
+  {
+    "id": 493729,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "signatures": [
+      {
+        "signer_name": "Änwar Ğalïmollaulı Säydenov",
+        "title": "President of National Bank"
+      }
+    ],
+    "comment": "Issued note; Prefix: AA - ИK"
+  },
+  {
+    "id": 834269,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "signatures": [
+      {
+        "signer_name": "Änwar Ğalïmollaulı Säydenov",
+        "title": "President of National Bank"
+      }
+    ],
+    "comment": "Replacement; Prefix ЛЛ"
+  }
+]

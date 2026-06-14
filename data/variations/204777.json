@@ -1,0 +1,86 @@
+[
+  {
+    "id": 505061,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "month": 7,
+    "day": 5,
+    "signatures": [
+      {
+        "signer_name": "Carlos Augusto de Burgo",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Manuel Pinto Frederico",
+        "title": "Administrator"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "71a"
+      }
+    ],
+    "comment": "Issued note"
+  },
+  {
+    "id": 1068359,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "month": 7,
+    "day": 5,
+    "signatures": [
+      {
+        "signer_name": "Carlos Augusto de Burgo",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Manuel Pinto Frederico",
+        "title": "Administrator"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "71r"
+      }
+    ],
+    "comment": "Replacement - Prefix: ZA"
+  },
+  {
+    "id": 733014,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "month": 7,
+    "day": 5,
+    "signatures": [
+      {
+        "signer_name": "Carlos Augusto de Burgo",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Manuel Pinto Frederico",
+        "title": "Administrator"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "71s"
+      }
+    ],
+    "comment": "Specimen"
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "id": 202205,
+  "url": "https://en.numista.com/202205",
+  "title": "500 Hryven",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "ukraine",
+    "name": "Ukraine"
+  },
+  "issuing_entity": {
+    "id": 564,
+    "name": "National Bank of Ukraine",
+    "wikidata_id": "Q1070388"
+  },
+  "min_year": 2006,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 3209,
+      "name": "Republic",
+      "wikidata_id": "Q212"
+    }
+  ],
+  "value": {
+    "text": "500 Hryven",
+    "numeric_value": 500,
+    "currency": {
+      "id": 88,
+      "name": "Hryvnia",
+      "full_name": "Hryvnia (1996-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2006-09-15"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 154,
+  "size2": 75,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Hryhorii Skovoroda (1722-1794). An outstanding Ukrainian philosopher, poet, writer, enlightener, pedagogue and musician. He epitomized the spiritual awakening of the Ukrainian society in the end of the XVIIIth century.",
+    "lettering": "500\r\nП'ЯТСОТ ГРИВЕНЬ\r\nУКРАЇНА\r\nНе ра́вное всѣмъ ра́венство.\r\nЛьются изъ разныхъ тру́бокъ, разные токи: въ ра́зные\r\nГригорій Сковорода\r\n1722-1794\r\nНАЦІОНАЛЬНИЙ БАНК УКРАЇНИ\r\nГолова\r\n500",
+    "lettering_translation": "500\r\nFIVE HUNDRED HRYVNIAS\r\nUKRAINE\r\nNot equal to all equality.\r\nThey flow from different pipes, different currents: into different\r\nHryhorii Skovoroda\r\n1722-1794\r\nNATIONAL BANK OF UKRAINE\r\nHead\r\n500",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5e960aeae0c757.88045439-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5e960aeae0c757.88045439-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "reverse": {
+    "description": "Kyiv Mohyla Academy – the first higher education school in Ukraine founded in 1632; the largest centre of general education in the XVII-XVIIIth centuries. It trained teachers for Slavo-Greek-Latin academies, clerical educators and theological seminary teachers. H. Skovoroda was among the most famous alumni of the Kyiv Mohyla Academy.",
+    "lettering": "УКРАЇНА\r\n500\r\nП'ятсот гривень\r\nКиїв 2006\r\nКиєво-Могилянська академія\r\n500 ГРИВЕНЬ 500",
+    "lettering_translation": "UKRAINE\r\n500\r\nFive hundred hryvnias\r\nKyiv 2006\r\nKyiv-Mohyla Academy\r\n500 HRYVEN 500",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5e960aeb754a29.85708167-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5e960aeb754a29.85708167-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "related_types": [
+    {
+      "id": 202008,
+      "title": "500 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2015,
+      "maxYear": 2023
+    }
+  ],
+  "tags": [
+    "Literature",
+    "Artist",
+    "Philosopher",
+    "Education"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "124"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "853"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

@@ -1,0 +1,1112 @@
+[
+  {
+    "id": 505949,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "Ruston William Lawson",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Gerald Keith Bouey",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 80000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "37d"
+      }
+    ],
+    "comment": "W/F → Z/F, A/I → D/I prefixes [BABN]"
+  },
+  {
+    "id": 496551,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "James Elliott Coyne",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 5920000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74a"
+      }
+    ],
+    "comment": "F/N prefix [CBN] - Changeover"
+  },
+  {
+    "id": 557024,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "James Elliott Coyne",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 6060000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74a"
+      }
+    ],
+    "comment": "T/A prefix [CBN]"
+  },
+  {
+    "id": 496548,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "James Elliott Coyne",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74a"
+      }
+    ],
+    "comment": "U/A → Z/A, A/L → P/L, R/L → Z/L, A/N → E/N prefixes [CBN]"
+  },
+  {
+    "id": 496549,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "James Elliott Coyne",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 62400,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74a*"
+      }
+    ],
+    "comment": "*A/A prefix [CBN] - Replacement"
+  },
+  {
+    "id": 492976,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 376800,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74b"
+      }
+    ],
+    "comment": "*A/A prefix [CBN] - Replacement"
+  },
+  {
+    "id": 496539,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 399381,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74b"
+      }
+    ],
+    "comment": "*A/Y prefix [CBN] - Replacement"
+  },
+  {
+    "id": 496541,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 80000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74b"
+      }
+    ],
+    "comment": "*D/O prefix [CBN] - Replacement"
+  },
+  {
+    "id": 496542,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 398018,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74b"
+      }
+    ],
+    "comment": "*H/Y prefix [CBN] - Replacement"
+  },
+  {
+    "id": 496543,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 80000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74b"
+      }
+    ],
+    "comment": "*I/O prefix [CBN] - Replacement"
+  },
+  {
+    "id": 496544,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 198132,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74b"
+      }
+    ],
+    "comment": "*M/Y prefix [CBN] - Replacement"
+  },
+  {
+    "id": 496545,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 80000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74b"
+      }
+    ],
+    "comment": "*N/Y prefix [CBN] - Replacement"
+  },
+  {
+    "id": 496546,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 199184,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74b"
+      }
+    ],
+    "comment": "*O/Y prefix [CBN] - Replacement"
+  },
+  {
+    "id": 496547,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 399529,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74b"
+      }
+    ],
+    "comment": "*S/O prefix [CBN] - Replacement"
+  },
+  {
+    "id": 557026,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 4080000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74b"
+      }
+    ],
+    "comment": "F/N prefix [CBN] - Changeover"
+  },
+  {
+    "id": 506517,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74b"
+      }
+    ],
+    "comment": "G/N → P/N, R/N → Z/N, A/O → K/O, T/O → Z/O, A/Y → P/Y, R/Y → T/Y prefixes [CBN]"
+  },
+  {
+    "id": 557030,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 7000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74b"
+      }
+    ],
+    "comment": "L/O prefix [CBN]"
+  },
+  {
+    "id": 557032,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 2100000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74b"
+      }
+    ],
+    "comment": "S/O prefix [CBN]"
+  },
+  {
+    "id": 557033,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 6440000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74b"
+      }
+    ],
+    "comment": "U/Y prefix [CBN]"
+  },
+  {
+    "id": 506515,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "James Elliott Coyne",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 70000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75a"
+      }
+    ],
+    "comment": "A/M → G/M prefixes [BABN]"
+  },
+  {
+    "id": 496550,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "James Elliott Coyne",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 6848000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75a"
+      }
+    ],
+    "comment": "H/M prefix [BABN] - Changeover"
+  },
+  {
+    "id": 496537,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 362854,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75b"
+      }
+    ],
+    "comment": "*A/F prefix [BABN] - Replacement"
+  },
+  {
+    "id": 496538,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 7953,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75b"
+      }
+    ],
+    "comment": "*A/M prefix [BABN] - Replacement"
+  },
+  {
+    "id": 496540,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 3698745,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75b"
+      }
+    ],
+    "comment": "*B/M prefix [BABN] - Replacement"
+  },
+  {
+    "id": 506516,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75b"
+      }
+    ],
+    "comment": "A/F → G/F, I/M → P/M, R/M → Z/M, A/P → E/P, N/P → P/P, R/P → Z/P prefixes [BABN]"
+  },
+  {
+    "id": 950050,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 250000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75b"
+      },
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-37b-i"
+      }
+    ],
+    "comment": "A/Z → P/Z, R/Z → Z/Z prefixes [BABN]"
+  },
+  {
+    "id": 557027,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 7160000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75b"
+      }
+    ],
+    "comment": "F/P prefix [BABN]"
+  },
+  {
+    "id": 557028,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 7240000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75b"
+      }
+    ],
+    "comment": "H/F prefix [BABN] - Changeover"
+  },
+  {
+    "id": 557029,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 3152000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75b"
+      }
+    ],
+    "comment": "H/M prefix [BABN] - Changeover"
+  },
+  {
+    "id": 557031,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 7280000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75b"
+      }
+    ],
+    "comment": "M/P prefix [BABN]"
+  },
+  {
+    "id": 505954,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "Gerald Keith Bouey",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 398702,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75c"
+      }
+    ],
+    "comment": "*C/F prefix [BABN] - Replacement"
+  },
+  {
+    "id": 505955,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "Gerald Keith Bouey",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 80000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75c"
+      }
+    ],
+    "comment": "*H/F prefix [BABN] - Replacement"
+  },
+  {
+    "id": 505956,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "Gerald Keith Bouey",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 3033000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75c"
+      }
+    ],
+    "comment": "*V/V prefix [BABN] - Replacement"
+  },
+  {
+    "id": 557025,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "Gerald Keith Bouey",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 2760000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75c"
+      }
+    ],
+    "comment": "H/F prefix [BABN] - Changeover"
+  },
+  {
+    "id": 505953,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "Gerald Keith Bouey",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 120000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75c"
+      }
+    ],
+    "comment": "I/F → U/F prefixes [BABN]"
+  },
+  {
+    "id": 557034,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "Gerald Keith Bouey",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 8559999,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75c"
+      }
+    ],
+    "comment": "V/F prefix [BABN] - Changeover"
+  },
+  {
+    "id": 505950,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "Ruston William Lawson",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Gerald Keith Bouey",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 60800,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75d"
+      }
+    ],
+    "comment": "*C/I prefix [BABN] - Replacement"
+  },
+  {
+    "id": 505951,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "Ruston William Lawson",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Gerald Keith Bouey",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 234388,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75d"
+      }
+    ],
+    "comment": "*X/F prefix [BABN] - Replacement"
+  },
+  {
+    "id": 834062,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "Ruston William Lawson",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Gerald Keith Bouey",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75d"
+      }
+    ],
+    "comment": "D/I prefix [BABN] - Test"
+  },
+  {
+    "id": 505952,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "Ruston William Lawson",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Gerald Keith Bouey",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 4120000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75d"
+      }
+    ],
+    "comment": "E/I prefix [BABN]"
+  },
+  {
+    "id": 557035,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "Ruston William Lawson",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Gerald Keith Bouey",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 1440000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75d"
+      }
+    ],
+    "comment": "V/F prefix [BABN] - Changeover"
+  }
+]

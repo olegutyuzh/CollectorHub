@@ -1,0 +1,39 @@
+[
+  {
+    "id": 570373,
+    "is_dated": true,
+    "year": 1930,
+    "gregorian_year": 1930,
+    "comment": "Green arrow Cross Party stamp \"ÉRVÉNYESÍTVE\"(falsification)"
+  },
+  {
+    "id": 513812,
+    "is_dated": true,
+    "year": 1930,
+    "gregorian_year": 1930,
+    "comment": "P#98s Specimen."
+  },
+  {
+    "id": 570374,
+    "is_dated": true,
+    "year": 1930,
+    "gregorian_year": 1930,
+    "comment": "Round arrow Cross Party stamp \"Kerületi Pártvezető - Kőszeg\"(falsification)"
+  },
+  {
+    "id": 505176,
+    "is_dated": true,
+    "year": 1930,
+    "gregorian_year": 1930,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "98"
+      }
+    ],
+    "comment": "Signatures : Vegh, Sandor Popovics, Bela Schober"
+  }
+]

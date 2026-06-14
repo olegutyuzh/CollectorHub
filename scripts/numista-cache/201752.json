@@ -1,0 +1,99 @@
+{
+  "id": 201752,
+  "url": "https://en.numista.com/201752",
+  "title": "1000 Riels",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "cambodge",
+    "name": "Cambodia"
+  },
+  "issuing_entity": {
+    "id": 76,
+    "name": "National Bank of Cambodia (established in 1992)"
+  },
+  "min_year": 2005,
+  "max_year": 2007,
+  "ruler": [
+    {
+      "id": 2941,
+      "name": "Norodom Sihamoni",
+      "wikidata_id": "Q57319",
+      "group": {
+        "id": 170,
+        "name": "Kingdom of Cambodia"
+      }
+    }
+  ],
+  "value": {
+    "text": "1000 Riels",
+    "numeric_value": 1000,
+    "currency": {
+      "id": 162,
+      "name": "Second riel",
+      "full_name": "Second riel (1979-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 140,
+  "size2": 65,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "lettering": "១០០០\r\nធនាគារជាគ ចិន កម្ពុជា\r\nទេសាភិបាល\r\nអគ្គបេឡា\r\nមួយពាន់ល\r\n\r\nអ្នកក្លែងក្រដាសប្រាក់នឹងត្រូវផ្តន្ទាទោសតាមច្បាប់ \r\nមួយពាន់ល\r\n1000",
+    "lettering_scripts": [
+      {
+        "name": "Khmer"
+      }
+    ],
+    "lettering_translation": "1000\r\nNational Bank of Cambodia \r\nGovernor\r\nGeneral Treasury\r\nCounterfeiters will be punished according to the law\r\n One thousand\r\n\r\n\r\n\r\nGeneral Tresury\r\nCounterfeiters will be punished according to the law",
+    "picture": "https://en.numista.com/catalogue/photos/cambodge/623aed2834b2b2.92098649-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aed2834b2b2.92098649-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "lettering": "1000\r\nធនាគារជាគ ចិន កម្ពុជា\r\nNational Bank of Cambodia  \r\n2007\r\n១០០០ \r\nមួយពាន់ល",
+    "lettering_scripts": [
+      {
+        "name": "Khmer"
+      }
+    ],
+    "lettering_translation": "National Bank of Cambodia  \r\n1000\r\nOne thousand",
+    "picture": "https://en.numista.com/catalogue/photos/cambodge/623aed28c5f097.34160156-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aed28c5f097.34160156-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>UV activity at 365nm, seen here on a P#58c note:<br><a href=\"https://en.numista.com/catalogue/images/680cc26219538.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/680cc26219538.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/680cc2693ae01.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/680cc2693ae01.jpg\"></a><br>© Brandon Bertolli</p>",
+  "tags": [
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "58"
+    }
+  ],
+  "watermark": {
+    "description": "There is a different watermark for each version, but in each case it covers the whole note",
+    "picture": "https://en.numista.com/catalogue/photos/cambodge/680cc2ee7884f1.29410436-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cambodge/680cc2ee7884f1.29410436-180.jpg",
+    "picture_copyright": "Brandon Bertolli",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

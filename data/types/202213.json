@@ -1,0 +1,141 @@
+{
+  "id": 202213,
+  "url": "https://en.numista.com/202213",
+  "title": "200 Hryven",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "ukraine",
+    "name": "Ukraine"
+  },
+  "issuing_entity": {
+    "id": 564,
+    "name": "National Bank of Ukraine",
+    "wikidata_id": "Q1070388"
+  },
+  "min_year": 2007,
+  "max_year": 2014,
+  "ruler": [
+    {
+      "id": 3209,
+      "name": "Republic",
+      "wikidata_id": "Q212"
+    }
+  ],
+  "value": {
+    "text": "200 Hryven",
+    "numeric_value": 200,
+    "currency": {
+      "id": 88,
+      "name": "Hryvnia",
+      "full_name": "Hryvnia (1996-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2007-05-28"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 148,
+  "size2": 75,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Lesia Ukrainka is one of Ukrainian literature's foremost writers, best known for her poems and plays. She was also an active political, civil, and feminist activist.",
+    "lettering": "УКРАЇНА НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ\r\n\r\nДВІСТІ\r\nГРИВЕНЬ 200\r\n\r\nЗа правду, браття, єднаймось щиро,\r\nЄдиний маєм правий шлях...\r\n\r\nЛеся Українка\r\n1871-1913",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Ukraine, National Bank of Ukraine, For truth, brethren, let's be honest, the only one we have is the right path..., Lesia Ukrainka",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/63beecf01290e8.07247142-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/63beecf01290e8.07247142-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Lutsk Castle, also locally known as Lubart's Castle or Upper Castle, began its life in the mid-14th century as the fortified seat of Gediminas' son Liubartas (Lubart), the last ruler of united Galicia-Volhynia. It is the most prominent landmark of Lutsk.",
+    "lettering": "Двісті гривень\r\n\r\nУКРАЇНА\r\n\r\nВ'їзна вежа Луцького замку\r\n200 ГРИВЕНЬ 200\r\n\r\nКиїв 2007",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "Two Hundred Hryven, Ukraine, Lutsk Castle entrance tower, Kyiv 2007",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/63beecf2ca5805.77107921-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/63beecf2ca5805.77107921-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>Volodymyr Semenovych Stelmakh was Chairman (Governor) of the Bank of Ukraine from 2000 until 2002 and from 2004 until 2010<br>Serhiy Hennadiiovych Arbuzov was Chairman (Governor) of the Bank of Ukraine from 2010 until 2012<br>Ihor Viacheslavovych Sorkin was Chairman (Governor) of the Bank of Ukraine from 2013 until 2014<br>Stepan Kubiv was Chairman (Governor) of the Bank of Ukraine in 2014<br>Valeriya Oleksiivna Hontareva was Chairman (Governor) of the Bank of Ukraine from 2014 until May 11, 2017<br><br>Under UV light:<br><a href=\"https://en.numista.com/catalogue/images/66bba2f8ed521.webp\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66bba2f8ed521.webp\"></a><br><a href=\"https://en.numista.com/catalogue/images/66bba2fca9383.webp\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66bba2fca9383.webp\"></a><br>© ByRussia45</p>",
+  "related_types": [
+    {
+      "id": 202749,
+      "title": "200 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2001,
+      "maxYear": 2001
+    },
+    {
+      "id": 202010,
+      "title": "200 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2019,
+      "maxYear": 2021
+    }
+  ],
+  "tags": [
+    "Literature",
+    "Castle or fortification",
+    "Artist"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "123"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "852"
+    }
+  ],
+  "watermark": {
+    "description": "Lesia Ukrainka and symbol of Hryvnia after 200",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/66b9c9a078e932.16857882-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/66b9c9a078e932.16857882-180.jpg",
+    "picture_copyright": "ByRussia45",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 60,
+      "name": "Banknote Printing and Minting Works of the National Bank of Ukraine"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

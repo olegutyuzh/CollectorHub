@@ -1,0 +1,196 @@
+{
+  "id": 202697,
+  "url": "https://en.numista.com/202697",
+  "title": "1 Hryvnia",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "ukraine",
+    "name": "Ukraine"
+  },
+  "issuing_entity": {
+    "id": 564,
+    "name": "National Bank of Ukraine",
+    "wikidata_id": "Q1070388"
+  },
+  "min_year": 2006,
+  "max_year": 2018,
+  "ruler": [
+    {
+      "id": 3209,
+      "name": "Republic",
+      "wikidata_id": "Q212"
+    }
+  ],
+  "value": {
+    "text": "1 Hryvnia",
+    "numeric_value": 1,
+    "currency": {
+      "id": 88,
+      "name": "Hryvnia",
+      "full_name": "Hryvnia (1996-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2006-05-22"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2026-03-02"
+  },
+  "size": 118,
+  "size2": 63,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Volodymyr the Great was a Grand Duke of Kyiv (980-1015). During his rule a rise of the Kyivan Rus as a solid community and a great power started off and all the Eastern Slavic lands were united under the dominion of Kyiv. In 988-989 Rus was Christianized on his initiative.",
+    "lettering": "НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ\r\nГОЛОВА\r\n1\r\nВОЛОДИМИР ВЕЛИКИЙ\r\n1\r\n1\r\nОДНА ГРИВНЯ",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "NATIONAL BANK OF UKRAINE\r\nHEAD\r\n1\r\nVOLODYMYR THE GREAT\r\n1\r\n1\r\nONE HRYVNIA",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/626e503a7bd0f1.81368512-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/626e503a7bd0f1.81368512-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "In the end of the 10th century the wall system of Kyiv Detynets (citadel) contained several gates. One gate was for passage to Podil, another – in the direction of Pechersk, one more was for passage in the direction of St. Sophia Cathedral.",
+    "lettering": "ОДНА ГРИВНЯ\r\nНАЦІОНАЛЬНИЙ БАНК УКРАЇНИ\r\n1\r\nГРАД ВОЛОДИМИРА У КИЄВІ\r\n2006\r\n1",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "ONE HRYVNIA\r\nNATIONAL BANK OF UKRAINE\r\n1\r\nVOLODYMYR'S CITADEL IN KYIV\r\n2006\r\n1",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/626e503b7f1e58.76379328-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/626e503b7f1e58.76379328-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>Banknote in UV light<br><a href=\"https://en.numista.com/catalogue/images/6105243e63066.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6105243e63066.jpg\" alt=\"\"></a><br>The back contains UV<br><a href=\"https://en.numista.com/catalogue/images/6526a980d6cd7.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6526a980d6cd7.jpg\" alt=\"\"></a><br>© ByRussia45<br>The banknote contains a security strip with the inscription \"1 ГРН\" with the national emblem and a see-through register<br><a href=\"https://en.numista.com/catalogue/images/6526a9c840444.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6526a9c840444.jpg\" alt=\"\"></a><br>© ByRussia45<br>V.S. Stekmakh was Chairman of the Central Bank of Ukraine from 2000 until 2002 and from 2004 until 2010<br>S.H. Arbuzov was Chairman of the Central Bank of Ukraine from 2010 until 2012<br>V.O. Hontareva was Chairman of the Central Bank of Ukraine from 2014 until May 11, 2017<br>I.V. Smoliy was Chairman of the Central Bank of Ukraine from 2018 until July 3, 2020</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/6959755d600d8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6959755d600d8.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/695975674cea8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/695975674cea8.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 202700,
+      "title": "1 Hryvnia",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2004,
+      "maxYear": 2005
+    },
+    {
+      "id": 202693,
+      "title": "2 Hryvni",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2004,
+      "maxYear": 2018
+    },
+    {
+      "id": 202690,
+      "title": "5 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2004,
+      "maxYear": 2015
+    },
+    {
+      "id": 202676,
+      "title": "10 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2006,
+      "maxYear": 2015
+    },
+    {
+      "id": 202248,
+      "title": "20 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2003,
+      "maxYear": 2016
+    },
+    {
+      "id": 202240,
+      "title": "50 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2004,
+      "maxYear": 2014
+    },
+    {
+      "id": 202224,
+      "title": "100 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2005,
+      "maxYear": 2014
+    }
+  ],
+  "tags": [
+    "Castle or fortification",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "116A"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "844"
+    }
+  ],
+  "watermark": {
+    "description": "Volodymyr the Great with hryvnia symbol (₴) below",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5f561ade96f4a4.24488873-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5f561ade96f4a4.24488873-180.jpg",
+    "picture_copyright": "Griffin S",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 60,
+      "name": "Banknote Printing and Minting Works of the National Bank of Ukraine"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

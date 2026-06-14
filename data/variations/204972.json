@@ -1,0 +1,333 @@
+[
+  {
+    "id": 505714,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "month": 8,
+    "day": 19,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Tolosa Buitrago",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "458a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B993a"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "663NF"
+      }
+    ],
+    "comment": "Prefix: AA-AD (About No. printed see comments section)"
+  },
+  {
+    "id": 505715,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 8,
+    "day": 2,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Tolosa Buitrago",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "458b"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B993b"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "664NF"
+      }
+    ],
+    "comment": "Prefix: AE, AF (About No. printed see comments section)"
+  },
+  {
+    "id": 505716,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "month": 8,
+    "day": 29,
+    "signatures": [
+      {
+        "signer_name": "Juan José Echavarría Soto",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Marcela Ocampo Duque",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "458c"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "993c"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "665NF"
+      }
+    ],
+    "comment": "Prefix: AG-AJ (About No. printed see comments section Signatures: Echavarría/Ocampo)"
+  },
+  {
+    "id": 512767,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "month": 7,
+    "day": 24,
+    "signatures": [
+      {
+        "signer_name": "Juan José Echavarría Soto",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Marcela Ocampo Duque",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B993d"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "666NF"
+      }
+    ],
+    "comment": "Prefix: AK; BA-BC (About No. printed see comments section)"
+  },
+  {
+    "id": 699865,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "month": 7,
+    "day": 23,
+    "signatures": [
+      {
+        "signer_name": "Juan José Echavarría Soto",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Marcela Ocampo Duque",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B993e"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "667NF"
+      }
+    ],
+    "comment": "Prefix: BD-BF (About No. printed see comments section)"
+  },
+  {
+    "id": 744341,
+    "is_dated": true,
+    "year": 2020,
+    "gregorian_year": 2020,
+    "month": 5,
+    "day": 26,
+    "signatures": [
+      {
+        "signer_name": "Juan José Echavarría Soto",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Marcela Ocampo Duque",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B993f"
+      }
+    ]
+  },
+  {
+    "id": 841723,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "month": 7,
+    "day": 27,
+    "signatures": [
+      {
+        "signer_name": "Leonardo Villar Gómez",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Marcela Ocampo Duque",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B993g"
+      }
+    ]
+  },
+  {
+    "id": 901595,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "month": 7,
+    "day": 26,
+    "signatures": [
+      {
+        "signer_name": "Leonardo Villar Gómez",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Marcela Ocampo Duque",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B993h"
+      }
+    ]
+  },
+  {
+    "id": 920122,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "month": 10,
+    "day": 25,
+    "signatures": [
+      {
+        "signer_name": "Leonardo Villar Gómez",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Marcela Ocampo Duque",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B993i"
+      }
+    ]
+  },
+  {
+    "id": 1018326,
+    "is_dated": true,
+    "year": 2023,
+    "gregorian_year": 2023,
+    "month": 10,
+    "day": 24,
+    "signatures": [
+      {
+        "signer_name": "Leonardo Villar Gómez",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Marcela Ocampo Duque",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B993j"
+      }
+    ]
+  }
+]

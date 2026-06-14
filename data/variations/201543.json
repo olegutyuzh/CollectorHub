@@ -1,0 +1,73 @@
+[
+  {
+    "id": 493449,
+    "is_dated": false,
+    "min_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Barry Whiteside",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 2000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "120a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B531a"
+      }
+    ],
+    "comment": "Issued note; Prefix: AU"
+  },
+  {
+    "id": 939038,
+    "is_dated": false,
+    "min_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Barry Whiteside",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "120r"
+      }
+    ],
+    "comment": "Replacement; Prefix: AZ"
+  },
+  {
+    "id": 939039,
+    "is_dated": false,
+    "min_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Barry Whiteside",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "120s"
+      }
+    ],
+    "comment": "Specimen"
+  }
+]

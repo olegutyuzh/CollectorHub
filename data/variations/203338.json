@@ -1,0 +1,30 @@
+[
+  {
+    "id": 498618,
+    "is_dated": false,
+    "min_year": 1974,
+    "comment": "(fr) P-63sa spécimen avec tampon noir de la Bnaque Cantrale"
+  },
+  {
+    "id": 498619,
+    "is_dated": false,
+    "min_year": 1974,
+    "comment": "(fr) P-63sb spécimen avec tampon rouge de l'imprimeur"
+  },
+  {
+    "id": 498620,
+    "is_dated": false,
+    "min_year": 1974,
+    "max_year": 1978,
+    "mintage": 79000000,
+    "comment": "FR: P-63a"
+  },
+  {
+    "id": 498621,
+    "is_dated": false,
+    "min_year": 1974,
+    "max_year": 1978,
+    "mintage": 700000,
+    "comment": "FR: P-63r remplacement série Z/1"
+  }
+]

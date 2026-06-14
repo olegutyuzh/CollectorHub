@@ -1,0 +1,68 @@
+[
+  {
+    "id": 492966,
+    "is_dated": false,
+    "min_year": 2018,
+    "max_year": 2018,
+    "mintage": 100000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "226a"
+      }
+    ],
+    "comment": "Issued note; Prefix: SI/40"
+  },
+  {
+    "id": 958052,
+    "is_dated": false,
+    "min_year": 2018,
+    "max_year": 2018,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "226as"
+      }
+    ],
+    "comment": "Specimen; red overprint \"SPECIMEN\""
+  },
+  {
+    "id": 958053,
+    "is_dated": false,
+    "min_year": 2018,
+    "max_year": 2018,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "226az"
+      }
+    ],
+    "comment": "Replacement; Prefix: X/1"
+  },
+  {
+    "id": 958054,
+    "is_dated": false,
+    "min_year": 2018,
+    "max_year": 2018,
+    "mintage": 100,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "BNP204a"
+      }
+    ],
+    "comment": "Commemorative folder"
+  }
+]

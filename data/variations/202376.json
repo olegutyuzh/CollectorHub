@@ -1,0 +1,112 @@
+[
+  {
+    "id": 494612,
+    "is_dated": false,
+    "min_year": 2019,
+    "max_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Denton Hehenoro Rarawa \"2nd sign\"",
+        "title": "Governor of Central Bank"
+      },
+      {
+        "signer_name": "Fred Fakari",
+        "title": "Secretary of Finance"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "221a"
+      },
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "38"
+      }
+    ]
+  },
+  {
+    "id": 870796,
+    "is_dated": false,
+    "min_year": 2019,
+    "max_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Denton Hehenoro Rarawa \"2nd sign\"",
+        "title": "Governor of Central Bank"
+      },
+      {
+        "signer_name": "Fred Fakari",
+        "title": "Secretary of Finance"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "221as"
+      }
+    ],
+    "comment": "Red diagonal SPECIMEN front/back"
+  },
+  {
+    "id": 958050,
+    "is_dated": false,
+    "min_year": 2019,
+    "max_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Denton Hehenoro Rarawa \"2nd sign\"",
+        "title": "Governor of Central Bank"
+      },
+      {
+        "signer_name": "Fred Fakari",
+        "title": "Secretary of Finance"
+      }
+    ],
+    "mintage": 500,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "BNP205a"
+      }
+    ],
+    "comment": "Commemorative folder"
+  },
+  {
+    "id": 730115,
+    "is_dated": false,
+    "min_year": 2022,
+    "max_year": 2022,
+    "signatures": [
+      {
+        "signer_name": "Luke Forau",
+        "title": "Governor of Central Bank"
+      },
+      {
+        "signer_name": "Harry Degruit Kuma",
+        "title": "Secretary of Finance"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "221b"
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+{
+  "id": 205825,
+  "url": "https://en.numista.com/205825",
+  "title": "50 Kroner \"Karusse\" (Painting and Animal)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "issuing_entity": {
+    "id": 588,
+    "name": "National Bank of Denmark",
+    "wikidata_id": "Q683252"
+  },
+  "min_year": 1972,
+  "max_year": 1998,
+  "ruler": [
+    {
+      "id": 2404,
+      "name": "Margrethe II",
+      "wikidata_id": "Q102139",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Kroner",
+    "numeric_value": 50,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1975-01-21"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2025-05-31"
+  },
+  "size": 139,
+  "size2": 72,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Blue print on white paper.\r\nAt the right a portrait of Mrs. Engelke Charlotte Ryberg after a painting from 1797 by Jens Juel.",
+    "lettering": "Number\r\nDANMARKS \r\nNATIONALBANK\r\n50\r\nFEMTI KRONER serial#\r\nDANMARKS\r\nNATIONALBANK\r\n2 signatures",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Latin (cursive)"
+      }
+    ],
+    "lettering_translation": "Nationalbank of Denmark\r\nFifty Kroner\r\nNationalbank of Denmark",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/5e9efb8f0b78d9.16578346-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9efb8f0b78d9.16578346-180.jpg",
+    "picture_copyright": "M. Sander"
+  },
+  "reverse": {
+    "designers": [
+      "Ib Andersen"
+    ],
+    "description": "Blue print on white paper.\r\nCrucian carp after drawing by Ib Andersen",
+    "lettering": "50 DANMARKS NATIONALBANK 50\r\n50\r\nFEMTI KRONER\r\nSerie 1972\r\nUdstedt i henhold til\r\nLov af 7. April 1936",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Nationalbank of Denmark\r\nFifty Kroner\r\nSerie 1972\r\nIssued according to Law of 7th April 1936",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/5e9efb9055ff78.72256969-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9efb9055ff78.72256969-180.jpg",
+    "picture_copyright": "M. Sander"
+  },
+  "series": "Kronesedlerne 6th issue - Painting and Animal",
+  "comments": "<p><strong>Withdrawel:</strong><br>Withdrawn since: 7th May 1999<br>&nbsp;</p><p><strong>Year:</strong></p><p>The two middle digits of the blue series number give the last two digits of the year of issue; e.g. D4971D =(19)97.</p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\"><strong>Variants in security thread:</strong></p><p style=\"margin-left:0px;\">Series A0 to A6 have a light security thread (DNF# 8.3.1)<br>Series C0 through D5 have a dark security thread (DNF# 8.3.2)</p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\"><strong>Nickname:</strong></p><p style=\"margin-left:0px;\">Due to the animals on this series of notes, they are sometimes affectionately called by their featured creatures. This is especially the case with the higher denominations. Hence this note can be called a \"karusse\" in Danish.<br>&nbsp;</p><p><strong>Signatures:</strong><br>The left signature is one of the 3 Governors of DANMARKS NATIONALBANK.<br>The right signature on this note is always the “Chefen for Seddelfaget” (Head of Notes). These were Valeur (1972-1979), Billestrup (1982-1985), Herly (1989-1995) and Heering (1996-1998).</p>",
+  "tags": [
+    "Fish",
+    "Painting",
+    "Artist"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "50"
+    },
+    {
+      "catalogue": {
+        "id": 996,
+        "code": "SIEG SD"
+      },
+      "number": "141"
+    },
+    {
+      "catalogue": {
+        "id": 2206,
+        "code": "DOP"
+      },
+      "number": "150"
+    },
+    {
+      "catalogue": {
+        "id": 2262,
+        "code": "DNF"
+      },
+      "number": "8.3.1"
+    },
+    {
+      "catalogue": {
+        "id": 2262,
+        "code": "DNF"
+      },
+      "number": "8.3.2"
+    }
+  ],
+  "watermark": {
+    "description": "Self-portrait of Jens Juel and \"50\" repeated vertically.",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/5f1ec2522b6605.60297236-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f1ec2522b6605.60297236-180.jpg",
+    "picture_copyright": "dampe54",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 151,
+      "name": "Denmarks Nationalbank's Banknote Printing Works"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

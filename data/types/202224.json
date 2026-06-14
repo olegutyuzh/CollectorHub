@@ -1,0 +1,167 @@
+{
+  "id": 202224,
+  "url": "https://en.numista.com/202224",
+  "title": "100 Hryven",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "ukraine",
+    "name": "Ukraine"
+  },
+  "issuing_entity": {
+    "id": 564,
+    "name": "National Bank of Ukraine",
+    "wikidata_id": "Q1070388"
+  },
+  "min_year": 2005,
+  "max_year": 2014,
+  "ruler": [
+    {
+      "id": 3209,
+      "name": "Republic",
+      "wikidata_id": "Q212"
+    }
+  ],
+  "value": {
+    "text": "100 Hryven",
+    "numeric_value": 100,
+    "currency": {
+      "id": 88,
+      "name": "Hryvnia",
+      "full_name": "Hryvnia (1996-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2006-02-20"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 142,
+  "size2": 75,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Taras Shevchenko (1814-1861) was an outstanding Ukrainian poet, artist and thinker, the founder of the new Ukrainian literature. His collection of poetry \"Kobzar\" has been translated into many languages.",
+    "lettering": "НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ\r\nГОЛОВА\r\n100\r\nСвою Україну любіть,\r\nЛюбіть її... Во время люте,\r\nВ остатню тяжкую минуту\r\nЗа неї Господа моліть.\r\nТАРАС ШЕВЧЕНКО\r\n100\r\nСТО ГРИВЕНЬ",
+    "lettering_translation": "NATIONAL BANK OF UKRAINE\r\nHEAD\r\n100\r\nLove your Ukraine,\r\nLove her... in fierce time,\r\nIn the last difficult moment\r\nFor her pray the Lord.\r\nTARAS SHEVCHENKO\r\n100\r\nONE HUNDRED HRYVNIAS",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5e961187a320a4.07252688-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5e961187a320a4.07252688-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "reverse": {
+    "description": "The Chernecha mountain landscape near Chercasy and the figures of the kobzar and the guide boy. Taras Shevchenko has been buried in Kaniv on the Chernecha mountain. The figures of the kobzar and the boy are a fragment of the picture by Taras Shevchenko. In his work the painter showed a type of the folk poet singer describing the people life, their joys, sufferings, history.",
+    "lettering": "СТО ГРИВЕНЬ\r\nНАЦІОНАЛЬНИЙ БАНК УКРАЇНИ\r\n100\r\n2005\r\n100",
+    "lettering_translation": "ONE HUNDRED HRYVNIAS\r\nNATIONAL BANK OF UKRAINE\r\n100\r\n2005\r\n100",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5e961187ed16c2.60424954-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5e961187ed16c2.60424954-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "comments": "UV activity:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64f2526814dda.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64f2526814dda.png\" alt=\"\" width=\"199\" height=\"107\" /></a><br />\r\n© gyoschak<br /><br />\r\nVolodymyr Semenovych Stelmakh was Chairman (Governor) of the Bank of Ukraine from 2000 until 2002 and from 2004 until 2010<br />\r\nSerhiy Hennadiiovych Arbuzov was Chairman (Governor) of the Bank of Ukraine from 2010 until 2012<br />\r\nStepan Kubiv was Chairman (Governor) of the Bank of Ukraine in 2014",
+  "related_types": [
+    {
+      "id": 202697,
+      "title": "1 Hryvnia",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2006,
+      "maxYear": 2018
+    },
+    {
+      "id": 202693,
+      "title": "2 Hryvni",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2004,
+      "maxYear": 2018
+    },
+    {
+      "id": 202690,
+      "title": "5 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2004,
+      "maxYear": 2015
+    },
+    {
+      "id": 202676,
+      "title": "10 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2006,
+      "maxYear": 2015
+    },
+    {
+      "id": 202248,
+      "title": "20 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2003,
+      "maxYear": 2016
+    },
+    {
+      "id": 202240,
+      "title": "50 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2004,
+      "maxYear": 2014
+    }
+  ],
+  "tags": [
+    "Literature",
+    "Painting",
+    "Artist"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "122"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "851"
+    }
+  ],
+  "watermark": {
+    "description": "Taras Shevchenko",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/64f252a0659110.03497412-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/64f252a0659110.03497412-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

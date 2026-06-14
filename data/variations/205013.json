@@ -1,0 +1,59 @@
+[
+  {
+    "id": 506072,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "month": 9,
+    "day": 2,
+    "mintage": 35028000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "275a"
+      }
+    ],
+    "comment": "Series A. Signatures: Francisco de Paula Gutiérrez Gutiérrez & Roy González Rojas (000 000 001​ → 041 400 000)"
+  },
+  {
+    "id": 506073,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "month": 9,
+    "day": 11,
+    "mintage": 20000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "275b"
+      }
+    ],
+    "comment": "Series A. ​Signatures: Rodrigo Bolaños Zamora & Félix Delgado Quesada (041 400 001 → 063 000 000)"
+  },
+  {
+    "id": 506074,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "month": 9,
+    "day": 16,
+    "mintage": 20000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "275c"
+      }
+    ],
+    "comment": "Series A. Signatures: Olivier Castro Pérez & Eduardo Prado Zúñiga (063 000 001 → 083 999 999)"
+  }
+]

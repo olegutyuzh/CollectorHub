@@ -1,0 +1,50 @@
+[
+  {
+    "id": 503894,
+    "is_dated": true,
+    "year": 1414,
+    "gregorian_year": 1994,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "84a1"
+      }
+    ],
+    "comment": "First Diacritical mark in the text of the denomination is above the first letter (from the right). Printed on white paper which fluoresces."
+  },
+  {
+    "id": 503895,
+    "is_dated": true,
+    "year": 1414,
+    "gregorian_year": 1994,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "84a2"
+      }
+    ],
+    "comment": "As a1, but printed on dark paper which does not fluoresce onder UV light."
+  },
+  {
+    "id": 503896,
+    "is_dated": true,
+    "year": 1414,
+    "gregorian_year": 1994,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "84b"
+      }
+    ],
+    "comment": "First diacritical mark in the text of the denomination is below the second letter (from the right)."
+  }
+]

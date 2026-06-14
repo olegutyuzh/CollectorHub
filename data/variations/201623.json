@@ -1,0 +1,20 @@
+[
+  {
+    "id": 493015,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Mario Bergara",
+        "title": "President"
+      },
+      {
+        "signer_name": "Elizabeth Oria",
+        "title": "General Secretary"
+      }
+    ],
+    "mintage": 10000000,
+    "comment": "P# 100; ROT C# 48AP - Series A"
+  }
+]

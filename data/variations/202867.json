@@ -1,0 +1,65 @@
+[
+  {
+    "id": 496204,
+    "is_dated": true,
+    "year": 1992,
+    "gregorian_year": 1992,
+    "signatures": [
+      {
+        "signer_name": "Vadym Petrovych Hetman",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "104a"
+      }
+    ]
+  },
+  {
+    "id": 496203,
+    "is_dated": true,
+    "year": 1992,
+    "gregorian_year": 1992,
+    "signatures": [
+      {
+        "signer_name": "Volodymyr Pavlovych Matviienko",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "104b"
+      }
+    ]
+  },
+  {
+    "id": 496205,
+    "is_dated": true,
+    "year": 1992,
+    "gregorian_year": 1992,
+    "signatures": [
+      {
+        "signer_name": "Viktor Andriiovych Yushchenko",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "104c"
+      }
+    ]
+  }
+]

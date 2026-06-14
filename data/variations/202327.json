@@ -1,0 +1,459 @@
+[
+  {
+    "id": 494512,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "José Fernando de Gregorio Rebeco",
+        "title": "President of Central Bank"
+      },
+      {
+        "signer_name": "Alejandro Zurbuchen Silva",
+        "title": "General Manager of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "161a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "296a"
+      }
+    ],
+    "comment": "Signatures: Gregorio - Zurbuchen"
+  },
+  {
+    "id": 515358,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "José Fernando de Gregorio Rebeco",
+        "title": "President of Central Bank"
+      },
+      {
+        "signer_name": "Alejandro Zurbuchen Silva",
+        "title": "General Manager of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "161s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "296as"
+      }
+    ],
+    "comment": "Specimen"
+  },
+  {
+    "id": 494818,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "signatures": [
+      {
+        "signer_name": "José Fernando de Gregorio Rebeco",
+        "title": "President of Central Bank"
+      },
+      {
+        "signer_name": "Alejandro Zurbuchen Silva",
+        "title": "General Manager of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "161b"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "296b"
+      }
+    ],
+    "comment": "Signatures: Gregorio - Zurbuchen"
+  },
+  {
+    "id": 494819,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Vergara Montes",
+        "title": "President of Central Bank"
+      },
+      {
+        "signer_name": "Alejandro Zurbuchen Silva",
+        "title": "General Manager of the Central Bank"
+      }
+    ],
+    "mintage": 45800000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "161c"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "296c"
+      }
+    ],
+    "comment": "Signatures: Vergara - Zurbuchen"
+  },
+  {
+    "id": 494894,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Vergara Montes",
+        "title": "President of Central Bank"
+      },
+      {
+        "signer_name": "Alejandro Zurbuchen Silva",
+        "title": "General Manager of the Central Bank"
+      }
+    ],
+    "mintage": 52100000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "161d"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "296d"
+      }
+    ],
+    "comment": "Signatures: Vergara - Zurbuchen"
+  },
+  {
+    "id": 494895,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Vergara Montes",
+        "title": "President of Central Bank"
+      },
+      {
+        "signer_name": "Alejandro Zurbuchen Silva",
+        "title": "General Manager of the Central Bank"
+      }
+    ],
+    "mintage": 97200000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "161e"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "296e"
+      }
+    ],
+    "comment": "Signatures: Vergara - Zurbuchen"
+  },
+  {
+    "id": 494825,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Vergara Montes",
+        "title": "President of Central Bank"
+      },
+      {
+        "signer_name": "Alejandro Zurbuchen Silva",
+        "title": "General Manager of the Central Bank"
+      }
+    ],
+    "mintage": 97200000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "161f"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "296f"
+      }
+    ],
+    "comment": "Signatures: Vergara - Zurbuchen"
+  },
+  {
+    "id": 494826,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Vergara Montes",
+        "title": "President of Central Bank"
+      },
+      {
+        "signer_name": "Alejandro Zurbuchen Silva",
+        "title": "General Manager of the Central Bank"
+      }
+    ],
+    "mintage": 53220000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "161g"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "296g"
+      }
+    ],
+    "comment": "Signatures: Vergara - Zurbuchen"
+  },
+  {
+    "id": 792940,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Vergara Montes",
+        "title": "President of Central Bank"
+      },
+      {
+        "signer_name": "Alejandro Zurbuchen Silva",
+        "title": "General Manager of the Central Bank"
+      }
+    ],
+    "mintage": 90000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "296h"
+      }
+    ],
+    "comment": "Signatures: Vergara - Zurbuchen"
+  },
+  {
+    "id": 515359,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Mario Marcel Cullell",
+        "title": "President of Central Bank"
+      },
+      {
+        "signer_name": "Alejandro Zurbuchen Silva",
+        "title": "General Manager of the Central Bank"
+      }
+    ],
+    "mintage": 92800000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "296i"
+      }
+    ],
+    "comment": "Signatures: Cullell - Zurbuchen"
+  },
+  {
+    "id": 625176,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Mario Marcel Cullell",
+        "title": "President of Central Bank"
+      },
+      {
+        "signer_name": "Alejandro Zurbuchen Silva",
+        "title": "General Manager of the Central Bank"
+      }
+    ],
+    "mintage": 90850000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "296j"
+      }
+    ],
+    "comment": "Signatures: Cullell - Zurbuchen"
+  },
+  {
+    "id": 714461,
+    "is_dated": true,
+    "year": 2020,
+    "gregorian_year": 2020,
+    "signatures": [
+      {
+        "signer_name": "Mario Marcel Cullell",
+        "title": "President of Central Bank"
+      },
+      {
+        "signer_name": "Alejandro Zurbuchen Silva",
+        "title": "General Manager of the Central Bank"
+      }
+    ],
+    "mintage": 81000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "296k"
+      }
+    ],
+    "comment": "Signatures: Cullell - Zurbuchen"
+  },
+  {
+    "id": 792919,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "signatures": [
+      {
+        "signer_name": "Mario Marcel Cullell",
+        "title": "President of Central Bank"
+      },
+      {
+        "signer_name": "Beltrán de Ramón",
+        "title": "General Manager of the Central Bank"
+      }
+    ],
+    "mintage": 115800000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "296l"
+      }
+    ],
+    "comment": "Signatures: Cullell - de Ramón"
+  },
+  {
+    "id": 841124,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "signatures": [
+      {
+        "signer_name": "Mario Marcel Cullell",
+        "title": "President of Central Bank"
+      },
+      {
+        "signer_name": "Beltrán de Ramón",
+        "title": "General Manager of the Central Bank"
+      }
+    ],
+    "mintage": 81000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "296m"
+      }
+    ],
+    "comment": "Signatures: Cullell - de Ramón"
+  },
+  {
+    "id": 976744,
+    "is_dated": true,
+    "year": 2025,
+    "gregorian_year": 2025,
+    "signatures": [
+      {
+        "signer_name": "Rosanna Costa Costa",
+        "title": "President of Central Bank"
+      },
+      {
+        "signer_name": "Luis Óscar Herrera",
+        "title": "General Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "296n"
+      }
+    ],
+    "comment": "Signatures: Costa - Herrera"
+  }
+]

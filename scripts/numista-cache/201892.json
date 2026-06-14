@@ -1,0 +1,123 @@
+{
+  "id": 201892,
+  "url": "https://en.numista.com/201892",
+  "title": "20 Pesos",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "mexique",
+    "name": "Mexico"
+  },
+  "issuing_entity": {
+    "id": 1435,
+    "name": "Bank of Mexico",
+    "wikidata_id": "Q806208"
+  },
+  "min_year": 2006,
+  "max_year": 2018,
+  "ruler": [
+    {
+      "id": 4029,
+      "name": "United Mexican States/Mexican Republic",
+      "wikidata_id": "Q96"
+    }
+  ],
+  "value": {
+    "text": "20 Pesos",
+    "numeric_value": 20,
+    "currency": {
+      "id": 271,
+      "name": "New Peso",
+      "full_name": "New Peso (1992-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2007-08-20"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 120,
+  "size2": 66,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Polymer"
+  },
+  "obverse": {
+    "description": "Dark blue print on predominantly light blue multicoloured underprint; serial number black.\r\nBlue on multicolor overprint.\r\nBenito Juárez at right, scale and book to left. On left edge, eagle printed in variable color ink and quote from the Manifesto to the Nation in 1887.\r\nIssuer name on top to left, face value in numbers on top right corner, in numbers and letters on lower left, in letters on top, below issuer name.\r\nLocation and issuing date, series on right edge, rotated 90º. Black serial #s 7 digits with 1 letter prefix on lower left. 2 signatures with titles below, above serial #s.\r\nPerfect match printing device with Mexican map shape, that can be complete when looked with backlight. Transparent window with raised number \"20\" and linear design on lower left.\r\nPrinter name on right bottom.",
+    "lettering": "Banco de México\r\nVeinte Pesos 20\r\nMÉXICO D. F. , 24 JUN. 2011\r\nSERIE P\r\nQUE EL PUEBLO Y EL GOBIERNO\r\nRESPETEN LOS DERECHOS DE TODOS.\r\nENTRE LOS INDIVIDUOS, COMO ENTRE LAS \r\nNACIONES. EL RESPETO AL DERECHO AJENO\r\nES LA PAZ.\r\nMANIFIESTO A LA NACIÓN, 15 DE JULIO DE 1867.\r\n20\r\nPESOS\r\nJUNTA DE GOBIERNO CAJERO PRINCIPAL\r\nM4552180\r\nBENITO JUÁREZ\r\nBANCO DE MÉXICO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bank of México\r\nTwenty Pesos\r\nMéxico, Federal District, June 24th., 2011\r\nThat the people and the government respect the rights of everyone. Between individuals, as between nations, respect for the rights of others, it is the peace\r\nManifesto to the Nation, July 15th., 1867\r\n20 Pesos\r\nGovernment Board, Main Cashier",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/678a442a01ea21.64254739-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/678a442a01ea21.64254739-180.jpg",
+    "picture_copyright": "banknotes_2021",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Dark blue print on multicolor underprint.\r\nCity of Monte Albán, Oaxaca, Mexico.\r\nSeal of the Bank of Mexico top left of image.\r\nMask of Cocijo at lower right of image. Face value in numbers on top left, in numbers and letters on lower right, in letters below image, to left.\r\nIssuer name on top,",
+    "lettering": "Banco de México\r\nMONTE ALBÁN, OAX.\r\n20 \r\nPesos\r\nCOCIJO\r\nVeinte Pesos",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bank of México\r\nMonte Albán, Oaxaca\r\n20 Pesos, Twenty Pesos",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/678a442a9788d6.54949311-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/678a442a9788d6.54949311-180.jpg",
+    "picture_copyright": "banknotes_2021",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "series": "Series F",
+  "comments": "<p>UV activity:<br><a href=\"https://en.numista.com/catalogue/images/6861fafa9b948.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6861fafa9b948.jpg\"></a></p><p>© Kiet Tran</p>",
+  "tags": [
+    "Eagle",
+    "Politician",
+    "Map",
+    "Town",
+    "Monogram",
+    "Latent image",
+    "Micro inscriptions",
+    "Photoluminescence"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "122"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "704"
+    }
+  ],
+  "watermark": {
+    "description": "Benito Juárez to the right",
+    "picture": "https://en.numista.com/catalogue/photos/mexique/68d9beceb21c85.43313254-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/mexique/68d9beceb21c85.43313254-180.jpg",
+    "picture_copyright": "Jacecur",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 56,
+      "name": "Banco de Mexico"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

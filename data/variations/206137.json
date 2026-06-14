@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1045292,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Normal note from uncut sheets; Prefix: D/10"
+  },
+  {
+    "id": 1045291,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Replacement note; Prefix: D/99"
+  },
+  {
+    "id": 511181,
+    "is_dated": true,
+    "year": 1426,
+    "gregorian_year": 2005,
+    "signatures": [
+      {
+        "signer_name": "Qaboos bin Said",
+        "title": "Sultan of Oman"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "43a"
+      }
+    ],
+    "comment": "Issued note; Prefix: D/1 till D/9"
+  }
+]

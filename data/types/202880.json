@@ -1,0 +1,101 @@
+{
+  "id": 202880,
+  "url": "https://en.numista.com/202880",
+  "title": "50 Riels",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "cambodge",
+    "name": "Cambodia"
+  },
+  "issuing_entity": {
+    "id": 76,
+    "name": "National Bank of Cambodia (established in 1992)"
+  },
+  "min_year": 2002,
+  "max_year": 2002,
+  "ruler": [
+    {
+      "id": 2940,
+      "name": "Norodom Sihanouk",
+      "wikidata_id": "Q160318",
+      "group": {
+        "id": 170,
+        "name": "Kingdom of Cambodia"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Riels",
+    "numeric_value": 50,
+    "currency": {
+      "id": 162,
+      "name": "Second riel",
+      "full_name": "Second riel (1979-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 130,
+  "size2": 60,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "The portrait of Banteay Srei Temple emerges in the center. On the right is the Norak Singha. On the left is the sculture of naga serpent.",
+    "lettering": "៥០\r\nធនាគារជា តិនៃ កម្ពុជា\r\nហាសិបរៀល\r\n50",
+    "lettering_scripts": [
+      {
+        "name": "Khmer"
+      }
+    ],
+    "lettering_translation": "50\r\nNational Bank of Cambodia\r\nFifty Riels\r\n50",
+    "picture": "https://en.numista.com/catalogue/photos/cambodge/623aec9867a882.79381034-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aec9867a882.79381034-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The sluice \"Tek Thla\", along the National Road No 3.",
+    "lettering": "50\r\nធនាគារជា តិនៃ កម្ពុជា\r\nNATIONAL BANK OF CAMBODIA\r\n2002\r\n៥០\r\nហាសិបរៀល\r\n៥០",
+    "lettering_scripts": [
+      {
+        "name": "Khmer"
+      }
+    ],
+    "lettering_translation": "50\r\nNATIONAL BANK OF CAMBODIA\r\nNATIONAL BANK OF CAMBODIA\r\n2002\r\n50\r\nFIFTY RIELS\r\n50",
+    "picture": "https://en.numista.com/catalogue/photos/cambodge/623aec98c49a61.04227449-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aec98c49a61.04227449-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "UV activity:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64a15f6110002.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a15f6110002.png\" alt=\"\" width=\"200\" height=\"94\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/64a15f74801c4.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a15f74801c4.png\" alt=\"\" width=\"200\" height=\"95\" /></a><br />\r\n© gyoschak<br /><br />\r\n<span style=\"font-weight:bold;\">Banteay Srei</span> is a Hindu temple of the X Century in Cambodia. Its name means &quot;Fortress of Women&quot; and is dedicated to the Hindu god Shiva. Most of the temple is built of red sandstone, and the columns and interior walls feature an astonishing number of highly detailed decorations. For these characteristics, the temps is often called &quot;Jewel of Khmer art&quot; or &quot;Precious jem&quot;.",
+  "tags": [
+    "Religious building"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "52"
+    }
+  ],
+  "watermark": {
+    "description": "Bayon sculpture in Angkor Wat",
+    "picture": "https://en.numista.com/catalogue/photos/cambodge/6299013ed87442.52568334-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6299013ed87442.52568334-180.jpg",
+    "picture_copyright": "oXide3030",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

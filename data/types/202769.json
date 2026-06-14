@@ -1,0 +1,128 @@
+{
+  "id": 202769,
+  "url": "https://en.numista.com/202769",
+  "title": "5 Hryven",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "ukraine",
+    "name": "Ukraine"
+  },
+  "issuing_entity": {
+    "id": 564,
+    "name": "National Bank of Ukraine",
+    "wikidata_id": "Q1070388"
+  },
+  "min_year": 1994,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 3209,
+      "name": "Republic",
+      "wikidata_id": "Q212"
+    }
+  ],
+  "value": {
+    "text": "5 Hryven",
+    "numeric_value": 5,
+    "currency": {
+      "id": 88,
+      "name": "Hryvnia",
+      "full_name": "Hryvnia (1996-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1997-09-01"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2020-10-01"
+  },
+  "size": 133,
+  "size2": 66,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Bohdan Khmelnytskyi (1595-1657) is a great hetman of Ukraine, a public figure and a military leader who established the Ukrainian State by uniting the left-bank and right-bank territories of Ukraine.",
+    "lettering": "5\r\nУКРАЇНА\r\nНАЦІОНАЛЬНИЙ БАНК УКРАЇНИ\r\nГолова Правління банку\r\nП'ЯТЬ ГРИВЕНЬ\r\n5\r\nБогдан Хмельницький",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "5\r\nUKRAINE\r\nNATIONAL BANK OF UKRAINE\r\nChairman of the Board of the Bank\r\nFIVE HRYVNIAS\r\n5\r\nBohdan Khmelnytskyi",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/64f2555826da98.13622675-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/64f2555826da98.13622675-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Illyinska (St. Elias) Church in Subotiv village was built in 1653 as a Khmelnytskyi family burial-vault. B. Khmelnytskyi and his son Tymosh are buried there.",
+    "lettering": "5\r\n5\r\n1994\r\nНАЦІОНАЛЬНИЙ БАНК УКРАЇНИ\r\nЦерква в селі Суботів\r\nП'ЯТЬ ГРИВЕНЬ\r\n5\r\n5",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "5\r\n5\r\n1994\r\nNATIONAL BANK OF UKRAINE\r\nThe church in the Subotiv village\r\nFIVE HRYVNIAS\r\n5\r\n5",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/64f25558e4fed8.73294143-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/64f25558e4fed8.73294143-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "UV activity:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64f25510c142f.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64f25510c142f.png\" alt=\"\" width=\"200\" height=\"101\" /></a><br />\r\n© gyoschak",
+  "related_types": [
+    {
+      "id": 202862,
+      "title": "5 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 1992,
+      "maxYear": 1992
+    },
+    {
+      "id": 202690,
+      "title": "5 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2004,
+      "maxYear": 2015
+    }
+  ],
+  "tags": [
+    "Religious building",
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "110"
+    }
+  ],
+  "watermark": {
+    "description": "Bohdan Khmelnytskyi",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/64f25559b3e8c0.15744456-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/64f25559b3e8c0.15744456-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

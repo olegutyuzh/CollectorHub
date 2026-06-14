@@ -1,0 +1,245 @@
+[
+  {
+    "id": 493247,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "Henrique de Campos Meirelles",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Ilan Goldfajn",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 402580000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "875d"
+      }
+    ],
+    "comment": "Series: DF - FB"
+  },
+  {
+    "id": 493248,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "Eduardo Refinetti Guardia",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Ilan Goldfajn",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 509040000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "875e"
+      }
+    ],
+    "comment": "Series: FB - GA"
+  },
+  {
+    "id": 528026,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "Paulo Roberto Nunes Guedes",
+        "title": "Economy Minister"
+      },
+      {
+        "signer_name": "Roberto Campos Neto",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 593530000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "875f"
+      }
+    ],
+    "comment": "Series: GJ - KC(to 081550000)"
+  },
+  {
+    "id": 803065,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "Roberto Campos Neto",
+        "title": "President of the Central Bank of Brazil"
+      },
+      {
+        "signer_name": "Fernando Haddad",
+        "title": "Finance Minister"
+      }
+    ],
+    "mintage": 388735000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "875g"
+      }
+    ],
+    "comment": "Series: KC(from 081550001), KI, LC, LG, LH, LJ, MB"
+  },
+  {
+    "id": 493244,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "Guido Mantega",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Alexandre Antônio Tombini",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 387000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "253a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "875a"
+      }
+    ],
+    "comment": "Series: AA - BE"
+  },
+  {
+    "id": 493246,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "Henrique de Campos Meirelles",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Alexandre Antônio Tombini",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 42635000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "253c"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "875c"
+      }
+    ],
+    "comment": "Series: CJ - DF"
+  },
+  {
+    "id": 528161,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2013,
+    "signatures": [
+      {
+        "signer_name": "Guido Mantega",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Alexandre Antônio Tombini",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "253s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "875as"
+      }
+    ],
+    "comment": "Series: AA; Specimen (MODELO / SEM VALOR)"
+  },
+  {
+    "id": 493245,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2015,
+    "signatures": [
+      {
+        "signer_name": "Joaquim Vieira Ferreira Levy",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Alexandre Antônio Tombini",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 139800000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "253b"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "875b"
+      }
+    ],
+    "comment": "Series: CD - CJ"
+  }
+]

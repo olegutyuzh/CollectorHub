@@ -1,0 +1,19 @@
+[
+  {
+    "id": 493293,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Øystein Olsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Leif Veggum",
+        "title": "Director"
+      }
+    ],
+    "mintage": 51340000
+  }
+]

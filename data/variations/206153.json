@@ -1,0 +1,136 @@
+[
+  {
+    "id": 511207,
+    "is_dated": false,
+    "min_year": 1966,
+    "max_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Dênio Chagas Nogueira",
+        "title": "President of the Central Bank of Brazil"
+      },
+      {
+        "signer_name": "Otávio Gouveia de Bulhões",
+        "title": "Finance Minister"
+      }
+    ],
+    "mintage": 9600000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C113"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "550.01"
+      }
+    ],
+    "comment": "P# 183a - Series: #3056 - 3151; With error \"MINSTRO\""
+  },
+  {
+    "id": 511209,
+    "is_dated": false,
+    "min_year": 1966,
+    "max_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Dênio Chagas Nogueira",
+        "title": "President of the Central Bank of Brazil"
+      },
+      {
+        "signer_name": "Otávio Gouveia de Bulhões",
+        "title": "Finance Minister"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C113m"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "550.02"
+      }
+    ],
+    "comment": "P# 183as - Specimen (\"MODELO\"); With error \"MINSTRO\""
+  },
+  {
+    "id": 511208,
+    "is_dated": false,
+    "min_year": 1967,
+    "max_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "Dênio Chagas Nogueira",
+        "title": "President of the Central Bank of Brazil"
+      },
+      {
+        "signer_name": "Otávio Gouveia de Bulhões",
+        "title": "Finance Minister"
+      }
+    ],
+    "mintage": 90400000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C114"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "550.03"
+      }
+    ],
+    "comment": "P# 183b - Series: #3152 - 4055"
+  },
+  {
+    "id": 536777,
+    "is_dated": false,
+    "min_year": 1967,
+    "max_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "Dênio Chagas Nogueira",
+        "title": "President of the Central Bank of Brazil"
+      },
+      {
+        "signer_name": "Otávio Gouveia de Bulhões",
+        "title": "Finance Minister"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C114m"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "550.04"
+      }
+    ],
+    "comment": "P# 183bs - Specimen (\"MODELO\")"
+  }
+]

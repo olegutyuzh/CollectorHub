@@ -1,0 +1,87 @@
+[
+  {
+    "id": 507372,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "17a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "308a"
+      }
+    ],
+    "comment": "Prefix: A-E; Signatures: Ahamadi Abdoulbastoi (\"Le Gouverneur\") & Remy Rioux (\"Le Président du Conseil d'Administration\")"
+  },
+  {
+    "id": 519217,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "17s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "308as"
+      }
+    ],
+    "comment": "Specimen"
+  },
+  {
+    "id": 575252,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2012,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "17b"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "308b"
+      }
+    ],
+    "comment": "Prefix: F-H; Signatures: Mzé Abdou Mohamed Chanfiou (\"P/Le Gouverneur - Le Vice-Gouverneur\") & Remy Rioux (\"Le Président du Conseil d'Administration\")"
+  },
+  {
+    "id": 777682,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2020,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "308c"
+      }
+    ],
+    "comment": "Seven digits in serial number; Signatures: Dr. Younoussa Imani (\"Le Gouverneur\") & Remy Rioux (\"Le Président du Conseil d'Administration\")"
+  }
+]

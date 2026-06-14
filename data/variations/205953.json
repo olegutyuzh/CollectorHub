@@ -1,0 +1,18 @@
+[
+  {
+    "id": 510101,
+    "is_dated": false,
+    "min_year": 1980,
+    "max_year": 1989,
+    "mintage": 7000000,
+    "comment": "P#48a, Bull"
+  },
+  {
+    "id": 525866,
+    "is_dated": false,
+    "min_year": 1980,
+    "max_year": 1989,
+    "mintage": 1000000,
+    "comment": "P#48b, Brown"
+  }
+]

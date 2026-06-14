@@ -1,0 +1,54 @@
+[
+  {
+    "id": 500574,
+    "is_dated": false,
+    "min_year": 2016,
+    "max_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Alejandro Vanoli",
+        "title": "President of the Central Bank of Argentina"
+      },
+      {
+        "signer_name": "Julián Dominguez",
+        "title": "President of the Honourable Chamber of Senators"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1841,
+          "code": "Bottero"
+        },
+        "number": "4001-4003"
+      }
+    ],
+    "comment": "Series A, B, C"
+  },
+  {
+    "id": 679972,
+    "is_dated": false,
+    "min_year": 2016,
+    "max_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Alejandro Vanoli",
+        "title": "President of the Central Bank of Argentina"
+      },
+      {
+        "signer_name": "Julián Dominguez",
+        "title": "President of the Honourable Chamber of Senators"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1841,
+          "code": "Bottero"
+        },
+        "number": "4004"
+      }
+    ],
+    "comment": "Replacement (R2) : Prefix R and suffix A"
+  }
+]

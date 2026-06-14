@@ -1,0 +1,31 @@
+[
+  {
+    "id": 496304,
+    "is_dated": false,
+    "min_year": 1974,
+    "mintage": 1000,
+    "comment": "(fr) P-62sa spécimen avec tampon noir de la Banque Centrale"
+  },
+  {
+    "id": 496305,
+    "is_dated": false,
+    "min_year": 1974,
+    "comment": "(fr) P-62sb spécimen avec tampon rouge de l'imprimeur"
+  },
+  {
+    "id": 496306,
+    "is_dated": false,
+    "min_year": 1974,
+    "max_year": 1978,
+    "mintage": 63000000,
+    "comment": "(fr) P-62a"
+  },
+  {
+    "id": 496307,
+    "is_dated": false,
+    "min_year": 1974,
+    "max_year": 1978,
+    "mintage": 750000,
+    "comment": "(fr) P-62r remplacement"
+  }
+]

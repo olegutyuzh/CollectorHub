@@ -1,0 +1,96 @@
+{
+  "id": 202537,
+  "url": "https://en.numista.com/202537",
+  "title": "200 Rupees (Independence)",
+  "object_type": {
+    "id": 80,
+    "name": "Circulating commemorative banknotes"
+  },
+  "issuer": {
+    "code": "sri_lanka_period",
+    "name": "Sri Lanka (1972-date)"
+  },
+  "issuing_entity": {
+    "id": 542,
+    "name": "Central Bank of Sri Lanka",
+    "wikidata_id": "Q2640939"
+  },
+  "min_year": 1998,
+  "max_year": 1998,
+  "ruler": [
+    {
+      "id": 589,
+      "name": "Democratic Socialist Republic",
+      "wikidata_id": "Q854"
+    }
+  ],
+  "value": {
+    "text": "200 Rupees",
+    "numeric_value": 200,
+    "currency": {
+      "id": 176,
+      "name": "Rupee",
+      "full_name": "Rupee (1972-date)"
+    }
+  },
+  "size": 146,
+  "size2": 74,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Polymer"
+  },
+  "obverse": {
+    "description": "Independence Memorial Hall, Colombo\r\n\r\nVarious progress in 50 years of independence: Free Education & Health Services, Gal Oya Development Project, Electricity Development, Bandaranaike Memorial International Conference Hall, Mahaweli Development Project, Bandaranaike International Airport, Telecommunications Development, Investment Promotion Zone, New Parliament Complex in Kotte, Industrial Development, Development of the Colombo City, Religious harmony and peace showing a Church, Mosque, Temple, Pagoda and the unity of the people.",
+    "lettering": "ශ්‍රී ලංකාණ්ඩුව වෙනුවෙන් නිකුත් කරන ලද මේ\r\nමුදල් නෝට්ටුව ශ්‍රී ලංකාව ඇතුළත ඕනෑම මුදල් ගණනක්\r\nගෙවිම සඳහා නිතියෙන් වලංගුය \r\n\r\n1998-02-04\r\n\r\nශ්‍රී ලංකා මහ බැංකුව\r\nஇலங்கை மத்திய வங்கி\r\nCENTRAL BANK OF SRI LANKA\r\n\r\nරුපියල් දෙසියයි\r\nஇருநூறு ரூபாய்\r\nTWO HUNDRED RUPEES\r\n\r\nනිදහස  சுதந்திரம்  Independence 1948-1998",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "This banknote issued on behalf of the Government of Sri Lanka is legally valid for payment of any amount within Sri Lanka\r\n\r\n1998-02-04\r\n\r\nCENTRAL BANK OF SRI LANKA\r\n\r\nTWO HUNDRED RUPEES\r\n\r\nIndependence 1948-1998",
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668f435580.08212342-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668f435580.08212342-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "description": "Temple of the Tooth, Kandy\r\n\r\nVarious historical scenes: Advent of Prince Vijaya, Arrival of Arahant Mahinda and introduction of Buddhism, King Dutugemunu unites Sri Lanka, Construction of Sigiriya Rock Fortress, Construction of Sea of Parakrama, European powers colonizing Sri Lanka, Wariyapola Sri Sumangala Thero hauling down the British flag in 1815",
+    "lettering": "ශ්‍රී ලංකා මහ බැංකුව\r\nஇலங்கை மத்திய வங்கி\r\nCENTRAL BANK OF SRI LANKA\r\n\r\nරුපියල් දෙසියයි\r\nஇருநூறு ரூபாய்\r\nTWO HUNDRED RUPEES",
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668f6ee775.87781312-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668f6ee775.87781312-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "commemorated_topic": "50 Years of Independence",
+  "comments": "<p>UV activity&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/679f687eb025b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/679f687eb025b.jpg\"></a></p>",
+  "tags": [
+    "Government building",
+    "Religious building",
+    "Independence",
+    "Sea",
+    "Plane or aircraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "114"
+    }
+  ],
+  "watermark": {
+    "description": "Lion holding sword in front of number '200'",
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668f88fab2.74298415-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668f88fab2.74298415-180.jpg",
+    "picture_copyright": "Griffin S",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 43,
+      "name": "Note Printing Australia"
+    }
+  ],
+  "category": "banknote",
+  "type": "Circulating commemorative banknotes"
+}

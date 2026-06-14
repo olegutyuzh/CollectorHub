@@ -1,0 +1,190 @@
+[
+  {
+    "id": 497774,
+    "is_dated": true,
+    "year": 2002,
+    "gregorian_year": 2002,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "62b"
+      }
+    ],
+    "comment": "Signature: Ochirbatyn Chuluunbat (Type 2 - with \"tail\")"
+  },
+  {
+    "id": 497775,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "62c"
+      }
+    ],
+    "comment": "Signature: Ochirbatyn Chuluunbat (Type 2 - with \"tail\")"
+  },
+  {
+    "id": 497776,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "62d"
+      }
+    ],
+    "comment": "P62d; Signature: Alag Batsükh (Type 1)"
+  },
+  {
+    "id": 497777,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "62e"
+      }
+    ],
+    "comment": "Signature: Lkhanaasüren Pürevdorj"
+  },
+  {
+    "id": 497779,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "comment": "Replacement: Prefix ZZ + 7 digits"
+  },
+  {
+    "id": 497778,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "62f"
+      }
+    ],
+    "comment": "Signature: Lkhanaasüren Pürevdorj"
+  },
+  {
+    "id": 497781,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "comment": "Replacement: Prefix ZZ + 6 digits"
+  },
+  {
+    "id": 497780,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "62g"
+      }
+    ],
+    "comment": "Signature: Naidansüren Dzoljargal"
+  },
+  {
+    "id": 497783,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "comment": "Replacement: Prefix XX"
+  },
+  {
+    "id": 497782,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "62h"
+      }
+    ],
+    "comment": "Signature: Naidansüren Dzoljargal"
+  },
+  {
+    "id": 497785,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "comment": "Replacement: Prefix ZX"
+  },
+  {
+    "id": 497784,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "62i"
+      }
+    ],
+    "comment": "Signature: Nadmidyn Bayartsaikhan"
+  },
+  {
+    "id": 497786,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "P62j"
+      }
+    ],
+    "comment": "Signature: Nadmidyn Bayartsaikhan"
+  },
+  {
+    "id": 660247,
+    "is_dated": true,
+    "year": 2020,
+    "gregorian_year": 2020,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "P62k"
+      }
+    ],
+    "comment": "Signature: Byadran Lkhagvasüren"
+  }
+]

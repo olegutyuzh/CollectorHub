@@ -1,0 +1,121 @@
+[
+  {
+    "id": 493591,
+    "is_dated": true,
+    "year": 1928,
+    "gregorian_year": 1928,
+    "month": 8,
+    "day": 15,
+    "signatures": [
+      {
+        "signer_name": "Carlos Vergara Cailleaux",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Adolfo Castaño Orejón",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Bonifacio Burgos Delgado",
+        "title": "Cashier"
+      }
+    ]
+  },
+  {
+    "id": 721962,
+    "is_dated": true,
+    "year": 1928,
+    "gregorian_year": 1928,
+    "month": 8,
+    "day": 15,
+    "signatures": [
+      {
+        "signer_name": "Carlos Vergara Cailleaux",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Adolfo Castaño Orejón",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Bonifacio Burgos Delgado",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75a"
+      }
+    ],
+    "comment": "Serial # without series letter, also Series A through 8,640,000"
+  },
+  {
+    "id": 522546,
+    "is_dated": true,
+    "year": 1928,
+    "gregorian_year": 1928,
+    "month": 8,
+    "day": 15,
+    "signatures": [
+      {
+        "signer_name": "Carlos Vergara Cailleaux",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Adolfo Castaño Orejón",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Bonifacio Burgos Delgado",
+        "title": "Cashier"
+      }
+    ],
+    "mintage": 60000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75b"
+      }
+    ],
+    "comment": "Serial # A8,640,001 through Series E, Republic issue"
+  },
+  {
+    "id": 522547,
+    "is_dated": true,
+    "year": 1928,
+    "gregorian_year": 1928,
+    "month": 8,
+    "day": 15,
+    "signatures": [
+      {
+        "signer_name": "Carlos Vergara Cailleaux",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Adolfo Castaño Orejón",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Bonifacio Burgos Delgado",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "75s"
+      }
+    ],
+    "comment": "Specimen"
+  }
+]

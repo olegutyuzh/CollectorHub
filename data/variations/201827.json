@@ -1,0 +1,52 @@
+[
+  {
+    "id": 493441,
+    "is_dated": false,
+    "min_year": 1969,
+    "max_year": 1994,
+    "mintage": 518400000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "95a"
+      }
+    ],
+    "comment": "single letter serial prefix"
+  },
+  {
+    "id": 493442,
+    "is_dated": false,
+    "min_year": 1969,
+    "max_year": 1994,
+    "mintage": 6965600000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "95b"
+      }
+    ],
+    "comment": "double letter serial prefix"
+  },
+  {
+    "id": 493443,
+    "is_dated": false,
+    "min_year": 1969,
+    "max_year": 1994,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "95s"
+      }
+    ],
+    "comment": "specimen; double letter serial prefix"
+  }
+]

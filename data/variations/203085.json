@@ -1,0 +1,506 @@
+[
+  {
+    "id": 502522,
+    "is_dated": true,
+    "year": 1945,
+    "gregorian_year": 1945,
+    "month": 11,
+    "day": 7,
+    "mintage": 60000000,
+    "comment": "(fr) Fay#28/01 - P#128a - alphabet 1-24"
+  },
+  {
+    "id": 503303,
+    "is_dated": true,
+    "year": 1945,
+    "gregorian_year": 1945,
+    "month": 11,
+    "day": 7,
+    "mintage": 100000,
+    "comment": "(fr) Fay#28/01A1 - P#128a - alphabet A.1, billets 1 - 100 000"
+  },
+  {
+    "id": 502523,
+    "is_dated": true,
+    "year": 1946,
+    "gregorian_year": 1946,
+    "month": 1,
+    "day": 17,
+    "mintage": 15000000,
+    "comment": "(fr) Fay#28/02 - P#128a - alphabet 25-30"
+  },
+  {
+    "id": 502524,
+    "is_dated": true,
+    "year": 1946,
+    "gregorian_year": 1946,
+    "month": 4,
+    "day": 18,
+    "mintage": 30000000,
+    "comment": "(fr) Fay#28/03 - P#128a - alphabet 31-42"
+  },
+  {
+    "id": 502525,
+    "is_dated": true,
+    "year": 1946,
+    "gregorian_year": 1946,
+    "month": 5,
+    "day": 16,
+    "mintage": 60000000,
+    "comment": "(fr) Fay#28/04 - P#128a - alphabet 43-48"
+  },
+  {
+    "id": 502526,
+    "is_dated": true,
+    "year": 1946,
+    "gregorian_year": 1946,
+    "month": 5,
+    "day": 31,
+    "mintage": 45000000,
+    "comment": "(fr) Fay#28/05 - P#128a - alphabet 49-66"
+  },
+  {
+    "id": 502527,
+    "is_dated": true,
+    "year": 1946,
+    "gregorian_year": 1946,
+    "month": 7,
+    "day": 11,
+    "mintage": 15000000,
+    "comment": "(fr) Fay#28/06 - P#128a - alphabet 67-72"
+  },
+  {
+    "id": 502528,
+    "is_dated": true,
+    "year": 1946,
+    "gregorian_year": 1946,
+    "month": 7,
+    "day": 18,
+    "mintage": 45000000,
+    "comment": "(fr) Fay#28/07 - P#128a - alphabet 73-90"
+  },
+  {
+    "id": 502529,
+    "is_dated": true,
+    "year": 1946,
+    "gregorian_year": 1946,
+    "month": 9,
+    "day": 5,
+    "mintage": 15000000,
+    "comment": "(fr) Fay#28/08 - P#128a - alphabet 91-96"
+  },
+  {
+    "id": 502530,
+    "is_dated": true,
+    "year": 1946,
+    "gregorian_year": 1946,
+    "month": 10,
+    "day": 3,
+    "mintage": 45000000,
+    "comment": "(fr) Fay#28/09 - P#128a - alphabet 97-114"
+  },
+  {
+    "id": 502531,
+    "is_dated": true,
+    "year": 1946,
+    "gregorian_year": 1946,
+    "month": 10,
+    "day": 31,
+    "mintage": 45000000,
+    "comment": "(fr) Fay#28/10 - P#128a - alphabet 115-132"
+  },
+  {
+    "id": 502532,
+    "is_dated": true,
+    "year": 1946,
+    "gregorian_year": 1946,
+    "month": 11,
+    "day": 21,
+    "mintage": 60000000,
+    "comment": "(fr) Fay#28/11 - P#128a - alphabet 133-156"
+  },
+  {
+    "id": 502533,
+    "is_dated": true,
+    "year": 1946,
+    "gregorian_year": 1946,
+    "month": 12,
+    "day": 19,
+    "mintage": 40000000,
+    "comment": "(fr) Fay#28/12 - P#128a - alphabet 157-172"
+  },
+  {
+    "id": 502534,
+    "is_dated": true,
+    "year": 1947,
+    "gregorian_year": 1947,
+    "month": 1,
+    "day": 9,
+    "mintage": 60000000,
+    "comment": "(fr) Fay#28/13 - P#128a - alphabet 173-196"
+  },
+  {
+    "id": 502535,
+    "is_dated": true,
+    "year": 1947,
+    "gregorian_year": 1947,
+    "month": 4,
+    "day": 3,
+    "mintage": 15000000,
+    "comment": "(fr) Fay#28/14 - P#128b - alphabet 197-202"
+  },
+  {
+    "id": 502536,
+    "is_dated": true,
+    "year": 1947,
+    "gregorian_year": 1947,
+    "month": 7,
+    "day": 17,
+    "mintage": 45000000,
+    "comment": "(fr) Fay#28/15 - P#128b - alphabet 203-220 (203 connu qu'en F.28ter)"
+  },
+  {
+    "id": 502537,
+    "is_dated": true,
+    "year": 1947,
+    "gregorian_year": 1947,
+    "month": 11,
+    "day": 6,
+    "mintage": 15000000,
+    "comment": "(fr) Fay#28/16 - P#128b - alphabet 221-226"
+  },
+  {
+    "id": 502538,
+    "is_dated": true,
+    "year": 1948,
+    "gregorian_year": 1948,
+    "month": 4,
+    "day": 15,
+    "mintage": 45000000,
+    "comment": "(fr) Fay#28/17 - P#128b - alphabet 227-244"
+  },
+  {
+    "id": 502539,
+    "is_dated": true,
+    "year": 1948,
+    "gregorian_year": 1948,
+    "month": 4,
+    "day": 29,
+    "mintage": 15000000,
+    "comment": "(fr) Fay#28/18 - P#128b - alphabet 245-250"
+  },
+  {
+    "id": 502540,
+    "is_dated": true,
+    "year": 1948,
+    "gregorian_year": 1948,
+    "month": 7,
+    "day": 15,
+    "mintage": 45000000,
+    "comment": "(fr) Fay#28/19 - P#128b - alphabet 251-268"
+  },
+  {
+    "id": 502541,
+    "is_dated": true,
+    "year": 1948,
+    "gregorian_year": 1948,
+    "month": 12,
+    "day": 2,
+    "mintage": 45000000,
+    "comment": "(fr) Fay#28/20 - P#128b - alphabet 269-286"
+  },
+  {
+    "id": 502542,
+    "is_dated": true,
+    "year": 1949,
+    "gregorian_year": 1949,
+    "month": 1,
+    "day": 27,
+    "mintage": 15000000,
+    "comment": "(fr) Fay#28/21 - P#128b - alphabet 287-295"
+  },
+  {
+    "id": 502543,
+    "is_dated": true,
+    "year": 1949,
+    "gregorian_year": 1949,
+    "month": 2,
+    "day": 17,
+    "mintage": 45000000,
+    "comment": "(fr) Fay#28/22 - P#128b - alphabet 296-310"
+  },
+  {
+    "id": 502545,
+    "is_dated": true,
+    "year": 1949,
+    "gregorian_year": 1949,
+    "month": 4,
+    "day": 7,
+    "mintage": 45000000,
+    "comment": "(fr) Fay#28/23 - P#128b - alphabet 311-328"
+  },
+  {
+    "id": 502546,
+    "is_dated": true,
+    "year": 1949,
+    "gregorian_year": 1949,
+    "month": 5,
+    "day": 19,
+    "mintage": 60000000,
+    "comment": "(fr) Fay#28/24 - P#128b - alphabet 329-352"
+  },
+  {
+    "id": 502547,
+    "is_dated": true,
+    "year": 1950,
+    "gregorian_year": 1950,
+    "month": 6,
+    "day": 29,
+    "mintage": 15000000,
+    "comment": "(fr) Fay#28/25 - P#128c - alphabet 353-358"
+  },
+  {
+    "id": 502548,
+    "is_dated": true,
+    "year": 1950,
+    "gregorian_year": 1950,
+    "month": 8,
+    "day": 24,
+    "mintage": 15000000,
+    "comment": "(fr) Fay#28/26 - P#128c - alphabet 359-364"
+  },
+  {
+    "id": 502549,
+    "is_dated": true,
+    "year": 1950,
+    "gregorian_year": 1950,
+    "month": 10,
+    "day": 12,
+    "mintage": 30000000,
+    "comment": "(fr) Fay#28/27 - P#128c - alphabet 365-376"
+  },
+  {
+    "id": 502550,
+    "is_dated": true,
+    "year": 1950,
+    "gregorian_year": 1950,
+    "month": 11,
+    "day": 16,
+    "mintage": 45000000,
+    "comment": "(fr) Fay#28/28 - P#128c - alphabet 377-394"
+  },
+  {
+    "id": 502551,
+    "is_dated": true,
+    "year": 1951,
+    "gregorian_year": 1951,
+    "month": 9,
+    "day": 6,
+    "mintage": 30000000,
+    "comment": "(fr) Fay#28/29 - P#128d - alphabet 395-406"
+  },
+  {
+    "id": 502552,
+    "is_dated": true,
+    "year": 1951,
+    "gregorian_year": 1951,
+    "month": 11,
+    "day": 2,
+    "mintage": 30000000,
+    "comment": "(fr) Fay#28/30 - P#128d - alphabet 407-418"
+  },
+  {
+    "id": 497584,
+    "is_dated": true,
+    "year": 1952,
+    "gregorian_year": 1952,
+    "month": 2,
+    "day": 7,
+    "mintage": 45000000,
+    "comment": "(fr) Fay#28/31 - P#128d - alphabet 419-436"
+  },
+  {
+    "id": 502553,
+    "is_dated": true,
+    "year": 1952,
+    "gregorian_year": 1952,
+    "month": 4,
+    "day": 3,
+    "mintage": 60000000,
+    "comment": "(fr) Fay#28/32 - P#128d - alphabet 437-460"
+  },
+  {
+    "id": 830833,
+    "is_dated": true,
+    "year": 1952,
+    "gregorian_year": 1952,
+    "month": 9,
+    "day": 4,
+    "mintage": 60000000,
+    "comment": "(fr) Fay#28/33  - P#128d - alphabet 461-484"
+  },
+  {
+    "id": 502555,
+    "is_dated": true,
+    "year": 1952,
+    "gregorian_year": 1952,
+    "month": 10,
+    "day": 2,
+    "mintage": 60000000,
+    "comment": "(fr) Fay#28/34 - P#128d - alphabet 485-508 (502, 504-506 connus qu'en Fay#28bis, P#128e)"
+  },
+  {
+    "id": 836767,
+    "is_dated": true,
+    "year": 1952,
+    "gregorian_year": 1952,
+    "month": 10,
+    "day": 2,
+    "comment": "(fr) Fay#28bis/01, P#128e - alphabet 485-508 (filigrane inversé)"
+  },
+  {
+    "id": 497585,
+    "is_dated": true,
+    "year": 1953,
+    "gregorian_year": 1953,
+    "month": 1,
+    "day": 2,
+    "mintage": 60000000,
+    "comment": "(fr) Fay#28/35 - P#128d - alphabet 509-532"
+  },
+  {
+    "id": 502556,
+    "is_dated": true,
+    "year": 1953,
+    "gregorian_year": 1953,
+    "month": 2,
+    "day": 5,
+    "mintage": 15000000,
+    "comment": "(fr) Fay#28/36 - P#128d - alphabet 533-538"
+  },
+  {
+    "id": 502557,
+    "is_dated": true,
+    "year": 1953,
+    "gregorian_year": 1953,
+    "month": 6,
+    "day": 4,
+    "mintage": 30000000,
+    "comment": "(fr) Fay#28/37 - P#128d - alphabet 539-550"
+  },
+  {
+    "id": 502558,
+    "is_dated": true,
+    "year": 1953,
+    "gregorian_year": 1953,
+    "month": 8,
+    "day": 6,
+    "mintage": 15000000,
+    "comment": "(fr) Fay#28/38 - P#128d - alphabet 551-556 - Aussi connu en Fay#28bis, P#128e"
+  },
+  {
+    "id": 836768,
+    "is_dated": true,
+    "year": 1953,
+    "gregorian_year": 1953,
+    "month": 8,
+    "day": 6,
+    "comment": "(fr) Fay#28bis/02, P#128e - alphabet 551-556 (filigrane inversé)"
+  },
+  {
+    "id": 502559,
+    "is_dated": true,
+    "year": 1953,
+    "gregorian_year": 1953,
+    "month": 10,
+    "day": 1,
+    "mintage": 30000000,
+    "comment": "(fr) Fay#28/39 - P#128d - alphabet 557-568 - Aussi connu en Fay#28bis, P#128e"
+  },
+  {
+    "id": 836769,
+    "is_dated": true,
+    "year": 1953,
+    "gregorian_year": 1953,
+    "month": 10,
+    "day": 1,
+    "comment": "(fr) Fay#28bis/03, P#128e - alphabet 557-568 (filigrane inversé)"
+  },
+  {
+    "id": 502560,
+    "is_dated": true,
+    "year": 1953,
+    "gregorian_year": 1953,
+    "month": 12,
+    "day": 3,
+    "mintage": 20000000,
+    "comment": "(fr) Fay#28/40 - P#128d - alphabet 569-573 et A, B, C du 574"
+  },
+  {
+    "id": 502561,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "month": 1,
+    "day": 7,
+    "mintage": 22500000,
+    "comment": "(fr) Fay#28/41 - P#128d - alphabet 577-585 - Aussi connu en Fay#28bis, P#128e"
+  },
+  {
+    "id": 836770,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "month": 1,
+    "day": 7,
+    "comment": "(fr) Fay#28bis/04, P#128e - alphabet 577-585 (filigrane inversé)"
+  },
+  {
+    "id": 502562,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "month": 3,
+    "day": 4,
+    "mintage": 15000000,
+    "comment": "(fr) Fay#28/42 - P#128d - alphabet 586-591 - Aussi connu en Fay#28bis, P#128e"
+  },
+  {
+    "id": 836771,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "month": 3,
+    "day": 4,
+    "comment": "(fr) Fay#28bis/05, P#128e - alphabet 586-591 (filigrane inversé)"
+  },
+  {
+    "id": 502563,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "month": 4,
+    "day": 1,
+    "mintage": 35000000,
+    "comment": "(fr) Fay#28/43 - P#128d - alphabet 592-605 - Aussi connu en Fay#28bis, P#128e"
+  },
+  {
+    "id": 502572,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "month": 4,
+    "day": 1,
+    "mintage": 2500000,
+    "comment": "(fr) Fay#28/43a - P#128d - alphabet 606"
+  },
+  {
+    "id": 836772,
+    "is_dated": true,
+    "year": 1954,
+    "gregorian_year": 1954,
+    "month": 4,
+    "day": 1,
+    "comment": "(fr) Fay#28bis/06, P#128e - alphabet 592-606 (filigrane inversé)"
+  }
+]

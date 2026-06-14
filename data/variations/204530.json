@@ -1,0 +1,24 @@
+[
+  {
+    "id": 504163,
+    "is_dated": true,
+    "year": 2000,
+    "gregorian_year": 2000,
+    "signatures": [
+      {
+        "signer_name": "Tim Bristow",
+        "title": "Financial and Development Secretary"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "29"
+      }
+    ],
+    "comment": "Issued note"
+  }
+]

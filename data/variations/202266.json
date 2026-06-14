@@ -1,0 +1,211 @@
+[
+  {
+    "id": 515040,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 1,
+    "day": 25,
+    "signatures": [
+      {
+        "signer_name": "Roberto del Cueto Legaspi",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "comment": "Series AX"
+  },
+  {
+    "id": 524724,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 1,
+    "day": 25,
+    "signatures": [
+      {
+        "signer_name": "Manuel Sanchéz González",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "comment": "Series AX"
+  },
+  {
+    "id": 524725,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 1,
+    "day": 25,
+    "signatures": [
+      {
+        "signer_name": "Agustí­n Guillermo Carstens Carstens",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "comment": "Series AX"
+  },
+  {
+    "id": 524726,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 1,
+    "day": 25,
+    "signatures": [
+      {
+        "signer_name": "Manuel Ramos Francia",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "comment": "Series AX"
+  },
+  {
+    "id": 524727,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 1,
+    "day": 25,
+    "signatures": [
+      {
+        "signer_name": "Javier Eduardo Guzmán Calafell",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "comment": "Series AX"
+  },
+  {
+    "id": 768400,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 1,
+    "day": 25,
+    "signatures": [
+      {
+        "signer_name": "Agustí­n Guillermo Carstens Carstens",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "comment": "Series AY"
+  },
+  {
+    "id": 768401,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 1,
+    "day": 25,
+    "signatures": [
+      {
+        "signer_name": "Roberto del Cueto Legaspi",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "comment": "Series AY"
+  },
+  {
+    "id": 768402,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 1,
+    "day": 25,
+    "signatures": [
+      {
+        "signer_name": "Manuel Ramos Francia",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "comment": "Series AY"
+  },
+  {
+    "id": 768403,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 1,
+    "day": 25,
+    "signatures": [
+      {
+        "signer_name": "Manuel Ramos Francia",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "comment": "Series AY"
+  },
+  {
+    "id": 768404,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 1,
+    "day": 25,
+    "signatures": [
+      {
+        "signer_name": "Javier Eduardo Guzmán Calafell",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "comment": "Series AY"
+  },
+  {
+    "id": 494397,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "month": 1,
+    "day": 25,
+    "signatures": [
+      {
+        "signer_name": "Manuel Sanchéz González",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Alejandro Alegre Rabiela",
+        "title": "Main Cashier"
+      }
+    ],
+    "comment": "Series AY"
+  }
+]

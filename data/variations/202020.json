@@ -1,0 +1,50 @@
+[
+  {
+    "id": 493720,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Valeriia Oleksiivna Hontareva",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ]
+  },
+  {
+    "id": 493721,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Yakiv Vasylovych Smolii",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ]
+  },
+  {
+    "id": 697359,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "signatures": [
+      {
+        "signer_name": "Kyrylo Yevhenovych Shevchenko",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ]
+  },
+  {
+    "id": 759651,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "signatures": [
+      {
+        "signer_name": "Pyshnyi Andrii Hryhorovych",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ]
+  }
+]

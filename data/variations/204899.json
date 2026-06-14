@@ -1,0 +1,77 @@
+[
+  {
+    "id": 505437,
+    "is_dated": false,
+    "min_year": 2011,
+    "max_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Thirachai Phuvanatnaranubala",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Prasarn Trairatvorakul",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#119a.1 Signatures: Thirachai Phuvanatnaranubala & Prasarn Trairatvorakul"
+  },
+  {
+    "id": 680737,
+    "is_dated": false,
+    "min_year": 2011,
+    "max_year": 2016,
+    "comment": "P#119a.1r S prefix serial number replacement note"
+  },
+  {
+    "id": 505438,
+    "is_dated": false,
+    "min_year": 2011,
+    "max_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Kittiratt Na-Ranong",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Prasarn Trairatvorakul",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#119a.2"
+  },
+  {
+    "id": 505439,
+    "is_dated": false,
+    "min_year": 2011,
+    "max_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Sommai Phasee",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Prasarn Trairatvorakul",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#119a.3"
+  },
+  {
+    "id": 505440,
+    "is_dated": false,
+    "min_year": 2011,
+    "max_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Apisak Tantivorawong",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Veerathai Santiprabhob",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#119a.4"
+  }
+]

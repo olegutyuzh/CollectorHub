@@ -1,0 +1,60 @@
+[
+  {
+    "id": 494484,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "155a"
+      }
+    ],
+    "comment": "Signatures : Agus Dermawan Wintarto Martowardojo, Mulyani Indrawati"
+  },
+  {
+    "id": 500282,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "comment": "P#155b Emisi 2016 / Peruri TC 2017 (at lower left on back)."
+  },
+  {
+    "id": 500283,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "comment": "P#155c.1 Emisi 2016 / Peruri TC 2018 (at lower left on back)."
+  },
+  {
+    "id": 523139,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "comment": "P#155c.2 new signature"
+  },
+  {
+    "id": 500284,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "comment": "P#155d Emisi 2016 / Peruri TC 2019 (at lower left on back)."
+  },
+  {
+    "id": 648719,
+    "is_dated": true,
+    "year": 2020,
+    "gregorian_year": 2020,
+    "comment": "Emisi 2016 / Peruri TC 2020 (at lower left on back)"
+  },
+  {
+    "id": 669453,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "comment": "Emisi 2016 / Peruri TC 2021 (at lower left on back)"
+  }
+]

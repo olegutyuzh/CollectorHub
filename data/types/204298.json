@@ -1,0 +1,171 @@
+{
+  "id": 204298,
+  "url": "https://en.numista.com/204298",
+  "title": "20 Patacas (Banco da China)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "macao",
+    "name": "Macau"
+  },
+  "issuing_entity": {
+    "id": 684,
+    "name": "Bank of China (Macau)"
+  },
+  "min_year": 2008,
+  "max_year": 2017,
+  "ruler": [
+    {
+      "id": 4158,
+      "name": "Special Administrative Region",
+      "wikidata_id": "Q14773",
+      "group": {
+        "id": 291,
+        "name": "Chinese Administration"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Patacas",
+    "numeric_value": 20,
+    "currency": {
+      "id": 141,
+      "name": "Pataca",
+      "full_name": "Pataca (1894-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 143,
+  "size2": 71.5,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Violet colour. Façade of the ruins of Saint Paul's Cathedral. Lotus below watermark at the bottom left",
+    "lettering": "20 MACAU\r\nVINTE PATACAS\r\n\r\n中國銀行\r\nBANCO DA CHINA\r\n\r\n二零一三年七月一日  澳門\r\nMACAU, 1 DE JULHO DE 2013\r\n根據第15/2013號行政法規\r\nREGULAMENTO ADMINISTRATIVO N.ᵒ 15/2013\r\n澳門分行行長\r\nDIRECTOR-GERAL DA SUCURSAL DE MACAU\r\n\r\n大三巴牌坊  RUÍNAS DE S. PAULO\r\n\r\n澳門幣貳拾圓",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Twenty Patacas, Bank of China, 2013 July 1, According to Administrative Regulation No. 15/2013, Macau Branch President, Saint Paul's Cathedral façade, Twenty Macanese Patacas",
+    "picture": "https://en.numista.com/catalogue/photos/macao/63b578cdbc9f06.35460865-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/macao/63b578cdbc9f06.35460865-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Picture of Bank of China, Macau branch building",
+    "lettering": "20\r\nMACAU\r\n\r\n中國銀行\r\nBANCO DA CHINA\r\n\r\n澳門幣 20 \r\n貳拾圓 PATACAS",
+    "lettering_scripts": [
+      {
+        "name": "Chinese"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bank of China, Macanese currency Twenty patacas",
+    "picture": "https://en.numista.com/catalogue/photos/macao/63b578d07272a9.61826007-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/macao/63b578d07272a9.61826007-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "UV activity:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64dcd8a9b831b.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64dcd8a9b831b.png\" alt=\"\" width=\"200\" height=\"100\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/64dcd8bc3af38.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64dcd8bc3af38.png\" alt=\"\" width=\"200\" height=\"101\" /></a><br />\r\n© gyoschak",
+  "related_types": [
+    {
+      "id": 204305,
+      "title": "10 Patacas (Banco da China)",
+      "category": "banknote",
+      "country": {
+        "code": "macao",
+        "name": "Macau"
+      },
+      "minYear": 2008,
+      "maxYear": 2013
+    },
+    {
+      "id": 204220,
+      "title": "50 Patacas (Banco da China)",
+      "category": "banknote",
+      "country": {
+        "code": "macao",
+        "name": "Macau"
+      },
+      "minYear": 2008,
+      "maxYear": 2017
+    },
+    {
+      "id": 204215,
+      "title": "100 Patacas (Banco da China)",
+      "category": "banknote",
+      "country": {
+        "code": "macao",
+        "name": "Macau"
+      },
+      "minYear": 2008,
+      "maxYear": 2017
+    },
+    {
+      "id": 228376,
+      "title": "500 Patacas (Banco da China)",
+      "category": "banknote",
+      "country": {
+        "code": "macao",
+        "name": "Macau"
+      },
+      "minYear": 2008,
+      "maxYear": 2013
+    },
+    {
+      "id": 228377,
+      "title": "1000 Patacas (Banco da China)",
+      "category": "banknote",
+      "country": {
+        "code": "macao",
+        "name": "Macau"
+      },
+      "minYear": 2008,
+      "maxYear": 2017
+    }
+  ],
+  "tags": [
+    "Religious building",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "109"
+    }
+  ],
+  "watermark": {
+    "description": "The Golden Lotus, Electrotype '20'",
+    "picture": "https://en.numista.com/catalogue/photos/macao/62064b749e5bd2.10408972-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/macao/62064b749e5bd2.10408972-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 25,
+      "name": "Hongkong Printing Press"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

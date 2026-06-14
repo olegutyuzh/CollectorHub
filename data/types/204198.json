@@ -1,0 +1,84 @@
+{
+  "id": 204198,
+  "url": "https://en.numista.com/204198",
+  "title": "20 Pounds",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "irlande",
+    "name": "Ireland"
+  },
+  "issuing_entity": {
+    "id": 252,
+    "name": "Central Bank of Ireland"
+  },
+  "min_year": 1992,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 2858,
+      "name": "Republic",
+      "wikidata_id": "Q27"
+    }
+  ],
+  "value": {
+    "text": "20 Pounds",
+    "numeric_value": 20,
+    "currency": {
+      "id": 120,
+      "name": "Pound / Irish Pound",
+      "full_name": "Pound / Irish Pound (decimalized, 1971-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2002-00-00"
+  },
+  "size": 136,
+  "size2": 72,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "designers": [
+      "Robert Ballagh"
+    ],
+    "description": "Daniel O'Connell (Lord Mayor of Dublin 1841-1842).\r\nDerrynane Abbey, County Kerry in background.",
+    "lettering": "Banc Ceannais na hÉireann  \r\nFiche Punt",
+    "lettering_translation": "Central Bank of Ireland\r\nTwenty Pounds",
+    "picture": "https://en.numista.com/catalogue/photos/irlande/630ba1aee9a074.68294363-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/irlande/630ba1aee9a074.68294363-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "reverse": {
+    "designers": [
+      "Robert Ballagh"
+    ],
+    "description": "The Four Courts, Dublin.\r\nA pledge signed in 1845 by a number of early Irish statesmen in the background.",
+    "lettering": "Central Bank of Ireland\r\n£20\r\nTwenty Pounds",
+    "picture": "https://en.numista.com/catalogue/photos/irlande/630ba1af3fc338.01589784-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/irlande/630ba1af3fc338.01589784-180.jpg",
+    "picture_copyright": "nordboutik59"
+  },
+  "comments": "<p>The brick detail in the building is actually '£20' printed repeatedly.<br>Before 23.9.1997, prefixes contained letters A-L. Starting that date, prefixes contained letters M-Z, excluding O and Q.</p><p>&nbsp;</p><p>Visit www.irishpapermoney.com for background information on the <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.irishpapermoney.com/design-of-irish-banknotes/series-c-O-Connell-20-pounds.html\">20 Pound design</a>, and also for a full list of <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.irishpapermoney.com/b-series-notes/ireland-banknotes-b-series-dates.html\">dates of issue</a> for the Irish Series C banknotes, with an image of each date, and of all known replacement notes.</p><p><br>An introduction to the Series C, <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://www.irishpapermoney.com/c-series-banknotes-central-bank-of-ireland-1992-2001.html\">Irish Legal Tender Notes</a> is also on the same web site. Background information on the note issues and images of other dates and denominations and varieties of the notes, as well as Specimen notes are illustrated.</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "77"
+    }
+  ],
+  "printers": [
+    {
+      "id": 770,
+      "name": "Central Bank of Ireland"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

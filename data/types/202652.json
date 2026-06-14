@@ -1,0 +1,121 @@
+{
+  "id": 202652,
+  "url": "https://en.numista.com/202652",
+  "title": "1 Dinar (Thin marks for the blind)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "bahrein",
+    "name": "Bahrain"
+  },
+  "issuing_entity": {
+    "id": 896,
+    "name": "Central Bank of Bahrain",
+    "wikidata_id": "Q571182"
+  },
+  "min_year": 2008,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 1510,
+      "name": "Hamad bin Isa Al Khalifa",
+      "wikidata_id": "Q57352",
+      "group": {
+        "id": 740,
+        "name": "House of Khalifa"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dinar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 24,
+      "name": "Dinar",
+      "full_name": "Dinar (1965-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2008-03-17"
+  },
+  "size": 155,
+  "size2": 74,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Al Hedya Al Khalifya School in Muharraq.",
+    "lettering": "مصرف البحرين المركزي\r\n١\r\nورقة نقدية صادرة بموجب القانون رقم ٢٠٠٦/٦٤\r\nدينار واحد",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      }
+    ],
+    "lettering_translation": "Central Bank of Bahrain\r\nBanknote issued under Law No. 64/2006\r\nOne Dinar",
+    "picture": "https://en.numista.com/catalogue/photos/bahrein/6298c2b126b1d6.09230056-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahrein/6298c2b126b1d6.09230056-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Galloping Arabian Horse and the Sail and Pearl Monument.",
+    "lettering": "Central Bank of Bahrain\r\n1\r\nONE DINAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bahrein/6298c2b1c9e575.77409078-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahrein/6298c2b1c9e575.77409078-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "Central Bank of Bahrain (Law 2006); 1st. Issue",
+  "comments": "<p>Front right is different from P#31.</p>",
+  "related_types": [
+    {
+      "id": 404566,
+      "title": "1 Dinar (Thick marks for the visually impaired)",
+      "category": "banknote",
+      "country": {
+        "code": "bahrein",
+        "name": "Bahrain"
+      },
+      "minYear": 2016,
+      "maxYear": 2022
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Government building"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "26"
+    }
+  ],
+  "watermark": {
+    "description": "His Majesty King Hamad Bin Isa Al Khalifa, King of Bahrain.",
+    "picture": "https://en.numista.com/catalogue/photos/bahrein/5ee55dadd466a5.44619129-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahrein/5ee55dadd466a5.44619129-180.jpg",
+    "picture_copyright": "Salaction"
+  },
+  "printers": [
+    {
+      "id": 1,
+      "name": "De La Rue"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

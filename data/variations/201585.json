@@ -1,0 +1,270 @@
+[
+  {
+    "id": 492960,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "signatures": [
+      {
+        "signer_name": "Tiff Macklem",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Mark Joseph Carney",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 830000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "108a"
+      }
+    ],
+    "comment": "▲"
+  },
+  {
+    "id": 557503,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "signatures": [
+      {
+        "signer_name": "Tiff Macklem",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Mark Joseph Carney",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 270000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "108a"
+      }
+    ],
+    "comment": "BSW prefix"
+  },
+  {
+    "id": 557504,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "signatures": [
+      {
+        "signer_name": "Tiff Macklem",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Mark Joseph Carney",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 8964000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "108a"
+      }
+    ],
+    "comment": "FVP prefix - changeover"
+  },
+  {
+    "id": 514636,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "signatures": [
+      {
+        "signer_name": "Carolyn A. Wilkins",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Stephen S. Poloz",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 620000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "108b"
+      }
+    ],
+    "comment": "▲"
+  },
+  {
+    "id": 557505,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "signatures": [
+      {
+        "signer_name": "Carolyn A. Wilkins",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Stephen S. Poloz",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 1036000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "108b"
+      }
+    ],
+    "comment": "FVP prefix - changeover"
+  },
+  {
+    "id": 880210,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "signatures": [
+      {
+        "signer_name": "Carolyn A. Wilkins",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Stephen S. Poloz",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 9999000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "108b"
+      }
+    ],
+    "comment": "FWR prefix"
+  },
+  {
+    "id": 557507,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "signatures": [
+      {
+        "signer_name": "Carolyn A. Wilkins",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Stephen S. Poloz",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 6526000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "108b"
+      }
+    ],
+    "comment": "FWW prefix"
+  },
+  {
+    "id": 770118,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "signatures": [
+      {
+        "signer_name": "Carolyn A. Wilkins",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Stephen S. Poloz",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 8019000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "108b"
+      }
+    ],
+    "comment": "FZT prefix - changeover"
+  },
+  {
+    "id": 770120,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "signatures": [
+      {
+        "signer_name": "Timothy Lane",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Tiff Macklem",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "108c"
+      }
+    ],
+    "comment": "▲"
+  },
+  {
+    "id": 770119,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "signatures": [
+      {
+        "signer_name": "Timothy Lane",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Tiff Macklem",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "108c"
+      }
+    ],
+    "comment": "FZT prefix - changeover"
+  }
+]

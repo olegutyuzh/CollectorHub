@@ -1,0 +1,408 @@
+[
+  {
+    "id": 825442,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "month": 3,
+    "day": 5,
+    "signatures": [
+      {
+        "signer_name": "Hisham Ramez",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "Replacement - (ك/٧٠٠)"
+  },
+  {
+    "id": 825443,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "month": 6,
+    "day": 20,
+    "signatures": [
+      {
+        "signer_name": "Hisham Ramez",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "Special Replacement - (ك/٩٩٩)"
+  },
+  {
+    "id": 1031424,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "month": 12,
+    "day": 28,
+    "signatures": [
+      {
+        "signer_name": "Hisham Ramez",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "(ك/٣١٢) - only one date"
+  },
+  {
+    "id": 825444,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "signatures": [
+      {
+        "signer_name": "Hisham Ramez",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "20.4.2015 - 21.9.2015 ; (313/ك) to (328/ك)"
+  },
+  {
+    "id": 1031423,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "month": 5,
+    "day": 10,
+    "signatures": [
+      {
+        "signer_name": "Hisham Ramez",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "Replacment - (ك/٨٠٠) - Hisham Ramez"
+  },
+  {
+    "id": 1031425,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "month": 12,
+    "signatures": [
+      {
+        "signer_name": "Tarek Hassan Amer",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 59999994,
+    "comment": "16.12.2015 to 24.12.2015; Prefix (329/ك) to (334/ك); 6 Prefixes"
+  },
+  {
+    "id": 514127,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "month": 12,
+    "day": 27,
+    "signatures": [
+      {
+        "signer_name": "Tarek Hassan Amer",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "Replacment - (ك/٨٠٠) - Tarek Amer"
+  },
+  {
+    "id": 1031427,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "month": 12,
+    "day": 28,
+    "signatures": [
+      {
+        "signer_name": "Tarek Hassan Amer",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "Special Replacement - (ك/٩٩٩)"
+  },
+  {
+    "id": 1031428,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Tarek Hassan Amer",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 359999964,
+    "comment": "26.01.2016 to 05.10.2016; Prefix (335/ك) to (370/ك); 36 Prefixes"
+  },
+  {
+    "id": 1031429,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 4,
+    "day": 17,
+    "signatures": [
+      {
+        "signer_name": "Tarek Hassan Amer",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "Special Replacement - (ك/٩٩٩)"
+  },
+  {
+    "id": 1031430,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Tarek Hassan Amer",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 389999961,
+    "comment": "13.03.2017 to 25.10.2017; Prefix (371/ك) to (409/ك); 39 Prefixes"
+  },
+  {
+    "id": 514133,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "month": 3,
+    "day": 21,
+    "signatures": [
+      {
+        "signer_name": "Tarek Hassan Amer",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "Amer - P#72e.4 Replacment - (ك/٩٠٠)"
+  },
+  {
+    "id": 1031431,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "month": 7,
+    "day": 30,
+    "signatures": [
+      {
+        "signer_name": "Tarek Hassan Amer",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "Special Replacement - (ك/٩٩٩)"
+  },
+  {
+    "id": 1031432,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Tarek Hassan Amer",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 199999980,
+    "comment": "19.04.2018 to 21.10.2018; Prefix (411/ك) to (430/ك); 20 Prefixes"
+  },
+  {
+    "id": 926834,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Tarek Hassan Amer",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 309999969,
+    "comment": "22.01.2019 to 27.11.2019; Prefix (431/ك) to (461/ك); 31 Prefixes"
+  },
+  {
+    "id": 766774,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "month": 3,
+    "day": 27,
+    "signatures": [
+      {
+        "signer_name": "Tarek Hassan Amer",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "Replacment - (ك/١٠٠)"
+  },
+  {
+    "id": 766775,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "month": 11,
+    "day": 28,
+    "signatures": [
+      {
+        "signer_name": "Tarek Hassan Amer",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "Replacment - (ك/٢٠٠)"
+  },
+  {
+    "id": 1031443,
+    "is_dated": true,
+    "year": 2020,
+    "gregorian_year": 2020,
+    "signatures": [
+      {
+        "signer_name": "Tarek Hassan Amer",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 429999957,
+    "comment": "14.01.2020 to 16.12.2020; Prefix (462/ك) to (504/ك); 43 Prefixes"
+  },
+  {
+    "id": 763457,
+    "is_dated": true,
+    "year": 2020,
+    "gregorian_year": 2020,
+    "month": 6,
+    "day": 24,
+    "signatures": [
+      {
+        "signer_name": "Tarek Hassan Amer",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "Replacment - (ك/٣٠٠) + (ك/٤٠٠)"
+  },
+  {
+    "id": 1031456,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "signatures": [
+      {
+        "signer_name": "Tarek Hassan Amer",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 519999948,
+    "comment": "25.01.2021 to 22.12.2021; Prefix (505/ك) to (556/ك); 52 Prefixes"
+  },
+  {
+    "id": 779527,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "month": 9,
+    "day": 14,
+    "signatures": [
+      {
+        "signer_name": "Tarek Hassan Amer",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "Replacment - (ك/٥٠٠)"
+  },
+  {
+    "id": 1031457,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "signatures": [
+      {
+        "signer_name": "Tarek Hassan Amer",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 319999968,
+    "comment": "1) 15.03.2022 to 14.08.2022; Prefix (557/ك) to (588/ك); 32 Prefixes"
+  },
+  {
+    "id": 813176,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "signatures": [
+      {
+        "signer_name": "Hassan Abdullah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 189999981,
+    "comment": "2) 10.10.2022 to 22.11.2022; Prefix (588/ك) to (606/ك); 19 Prefixes"
+  },
+  {
+    "id": 851284,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "month": 10,
+    "day": 13,
+    "signatures": [
+      {
+        "signer_name": "Hassan Abdullah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "Replacment - (ك/٥٠٠) + (ك/٦٠٠)"
+  },
+  {
+    "id": 895048,
+    "is_dated": true,
+    "year": 2023,
+    "gregorian_year": 2023,
+    "signatures": [
+      {
+        "signer_name": "Hassan Abdullah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 239999976,
+    "comment": "11.05.2023 to 05.12.2023; Prefix (607/ك) to (630/ك); 24 Prefixes"
+  },
+  {
+    "id": 895049,
+    "is_dated": true,
+    "year": 2024,
+    "gregorian_year": 2024,
+    "signatures": [
+      {
+        "signer_name": "Hassan Abdullah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 579999942,
+    "comment": "04.01.2024 to 05.12.2024; Prefix (631/ك) to (688/ك); 58 Prefixes"
+  },
+  {
+    "id": 1031493,
+    "is_dated": true,
+    "year": 2024,
+    "gregorian_year": 2024,
+    "month": 5,
+    "day": 16,
+    "signatures": [
+      {
+        "signer_name": "Hassan Abdullah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "Replacment - (ك/٧٠٠) + (ك/٨٠٠)"
+  },
+  {
+    "id": 1023543,
+    "is_dated": true,
+    "year": 2025,
+    "gregorian_year": 2025,
+    "signatures": [
+      {
+        "signer_name": "Hassan Abdullah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "25.5.2025 - Date;(689/ك) to ...Now"
+  }
+]

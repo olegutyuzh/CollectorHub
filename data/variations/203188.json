@@ -1,0 +1,171 @@
+[
+  {
+    "id": 498025,
+    "is_dated": false,
+    "min_year": 1989,
+    "max_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Maí­lson Ferreira da Nóbrega",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Elmo de Araújo Camões",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 667200000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C206"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "592.01"
+      }
+    ],
+    "comment": "P# 220a - Series: A0001 - A6772 (Stamp A)"
+  },
+  {
+    "id": 501336,
+    "is_dated": false,
+    "min_year": 1989,
+    "max_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Maí­lson Ferreira da Nóbrega",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Elmo de Araújo Camões",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 200000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C206a"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "592.03"
+      }
+    ],
+    "comment": "P# 220ar - Series: ✻0001 - ✻0002 (Stamp A); Replacement (with ✻)"
+  },
+  {
+    "id": 522596,
+    "is_dated": false,
+    "min_year": 1989,
+    "max_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Maí­lson Ferreira da Nóbrega",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Elmo de Araújo Camões",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C206m"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "592.02"
+      }
+    ],
+    "comment": "P# 220s - Specimen (MODELO)"
+  },
+  {
+    "id": 501337,
+    "is_dated": false,
+    "min_year": 1989,
+    "max_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Maí­lson Ferreira da Nóbrega",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Wadico Waldir Bucchi",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 202200000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C207"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "592.04"
+      }
+    ],
+    "comment": "P# 220b - Series: A6773 - A8794 (Stamp A)"
+  },
+  {
+    "id": 501338,
+    "is_dated": false,
+    "min_year": 1989,
+    "max_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Maí­lson Ferreira da Nóbrega",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Wadico Waldir Bucchi",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 100000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C207a"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "592.05"
+      }
+    ],
+    "comment": "P# 220br - Series: ✻0003 (Stamp A); Replacement (with ✻)"
+  }
+]

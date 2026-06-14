@@ -1,0 +1,466 @@
+[
+  {
+    "id": 493727,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Glenn Robert Stevens",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "John. A. Fraser",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "62a"
+      },
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R224"
+      }
+    ]
+  },
+  {
+    "id": 676159,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Glenn Robert Stevens",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "John. A. Fraser",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "62a"
+      },
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R224F"
+      }
+    ],
+    "comment": "First prefix: AA16"
+  },
+  {
+    "id": 676160,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Glenn Robert Stevens",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "John. A. Fraser",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "62a"
+      },
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R224L"
+      }
+    ],
+    "comment": "Last prefix: EJ16"
+  },
+  {
+    "id": 515197,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "62s"
+      }
+    ],
+    "comment": "Specimen"
+  },
+  {
+    "id": 676162,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Philip Lowe",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "John. A. Fraser",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R226"
+      }
+    ]
+  },
+  {
+    "id": 517772,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Philip Lowe",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "John. A. Fraser",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R226F"
+      }
+    ],
+    "comment": "First prefix: AA18"
+  },
+  {
+    "id": 676161,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Philip Lowe",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "John. A. Fraser",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R266L"
+      }
+    ],
+    "comment": "Last prefix: EJ18"
+  },
+  {
+    "id": 676164,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Philip Lowe",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "Steven Kennedy",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B230b"
+      },
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R228a"
+      }
+    ]
+  },
+  {
+    "id": 627016,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Philip Lowe",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "Steven Kennedy",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B230b"
+      },
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R228aF"
+      }
+    ],
+    "comment": "First prefix: AA19"
+  },
+  {
+    "id": 676163,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Philip Lowe",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "Steven Kennedy",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B230b"
+      },
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R228aL"
+      }
+    ],
+    "comment": "Last prefix: EJ19"
+  },
+  {
+    "id": 696647,
+    "is_dated": true,
+    "year": 2020,
+    "gregorian_year": 2020,
+    "signatures": [
+      {
+        "signer_name": "Philip Lowe",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "Steven Kennedy",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B230d"
+      },
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R228b"
+      }
+    ]
+  },
+  {
+    "id": 696645,
+    "is_dated": true,
+    "year": 2020,
+    "gregorian_year": 2020,
+    "signatures": [
+      {
+        "signer_name": "Philip Lowe",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "Steven Kennedy",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B230d"
+      },
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R228bF"
+      }
+    ],
+    "comment": "First prefix: AA20"
+  },
+  {
+    "id": 696646,
+    "is_dated": true,
+    "year": 2020,
+    "gregorian_year": 2020,
+    "signatures": [
+      {
+        "signer_name": "Philip Lowe",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "Steven Kennedy",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B230d"
+      },
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R228bL"
+      }
+    ],
+    "comment": "Last prefix: EJ20"
+  },
+  {
+    "id": 836354,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "signatures": [
+      {
+        "signer_name": "Philip Lowe",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "Steven Kennedy",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R228c"
+      }
+    ]
+  },
+  {
+    "id": 836341,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "signatures": [
+      {
+        "signer_name": "Philip Lowe",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "Steven Kennedy",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R228cF"
+      }
+    ],
+    "comment": "First prefix: AA21"
+  },
+  {
+    "id": 836353,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "signatures": [
+      {
+        "signer_name": "Philip Lowe",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "Steven Kennedy",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R228cL"
+      }
+    ],
+    "comment": "Last prefix: EJ21"
+  }
+]

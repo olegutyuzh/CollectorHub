@@ -1,0 +1,104 @@
+[
+  {
+    "id": 500289,
+    "is_dated": false,
+    "min_year": 1986,
+    "max_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "German R. Pampillo",
+        "title": "Deputy General Manager"
+      },
+      {
+        "signer_name": "Juan J. A. Concepción",
+        "title": "President"
+      }
+    ],
+    "comment": "a Serie A"
+  },
+  {
+    "id": 588695,
+    "is_dated": false,
+    "min_year": 1986,
+    "max_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "German R. Pampillo",
+        "title": "Deputy General Manager"
+      },
+      {
+        "signer_name": "Juan J. A. Concepción",
+        "title": "President"
+      }
+    ],
+    "comment": "ar Replacement (R1) : Prefix R and suffix A"
+  },
+  {
+    "id": 500288,
+    "is_dated": false,
+    "min_year": 1986,
+    "max_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Julí­o Alberto Piekarz",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Juan J. A. Concepción",
+        "title": "President"
+      }
+    ],
+    "comment": "b.1 Serie A"
+  },
+  {
+    "id": 588693,
+    "is_dated": false,
+    "min_year": 1988,
+    "max_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Elias Salama",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Luis Machinea",
+        "title": "President"
+      }
+    ],
+    "comment": "b.2 Serie A"
+  },
+  {
+    "id": 588696,
+    "is_dated": false,
+    "min_year": 1988,
+    "max_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Elias Salama",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Luis Machinea",
+        "title": "President"
+      }
+    ],
+    "comment": "b.2r Replacement (R2) : Prefix R and suffix A"
+  },
+  {
+    "id": 588694,
+    "is_dated": false,
+    "min_year": 1989,
+    "max_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Rene E. De Paul",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Javier González Fraga",
+        "title": "President"
+      }
+    ],
+    "comment": "b.3 Serie A"
+  }
+]

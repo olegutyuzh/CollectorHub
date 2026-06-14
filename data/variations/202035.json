@@ -1,0 +1,26 @@
+[
+  {
+    "id": 493736,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Yakiv Vasylovych Smolii",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ]
+  },
+  {
+    "id": 702778,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "signatures": [
+      {
+        "signer_name": "Kyrylo Yevhenovych Shevchenko",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+{
+  "id": 204402,
+  "url": "https://en.numista.com/204402",
+  "title": "50 Francs - Saint-Exupéry (type 1992 modified)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "france",
+    "name": "France"
+  },
+  "issuing_entity": {
+    "id": 16,
+    "name": "Bank of France",
+    "wikidata_id": "Q806950"
+  },
+  "min_year": 1994,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 11,
+      "name": "Fifth Republic",
+      "wikidata_id": "Q200686",
+      "group": {
+        "id": 89,
+        "name": "Modern France"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Francs",
+    "numeric_value": 50,
+    "currency": {
+      "id": 77,
+      "name": "New franc",
+      "full_name": "New franc (1960-2001)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2012-02-17"
+  },
+  "size": 123,
+  "size2": 80,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "designers": [
+      "Roger Pfund"
+    ],
+    "description": "Portrait of Antoine de Saint-Exupéry (1900-1944); on the left, two of the aviator's routes and the silhouette of a \"Latécoère 25\" plane on a background of the world map; four motifs evoke the writer's short story \"The little prince\": extract from the novel (lines in mini-letters at the top left), the \"boa which digests an elephant\", the sheep (in brilliant colorless ink) and the Little prince himself. To the right of the Little Prince is a foil strip segmented into four and a solid security thread.",
+    "lettering": "50 Cinquante Francs\r\nAntoine de Saint-Exupéry 1900-1944\r\nBanque de France\r\n50",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "50 Fifty Francs\r\nAntoine de Saint-Éxupéry 1900-1944\r\nBank of France\r\n50",
+    "picture": "https://en.numista.com/catalogue/photos/france/5e9b99f4024809.12561043-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5e9b99f4024809.12561043-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "reverse": {
+    "designers": [
+      "Roger Pfund"
+    ],
+    "description": "The Saint-Exupéry “Bréguet 14” plane in a cloudy sky and flying over a desert; above the watermark, a wind rose; on the right, the Little Prince.",
+    "lettering": "Banque de France\r\n50\r\n50 Cinquante Francs\r\n1994\r\nLe Secrétaire Gal\r\nLe Contrôleur Gal\r\nLe Caissier Gal\r\nLA CONTREFAÇON OU LA FALSIFICATION DES BILLETS DE BANQUE ET LA MISE EN CIRCULATION DES BILLETS CONTREFAITS OU FALSIFIÉS SONT PUNIS PAR LES ARTICLES 442-1 et 442-2 DU CODE PÉNAL DE PEINES ALLANT JUSQU'À TRENTE ANS DE RÉCLUSION CRIMINELLE ET TROIS MILLIONS DE FRANCS D'AMENDE.",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bank of France\r\n50\r\n50 Fifty Francs\r\n1992\r\nThe General Secretary\r\nThe General Controller\r\nThe General Cashier\r\nArticle 139 of the Penal Code punishes with life imprisonment those who counterfeit of falsify banknotes authorized by the law, also those who pass counterfeit or falsified notes. Those who introduce them into France will receive the same punishment.",
+    "picture": "https://en.numista.com/catalogue/photos/france/5e9b99f44654c1.93296862-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5e9b99f44654c1.93296862-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "comments": "<p>Watermark : Portrait of Antoine de Saint-Exupéry.<br><br><strong><u>Type 1992 modifié 1994</u>&nbsp;</strong><br><a href=\"https://en.numista.com/catalogue/images/5e96d599e1f75.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e96d599e1f75.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/5e975d2a1d09c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e975d2a1d09c.jpg\" alt=\"\"></a><br>One combination of signatories :<br>a) Didier Bruneel – Jean Bonnardin – Claude Vigier (Début 1994)<br><a href=\"https://en.numista.com/catalogue/images/5e9763279a3bc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e9763279a3bc.jpg\" alt=\"\"></a><br><strong><u>Type 1992 modified 1994 adapted 1994</u>&nbsp;</strong><br><a href=\"https://en.numista.com/catalogue/images/5e96d67fc56be.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e96d67fc56be.jpg\" alt=\"\"></a><a href=\"https://en.numista.com/catalogue/images/5e96d6e839609.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e96d6e839609.jpg\" alt=\"\"></a><br>Two combinations of signatories :<br>b) Didier Bruneel – Jean Bonnardin – Claude Vigier (Fin 1994)<br><a href=\"https://en.numista.com/catalogue/images/5e976336eb9df.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e976336eb9df.jpg\" alt=\"\"></a><br>c, d) Didier Bruneel – Jean Bonnardin – Yves Barroux (1996 à 1999)<br><a href=\"https://en.numista.com/catalogue/images/5e97635082f1b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5e97635082f1b.jpg\" alt=\"\"></a><br><br>UV activity - orange sheep:<br><a href=\"https://en.numista.com/catalogue/images/64a6b5cd8be5b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a6b5cd8be5b.jpg\" alt=\"\"></a><br>© gyoschak</p><p>&nbsp;</p><p><br>The elephant near the top-left corner of the obverse side is printed in colour-shifting ink - changes colours from jade green to turquoise:</p><p><a href=\"https://en.numista.com/catalogue/images/66b049caca39d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66b049caca39d.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/66b049ccacbb5.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/66b049ccacbb5.jpg\"></a></p><p>© Kiet Tran</p>",
+  "related_types": [
+    {
+      "id": 201000,
+      "title": "50 Francs - Saint-Exupéry",
+      "category": "banknote",
+      "country": {
+        "code": "france",
+        "name": "France"
+      },
+      "minYear": 1992,
+      "maxYear": 1993
+    }
+  ],
+  "tags": [
+    "Elephant",
+    "Sheep or ovine",
+    "Literature",
+    "Desert",
+    "Map",
+    "Plane or aircraft",
+    "Latent image",
+    "Micro inscriptions",
+    "Photoluminescence"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "157A"
+    },
+    {
+      "catalogue": {
+        "id": 933,
+        "code": "Fay"
+      },
+      "number": "73"
+    }
+  ],
+  "watermark": {
+    "description": "Portrait of Antoine de Saint-Exupéry.",
+    "picture": "https://en.numista.com/catalogue/photos/france/5eb413e8e5e2d5.43362101-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/france/5eb413e8e5e2d5.43362101-180.jpg",
+    "picture_copyright": "CGB",
+    "picture_copyright_url": "http://www.cgb.fr"
+  },
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

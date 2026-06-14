@@ -1,0 +1,103 @@
+[
+  {
+    "id": 501864,
+    "is_dated": false,
+    "min_year": 1987,
+    "max_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Luiz Carlos Bresser-Pereira",
+        "title": "President of the National Monetary Council"
+      },
+      {
+        "signer_name": "Fernando Milliet de Oliveira",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 274400000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C193"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "585.01"
+      }
+    ],
+    "comment": "P# 213a - Series: A0001 - A2744 (Stamp A)"
+  },
+  {
+    "id": 533407,
+    "is_dated": false,
+    "min_year": 1987,
+    "max_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Luiz Carlos Bresser-Pereira",
+        "title": "President of the National Monetary Council"
+      },
+      {
+        "signer_name": "Fernando Milliet de Oliveira",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C193m"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "585.02"
+      }
+    ],
+    "comment": "P# 213s - Specimen (MODELO)"
+  },
+  {
+    "id": 501865,
+    "is_dated": false,
+    "min_year": 1988,
+    "max_year": 1988,
+    "signatures": [
+      {
+        "signer_name": "Maí­lson Ferreira da Nóbrega",
+        "title": "President of the National Monetary Council"
+      },
+      {
+        "signer_name": "Elmo de Araújo Camões",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 717500000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C194"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "585.03"
+      }
+    ],
+    "comment": "P# 213b - Series: A2745 - A9919 (Stamp A)"
+  }
+]

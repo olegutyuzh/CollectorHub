@@ -1,0 +1,45 @@
+[
+  {
+    "id": 493011,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "mintage": 110000000,
+    "comment": "P#202a, Signatures: György Matolcsy, Márton Nagy, Dr.Ferenc Gerhardt, Dr.László Windisch"
+  },
+  {
+    "id": 515238,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "comment": "P#202s - Specimen"
+  },
+  {
+    "id": 719207,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "comment": "Signatures: György Matolcsy, Dr. Mihály Patai, Dr.Csaba Kandrács, Barnabás Virág"
+  },
+  {
+    "id": 822689,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "comment": "Specimen"
+  },
+  {
+    "id": 971328,
+    "is_dated": true,
+    "year": 2025,
+    "gregorian_year": 2025,
+    "comment": "Signatures: Mihály Varga, Zoltán Kurali, Barnabás Virág"
+  },
+  {
+    "id": 1026724,
+    "is_dated": true,
+    "year": 2025,
+    "gregorian_year": 2025,
+    "comment": "Specimen"
+  }
+]

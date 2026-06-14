@@ -1,0 +1,8328 @@
+[
+  {
+    "id": 942961,
+    "is_dated": true,
+    "year": 1950,
+    "gregorian_year": 1950,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r3"
+      }
+    ],
+    "comment": "Prefix: E5; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 538256,
+    "is_dated": true,
+    "year": 1957,
+    "gregorian_year": 1957,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44m"
+      }
+    ],
+    "comment": "Prefix: E4"
+  },
+  {
+    "id": 551953,
+    "is_dated": true,
+    "year": 1957,
+    "gregorian_year": 1957,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44m"
+      }
+    ],
+    "comment": "Prefix: E4"
+  },
+  {
+    "id": 551965,
+    "is_dated": true,
+    "year": 1957,
+    "gregorian_year": 1957,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44m"
+      }
+    ],
+    "comment": "Prefix: E4"
+  },
+  {
+    "id": 538257,
+    "is_dated": true,
+    "year": 1957,
+    "gregorian_year": 1957,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44n"
+      }
+    ],
+    "comment": "Prefix: E5"
+  },
+  {
+    "id": 551954,
+    "is_dated": true,
+    "year": 1957,
+    "gregorian_year": 1957,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44n"
+      }
+    ],
+    "comment": "Prefix: E5"
+  },
+  {
+    "id": 551966,
+    "is_dated": true,
+    "year": 1957,
+    "gregorian_year": 1957,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44n"
+      }
+    ],
+    "comment": "Prefix: E5"
+  },
+  {
+    "id": 538258,
+    "is_dated": true,
+    "year": 1957,
+    "gregorian_year": 1957,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44n"
+      }
+    ],
+    "comment": "Prefix: E6"
+  },
+  {
+    "id": 551955,
+    "is_dated": true,
+    "year": 1957,
+    "gregorian_year": 1957,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44n"
+      }
+    ],
+    "comment": "Prefix: E6"
+  },
+  {
+    "id": 551967,
+    "is_dated": true,
+    "year": 1957,
+    "gregorian_year": 1957,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44n"
+      }
+    ],
+    "comment": "Prefix: E6"
+  },
+  {
+    "id": 538259,
+    "is_dated": true,
+    "year": 1957,
+    "gregorian_year": 1957,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: E7"
+  },
+  {
+    "id": 551956,
+    "is_dated": true,
+    "year": 1957,
+    "gregorian_year": 1957,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: E7"
+  },
+  {
+    "id": 551968,
+    "is_dated": true,
+    "year": 1957,
+    "gregorian_year": 1957,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: E7"
+  },
+  {
+    "id": 499754,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: E7"
+  },
+  {
+    "id": 551957,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: E7"
+  },
+  {
+    "id": 551969,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: E7"
+  },
+  {
+    "id": 538260,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: E8"
+  },
+  {
+    "id": 551958,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: E8"
+  },
+  {
+    "id": 551970,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: E8"
+  },
+  {
+    "id": 538261,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: E9"
+  },
+  {
+    "id": 551959,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: E9"
+  },
+  {
+    "id": 551971,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: E9"
+  },
+  {
+    "id": 538262,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: F0"
+  },
+  {
+    "id": 551960,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: F0"
+  },
+  {
+    "id": 551972,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: F0"
+  },
+  {
+    "id": 538263,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: F1"
+  },
+  {
+    "id": 551961,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: F1"
+  },
+  {
+    "id": 551973,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: F1"
+  },
+  {
+    "id": 538264,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: F2"
+  },
+  {
+    "id": 551962,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: F2"
+  },
+  {
+    "id": 551974,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: F2"
+  },
+  {
+    "id": 538265,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: F3"
+  },
+  {
+    "id": 551963,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: F3"
+  },
+  {
+    "id": 551975,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44o"
+      }
+    ],
+    "comment": "Prefix: F3"
+  },
+  {
+    "id": 538266,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44q"
+      }
+    ],
+    "comment": "Prefix: F4"
+  },
+  {
+    "id": 551964,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44q"
+      }
+    ],
+    "comment": "Prefix: F4"
+  },
+  {
+    "id": 551976,
+    "is_dated": true,
+    "year": 1958,
+    "gregorian_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44q"
+      }
+    ],
+    "comment": "Prefix: F4"
+  },
+  {
+    "id": 499755,
+    "is_dated": true,
+    "year": 1959,
+    "gregorian_year": 1959,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r"
+      }
+    ],
+    "comment": "Prefix: F4"
+  },
+  {
+    "id": 551977,
+    "is_dated": true,
+    "year": 1959,
+    "gregorian_year": 1959,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r"
+      }
+    ],
+    "comment": "Prefix: F4"
+  },
+  {
+    "id": 551993,
+    "is_dated": true,
+    "year": 1959,
+    "gregorian_year": 1959,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r"
+      }
+    ],
+    "comment": "Prefix: F4"
+  },
+  {
+    "id": 538267,
+    "is_dated": true,
+    "year": 1959,
+    "gregorian_year": 1959,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Lars Rohde",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44s"
+      }
+    ],
+    "comment": "Prefix: F5"
+  },
+  {
+    "id": 551978,
+    "is_dated": true,
+    "year": 1959,
+    "gregorian_year": 1959,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44s"
+      }
+    ],
+    "comment": "Prefix: F5"
+  },
+  {
+    "id": 551981,
+    "is_dated": true,
+    "year": 1959,
+    "gregorian_year": 1959,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44s"
+      }
+    ],
+    "comment": "Prefix: F5"
+  },
+  {
+    "id": 538268,
+    "is_dated": true,
+    "year": 1959,
+    "gregorian_year": 1959,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44s"
+      }
+    ],
+    "comment": "Prefix: F6"
+  },
+  {
+    "id": 551982,
+    "is_dated": true,
+    "year": 1959,
+    "gregorian_year": 1959,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44s"
+      }
+    ],
+    "comment": "Prefix: F6"
+  },
+  {
+    "id": 551994,
+    "is_dated": true,
+    "year": 1959,
+    "gregorian_year": 1959,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44s"
+      }
+    ],
+    "comment": "Prefix: F6"
+  },
+  {
+    "id": 538269,
+    "is_dated": true,
+    "year": 1959,
+    "gregorian_year": 1959,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44s"
+      }
+    ],
+    "comment": "Prefix: F7"
+  },
+  {
+    "id": 551979,
+    "is_dated": true,
+    "year": 1959,
+    "gregorian_year": 1959,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44s"
+      }
+    ],
+    "comment": "Prefix: F7"
+  },
+  {
+    "id": 551995,
+    "is_dated": true,
+    "year": 1959,
+    "gregorian_year": 1959,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44s"
+      }
+    ],
+    "comment": "Prefix: F7"
+  },
+  {
+    "id": 538270,
+    "is_dated": true,
+    "year": 1959,
+    "gregorian_year": 1959,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44s"
+      }
+    ],
+    "comment": "Prefix: F8"
+  },
+  {
+    "id": 551980,
+    "is_dated": true,
+    "year": 1959,
+    "gregorian_year": 1959,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44s"
+      }
+    ],
+    "comment": "Prefix: F8"
+  },
+  {
+    "id": 551983,
+    "is_dated": true,
+    "year": 1959,
+    "gregorian_year": 1959,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44s"
+      }
+    ],
+    "comment": "Prefix: F8"
+  },
+  {
+    "id": 553577,
+    "is_dated": true,
+    "year": 1960,
+    "gregorian_year": 1960,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r5"
+      }
+    ],
+    "comment": "Prefix: F9; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 499756,
+    "is_dated": true,
+    "year": 1960,
+    "gregorian_year": 1960,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44t"
+      }
+    ],
+    "comment": "Prefix: F9"
+  },
+  {
+    "id": 551988,
+    "is_dated": true,
+    "year": 1960,
+    "gregorian_year": 1960,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44t"
+      }
+    ],
+    "comment": "Prefix: F9"
+  },
+  {
+    "id": 551997,
+    "is_dated": true,
+    "year": 1960,
+    "gregorian_year": 1960,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44t"
+      }
+    ],
+    "comment": "Prefix: F9"
+  },
+  {
+    "id": 538271,
+    "is_dated": true,
+    "year": 1960,
+    "gregorian_year": 1960,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44t"
+      }
+    ],
+    "comment": "Prefix: G0"
+  },
+  {
+    "id": 551989,
+    "is_dated": true,
+    "year": 1960,
+    "gregorian_year": 1960,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44t"
+      }
+    ],
+    "comment": "Prefix: G0"
+  },
+  {
+    "id": 551998,
+    "is_dated": true,
+    "year": 1960,
+    "gregorian_year": 1960,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44t"
+      }
+    ],
+    "comment": "Prefix: G0"
+  },
+  {
+    "id": 538272,
+    "is_dated": true,
+    "year": 1960,
+    "gregorian_year": 1960,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44t"
+      }
+    ],
+    "comment": "Prefix: G1"
+  },
+  {
+    "id": 551990,
+    "is_dated": true,
+    "year": 1960,
+    "gregorian_year": 1960,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44t"
+      }
+    ],
+    "comment": "Prefix: G1"
+  },
+  {
+    "id": 551999,
+    "is_dated": true,
+    "year": 1960,
+    "gregorian_year": 1960,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44t"
+      }
+    ],
+    "comment": "Prefix: G1"
+  },
+  {
+    "id": 538273,
+    "is_dated": true,
+    "year": 1960,
+    "gregorian_year": 1960,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44t"
+      }
+    ],
+    "comment": "Prefix: G2"
+  },
+  {
+    "id": 551991,
+    "is_dated": true,
+    "year": 1960,
+    "gregorian_year": 1960,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44t"
+      }
+    ],
+    "comment": "Prefix: G2"
+  },
+  {
+    "id": 552000,
+    "is_dated": true,
+    "year": 1960,
+    "gregorian_year": 1960,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44t"
+      }
+    ],
+    "comment": "Prefix: G2"
+  },
+  {
+    "id": 538274,
+    "is_dated": true,
+    "year": 1960,
+    "gregorian_year": 1960,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44t"
+      }
+    ],
+    "comment": "Prefix: G3"
+  },
+  {
+    "id": 551992,
+    "is_dated": true,
+    "year": 1960,
+    "gregorian_year": 1960,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44t"
+      }
+    ],
+    "comment": "Prefix: G3"
+  },
+  {
+    "id": 552001,
+    "is_dated": true,
+    "year": 1960,
+    "gregorian_year": 1960,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44t"
+      }
+    ],
+    "comment": "Prefix: G3"
+  },
+  {
+    "id": 499757,
+    "is_dated": true,
+    "year": 1961,
+    "gregorian_year": 1961,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G4"
+  },
+  {
+    "id": 552080,
+    "is_dated": true,
+    "year": 1961,
+    "gregorian_year": 1961,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G4"
+  },
+  {
+    "id": 552102,
+    "is_dated": true,
+    "year": 1961,
+    "gregorian_year": 1961,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G4"
+  },
+  {
+    "id": 538275,
+    "is_dated": true,
+    "year": 1961,
+    "gregorian_year": 1961,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G5"
+  },
+  {
+    "id": 552082,
+    "is_dated": true,
+    "year": 1961,
+    "gregorian_year": 1961,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G5"
+  },
+  {
+    "id": 552103,
+    "is_dated": true,
+    "year": 1961,
+    "gregorian_year": 1961,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G5"
+  },
+  {
+    "id": 538276,
+    "is_dated": true,
+    "year": 1961,
+    "gregorian_year": 1961,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G6"
+  },
+  {
+    "id": 552074,
+    "is_dated": true,
+    "year": 1961,
+    "gregorian_year": 1961,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G6"
+  },
+  {
+    "id": 552084,
+    "is_dated": true,
+    "year": 1961,
+    "gregorian_year": 1961,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G6"
+  },
+  {
+    "id": 538277,
+    "is_dated": true,
+    "year": 1961,
+    "gregorian_year": 1961,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G7"
+  },
+  {
+    "id": 552076,
+    "is_dated": true,
+    "year": 1961,
+    "gregorian_year": 1961,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G7"
+  },
+  {
+    "id": 552086,
+    "is_dated": true,
+    "year": 1961,
+    "gregorian_year": 1961,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G7"
+  },
+  {
+    "id": 538278,
+    "is_dated": true,
+    "year": 1961,
+    "gregorian_year": 1961,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G8"
+  },
+  {
+    "id": 552078,
+    "is_dated": true,
+    "year": 1961,
+    "gregorian_year": 1961,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G8"
+  },
+  {
+    "id": 552088,
+    "is_dated": true,
+    "year": 1961,
+    "gregorian_year": 1961,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G8"
+  },
+  {
+    "id": 929542,
+    "is_dated": true,
+    "year": 1962,
+    "gregorian_year": 1962,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r6"
+      }
+    ],
+    "comment": "Prefix: H0; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 499758,
+    "is_dated": true,
+    "year": 1962,
+    "gregorian_year": 1962,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G9"
+  },
+  {
+    "id": 552105,
+    "is_dated": true,
+    "year": 1962,
+    "gregorian_year": 1962,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G9"
+  },
+  {
+    "id": 552110,
+    "is_dated": true,
+    "year": 1962,
+    "gregorian_year": 1962,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: G9"
+  },
+  {
+    "id": 538279,
+    "is_dated": true,
+    "year": 1962,
+    "gregorian_year": 1962,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: H0"
+  },
+  {
+    "id": 552106,
+    "is_dated": true,
+    "year": 1962,
+    "gregorian_year": 1962,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: H0"
+  },
+  {
+    "id": 552187,
+    "is_dated": true,
+    "year": 1962,
+    "gregorian_year": 1962,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: H0"
+  },
+  {
+    "id": 538280,
+    "is_dated": true,
+    "year": 1962,
+    "gregorian_year": 1962,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: H1"
+  },
+  {
+    "id": 552107,
+    "is_dated": true,
+    "year": 1962,
+    "gregorian_year": 1962,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: H1"
+  },
+  {
+    "id": 552188,
+    "is_dated": true,
+    "year": 1962,
+    "gregorian_year": 1962,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44u"
+      }
+    ],
+    "comment": "Prefix: H1"
+  },
+  {
+    "id": 538281,
+    "is_dated": true,
+    "year": 1962,
+    "gregorian_year": 1962,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44v"
+      }
+    ],
+    "comment": "Prefix: H2"
+  },
+  {
+    "id": 552108,
+    "is_dated": true,
+    "year": 1962,
+    "gregorian_year": 1962,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44v"
+      }
+    ],
+    "comment": "Prefix: H2"
+  },
+  {
+    "id": 552189,
+    "is_dated": true,
+    "year": 1962,
+    "gregorian_year": 1962,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44v"
+      }
+    ],
+    "comment": "Prefix: H2"
+  },
+  {
+    "id": 929544,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r7"
+      }
+    ],
+    "comment": "Prefix: H2; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 499759,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H2"
+  },
+  {
+    "id": 552058,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H2"
+  },
+  {
+    "id": 552063,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H2"
+  },
+  {
+    "id": 538282,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H3"
+  },
+  {
+    "id": 552059,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H3"
+  },
+  {
+    "id": 552064,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H3"
+  },
+  {
+    "id": 538283,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H4"
+  },
+  {
+    "id": 552060,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H4"
+  },
+  {
+    "id": 552065,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "signatures": [
+      {
+        "signer_name": "Siegfried Hartogsohn",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H4"
+  },
+  {
+    "id": 538284,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H5"
+  },
+  {
+    "id": 552061,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H5"
+  },
+  {
+    "id": 552066,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H5"
+  },
+  {
+    "id": 538285,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H6"
+  },
+  {
+    "id": 552062,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H6"
+  },
+  {
+    "id": 552067,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H6"
+  },
+  {
+    "id": 499760,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H7"
+  },
+  {
+    "id": 552068,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H7"
+  },
+  {
+    "id": 552081,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H7"
+  },
+  {
+    "id": 538286,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H8"
+  },
+  {
+    "id": 552069,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H8"
+  },
+  {
+    "id": 552083,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H8"
+  },
+  {
+    "id": 538287,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H9"
+  },
+  {
+    "id": 552070,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H9"
+  },
+  {
+    "id": 552085,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: H9"
+  },
+  {
+    "id": 538289,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: J0"
+  },
+  {
+    "id": 552071,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: J0"
+  },
+  {
+    "id": 552087,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: J0"
+  },
+  {
+    "id": 538290,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: J1"
+  },
+  {
+    "id": 552072,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: J1"
+  },
+  {
+    "id": 552089,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: J1"
+  },
+  {
+    "id": 538291,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: J2"
+  },
+  {
+    "id": 552073,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: J2"
+  },
+  {
+    "id": 552101,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: J2"
+  },
+  {
+    "id": 538292,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: J3"
+  },
+  {
+    "id": 552075,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: J3"
+  },
+  {
+    "id": 552104,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44w"
+      }
+    ],
+    "comment": "Prefix: J3"
+  },
+  {
+    "id": 538293,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Svend Nielsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44x"
+      }
+    ],
+    "comment": "Prefix: J4"
+  },
+  {
+    "id": 552077,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44x"
+      }
+    ],
+    "comment": "Prefix: J4"
+  },
+  {
+    "id": 552079,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44x"
+      }
+    ],
+    "comment": "Prefix: J4"
+  },
+  {
+    "id": 499761,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: J5"
+  },
+  {
+    "id": 553146,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: J5"
+  },
+  {
+    "id": 553156,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: J5"
+  },
+  {
+    "id": 538297,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: J6"
+  },
+  {
+    "id": 553147,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: J6"
+  },
+  {
+    "id": 553157,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: J6"
+  },
+  {
+    "id": 538298,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: J7"
+  },
+  {
+    "id": 553148,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: J7"
+  },
+  {
+    "id": 553158,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: J7"
+  },
+  {
+    "id": 538299,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: J8"
+  },
+  {
+    "id": 553149,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: J8"
+  },
+  {
+    "id": 553159,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: J8"
+  },
+  {
+    "id": 538300,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: J9"
+  },
+  {
+    "id": 553150,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: J9"
+  },
+  {
+    "id": 553160,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: J9"
+  },
+  {
+    "id": 929548,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r9"
+      }
+    ],
+    "comment": "Prefix: K1; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 929547,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r9"
+      }
+    ],
+    "comment": "Prefix: K2; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 499762,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K0"
+  },
+  {
+    "id": 553151,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K0"
+  },
+  {
+    "id": 553161,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K0"
+  },
+  {
+    "id": 538301,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K1"
+  },
+  {
+    "id": 553152,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K1"
+  },
+  {
+    "id": 553162,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K1"
+  },
+  {
+    "id": 538302,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K2"
+  },
+  {
+    "id": 553155,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K2"
+  },
+  {
+    "id": 553163,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K2"
+  },
+  {
+    "id": 538303,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K3"
+  },
+  {
+    "id": 553153,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K3"
+  },
+  {
+    "id": 553164,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K3"
+  },
+  {
+    "id": 538304,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K4"
+  },
+  {
+    "id": 553154,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K4"
+  },
+  {
+    "id": 553165,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K4"
+  },
+  {
+    "id": 499763,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K5"
+  },
+  {
+    "id": 538324,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K5"
+  },
+  {
+    "id": 553175,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K5"
+  },
+  {
+    "id": 538305,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K6"
+  },
+  {
+    "id": 553167,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K6"
+  },
+  {
+    "id": 553176,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K6"
+  },
+  {
+    "id": 538306,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K7"
+  },
+  {
+    "id": 553168,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K7"
+  },
+  {
+    "id": 553177,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K7"
+  },
+  {
+    "id": 538307,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K8"
+  },
+  {
+    "id": 553169,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K8"
+  },
+  {
+    "id": 553178,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K8"
+  },
+  {
+    "id": 538308,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K9"
+  },
+  {
+    "id": 553170,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K9"
+  },
+  {
+    "id": 553179,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44y"
+      }
+    ],
+    "comment": "Prefix: K9"
+  },
+  {
+    "id": 538312,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44aa"
+      }
+    ],
+    "comment": "Prefix: A4"
+  },
+  {
+    "id": 553174,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44aa"
+      }
+    ],
+    "comment": "Prefix: A4"
+  },
+  {
+    "id": 553184,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44aa"
+      }
+    ],
+    "comment": "Prefix: A4"
+  },
+  {
+    "id": 499764,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44z"
+      }
+    ],
+    "comment": "Prefix: A0"
+  },
+  {
+    "id": 553166,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44z"
+      }
+    ],
+    "comment": "Prefix: A0"
+  },
+  {
+    "id": 553180,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44z"
+      }
+    ],
+    "comment": "Prefix: A0"
+  },
+  {
+    "id": 538309,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44z"
+      }
+    ],
+    "comment": "Prefix: A1"
+  },
+  {
+    "id": 553171,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44z"
+      }
+    ],
+    "comment": "Prefix: A1"
+  },
+  {
+    "id": 553181,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44z"
+      }
+    ],
+    "comment": "Prefix: A1"
+  },
+  {
+    "id": 538310,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44z"
+      }
+    ],
+    "comment": "Prefix: A2"
+  },
+  {
+    "id": 553172,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44z"
+      }
+    ],
+    "comment": "Prefix: A2"
+  },
+  {
+    "id": 553182,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44z"
+      }
+    ],
+    "comment": "Prefix: A2"
+  },
+  {
+    "id": 538311,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44z"
+      }
+    ],
+    "comment": "Prefix: A3"
+  },
+  {
+    "id": 553173,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44z"
+      }
+    ],
+    "comment": "Prefix: A3"
+  },
+  {
+    "id": 553183,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Richard Riim",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44z"
+      }
+    ],
+    "comment": "Prefix: A3"
+  },
+  {
+    "id": 499765,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ab"
+      }
+    ],
+    "comment": "Prefix: A4"
+  },
+  {
+    "id": 553188,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ab"
+      }
+    ],
+    "comment": "Prefix: A4"
+  },
+  {
+    "id": 553199,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ab"
+      }
+    ],
+    "comment": "Prefix: A4"
+  },
+  {
+    "id": 538313,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ac"
+      }
+    ],
+    "comment": "Prefix: A5"
+  },
+  {
+    "id": 553185,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ac"
+      }
+    ],
+    "comment": "Prefix: A5"
+  },
+  {
+    "id": 553200,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ac"
+      }
+    ],
+    "comment": "Prefix: A5"
+  },
+  {
+    "id": 538314,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ac"
+      }
+    ],
+    "comment": "Prefix: A6"
+  },
+  {
+    "id": 553189,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ac"
+      }
+    ],
+    "comment": "Prefix: A6"
+  },
+  {
+    "id": 553201,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ac"
+      }
+    ],
+    "comment": "Prefix: A6"
+  },
+  {
+    "id": 538315,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ac"
+      }
+    ],
+    "comment": "Prefix: A7"
+  },
+  {
+    "id": 553190,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ac"
+      }
+    ],
+    "comment": "Prefix: A7"
+  },
+  {
+    "id": 553202,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ac"
+      }
+    ],
+    "comment": "Prefix: A7"
+  },
+  {
+    "id": 538316,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ac"
+      }
+    ],
+    "comment": "Prefix: A8"
+  },
+  {
+    "id": 553191,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ac"
+      }
+    ],
+    "comment": "Prefix: A8"
+  },
+  {
+    "id": 553203,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ac"
+      }
+    ],
+    "comment": "Prefix: A8"
+  },
+  {
+    "id": 538317,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ad"
+      }
+    ],
+    "comment": "Prefix: A9"
+  },
+  {
+    "id": 553192,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ad"
+      }
+    ],
+    "comment": "Prefix: A9"
+  },
+  {
+    "id": 553204,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ad"
+      }
+    ],
+    "comment": "Prefix: A9"
+  },
+  {
+    "id": 941014,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r9"
+      }
+    ],
+    "comment": "Prefix: A7; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 929552,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r9"
+      }
+    ],
+    "comment": "Prefix: A8; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 499766,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: A9"
+  },
+  {
+    "id": 553186,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: A9"
+  },
+  {
+    "id": 553205,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: A9"
+  },
+  {
+    "id": 538318,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B0"
+  },
+  {
+    "id": 553193,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B0"
+  },
+  {
+    "id": 553206,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B0"
+  },
+  {
+    "id": 538319,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B1"
+  },
+  {
+    "id": 553194,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B1"
+  },
+  {
+    "id": 553207,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B1"
+  },
+  {
+    "id": 538320,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B2"
+  },
+  {
+    "id": 553195,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B2"
+  },
+  {
+    "id": 553208,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B2"
+  },
+  {
+    "id": 538321,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B3"
+  },
+  {
+    "id": 553196,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B3"
+  },
+  {
+    "id": 553209,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B3"
+  },
+  {
+    "id": 538322,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B4"
+  },
+  {
+    "id": 553197,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B4"
+  },
+  {
+    "id": 553210,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B4"
+  },
+  {
+    "id": 538323,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B5"
+  },
+  {
+    "id": 553187,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B5"
+  },
+  {
+    "id": 553198,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B5"
+  },
+  {
+    "id": 929546,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r10"
+      }
+    ],
+    "comment": "Prefix: B1; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 929550,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r10"
+      }
+    ],
+    "comment": "Prefix: B2; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 553882,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r10"
+      }
+    ],
+    "comment": "Prefix: B4; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 553884,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r10"
+      }
+    ],
+    "comment": "Prefix: B5; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 929545,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r10"
+      }
+    ],
+    "comment": "Prefix: B5; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 499767,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B6"
+  },
+  {
+    "id": 553527,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B6"
+  },
+  {
+    "id": 553554,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B6"
+  },
+  {
+    "id": 538336,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B7"
+  },
+  {
+    "id": 553544,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B7"
+  },
+  {
+    "id": 553557,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B7"
+  },
+  {
+    "id": 538337,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B8"
+  },
+  {
+    "id": 553531,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B8"
+  },
+  {
+    "id": 553560,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B8"
+  },
+  {
+    "id": 538338,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B9"
+  },
+  {
+    "id": 553535,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B9"
+  },
+  {
+    "id": 553548,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ae"
+      }
+    ],
+    "comment": "Prefix: B9"
+  },
+  {
+    "id": 538339,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44af"
+      }
+    ],
+    "comment": "Prefix: C0"
+  },
+  {
+    "id": 553504,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44af"
+      }
+    ],
+    "comment": "Prefix: C0"
+  },
+  {
+    "id": 553538,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44af"
+      }
+    ],
+    "comment": "Prefix: C0"
+  },
+  {
+    "id": 929549,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r10"
+      }
+    ],
+    "comment": "Prefix: B6; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 929555,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r10"
+      }
+    ],
+    "comment": "Prefix: B7; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 929551,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r10"
+      }
+    ],
+    "comment": "Prefix: B8; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 499768,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C0"
+  },
+  {
+    "id": 553508,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C0"
+  },
+  {
+    "id": 553541,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C0"
+  },
+  {
+    "id": 538340,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C1"
+  },
+  {
+    "id": 553512,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C1"
+  },
+  {
+    "id": 553543,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C1"
+  },
+  {
+    "id": 538341,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C2"
+  },
+  {
+    "id": 553516,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C2"
+  },
+  {
+    "id": 553547,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C2"
+  },
+  {
+    "id": 538342,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C3"
+  },
+  {
+    "id": 553523,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C3"
+  },
+  {
+    "id": 553551,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C3"
+  },
+  {
+    "id": 944767,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r12"
+      }
+    ],
+    "comment": "Prefix: C0; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 929553,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r12"
+      }
+    ],
+    "comment": "Prefix: C3; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 499769,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C4"
+  },
+  {
+    "id": 553566,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C4"
+  },
+  {
+    "id": 553589,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C4"
+  },
+  {
+    "id": 538343,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C5"
+  },
+  {
+    "id": 553569,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C5"
+  },
+  {
+    "id": 553590,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C5"
+  },
+  {
+    "id": 538344,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C6"
+  },
+  {
+    "id": 553572,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C6"
+  },
+  {
+    "id": 553591,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C6"
+  },
+  {
+    "id": 538345,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C7"
+  },
+  {
+    "id": 553505,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C7"
+  },
+  {
+    "id": 553575,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C7"
+  },
+  {
+    "id": 538346,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C8"
+  },
+  {
+    "id": 553509,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C8"
+  },
+  {
+    "id": 553578,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C8"
+  },
+  {
+    "id": 538347,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C9"
+  },
+  {
+    "id": 553513,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C9"
+  },
+  {
+    "id": 553580,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ag"
+      }
+    ],
+    "comment": "Prefix: C9"
+  },
+  {
+    "id": 553911,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r12"
+      }
+    ],
+    "comment": "Prefix: C8; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 499770,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ah"
+      }
+    ],
+    "comment": "Prefix: C9"
+  },
+  {
+    "id": 553517,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ah"
+      }
+    ],
+    "comment": "Prefix: C9"
+  },
+  {
+    "id": 553582,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ah"
+      }
+    ],
+    "comment": "Prefix: C9"
+  },
+  {
+    "id": 538348,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D0"
+  },
+  {
+    "id": 553522,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D0"
+  },
+  {
+    "id": 553583,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D0"
+  },
+  {
+    "id": 538349,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D1"
+  },
+  {
+    "id": 553526,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D1"
+  },
+  {
+    "id": 553584,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D1"
+  },
+  {
+    "id": 538350,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D2"
+  },
+  {
+    "id": 553530,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D2"
+  },
+  {
+    "id": 553585,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D2"
+  },
+  {
+    "id": 538351,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D3"
+  },
+  {
+    "id": 553534,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D3"
+  },
+  {
+    "id": 553563,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D3"
+  },
+  {
+    "id": 538352,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D4"
+  },
+  {
+    "id": 553537,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D4"
+  },
+  {
+    "id": 553586,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D4"
+  },
+  {
+    "id": 538353,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D5"
+  },
+  {
+    "id": 538355,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D5"
+  },
+  {
+    "id": 553587,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44ai"
+      }
+    ],
+    "comment": "Prefix: D5"
+  },
+  {
+    "id": 538354,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44aj"
+      }
+    ],
+    "comment": "Prefix: D6"
+  },
+  {
+    "id": 553540,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Svend Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44aj"
+      }
+    ],
+    "comment": "Prefix: D6"
+  },
+  {
+    "id": 553588,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Frede Sunesen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44aj"
+      }
+    ],
+    "comment": "Prefix: D6"
+  },
+  {
+    "id": 929554,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r12"
+      }
+    ],
+    "comment": "Prefix: D0; Replacement note; Suffix: 0J"
+  },
+  {
+    "id": 929543,
+    "is_dated": true,
+    "year": 1974,
+    "gregorian_year": 1974,
+    "signatures": [
+      {
+        "signer_name": "Erik Hoffmeyer",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Henrik Valeur",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "44r12"
+      }
+    ],
+    "comment": "Prefix: D1; Replacement note; Suffix: 0J"
+  }
+]

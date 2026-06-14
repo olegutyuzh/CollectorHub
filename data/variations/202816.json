@@ -1,0 +1,214 @@
+[
+  {
+    "id": 495830,
+    "is_dated": true,
+    "year": 1994,
+    "gregorian_year": 1994,
+    "signatures": [
+      {
+        "signer_name": "Leonid Talmaci",
+        "title": "Governor of the National Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "8a"
+      }
+    ]
+  },
+  {
+    "id": 495831,
+    "is_dated": true,
+    "year": 1995,
+    "gregorian_year": 1995,
+    "signatures": [
+      {
+        "signer_name": "Leonid Talmaci",
+        "title": "Governor of the National Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "8b"
+      }
+    ]
+  },
+  {
+    "id": 495832,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "signatures": [
+      {
+        "signer_name": "Leonid Talmaci",
+        "title": "Governor of the National Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "8c"
+      }
+    ]
+  },
+  {
+    "id": 495833,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "signatures": [
+      {
+        "signer_name": "Leonid Talmaci",
+        "title": "Governor of the National Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "8d"
+      }
+    ]
+  },
+  {
+    "id": 495834,
+    "is_dated": true,
+    "year": 2002,
+    "gregorian_year": 2002,
+    "signatures": [
+      {
+        "signer_name": "Leonid Talmaci",
+        "title": "Governor of the National Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "8e"
+      }
+    ]
+  },
+  {
+    "id": 495835,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "signatures": [
+      {
+        "signer_name": "Leonid Talmaci",
+        "title": "Governor of the National Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "8f"
+      }
+    ]
+  },
+  {
+    "id": 495836,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "signatures": [
+      {
+        "signer_name": "Leonid Talmaci",
+        "title": "Governor of the National Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "8g"
+      }
+    ]
+  },
+  {
+    "id": 495837,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "Dorin Drăguțanu",
+        "title": "Governor of the National Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "8h1"
+      }
+    ],
+    "comment": "with security thread"
+  },
+  {
+    "id": 515152,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "Dorin Drăguțanu",
+        "title": "Governor of the National Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "8h2"
+      }
+    ],
+    "comment": "without security thread"
+  },
+  {
+    "id": 495838,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "signatures": [
+      {
+        "signer_name": "Dorin Drăguțanu",
+        "title": "Governor of the National Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "8i"
+      }
+    ]
+  }
+]

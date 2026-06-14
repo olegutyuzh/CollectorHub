@@ -1,0 +1,124 @@
+{
+  "id": 204995,
+  "url": "https://en.numista.com/204995",
+  "title": "2 Dollars - Elizabeth II (Bluebird)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "bermudes",
+    "name": "Bermuda"
+  },
+  "issuing_entity": {
+    "id": 745,
+    "name": "Bermuda Monetary Authority"
+  },
+  "min_year": 2009,
+  "max_year": 2009,
+  "ruler": [
+    {
+      "id": 950,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 796,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Dollars",
+    "numeric_value": 2,
+    "currency": {
+      "id": 41,
+      "name": "Dollar",
+      "full_name": "Dollar (1970-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 136,
+  "size2": 69,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Hybrid substrate"
+  },
+  "obverse": {
+    "engravers": [
+      "Gene Bothwick"
+    ],
+    "description": "Large bluebird sitting on a branch at centre, profile of Queen Elizabeth II at lower left, Hibiscus flowers in the background, sailboats at upper left, butterfly at upper right.",
+    "lettering": "BERMUDA MONETARY AUTHORITY\r\nTWO DOLLARS\r\nBLUEBIRD\r\nTHIS NOTE IS LEGAL TENDER\r\nISSUED UNDER THE BERMUDA MONETARY AUTHORITY ACT 1969",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bermudes/6475a21b11aba4.15071779-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bermudes/6475a21b11aba4.15071779-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Gene Bothwick"
+    ],
+    "description": "Clock tower at bottom left, Neptune holding trident at bottom right, compass and city view at centre, butterflies at upper left",
+    "lettering": "BERMUDA MONETARY AUTHORITY\r\nTWO DOLLARS",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bermudes/6475a21c0f22b4.63388645-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bermudes/6475a21c0f22b4.63388645-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "400th Anniversary of Bermuda redesign",
+  "comments": "<p><strong>UV activity:</strong><br><a href=\"https://en.numista.com/catalogue/images/649f56e5b32ac.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/649f56e5b32ac.png\" alt=\"\"></a> <a href=\"https://en.numista.com/catalogue/images/649f56f6d2c28.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/649f56f6d2c28.png\" alt=\"\"></a><br>© gyoschak</p>",
+  "tags": [
+    "Bird",
+    "Insect",
+    "Tower",
+    "Monarch",
+    "Flower",
+    "Boat or watercraft"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "57"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "230"
+    }
+  ],
+  "watermark": {
+    "description": "Hibiscus flower and sailboat",
+    "picture": "https://en.numista.com/catalogue/photos/bermudes/649f5720df6745.24000798-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bermudes/649f5720df6745.24000798-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 1,
+      "name": "De La Rue"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

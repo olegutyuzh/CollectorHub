@@ -1,0 +1,25 @@
+[
+  {
+    "id": 504365,
+    "is_dated": true,
+    "year": 1992,
+    "gregorian_year": 1992,
+    "month": 4,
+    "day": 24,
+    "signatures": [
+      {
+        "signer_name": "Mariano Rubio Jiménez",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Esteban Róspide Echeto",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "Jesús Urdiola Salvador",
+        "title": "Cashier"
+      }
+    ],
+    "comment": "Issued 1996"
+  }
+]

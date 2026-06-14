@@ -1,0 +1,236 @@
+[
+  {
+    "id": 498242,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "month": 7,
+    "day": 31,
+    "signatures": [
+      {
+        "signer_name": "Jean-Claude Masangu-Mulongo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "99a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "321a"
+      }
+    ],
+    "comment": "One letter prefix: N; Printer: Giesecke & Devrient"
+  },
+  {
+    "id": 869293,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "month": 7,
+    "day": 31,
+    "signatures": [
+      {
+        "signer_name": "Jean-Claude Masangu-Mulongo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "99A"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "321b"
+      }
+    ],
+    "comment": "Prefix: NC; Printer: Hôtel des Monnaies"
+  },
+  {
+    "id": 611038,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "month": 7,
+    "day": 31,
+    "signatures": [
+      {
+        "signer_name": "Jean-Claude Masangu-Mulongo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "99a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "321a"
+      }
+    ],
+    "comment": "Two letters prefix: NA-NC; Printer: Giesecke & Devrient"
+  },
+  {
+    "id": 520210,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "month": 7,
+    "day": 31,
+    "signatures": [
+      {
+        "signer_name": "Jean-Claude Masangu-Mulongo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "99s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "321as"
+      }
+    ],
+    "comment": "Specimen; As a (one or two letters prefix)"
+  },
+  {
+    "id": 530810,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "month": 6,
+    "day": 30,
+    "signatures": [
+      {
+        "signer_name": "Deogratias Mutombo Mwana Nyembo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "99b"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "321c"
+      }
+    ],
+    "comment": "Prefix: NC, ND; Printer: Giesecke & Devrient"
+  },
+  {
+    "id": 796668,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "month": 6,
+    "day": 30,
+    "signatures": [
+      {
+        "signer_name": "Deogratias Mutombo Mwana Nyembo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "99s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "321cs"
+      }
+    ],
+    "comment": "Specimen; As b"
+  },
+  {
+    "id": 802429,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2023,
+    "month": 1,
+    "day": 4,
+    "signatures": [
+      {
+        "signer_name": "Marie-France Malangu Kabedi Mbuyi",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "321c"
+      }
+    ],
+    "comment": "Prefix: NC, ND; Printer: Giesecke & Devrient"
+  },
+  {
+    "id": 802742,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2024,
+    "month": 1,
+    "day": 4,
+    "signatures": [
+      {
+        "signer_name": "Marie-France Malangu Kabedi Mbuyi",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "321d"
+      }
+    ],
+    "comment": "Prefix: ND; Printer: Oberthur Fiduciaire"
+  }
+]

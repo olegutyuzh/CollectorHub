@@ -1,0 +1,73 @@
+[
+  {
+    "id": 501875,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "comment": "P#154ar"
+  },
+  {
+    "id": 501874,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "154a"
+      }
+    ],
+    "comment": "Signatures : Agus Dermawan Wintarto Martowardojo, Mulyani Indrawati"
+  },
+  {
+    "id": 501876,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "comment": "P#154b Peruri TC 2017 (at lower left on back)"
+  },
+  {
+    "id": 501877,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "comment": "P#154c.1 Peruri TC 2018 (at lower left on back)"
+  },
+  {
+    "id": 501878,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "comment": "P#154c.1r"
+  },
+  {
+    "id": 501879,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "comment": "P#154c.2"
+  },
+  {
+    "id": 501880,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "comment": "P#154d"
+  },
+  {
+    "id": 501881,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "comment": "P#154dr"
+  },
+  {
+    "id": 778460,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021
+  }
+]

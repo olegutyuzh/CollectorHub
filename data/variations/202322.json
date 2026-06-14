@@ -1,0 +1,44 @@
+[
+  {
+    "id": 494507,
+    "is_dated": true,
+    "year": 5777,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Karnit Flug",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "65a"
+      }
+    ]
+  },
+  {
+    "id": 722851,
+    "is_dated": true,
+    "year": 5781,
+    "gregorian_year": 2021,
+    "signatures": [
+      {
+        "signer_name": "Amir Yaron",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "65b"
+      }
+    ]
+  }
+]

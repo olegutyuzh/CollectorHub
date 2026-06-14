@@ -1,0 +1,140 @@
+{
+  "id": 202760,
+  "url": "https://en.numista.com/202760",
+  "title": "20 Hryven",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "ukraine",
+    "name": "Ukraine"
+  },
+  "issuing_entity": {
+    "id": 564,
+    "name": "National Bank of Ukraine",
+    "wikidata_id": "Q1070388"
+  },
+  "min_year": 1995,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 3209,
+      "name": "Republic",
+      "wikidata_id": "Q212"
+    }
+  ],
+  "value": {
+    "text": "20 Hryven",
+    "numeric_value": 20,
+    "currency": {
+      "id": 88,
+      "name": "Hryvnia",
+      "full_name": "Hryvnia (1996-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1997-09-01"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2020-10-01"
+  },
+  "size": 133,
+  "size2": 66,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Ivan Franko (1856 – 1916) was a prominent Ukrainian writer, critic, translator, opinion journalist, sociologist, ethnographer, historian and philosopher whose activities were guided by the idea of promoting the interests of Ukrainians and universal human values. A unique phenomenon, his works represent an entire spiritual epoch in Ukrainian history and a significant contribution to world literature.",
+    "lettering": "20\r\nУКРАЇНА\r\nНАЦІОНАЛЬНИЙ БАНК УКРАЇНИ\r\nГолова\r\nДВАДЦЯТЬ ГРИВЕНЬ\r\n20\r\nІван Франко",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "20\r\nUKRAINE\r\nNATIONAL BANK OF UKRAINE\r\nHead\r\nTWENTY HRYVNIAS\r\n20\r\nIvan Franko",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5e970e201f1529.73104426-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5e970e201f1529.73104426-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "reverse": {
+    "description": "Lviv Opera House was built in 1900 to a design by the architect Zygmunt Gorgolewski.",
+    "lettering": "20\r\n20\r\n2000\r\nНАЦІОНАЛЬНИЙ БАНК УКРАЇНИ\r\nЛьвівський театр опери та балету\r\nДВАДЦЯТЬ ГРИВЕНЬ\r\n20\r\n20",
+    "lettering_scripts": [
+      {
+        "name": "Cyrillic"
+      }
+    ],
+    "lettering_translation": "20\r\n20\r\n2000\r\nNATIONAL BANK OF UKRAINE\r\nLviv Opera and Ballet Theater\r\nTWENTY HRYVNIAS\r\n20\r\n20",
+    "picture": "https://en.numista.com/catalogue/photos/ukraine/5e970e205df9a9.93070713-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/ukraine/5e970e205df9a9.93070713-180.jpg",
+    "picture_copyright": "National Bank of Ukraine",
+    "picture_copyright_url": "http://www.bank.gov.ua"
+  },
+  "related_types": [
+    {
+      "id": 202854,
+      "title": "20 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 1992,
+      "maxYear": 1992
+    },
+    {
+      "id": 202248,
+      "title": "20 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2003,
+      "maxYear": 2016
+    },
+    {
+      "id": 202045,
+      "title": "20 Hryven (Ivan Franko, 160 Years Anniversary)",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2016,
+      "maxYear": 2016
+    },
+    {
+      "id": 202039,
+      "title": "20 Hryven",
+      "category": "banknote",
+      "country": {
+        "code": "ukraine",
+        "name": "Ukraine"
+      },
+      "minYear": 2018,
+      "maxYear": 2023
+    }
+  ],
+  "tags": [
+    "Literature",
+    "Theatre",
+    "Artist"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "112"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

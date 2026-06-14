@@ -1,0 +1,250 @@
+{
+  "Nav": {
+    "catalog": "Каталог",
+    "stats": "Статистика",
+    "addBanknote": "Додати банкноту",
+    "login": "Увійти",
+    "register": "Реєстрація",
+    "logout": "Вийти",
+    "collection": "Моя колекція"
+  },
+  "Footer": {
+    "copy": "© {year} CollectorHub"
+  },
+  "Home": {
+    "hero": {
+      "title": "Ваш каталог банкнот",
+      "subtitle": "Систематизуйте колекцію, знаходьте рідкісні банкноти, спілкуйтесь з колекціонерами",
+      "browse": "Переглянути каталог",
+      "registerFree": "Зареєструватись безкоштовно"
+    },
+    "statsSection": {
+      "notes": "Банкнот у каталозі",
+      "countries": "Країн",
+      "collectors": "Колекціонерів"
+    },
+    "features": {
+      "heading": "Все що потрібно колекціонеру",
+      "catalog": {
+        "title": "Загальний каталог",
+        "desc": "Банкноти всіх країн з фото, описом та каталожними номерами"
+      },
+      "collection": {
+        "title": "Моя колекція",
+        "desc": "Відстежуйте що є у вас: стан, ціна, дата придбання"
+      },
+      "search": {
+        "title": "Пошук та фільтри",
+        "desc": "Шукайте за країною, роком, номіналом, серією"
+      },
+      "community": {
+        "title": "Спільнота",
+        "desc": "Обмінюйтесь банкнотами з колекціонерами з усього світу"
+      }
+    }
+  },
+  "Auth": {
+    "login": {
+      "title": "Вхід",
+      "subtitle": "Увійдіть до свого облікового запису",
+      "password": "Пароль",
+      "submit": "Увійти",
+      "loading": "Входимо...",
+      "error": "Невірний email або пароль",
+      "noAccount": "Немає акаунту?",
+      "registerLink": "Зареєструватись",
+      "forgotPassword": "Забули пароль?"
+    },
+    "forgot": {
+      "title": "Відновлення пароля",
+      "subtitle": "Введіть email — надішлемо посилання для скидання",
+      "submit": "Надіслати посилання",
+      "loading": "Надсилаємо...",
+      "success": "Лист надіслано",
+      "successDesc": "Перевірте пошту {email} і перейдіть за посиланням у листі.",
+      "backToLogin": "Повернутись до входу",
+      "error": "Не вдалося надіслати лист. Перевірте адресу."
+    },
+    "reset": {
+      "title": "Новий пароль",
+      "subtitle": "Введіть новий пароль для вашого акаунту",
+      "password": "Новий пароль",
+      "confirm": "Підтвердіть пароль",
+      "submit": "Зберегти пароль",
+      "loading": "Зберігаємо...",
+      "success": "Пароль змінено",
+      "successDesc": "Тепер ви можете увійти з новим паролем.",
+      "toLogin": "Увійти",
+      "errorMismatch": "Паролі не співпадають",
+      "errorShort": "Мінімум 6 символів",
+      "error": "Не вдалося змінити пароль. Спробуйте ще раз."
+    },
+    "register": {
+      "title": "Реєстрація",
+      "subtitle": "Безкоштовно. Без прихованих умов.",
+      "password": "Пароль",
+      "passwordPlaceholder": "мінімум 6 символів",
+      "submit": "Зареєструватись",
+      "loading": "Реєструємось...",
+      "checkEmail": "Перевірте пошту",
+      "checkEmailDesc": "Ми надіслали лист на {email}. Перейдіть за посиланням для підтвердження.",
+      "haveAccount": "Вже є акаунт?",
+      "loginLink": "Увійти"
+    }
+  },
+  "Catalog": {
+    "title": "Каталог банкнот",
+    "back": "Назад до каталогу",
+    "searchPlaceholder": "Пошук за номіналом, серією, Pick №...",
+    "issuersPlaceholder": "Всі емітенти...",
+    "searchBtn": "Знайти",
+    "moreFilters": "+ Додаткові фільтри",
+    "clearAll": "Очистити все",
+    "apply": "Застосувати фільтри",
+    "country": "Країна",
+    "allCountries": "Всі країни",
+    "currency": "Валюта",
+    "allCurrencies": "Всі валюти",
+    "year": "Рік",
+    "series": "Серія",
+    "pickNo": "Pick №",
+    "material": "Матеріал",
+    "allMaterials": "Всі",
+    "printer": "Друкарня",
+    "noPhoto": "Фото відсутнє",
+    "obverse": "Аверс",
+    "reverse": "Реверс",
+    "obverseDesc": "Опис аверсу",
+    "reverseDesc": "Опис реверсу",
+    "security": "Захисні елементи",
+    "details": {
+      "country": "Країна",
+      "denomination": "Номінал",
+      "years": "Рік(и)",
+      "series": "Серія",
+      "pickNo": "Pick №",
+      "issuer": "Емітент",
+      "material": "Матеріал",
+      "size": "Розмір",
+      "printer": "Друкарня",
+      "watermark": "Водяний знак"
+    },
+    "filters": {
+      "searchPlaceholder": "Пошук за номіналом, серією, Pick №...",
+      "allIssuers": "Всі емітенти...",
+      "search": "Знайти",
+      "moreFilters": "+ Додаткові фільтри",
+      "clearAll": "Очистити все",
+      "apply": "Застосувати фільтри",
+      "country": "Країна",
+      "allCountries": "Всі країни",
+      "currency": "Валюта",
+      "allCurrencies": "Всі валюти",
+      "year": "Рік",
+      "from": "від",
+      "to": "до",
+      "series": "Серія",
+      "seriesPlaceholder": "назва серії",
+      "pickPlaceholder": "напр. P-118",
+      "material": "Матеріал",
+      "all": "Всі",
+      "printer": "Друкарня",
+      "printerPlaceholder": "назва друкарні"
+    },
+    "detail": {
+      "country": "Країна",
+      "denomination": "Номінал",
+      "years": "Рік(и)",
+      "series": "Серія",
+      "issuer": "Емітент",
+      "material": "Матеріал",
+      "size": "Розмір",
+      "printer": "Друкарня",
+      "watermark": "Водяний знак",
+      "obverse": "Аверс",
+      "reverse": "Реверс",
+      "noPhoto": "Фото відсутнє",
+      "obverseDesc": "Опис аверсу",
+      "reverseDesc": "Опис реверсу",
+      "security": "Захисні елементи"
+    },
+    "count": "{count} записів",
+    "backToCatalog": "Назад до каталогу"
+  },
+  "Collection": {
+    "title": "Моя колекція",
+    "subtitle": "{unique} унікальних · {total} екземплярів",
+    "addBtn": "Додати банкноту",
+    "emptyTitle": "Колекція порожня",
+    "emptyDesc": "Знайдіть банкноту в каталозі та додайте її",
+    "authRequired": "Увійдіть щоб переглянути колекцію",
+    "authDesc": "Реєструйтесь безкоштовно і починайте вести облік своїх банкнот",
+    "badges": {
+      "trade": "Обмін",
+      "sale": "Продаж"
+    }
+  },
+  "CollectionItem": {
+    "back": "Моя колекція",
+    "obverse": "Аверс",
+    "reverse": "Реверс",
+    "pcsUnit": "шт.",
+    "sections": {
+      "myCopy": "Мій примірник",
+      "grading": "Сертифікація (PMG)",
+      "general": "Загальна інформація",
+      "refs": "Каталожні номери",
+      "physical": "Фізичні характеристики",
+      "manufacturer": "Виробник",
+      "security": "Захист",
+      "obverse": "Аверс",
+      "reverse": "Реверс",
+      "comments": "Коментарі"
+    },
+    "fields": {
+      "grade": "Стан",
+      "quantity": "Кількість",
+      "serial": "Серійний номер",
+      "price": "Ціна придбання",
+      "purchaseDate": "Дата придбання",
+      "forTrade": "На обмін",
+      "forSale": "На продаж",
+      "yes": "Так",
+      "company": "Компанія",
+      "score": "Оцінка",
+      "certNo": "Сертифікат №",
+      "designation": "Designation",
+      "issuer": "Емітент",
+      "series": "Серія",
+      "type": "Тип",
+      "issueDate": "Дата випуску",
+      "demonetized": "Вилучено з обігу",
+      "material": "Матеріал",
+      "size": "Розмір",
+      "shape": "Форма",
+      "technique": "Техніка",
+      "printer": "Друкарня",
+      "watermark": "Водяний знак",
+      "securityFeatures": "Захисні елементи",
+      "desc": "Опис",
+      "designers": "Дизайнери",
+      "engravers": "Гравери",
+      "text": "Текст"
+    }
+  },
+  "Stats": {
+    "title": "Статистика колекції",
+    "items": "Екземплярів",
+    "unique": "Унікальних",
+    "countries": "Країн",
+    "forSwap": "На обмін",
+    "mapTitle": "Geografія колекції",
+    "total": "Всього",
+    "noData": "Немає даних",
+    "gradesTitle": "Розподіл за станом",
+    "topCountriesTitle": "Топ країн",
+    "moreCountries": "+{n} ще країн",
+    "mapError": "Не вдалося завантажити карту. Перевірте підключення до Інтернету.",
+    "authRequired": "Увійдіть, щоб переглянути статистику"
+  }
+}

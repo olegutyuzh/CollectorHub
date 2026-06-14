@@ -1,0 +1,80 @@
+[
+  {
+    "id": 494274,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "signatures": [
+      {
+        "signer_name": "Serhii Leonidovych Tihipko",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P#121a"
+  },
+  {
+    "id": 494275,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "signatures": [
+      {
+        "signer_name": "Volodymyr Semenovych Stelmakh",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P#121b"
+  },
+  {
+    "id": 494276,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "signatures": [
+      {
+        "signer_name": "Serhii Hennadiiovych Arbuzov",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P#121c"
+  },
+  {
+    "id": 494277,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "signatures": [
+      {
+        "signer_name": "Ihor Viacheslavovych Sorkin",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P#121d"
+  },
+  {
+    "id": 494278,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Stepan Ivanovych Kubiv",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P#121e"
+  },
+  {
+    "id": 494279,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Valeriia Oleksiivna Hontareva",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P#121f"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": 493364,
+    "is_dated": true,
+    "year": 2000,
+    "gregorian_year": 2000,
+    "month": 1,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Henk O. Goedschalk",
+        "title": "President of Central Bank of Suriname"
+      }
+    ],
+    "mintage": 2000000,
+    "comment": "P# 150 - Issued note; Series AJ-AL"
+  },
+  {
+    "id": 795836,
+    "is_dated": true,
+    "year": 2000,
+    "gregorian_year": 2000,
+    "month": 1,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Henk O. Goedschalk",
+        "title": "President of Central Bank of Suriname"
+      }
+    ],
+    "comment": "P# 150 - Replacement; Series ZZ."
+  }
+]

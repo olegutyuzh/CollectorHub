@@ -1,0 +1,863 @@
+[
+  {
+    "id": 494093,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "Benigno Aquino",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077a"
+      }
+    ]
+  },
+  {
+    "id": 494094,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "signatures": [
+      {
+        "signer_name": "Benigno Aquino",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077b"
+      }
+    ]
+  },
+  {
+    "id": 494095,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "signatures": [
+      {
+        "signer_name": "Benigno Aquino",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077c"
+      }
+    ]
+  },
+  {
+    "id": 494097,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Benigno Aquino",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077d/e"
+      }
+    ],
+    "comment": "2014"
+  },
+  {
+    "id": 494098,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Benigno Aquino",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077f"
+      }
+    ],
+    "comment": "2014A"
+  },
+  {
+    "id": 494099,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Benigno Aquino",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077g"
+      }
+    ],
+    "comment": "2014B"
+  },
+  {
+    "id": 494096,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Benigno Aquino",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077h"
+      }
+    ],
+    "comment": "2014C"
+  },
+  {
+    "id": 494100,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "signatures": [
+      {
+        "signer_name": "Benigno Aquino",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077i"
+      }
+    ],
+    "comment": "2015"
+  },
+  {
+    "id": 494103,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "signatures": [
+      {
+        "signer_name": "Benigno Aquino",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077j"
+      }
+    ],
+    "comment": "2015A"
+  },
+  {
+    "id": 842632,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Benigno Aquino",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077k"
+      }
+    ],
+    "comment": "2016"
+  },
+  {
+    "id": 496703,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Benigno Aquino",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077m"
+      }
+    ],
+    "comment": "2016 g"
+  },
+  {
+    "id": 494106,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Benigno Aquino",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077l"
+      }
+    ],
+    "comment": "2016F"
+  },
+  {
+    "id": 496704,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Benigno Aquino",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077n"
+      }
+    ],
+    "comment": "2016H"
+  },
+  {
+    "id": 496705,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Benigno Aquino",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077o"
+      }
+    ],
+    "comment": "2016J"
+  },
+  {
+    "id": 496706,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Duterte",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206b"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077p"
+      }
+    ],
+    "comment": "2016"
+  },
+  {
+    "id": 496709,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Duterte",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206b"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077q"
+      }
+    ],
+    "comment": "2017"
+  },
+  {
+    "id": 496708,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Duterte",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206b"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077s"
+      }
+    ],
+    "comment": "2017 g"
+  },
+  {
+    "id": 496707,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Duterte",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Amando Tetangco",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206b"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1077r"
+      }
+    ],
+    "comment": "2017F"
+  },
+  {
+    "id": 948074,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Duterte",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Nestor Espenilla",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206c"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1084a"
+      }
+    ],
+    "comment": "2017"
+  },
+  {
+    "id": 963808,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Duterte",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Nestor Espenilla",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "1084ar"
+      }
+    ],
+    "comment": "2017; Replacement note (+)"
+  },
+  {
+    "id": 496710,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Duterte",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Nestor Espenilla",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206c"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1084b"
+      }
+    ]
+  },
+  {
+    "id": 496711,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Duterte",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Nestor Espenilla",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1084c"
+      }
+    ],
+    "comment": "2019"
+  },
+  {
+    "id": 496712,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Duterte",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Benjamin Diokno",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1084d"
+      }
+    ],
+    "comment": "2019"
+  },
+  {
+    "id": 609087,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Duterte",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Benjamin Diokno",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1084f"
+      }
+    ],
+    "comment": "2019 g"
+  },
+  {
+    "id": 588569,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Duterte",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Benjamin Diokno",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1084e"
+      }
+    ],
+    "comment": "2019A"
+  },
+  {
+    "id": 581575,
+    "is_dated": true,
+    "year": 2020,
+    "gregorian_year": 2020,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Duterte",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Benjamin Diokno",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1084g"
+      }
+    ]
+  },
+  {
+    "id": 702982,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Duterte",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Benjamin Diokno",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1084h"
+      }
+    ]
+  },
+  {
+    "id": 761339,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "signatures": [
+      {
+        "signer_name": "Rodrigo Duterte",
+        "title": "President of the Philippines"
+      },
+      {
+        "signer_name": "Benjamin Diokno",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B1084i"
+      }
+    ]
+  }
+]

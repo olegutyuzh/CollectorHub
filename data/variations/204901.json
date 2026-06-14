@@ -1,0 +1,59 @@
+[
+  {
+    "id": 505442,
+    "is_dated": true,
+    "year": 1943,
+    "gregorian_year": 1943,
+    "month": 3,
+    "day": 2,
+    "signatures": [
+      {
+        "signer_name": "Hubertus Johannes van Mook",
+        "title": "Acting Governor General"
+      },
+      {
+        "signer_name": "R.E. Smits",
+        "title": "Director Secretary, Bank of Java"
+      }
+    ],
+    "comment": "P# 111a - Issued note"
+  },
+  {
+    "id": 505443,
+    "is_dated": true,
+    "year": 1943,
+    "gregorian_year": 1943,
+    "month": 3,
+    "day": 2,
+    "signatures": [
+      {
+        "signer_name": "Hubertus Johannes van Mook",
+        "title": "Acting Governor General"
+      },
+      {
+        "signer_name": "R.E. Smits",
+        "title": "Director Secretary, Bank of Java"
+      }
+    ],
+    "comment": "P# 111p - Proof"
+  },
+  {
+    "id": 505444,
+    "is_dated": true,
+    "year": 1943,
+    "gregorian_year": 1943,
+    "month": 3,
+    "day": 2,
+    "signatures": [
+      {
+        "signer_name": "Hubertus Johannes van Mook",
+        "title": "Acting Governor General"
+      },
+      {
+        "signer_name": "R.E. Smits",
+        "title": "Director Secretary, Bank of Java"
+      }
+    ],
+    "comment": "P# 111s - Specimen"
+  }
+]

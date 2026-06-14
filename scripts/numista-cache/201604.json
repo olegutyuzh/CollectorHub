@@ -1,0 +1,210 @@
+{
+  "id": 201604,
+  "url": "https://en.numista.com/201604",
+  "title": "5 Gulden",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "suriname",
+    "name": "Suriname"
+  },
+  "issuing_entity": {
+    "id": 945,
+    "name": "Central Bank of Suriname",
+    "wikidata_id": "Q2981941"
+  },
+  "min_year": 2000,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 1928,
+      "name": "Republic",
+      "wikidata_id": "Q730"
+    }
+  ],
+  "value": {
+    "text": "5 Guilders",
+    "numeric_value": 5,
+    "currency": {
+      "id": 318,
+      "name": "Guilder",
+      "full_name": "Guilder (1826-2003)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2003-12-31"
+  },
+  "size": 140,
+  "size2": 70,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Blue and multicolor. \r\nRed-necked woodpecker (campephilus rubricolis) at left center; Coat of Arms at upper center; stylized bat. \r\nAscending size serial number.",
+    "lettering": "CENTRALE BANK VAN SURINAME\r\n1 JANUARY 2020\r\nCampephilus rubricolis\r\n5",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Suriname\r\nJanuary 1st, 2020\r\nCampephilus rubricolis\r\n5",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/5e94af8c4bfd56.43634180-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/5e94af8c4bfd56.43634180-180.jpg",
+    "picture_copyright": "James Castillo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Passion flower (passiflora quadrangularis) over Central Bank Building; stylized bat.",
+    "lettering": "DE LA RUE\r\nCENTRALE BANK VAN SURINAME\r\n\r\n5\r\nVIJF\r\nGULDEN\r\nNADRUK VERBODEN: SURINAAMS WETBOEK VAN STRAFRECHT ARTIKEL 260\r\n\r\nPassiflora quadrangularis",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "De La Rue\r\nCentral Bank of Suriname\r\n\r\n5\r\nFive\r\nGulden\r\nCounterfeiting forbidden: Suriname Criminal Law, Article 260\r\n\r\nPassiflora quadrangularis",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/5e94af8cc4e0c3.89797890-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/5e94af8cc4e0c3.89797890-180.jpg",
+    "picture_copyright": "James Castillo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "2000 Issue \"Birds\"",
+  "comments": "<p>On the obverse upper left there is a brown panel with a butterfly and a 5 that appears or disappears with a tilt of the note:</p><p><a href=\"https://en.numista.com/catalogue/images/6794dc2f99fad.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6794dc2f99fad.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/6794dc3caaeb8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6794dc3caaeb8.jpg\"></a></p><p>&nbsp;</p><p>The note has a solid security strip windowed into six pieces on the reverse. Under backlight the whole strip can be seen and read. It has “CBVS 5” repeated on it:</p><p><a href=\"https://en.numista.com/catalogue/images/6794dc9132fac.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6794dc9132fac.jpg\"></a></p><p>© Brandon Bertolli</p><p>&nbsp;</p><p>UV activity: Value in box, butterflies, bat wings, and trees fluoresce green.<br><a href=\"https://en.numista.com/catalogue/images/64ece69214d1b.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64ece69214d1b.png\" alt=\"\"></a><br>© gyoschak<br><br>P#146, signature Henk Goedschalk - President of the Central Bank of Suriname from January 1985 until January 1994; and from January 1997 until August 2000.</p>",
+  "related_types": [
+    {
+      "id": 201607,
+      "title": "10 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 201608,
+      "title": "25 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 201614,
+      "title": "100 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 201796,
+      "title": "500 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 205255,
+      "title": "1000 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 241696,
+      "title": "5000 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 241697,
+      "title": "10 000 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 254527,
+      "title": "25 000 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Flower"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "146"
+    },
+    {
+      "catalogue": {
+        "id": 2270,
+        "code": "Plomp"
+      },
+      "number": "PLS22.1"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "531"
+    }
+  ],
+  "watermark": {
+    "picture": "https://en.numista.com/catalogue/photos/suriname/64ece6b0772d96.46640478-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/64ece6b0772d96.46640478-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 1,
+      "name": "De La Rue"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 504975,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "904a"
+      }
+    ],
+    "comment": "Serial prefix: XX## (letter-letter-number-number)"
+  },
+  {
+    "id": 514927,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "904b"
+      }
+    ],
+    "comment": "Serial prefix: X#X# (letter-number-letter-number)"
+  }
+]

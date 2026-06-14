@@ -1,0 +1,106 @@
+[
+  {
+    "id": 966039,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "P#118 g; 口漢 / HANKOW overprint (Green)"
+  },
+  {
+    "id": 966038,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "P#118i; 口家張 / KALGAN overprint (Green, Orange)"
+  },
+  {
+    "id": 966037,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "P#118k; 海上 / \"KANSU PROVINCE\" overprint on reverseSHANGHAI overprint (Red)"
+  },
+  {
+    "id": 966040,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "京北 / PEIKING overprint (Green)"
+  },
+  {
+    "id": 966035,
+    "is_dated": true,
+    "year": 3,
+    "gregorian_year": 1914,
+    "month": 10,
+    "comment": "P#118d; 台烟 / CHEFOO overprint (Green)"
+  },
+  {
+    "id": 966032,
+    "is_dated": true,
+    "year": 3,
+    "gregorian_year": 1914,
+    "month": 10,
+    "comment": "P#118f; 慶重 / CHUNGKING overprint (Red)"
+  },
+  {
+    "id": 966033,
+    "is_dated": true,
+    "year": 3,
+    "gregorian_year": 1914,
+    "month": 10,
+    "comment": "P#118h; 南河 / HONAN overprint (Green)"
+  },
+  {
+    "id": 966034,
+    "is_dated": true,
+    "year": 3,
+    "gregorian_year": 1914,
+    "month": 10,
+    "comment": "P#118u; 海上 / \"P\" (Peiking) SHANGHAI overprint (Red) red control letter \"P\" at left and right"
+  },
+  {
+    "id": 966036,
+    "is_dated": true,
+    "year": 3,
+    "gregorian_year": 1914,
+    "month": 10,
+    "comment": "倫多 / TULUNNOERH (Green)"
+  },
+  {
+    "id": 713273,
+    "is_dated": true,
+    "year": 3,
+    "gregorian_year": 1914,
+    "month": 10,
+    "day": 1,
+    "comment": "P#118a,b; 門廈 / AMOY overprint (Blue, Red)"
+  },
+  {
+    "id": 504346,
+    "is_dated": true,
+    "year": 3,
+    "gregorian_year": 1914,
+    "month": 10,
+    "day": 1,
+    "comment": "P#118n,o,p,q; 海上 / SHANGHAI overprint (Red, Green)"
+  },
+  {
+    "id": 713274,
+    "is_dated": true,
+    "year": 3,
+    "gregorian_year": 1914,
+    "month": 10,
+    "day": 1,
+    "comment": "P#118r1,r2; 東山 / SHANTUNG overprint (Red)"
+  },
+  {
+    "id": 713275,
+    "is_dated": true,
+    "year": 3,
+    "gregorian_year": 1914,
+    "month": 10,
+    "day": 1,
+    "comment": "P#118t1,t2; 津天 / TIENTSIN overprint (Black, Red, Green)"
+  }
+]

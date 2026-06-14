@@ -1,0 +1,138 @@
+[
+  {
+    "id": 500293,
+    "is_dated": false,
+    "min_year": 1985,
+    "max_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Horacio A. Alonso",
+        "title": "Deputy General Manager"
+      },
+      {
+        "signer_name": "Juan J. A. Concepción",
+        "title": "President"
+      }
+    ],
+    "comment": "a Serie A"
+  },
+  {
+    "id": 588699,
+    "is_dated": false,
+    "min_year": 1985,
+    "max_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Horacio A. Alonso",
+        "title": "Deputy General Manager"
+      },
+      {
+        "signer_name": "Juan J. A. Concepción",
+        "title": "President"
+      }
+    ],
+    "comment": "ar Replacement (R1): Prefix R and suffix A"
+  },
+  {
+    "id": 500295,
+    "is_dated": false,
+    "min_year": 1985,
+    "max_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Horacio A. Alonso",
+        "title": "Deputy General Manager"
+      },
+      {
+        "signer_name": "Juan J. A. Concepción",
+        "title": "President"
+      }
+    ],
+    "comment": "as Specimen."
+  },
+  {
+    "id": 500294,
+    "is_dated": false,
+    "min_year": 1987,
+    "max_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Elias Salama",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Luis Machinea",
+        "title": "President"
+      }
+    ],
+    "comment": "b Series A, B"
+  },
+  {
+    "id": 588700,
+    "is_dated": false,
+    "min_year": 1987,
+    "max_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Elias Salama",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Luis Machinea",
+        "title": "President"
+      }
+    ],
+    "comment": "br Replacement (R2): Prefix R and suffix A"
+  },
+  {
+    "id": 588698,
+    "is_dated": false,
+    "min_year": 1989,
+    "max_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Rene E. De Paul",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Enrique Garcí­a Vázquez",
+        "title": "President"
+      }
+    ],
+    "comment": "b Serie B"
+  },
+  {
+    "id": 500292,
+    "is_dated": false,
+    "min_year": 1989,
+    "max_year": 1990,
+    "signatures": [
+      {
+        "signer_name": "Rene E. De Paul",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Javier González Fraga",
+        "title": "President"
+      }
+    ],
+    "comment": "c Series B, C, D"
+  },
+  {
+    "id": 515004,
+    "is_dated": false,
+    "min_year": 1989,
+    "max_year": 1990,
+    "signatures": [
+      {
+        "signer_name": "Rene E. De Paul",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Javier González Fraga",
+        "title": "President"
+      }
+    ],
+    "comment": "cr Replacement (R3): Prefix R and suffix A"
+  }
+]

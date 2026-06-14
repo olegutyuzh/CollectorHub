@@ -1,0 +1,32 @@
+[
+  {
+    "id": 495775,
+    "is_dated": true,
+    "year": 1975,
+    "gregorian_year": 1975,
+    "mintage": 63000000,
+    "comment": "(fr) P-64a tirage aproximatif"
+  },
+  {
+    "id": 495778,
+    "is_dated": true,
+    "year": 1975,
+    "gregorian_year": 1975,
+    "mintage": 550000,
+    "comment": "(fr) P-64r remplacement tirage aproximatif"
+  },
+  {
+    "id": 495776,
+    "is_dated": true,
+    "year": 1975,
+    "gregorian_year": 1975,
+    "comment": "(fr) P-64sa spécimen avec tampon noir de la Bnaque Cantrale"
+  },
+  {
+    "id": 495777,
+    "is_dated": true,
+    "year": 1975,
+    "gregorian_year": 1975,
+    "comment": "(fr) P-64sb spécimen avec tampon rouge de l'imprimeur"
+  }
+]

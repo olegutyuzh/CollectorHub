@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 215 64% 7%;
+    --foreground: 0 0% 98%;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-[#07111f] text-slate-100 antialiased;
+  }
+
+  ::selection {
+    @apply bg-[#c9a96e] text-[#07111f];
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center gap-2 rounded-full bg-[#c9a96e] px-5 py-2.5 text-sm font-semibold text-[#07111f] transition-colors hover:bg-[#e2c38f] disabled:opacity-50;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-white/10;
+  }
+
+  .input {
+    @apply w-full rounded-2xl border border-white/10 bg-white/[0.06] px-4 py-3 text-sm text-white placeholder-slate-500 outline-none transition focus:border-[#c9a96e]/60 focus:ring-2 focus:ring-[#c9a96e]/20;
+  }
+
+  /* Select dropdowns need a solid dark bg so <option> elements inherit it */
+  select.input {
+    background-color: #0d1f33;
+  }
+
+  select option {
+    background-color: #0d1f33;
+    color: #e2e8f0;
+  }
+
+  .card {
+    @apply rounded-2xl border border-white/10 bg-white/[0.04];
+  }
+}

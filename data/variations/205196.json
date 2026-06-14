@@ -1,0 +1,33 @@
+[
+  {
+    "id": 506860,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "mintage": 10000000,
+    "comment": "Prefix AA"
+  },
+  {
+    "id": 511185,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "mintage": 10000000,
+    "comment": "Prefix aa"
+  },
+  {
+    "id": 511186,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "mintage": 1500000,
+    "comment": "Replacement, Prefix Aa"
+  },
+  {
+    "id": 514303,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "comment": "Specimen; Perforated horizontally \"ОБРАЗЕЦ\""
+  }
+]

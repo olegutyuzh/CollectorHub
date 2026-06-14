@@ -1,0 +1,106 @@
+[
+  {
+    "id": 502144,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Bakary Jammeh",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Dr. Seeku Jaabi",
+        "title": "First Deputy Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "237a"
+      }
+    ],
+    "comment": "Prefix: A"
+  },
+  {
+    "id": 930734,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Bakary Jammeh",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Dr. Seeku Jaabi",
+        "title": "First Deputy Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "237as"
+      }
+    ],
+    "comment": "Specimen; Diagonal red SPECIMEN"
+  },
+  {
+    "id": 774577,
+    "is_dated": true,
+    "year": 2020,
+    "gregorian_year": 2020,
+    "signatures": [
+      {
+        "signer_name": "Buah Saidy",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Dr. Seeku Jaabi",
+        "title": "First Deputy Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "237b"
+      }
+    ],
+    "comment": "Prefix: B"
+  },
+  {
+    "id": 845346,
+    "is_dated": true,
+    "year": 2023,
+    "gregorian_year": 2023,
+    "signatures": [
+      {
+        "signer_name": "Buah Saidy",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Dr. Abodulie Sireh Jallow",
+        "title": "First Deputy Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "237c"
+      }
+    ],
+    "comment": "Prefix: B"
+  }
+]

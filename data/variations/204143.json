@@ -1,0 +1,98 @@
+[
+  {
+    "id": 502138,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "21a"
+      }
+    ],
+    "comment": "General circulation, no seal on back"
+  },
+  {
+    "id": 1029977,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "21b"
+      }
+    ],
+    "comment": "Green seal without numeral on back; Foreign Exchange Certificate for non-convertible (Socialist) currencies"
+  },
+  {
+    "id": 1029978,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "21c"
+      }
+    ],
+    "comment": "Red seal without numeral on back; Foreign Exchange Certificate for convertible (Western) currencies"
+  },
+  {
+    "id": 1029979,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "21d"
+      }
+    ],
+    "comment": "Red seal with numeral on back; Foreign Exchange Certificate for convertible (Western) currencies (2nd issue)"
+  },
+  {
+    "id": 1029980,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "21e"
+      }
+    ],
+    "comment": "Blue seal with numeral on back; Foreign Exchange Certificate for non-convertible (Socialist) currencies (2nd issue)"
+  },
+  {
+    "id": 742658,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "21s"
+      }
+    ],
+    "comment": "Specimen"
+  }
+]

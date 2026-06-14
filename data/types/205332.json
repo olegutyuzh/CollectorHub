@@ -1,0 +1,117 @@
+{
+  "id": 205332,
+  "url": "https://en.numista.com/205332",
+  "title": "2000 Francs",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "comores",
+    "name": "Comoros"
+  },
+  "issuing_entity": {
+    "id": 906,
+    "name": "Central Bank of the Comoros",
+    "wikidata_id": "Q2604274"
+  },
+  "min_year": 2005,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 3900,
+      "name": "Union of the Comoros",
+      "wikidata_id": "Q970",
+      "group": {
+        "id": 239,
+        "name": "Republic"
+      }
+    }
+  ],
+  "value": {
+    "text": "2000 Francs",
+    "numeric_value": 2000,
+    "currency": {
+      "id": 74,
+      "name": "Franc",
+      "full_name": "Franc (1976-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 132,
+  "size2": 65,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "engravers": [
+      "Roger Pfund"
+    ],
+    "description": "Green and multicolor. \r\nAt upper middle - The mausoleum of first president Ahmed Abdallah Abderemane of Comoros and also a mosque in Domoni, Anjouan.\r\n\r\nAT Left cente - Local market scene",
+    "lettering": "BANQUE CENTRALE DES COMORES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/comores/62ff2b4865a902.34781813-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/comores/62ff2b4865a902.34781813-180.jpg",
+    "picture_copyright": "Akhtaruzzaman Prodhan",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Traditional huts in a village",
+    "lettering": "بنك المركزى القمري\r\nألفي فرانك",
+    "lettering_scripts": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of the Comoros\r\nTwo Thousand Francs",
+    "picture": "https://en.numista.com/catalogue/photos/comores/62ff2b495c6d12.63114537-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/comores/62ff2b495c6d12.63114537-180.jpg",
+    "picture_copyright": "Akhtaruzzaman Prodhan",
+    "picture_license_name": "CC BY",
+    "picture_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "comments": "<p>On the obverse there is an iridescent ink strip which can appear pink or green, depending on the viewing angle:</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/67672a49627ca.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67672a49627ca.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/67672a51af951.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67672a51af951.jpg\"></a></p><p>&nbsp;</p><p>UV activity (365nm). On the obverse the iridescent ink strip absorbs UV:</p><p>&nbsp;</p><p><a href=\"https://en.numista.com/catalogue/images/67672acfd1141.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67672acfd1141.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/67672aff0b509.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67672aff0b509.jpg\"></a></p><p>© Brandon Bertolli</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "17"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "308"
+    }
+  ],
+  "watermark": {
+    "description": "Crescent and four stars, Electrotype 'BCC'",
+    "picture": "https://en.numista.com/catalogue/photos/comores/620e27b0810e65.89154890-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/comores/620e27b0810e65.89154890-180.jpg",
+    "picture_copyright": "Ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 46,
+      "name": "Banque de France"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

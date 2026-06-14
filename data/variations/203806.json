@@ -1,0 +1,141 @@
+[
+  {
+    "id": 500286,
+    "is_dated": false,
+    "min_year": 1986,
+    "max_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Horacio A. Alonso",
+        "title": "Deputy General Manager"
+      },
+      {
+        "signer_name": "Juan J. A. Concepción",
+        "title": "President"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1841,
+          "code": "Bottero"
+        },
+        "number": "2818"
+      },
+      {
+        "catalogue": {
+          "id": 1841,
+          "code": "Bottero"
+        },
+        "number": "2019"
+      },
+      {
+        "catalogue": {
+          "id": 2881,
+          "code": "Colantonio"
+        },
+        "number": "698"
+      }
+    ],
+    "comment": "a Serie A"
+  },
+  {
+    "id": 588692,
+    "is_dated": false,
+    "min_year": 1986,
+    "max_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Horacio A. Alonso",
+        "title": "Deputy General Manager"
+      },
+      {
+        "signer_name": "Juan J. A. Concepción",
+        "title": "President"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1841,
+          "code": "Bottero"
+        },
+        "number": "2820"
+      },
+      {
+        "catalogue": {
+          "id": 2881,
+          "code": "Colantonio"
+        },
+        "number": "698"
+      }
+    ],
+    "comment": "ar Replacement (R1) : Prefix R and suffix A"
+  },
+  {
+    "id": 500285,
+    "is_dated": false,
+    "min_year": 1987,
+    "max_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Elias Salama",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Luis Machinea",
+        "title": "President"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1841,
+          "code": "Bottero"
+        },
+        "number": "2821-2825"
+      },
+      {
+        "catalogue": {
+          "id": 2881,
+          "code": "Colantonio"
+        },
+        "number": "699"
+      }
+    ],
+    "comment": "b Series A, B, C"
+  },
+  {
+    "id": 563103,
+    "is_dated": false,
+    "min_year": 1987,
+    "max_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Elias Salama",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Luis Machinea",
+        "title": "President"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1841,
+          "code": "Bottero"
+        },
+        "number": "2826"
+      },
+      {
+        "catalogue": {
+          "id": 2881,
+          "code": "Colantonio"
+        },
+        "number": "699"
+      }
+    ],
+    "comment": "br Replacement (R2): Prefix R and suffix A"
+  }
+]

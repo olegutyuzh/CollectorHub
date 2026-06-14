@@ -1,0 +1,199 @@
+{
+  "id": 205255,
+  "url": "https://en.numista.com/205255",
+  "title": "1000 Gulden",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "suriname",
+    "name": "Suriname"
+  },
+  "issuing_entity": {
+    "id": 945,
+    "name": "Central Bank of Suriname",
+    "wikidata_id": "Q2981941"
+  },
+  "min_year": 2000,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 1928,
+      "name": "Republic",
+      "wikidata_id": "Q730"
+    }
+  ],
+  "value": {
+    "text": "1000 Guilders",
+    "numeric_value": 1000,
+    "currency": {
+      "id": 318,
+      "name": "Guilder",
+      "full_name": "Guilder (1826-2003)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 140,
+  "size2": 70,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Green and red on multicolor underprint.\r\nRoyal Flycatcher (onychorhynchus coronatus) at left center; Coat of Arms of Suriname at upper center; stylized beetle.\r\nAscending size serial number in black.",
+    "lettering": "CENTRALE BANK VAN SURINAME\r\n1 JANUARY 2000\r\nOnychorhynchus coronatus\r\n1000",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Suriname\r\nJanuary 1st, 2000\r\nOnychorhynchus coronatus\r\n1000",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/63d13cdda0e982.12445783-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/63d13cdda0e982.12445783-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Orchid (orchidaceae violacea) over Central Bank Building; stylized beetle.",
+    "lettering": "DE LA RUE\r\nCENTRALE BANK VAN SURINAME\r\n\r\n1000\r\nDUIZEND\r\nGULDEN\r\nNADRUK VERBODEN: SURINAAMS WETBOEK VAN STRAFRECHT ARTIKEL 260\r\n\r\nOrchidaceae violacea",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "De La Rue\r\nCentral Bank of Suriname\r\n\r\nOne Thousand\r\nGulden\r\nCounterfeiting Forbidden: Suriname Criminal Lae, Article 260\r\n\r\nOrchidaceae violacea",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/63d13ce179f1d5.48059577-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/63d13ce179f1d5.48059577-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "2000 Issue \"Birds\"",
+  "comments": "UV activity:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64ece5dfbb7d5.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64ece5dfbb7d5.png\" alt=\"\" width=\"200\" height=\"101\" /></a> <a href=\"https://en.numista.com/catalogue/images/64ece5ecc1323.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64ece5ecc1323.png\" alt=\"\" width=\"200\" height=\"101\" /></a><br />\r\n© gyoschak",
+  "related_types": [
+    {
+      "id": 201604,
+      "title": "5 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 201607,
+      "title": "10 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 201608,
+      "title": "25 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 201614,
+      "title": "100 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 201796,
+      "title": "500 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 241696,
+      "title": "5000 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 241697,
+      "title": "10 000 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    },
+    {
+      "id": 254527,
+      "title": "25 000 Gulden",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2000,
+      "maxYear": 2000
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "151"
+    },
+    {
+      "catalogue": {
+        "id": 2270,
+        "code": "Plomp"
+      },
+      "number": "PLS22.6"
+    }
+  ],
+  "watermark": {
+    "description": "Central Bank of Suriname building.",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/64c92a496d4a47.76201272-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/64c92a496d4a47.76201272-180.jpg",
+    "picture_copyright": "oXide3030",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 1,
+      "name": "De La Rue"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

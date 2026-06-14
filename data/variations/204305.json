@@ -1,0 +1,63 @@
+[
+  {
+    "id": 503124,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "month": 8,
+    "day": 8,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "108a"
+      }
+    ],
+    "comment": "Signature: 葉一新 (prefixes AA → AG)"
+  },
+  {
+    "id": 503125,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "month": 7,
+    "day": 1,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "108b(1)"
+      },
+      {
+        "catalogue": {
+          "id": 2972,
+          "code": "KNB HKM"
+        },
+        "number": "13e"
+      }
+    ],
+    "comment": "Signature: 葉一新 (prefixes AH → BB)"
+  },
+  {
+    "id": 503126,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "month": 7,
+    "day": 1,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "108b(2)"
+      }
+    ],
+    "comment": "Signature: 李光"
+  }
+]

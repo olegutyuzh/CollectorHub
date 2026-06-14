@@ -1,0 +1,669 @@
+[
+  {
+    "id": 500782,
+    "is_dated": false,
+    "min_year": 1963,
+    "max_year": 1963,
+    "comment": "F.62/00Spn - P147s - spécimen, date O.0-0-0000.O, alphabet O.0 n°00000 (perforé SPECIMEN, surcharge numérotée)"
+  },
+  {
+    "id": 496066,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "month": 1,
+    "day": 4,
+    "mintage": 12500000,
+    "comment": "F.62/01 - P147a - alphabet 1-5"
+  },
+  {
+    "id": 500750,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "month": 1,
+    "day": 4,
+    "mintage": 100000,
+    "comment": "F.62/01A1 - P147a -alphabet A.1, numéro 1-100 000"
+  },
+  {
+    "id": 500751,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "month": 4,
+    "day": 4,
+    "mintage": 12500000,
+    "comment": "F.62/02 - P147a - alphabet 6-10"
+  },
+  {
+    "id": 500752,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "month": 7,
+    "day": 11,
+    "mintage": 30000000,
+    "comment": "F.62/03 - P147a - alphabet 11-22"
+  },
+  {
+    "id": 500753,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "month": 10,
+    "day": 10,
+    "mintage": 30000000,
+    "comment": "F.62/04 - P147a - alphabet 23-34"
+  },
+  {
+    "id": 500754,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "month": 11,
+    "day": 7,
+    "mintage": 40000000,
+    "comment": "F.62/05 - P147a - alphabet 35-50"
+  },
+  {
+    "id": 500755,
+    "is_dated": true,
+    "year": 1963,
+    "gregorian_year": 1963,
+    "month": 12,
+    "day": 5,
+    "mintage": 30000000,
+    "comment": "F.62/06 - P147a - alphabet 51-62"
+  },
+  {
+    "id": 500756,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "month": 1,
+    "day": 2,
+    "mintage": 12500000,
+    "comment": "F.62/07 - P147a - alphabet 63-67"
+  },
+  {
+    "id": 500757,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "month": 2,
+    "day": 6,
+    "mintage": 40000000,
+    "comment": "F.62/08 - P147a - alphabet 68-83"
+  },
+  {
+    "id": 496067,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "month": 6,
+    "day": 4,
+    "mintage": 40000000,
+    "comment": "F.62/09 - P147a - alphabet 84-99"
+  },
+  {
+    "id": 500758,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "month": 8,
+    "day": 6,
+    "mintage": 12500000,
+    "comment": "F.62/10 - P147a - alphabet 100-104"
+  },
+  {
+    "id": 496068,
+    "is_dated": true,
+    "year": 1964,
+    "gregorian_year": 1964,
+    "month": 10,
+    "day": 1,
+    "mintage": 30000000,
+    "comment": "F.62/11 - P147a - alphabet 105-116"
+  },
+  {
+    "id": 500759,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "month": 1,
+    "day": 8,
+    "mintage": 15000000,
+    "comment": "F.62/12 - P147a - alphabet 117-122"
+  },
+  {
+    "id": 496069,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "month": 2,
+    "day": 4,
+    "mintage": 40000000,
+    "comment": "F.62/13 - P147a - alphabet 123-138"
+  },
+  {
+    "id": 496070,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "month": 4,
+    "day": 1,
+    "mintage": 40000000,
+    "comment": "F.62/14 - P147a - alphabet 139-154"
+  },
+  {
+    "id": 500760,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "month": 6,
+    "day": 3,
+    "mintage": 40000000,
+    "comment": "F.62/15 - P147a - alphabet 155-170"
+  },
+  {
+    "id": 500761,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "month": 10,
+    "day": 7,
+    "mintage": 40000000,
+    "comment": "F.62/16 - P147a - alphabet 171-186"
+  },
+  {
+    "id": 500762,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "month": 11,
+    "day": 5,
+    "mintage": 30000000,
+    "comment": "F.62/17 - P147a - alphabet 187-198"
+  },
+  {
+    "id": 500763,
+    "is_dated": true,
+    "year": 1965,
+    "gregorian_year": 1965,
+    "month": 12,
+    "day": 2,
+    "mintage": 30000000,
+    "comment": "F.62/18 - P147a - alphabet 199-210"
+  },
+  {
+    "id": 496071,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "month": 1,
+    "day": 6,
+    "mintage": 30000000,
+    "comment": "F.62/19 - P147b - alphabet 211-217"
+  },
+  {
+    "id": 496072,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "month": 2,
+    "day": 3,
+    "mintage": 17500000,
+    "comment": "F.62/20 - P147b - alphabet 218-233"
+  },
+  {
+    "id": 496073,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "month": 3,
+    "day": 3,
+    "mintage": 40000000,
+    "comment": "F.62/21 - P147b - alphabet 234-249"
+  },
+  {
+    "id": 500764,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "month": 7,
+    "day": 7,
+    "mintage": 30000000,
+    "comment": "F.62/22 - P147b - alphabet 250-261"
+  },
+  {
+    "id": 496074,
+    "is_dated": true,
+    "year": 1966,
+    "gregorian_year": 1966,
+    "month": 11,
+    "day": 4,
+    "mintage": 40000000,
+    "comment": "F.62/23 - P147b - alphabet 262-277"
+  },
+  {
+    "id": 500766,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "month": 1,
+    "day": 5,
+    "mintage": 52500000,
+    "comment": "F.62/24 - P147b - alphabet 278-298"
+  },
+  {
+    "id": 496075,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "month": 3,
+    "day": 2,
+    "mintage": 40000000,
+    "comment": "F.62/25 - P147b - alphabet 299-314"
+  },
+  {
+    "id": 496076,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "month": 4,
+    "day": 6,
+    "mintage": 50000000,
+    "comment": "F.62/26 - P147b - alphabet 315-334"
+  },
+  {
+    "id": 500767,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "month": 7,
+    "day": 6,
+    "mintage": 22500000,
+    "comment": "F.62/27 - P147c - alphabet 335-343"
+  },
+  {
+    "id": 496077,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "month": 9,
+    "day": 7,
+    "mintage": 40000000,
+    "comment": "F.62/28 - P147c - alphabet 344-359"
+  },
+  {
+    "id": 500768,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "month": 11,
+    "day": 2,
+    "mintage": 25000000,
+    "comment": "F.62/29 - P147c - alphabet 360-369"
+  },
+  {
+    "id": 496078,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "month": 12,
+    "day": 7,
+    "mintage": 40000000,
+    "comment": "F.62/30 - P147c - alphabet 370-385"
+  },
+  {
+    "id": 496079,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "month": 1,
+    "day": 4,
+    "mintage": 30000000,
+    "comment": "F.62/31 - P147c - alphabet 386-397"
+  },
+  {
+    "id": 500772,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "month": 4,
+    "day": 4,
+    "mintage": 30000000,
+    "comment": "F.62/32 - P147c - alphabet 398-409"
+  },
+  {
+    "id": 496080,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "month": 7,
+    "day": 4,
+    "mintage": 30000000,
+    "comment": "F.62/33 - P147c - alphabet 410-421"
+  },
+  {
+    "id": 496081,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "month": 9,
+    "day": 5,
+    "mintage": 30000000,
+    "comment": "F.62/34 - P147c - alphabet 422-433"
+  },
+  {
+    "id": 500773,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1968,
+    "month": 11,
+    "day": 7,
+    "mintage": 40000000,
+    "comment": "F.62/35 - P147c - alphabet 434-449"
+  },
+  {
+    "id": 500774,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "month": 1,
+    "day": 2,
+    "mintage": 40000000,
+    "comment": "F.62/36 - P147c - alphabet 450-465"
+  },
+  {
+    "id": 496082,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "month": 3,
+    "day": 6,
+    "mintage": 40000000,
+    "comment": "F.62/37 - P147c - alphabet 466-481"
+  },
+  {
+    "id": 496083,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "month": 5,
+    "day": 8,
+    "mintage": 40000000,
+    "comment": "F.62/38 - P147c - alphabet 482-497"
+  },
+  {
+    "id": 496084,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "month": 8,
+    "day": 7,
+    "mintage": 40000000,
+    "comment": "F.62/39 - P147c - alphabet 498-513"
+  },
+  {
+    "id": 496085,
+    "is_dated": true,
+    "year": 1969,
+    "gregorian_year": 1969,
+    "month": 11,
+    "day": 6,
+    "mintage": 40000000,
+    "comment": "F.62/40 - P147c - alphabet 514-529"
+  },
+  {
+    "id": 500775,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "month": 1,
+    "day": 8,
+    "mintage": 40000000,
+    "comment": "F.62/41 - P147c - alphabet 530-545"
+  },
+  {
+    "id": 500776,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "month": 2,
+    "day": 5,
+    "mintage": 40000000,
+    "comment": "F.62/42 - P147c - alphabet 546-561"
+  },
+  {
+    "id": 496086,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "month": 3,
+    "day": 5,
+    "mintage": 40000000,
+    "comment": "F.62/43 - P147c - alphabet 562-577"
+  },
+  {
+    "id": 496087,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "month": 5,
+    "day": 8,
+    "mintage": 40000000,
+    "comment": "F.62/44 - P147c - alphabet 578-593"
+  },
+  {
+    "id": 496088,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "month": 7,
+    "day": 2,
+    "mintage": 40000000,
+    "comment": "F.62/45 - P147c - alphabet 594-609"
+  },
+  {
+    "id": 496089,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "month": 9,
+    "day": 3,
+    "mintage": 40000000,
+    "comment": "P-147c.20 - 3-9-1970, alphabet 610-625"
+  },
+  {
+    "id": 500777,
+    "is_dated": true,
+    "year": 1970,
+    "gregorian_year": 1970,
+    "month": 11,
+    "day": 5,
+    "mintage": 40000000,
+    "comment": "F.62/47 - P147c - alphabet 626-641"
+  },
+  {
+    "id": 496091,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "month": 1,
+    "day": 8,
+    "mintage": 40000000,
+    "comment": "F.62/48 - P147c - alphabet 642-657"
+  },
+  {
+    "id": 496092,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "month": 2,
+    "day": 4,
+    "mintage": 40000000,
+    "comment": "F.62/49 - P147c - alphabet 658-673"
+  },
+  {
+    "id": 496093,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "month": 6,
+    "day": 3,
+    "mintage": 40000000,
+    "comment": "F.62/50 - P147d - alphabet 674-689"
+  },
+  {
+    "id": 496094,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "month": 9,
+    "day": 2,
+    "mintage": 40000000,
+    "comment": "F.62/51 - P147d - alphabet 690-705"
+  },
+  {
+    "id": 500778,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "month": 11,
+    "day": 5,
+    "mintage": 40000000,
+    "comment": "F.62/46 - P147c - alphabet 706-721"
+  },
+  {
+    "id": 496095,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "month": 12,
+    "day": 2,
+    "mintage": 40000000,
+    "comment": "F.62/53 - P147d - alphabet 722-737"
+  },
+  {
+    "id": 496096,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "month": 2,
+    "day": 3,
+    "mintage": 40000000,
+    "comment": "F.62/54 - P147d - alphabet 738-753"
+  },
+  {
+    "id": 496097,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "month": 3,
+    "day": 2,
+    "mintage": 40000000,
+    "comment": "F.62/55 - P147d - alphabet 754-769"
+  },
+  {
+    "id": 500779,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "month": 6,
+    "day": 1,
+    "mintage": 40000000,
+    "comment": "F.62/56 - P147d - alphabet 770-785, datés du 1-06 mais prévus pour le 4-05."
+  },
+  {
+    "id": 496098,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "month": 6,
+    "day": 1,
+    "mintage": 32500000,
+    "comment": "F.62/57 - P147d - alphabet 786-798"
+  },
+  {
+    "id": 500780,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "month": 9,
+    "day": 7,
+    "mintage": 60000000,
+    "comment": "F.62/58 - P147d - alphabet 799-822"
+  },
+  {
+    "id": 496099,
+    "is_dated": true,
+    "year": 1972,
+    "gregorian_year": 1972,
+    "month": 12,
+    "day": 7,
+    "mintage": 60000000,
+    "comment": "F.62/59 - P147d - alphabet 823-846"
+  },
+  {
+    "id": 496100,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "month": 1,
+    "day": 4,
+    "mintage": 60000000,
+    "comment": "F.62/60 - P147d - alphabet 847-870"
+  },
+  {
+    "id": 496101,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "month": 4,
+    "day": 5,
+    "mintage": 40000000,
+    "comment": "F.62/61 - P147d - alphabet 871-886"
+  },
+  {
+    "id": 500781,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "month": 6,
+    "day": 7,
+    "mintage": 10000000,
+    "comment": "F.62/62 - P147d - alphabet 887-890"
+  },
+  {
+    "id": 496102,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "month": 8,
+    "day": 2,
+    "mintage": 40000000,
+    "comment": "F.62/63 - P147d - alphabet 891-914"
+  },
+  {
+    "id": 496103,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "month": 11,
+    "day": 8,
+    "mintage": 60000000,
+    "comment": "F.62/64 - P147d - alphabet 939-961"
+  },
+  {
+    "id": 496090,
+    "is_dated": true,
+    "year": 1973,
+    "gregorian_year": 1973,
+    "month": 12,
+    "day": 6,
+    "mintage": 57500000,
+    "comment": "F.62/65 - P147d - alphabet 939-961"
+  }
+]

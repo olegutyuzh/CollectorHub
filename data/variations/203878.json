@@ -1,0 +1,82 @@
+[
+  {
+    "id": 500575,
+    "is_dated": false,
+    "min_year": 2019,
+    "max_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Pablo Ramos Sánchez",
+        "title": "President"
+      },
+      {
+        "signer_name": "Carlos Alberto Colodro López",
+        "title": "General Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B417a"
+      }
+    ],
+    "comment": "Series A, FCO"
+  },
+  {
+    "id": 961188,
+    "is_dated": false,
+    "min_year": 2024,
+    "max_year": 2024,
+    "signatures": [
+      {
+        "signer_name": "Roger Edwin Rojas Ulo",
+        "title": "President"
+      },
+      {
+        "signer_name": "Rubén Gonzalo Ticona Chique",
+        "title": "General Manager"
+      }
+    ],
+    "mintage": 79300000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B417a"
+      }
+    ],
+    "comment": "Series A, FCO"
+  },
+  {
+    "id": 882058,
+    "is_dated": false,
+    "min_year": 2025,
+    "max_year": 2025,
+    "signatures": [
+      {
+        "signer_name": "Roger Edwin Rojas Ulo",
+        "title": "President"
+      },
+      {
+        "signer_name": "Rubén Gonzalo Ticona Chique",
+        "title": "General Manager"
+      }
+    ],
+    "mintage": 199200000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B417b"
+      }
+    ],
+    "comment": "Series B, no printer name (Crane, Malta) In process of printing; 30 000 000 already printed."
+  }
+]

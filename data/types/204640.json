@@ -1,0 +1,113 @@
+{
+  "id": 204640,
+  "url": "https://en.numista.com/204640",
+  "title": "5 Naira",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "nigeria",
+    "name": "Nigeria"
+  },
+  "issuing_entity": {
+    "id": 930,
+    "name": "Central Bank of Nigeria",
+    "wikidata_id": "Q1627120"
+  },
+  "min_year": 2009,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 1081,
+      "name": "Federal Republic",
+      "wikidata_id": "Q1033"
+    }
+  ],
+  "value": {
+    "text": "5 Naira",
+    "numeric_value": 5,
+    "currency": {
+      "id": 137,
+      "name": "Naira",
+      "full_name": "Naira (1973-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2009-09-30"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 130,
+  "size2": 72,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Polymer (Guardian)"
+  },
+  "obverse": {
+    "description": "Portrait of Alhaji Sir Abubakar Tafawa Balewa",
+    "lettering": "CENTRAL BANK\r\nOF NIGERIA\r\n5\r\nFIVE\r\nNAIRA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nigeria/65d90e01b1cae7.82129389-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nigeria/65d90e01b1cae7.82129389-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Nkpokiti dancers with drums; on the left, Nigeria Coat of Arms",
+    "lettering": "CENTRAL BANK OF NIGERIA\r\nNaira Biyar\r\n5\r\nNaịra Ise\r\nNáírà Márùn-ún\r\nUNITY AND FAITH, PEACE AND PROGRESS\r\nFIVE \r\nNAIRA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/nigeria/68587cd4205981.13949641-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nigeria/68587cd4205981.13949641-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p style=\"margin-left:0px;\"><strong>Serial number details (2009 to 2011)</strong></p><p style=\"margin-left:0px;\"><strong>Six digits</strong> - Printed on Nigerian Security Printing &amp; Minting</p><p style=\"margin-left:0px;\"><strong>Seven digits</strong> - Printed on Giesecke &amp; Devrient, Germany</p><p>&nbsp;</p><p>UV activity: (2009)<br><a href=\"https://en.numista.com/catalogue/images/64e507b166005.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64e507b166005.png\" alt=\"\"></a><br>© gyoschak<br>&nbsp;</p><p>UV activity (2021)</p><p><a href=\"https://en.numista.com/catalogue/images/6779407e433c3.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6779407e433c3.jpg\"></a></p><p><br>Sir <strong>Abubakar Tafawa Balewa</strong> (1912–1966) was a Nigerian politician who was the first and only Prime Minister of Nigeria.</p>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "38"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "234"
+    }
+  ],
+  "watermark": {
+    "picture": "https://en.numista.com/catalogue/photos/nigeria/64e507bc9c0ee6.22913188-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nigeria/64e507bc9c0ee6.22913188-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 13,
+      "name": "Giesecke+Devrient"
+    },
+    {
+      "id": 3003,
+      "name": "Nigerian Security Printing and Minting Company"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

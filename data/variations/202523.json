@@ -1,0 +1,26 @@
+[
+  {
+    "id": 494865,
+    "is_dated": false,
+    "min_year": 2017,
+    "max_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Victoria Cleland",
+        "title": "Chief Cashier"
+      }
+    ]
+  },
+  {
+    "id": 496128,
+    "is_dated": false,
+    "min_year": 2018,
+    "max_year": 2020,
+    "signatures": [
+      {
+        "signer_name": "Sarah John",
+        "title": "Chief Cashier"
+      }
+    ]
+  }
+]

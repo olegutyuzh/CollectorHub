@@ -1,0 +1,270 @@
+[
+  {
+    "id": 506757,
+    "is_dated": false,
+    "min_year": 1954,
+    "max_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "Claudionor de Souza Lemos",
+        "title": "Director of the Amortization Fund"
+      },
+      {
+        "signer_name": "Osvaldo Euclides de Sousa Aranha",
+        "title": "Finance Minister"
+      }
+    ],
+    "mintage": 80000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C010"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "525.03"
+      }
+    ],
+    "comment": "P# 150a - Series: #1001 - 1800"
+  },
+  {
+    "id": 536140,
+    "is_dated": false,
+    "min_year": 1954,
+    "max_year": 1954,
+    "signatures": [
+      {
+        "signer_name": "Claudionor de Souza Lemos",
+        "title": "Director of the Amortization Fund"
+      },
+      {
+        "signer_name": "Osvaldo Euclides de Sousa Aranha",
+        "title": "Finance Minister"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C010s"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "525.04"
+      }
+    ],
+    "comment": "P# 150as - Specimen"
+  },
+  {
+    "id": 506758,
+    "is_dated": false,
+    "min_year": 1955,
+    "max_year": 1955,
+    "signatures": [
+      {
+        "signer_name": "Claudionor de Souza Lemos",
+        "title": "Director of the Amortization Fund"
+      },
+      {
+        "signer_name": "Eugênio Gudin Filho",
+        "title": "Finance Minister"
+      }
+    ],
+    "mintage": 90000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C011"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "525.05"
+      }
+    ],
+    "comment": "P# 150b - Series: #1801 - 2700"
+  },
+  {
+    "id": 536151,
+    "is_dated": false,
+    "min_year": 1955,
+    "max_year": 1955,
+    "signatures": [
+      {
+        "signer_name": "Claudionor de Souza Lemos",
+        "title": "Director of the Amortization Fund"
+      },
+      {
+        "signer_name": "Eugênio Gudin Filho",
+        "title": "Finance Minister"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C011s"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "525.06"
+      }
+    ],
+    "comment": "P# 150bs - Specimen"
+  },
+  {
+    "id": 506759,
+    "is_dated": false,
+    "min_year": 1956,
+    "max_year": 1956,
+    "signatures": [
+      {
+        "signer_name": "Claudionor de Souza Lemos",
+        "title": "Director of the Amortization Fund"
+      },
+      {
+        "signer_name": "José Maria Alkmin",
+        "title": "Finance Minister"
+      }
+    ],
+    "mintage": 75000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C012"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "525.07"
+      }
+    ],
+    "comment": "P# 150c - Series: #2701 - 3450"
+  },
+  {
+    "id": 536152,
+    "is_dated": false,
+    "min_year": 1956,
+    "max_year": 1956,
+    "signatures": [
+      {
+        "signer_name": "Claudionor de Souza Lemos",
+        "title": "Director of the Amortization Fund"
+      },
+      {
+        "signer_name": "José Maria Alkmin",
+        "title": "Finance Minister"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C012s"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "525.08"
+      }
+    ],
+    "comment": "P# 150cs - Specimen"
+  },
+  {
+    "id": 506760,
+    "is_dated": false,
+    "min_year": 1958,
+    "max_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Claudionor de Souza Lemos",
+        "title": "Director of the Amortization Fund"
+      },
+      {
+        "signer_name": "Lucas Lopes",
+        "title": "Finance Minister"
+      }
+    ],
+    "mintage": 24000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C013"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "525.09"
+      }
+    ],
+    "comment": "P# 150d - Series: #3451 - 3690"
+  },
+  {
+    "id": 536153,
+    "is_dated": false,
+    "min_year": 1958,
+    "max_year": 1958,
+    "signatures": [
+      {
+        "signer_name": "Claudionor de Souza Lemos",
+        "title": "Director of the Amortization Fund"
+      },
+      {
+        "signer_name": "Lucas Lopes",
+        "title": "Finance Minister"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C013s"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "525.10"
+      }
+    ],
+    "comment": "P# 150ds - Specimen"
+  }
+]

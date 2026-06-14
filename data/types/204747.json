@@ -1,0 +1,187 @@
+{
+  "id": 204747,
+  "url": "https://en.numista.com/204747",
+  "title": "10 Yuan",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "chine",
+    "name": "China, People's Republic of"
+  },
+  "issuing_entity": {
+    "id": 591,
+    "name": "People's Bank of China",
+    "wikidata_id": "Q249203"
+  },
+  "min_year": 2005,
+  "max_year": 2005,
+  "ruler": [
+    {
+      "id": 1436,
+      "name": "People's Republic",
+      "wikidata_id": "Q148"
+    }
+  ],
+  "value": {
+    "text": "10 Yuan",
+    "numeric_value": 10,
+    "currency": {
+      "id": 198,
+      "name": "Rénmínbì",
+      "full_name": "Rénmínbì (1955-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2005-08-31"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 140,
+  "size2": 70,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Portrait of Mao Zedong facing left on the right.\r\nChina's emblem (Tian'anmen, the \"Gate of Heavenly Peace\", the gate to the forbidden city, with 5 stars above) in the top left.\r\nDesign with flower below 10 and 拾圆 on the left.\r\nDenomination in arabic numerals (10) in top right corner.",
+    "lettering": "中国人民银行 (Zhōngguó rénmíng yínháng) 10\r\n10\r\n拾圆 （Shí yuán）\r\n毛泽东 （Máozédōng） 1893-1976",
+    "lettering_translation": "People's Bank of China 10\r\n10\r\nTen Yuan\r\nMao Zedong 1893-1976",
+    "picture": "https://en.numista.com/catalogue/photos/chine/63c9033eca89e7.73905264-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/63c9033eca89e7.73905264-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "The Three Gorges of the Yangtze River in the center.\r\n\"ZHONGGUO RENMIN YINHANG\" printed in top right corner and “People’s Bank of China” and the denomination printed in traditional Mongolian and Tibetan scripts, Uyghur, and Zhuang along with a vertical \"10\"\r\nArabic denomination (10) in top left corner and 10 [YUAN on series 2005] in bottom left corner. The date and 年 are on the bottom to the right of center.\r\nMicroprinting along the bottom e=between \"10\" and the year repeats \"10RMB10RMB\" on the top 3 lines and \"人民币人民币\" on the bottom line.",
+    "lettering": "ZHONGGUO RENMIN YINGHANG\r\nᠳᠤᠮᠳᠠᠳᠤ ᠤᠯᠤᠰ ᠤᠨ ᠠᠷᠠᠳ ᠤᠨ ᠪᠠᠩᠬᠢ ༅༅། ཀྲུང་གོམི་མི་རྣམས་དངུལ་ཁང་། སྒོར་བཅུ།\r\nجۇڭگو خەلق بانكىسى ئون يۈەن Cunghgoz Yinzminz Yinzhangz  cib maenz\r\n10 YUAN\t2005年\r\n10RMB10RMB…\r\n10RMB10RMB...\r\n10RMB10RMB...\r\n人民币人民币...",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (simplified)"
+      },
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Mongolian / Manchu"
+      },
+      {
+        "name": "Tibetan"
+      },
+      {
+        "name": "Old Uyghur"
+      }
+    ],
+    "lettering_translation": "People's Bank of China\r\nPeople's Bank of China. Ten tugreg. People's Bank of China. Ten gor.\r\nPeople's Bank of China, ten yuan. People's Bank of China, ten yuan.\r\n10 Yuan 2005 year\r\n10RMB10RMB…\r\n10RMB10RMB...\r\n10RMB10RMB...\r\nRenminbi Renminbi...",
+    "picture": "https://en.numista.com/catalogue/photos/chine/63c9033fcadae2.03942251-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/63c9033fcadae2.03942251-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "毛爷爷",
+  "comments": "UV activity:<br />\r\n<a href=\"https://en.numista.com/catalogue/images/64f67b5ac0873.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64f67b5ac0873.png\" alt=\"\" width=\"200\" height=\"101\" /></a><br />\r\n<a href=\"https://en.numista.com/catalogue/images/64f67b6b82021.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64f67b6b82021.png\" alt=\"\" width=\"200\" height=\"102\" /></a><br />\r\n© gyoschak",
+  "related_types": [
+    {
+      "id": 202688,
+      "title": "1 Yuan",
+      "category": "banknote",
+      "country": {
+        "code": "chine",
+        "name": "China, People's Republic of"
+      },
+      "minYear": 1999,
+      "maxYear": 1999
+    },
+    {
+      "id": 202145,
+      "title": "5 Yuan",
+      "category": "banknote",
+      "country": {
+        "code": "chine",
+        "name": "China, People's Republic of"
+      },
+      "minYear": 2005,
+      "maxYear": 2005
+    },
+    {
+      "id": 202113,
+      "title": "10 Yuan (without YUAN)",
+      "category": "banknote",
+      "country": {
+        "code": "chine",
+        "name": "China, People's Republic of"
+      },
+      "minYear": 1999,
+      "maxYear": 1999
+    },
+    {
+      "id": 208341,
+      "title": "10 Yuan (enhanced security)",
+      "category": "banknote",
+      "country": {
+        "code": "chine",
+        "name": "China, People's Republic of"
+      },
+      "minYear": 2019,
+      "maxYear": 2019
+    },
+    {
+      "id": 204347,
+      "title": "20 Yuan",
+      "category": "banknote",
+      "country": {
+        "code": "chine",
+        "name": "China, People's Republic of"
+      },
+      "minYear": 2005,
+      "maxYear": 2005
+    },
+    {
+      "id": 204346,
+      "title": "50 Yuan",
+      "category": "banknote",
+      "country": {
+        "code": "chine",
+        "name": "China, People's Republic of"
+      },
+      "minYear": 2005,
+      "maxYear": 2005
+    },
+    {
+      "id": 204344,
+      "title": "100 Yuan",
+      "category": "banknote",
+      "country": {
+        "code": "chine",
+        "name": "China, People's Republic of"
+      },
+      "minYear": 2005,
+      "maxYear": 2005
+    }
+  ],
+  "tags": [
+    "River"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "904"
+    }
+  ],
+  "watermark": {
+    "description": "Rose Flower",
+    "picture": "https://en.numista.com/catalogue/photos/chine/5edc3e42ef9350.04402822-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/5edc3e42ef9350.04402822-180.jpg",
+    "picture_copyright": "Salaction"
+  },
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

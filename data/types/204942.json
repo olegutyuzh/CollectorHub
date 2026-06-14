@@ -1,0 +1,112 @@
+{
+  "id": 204942,
+  "url": "https://en.numista.com/204942",
+  "title": "50 Cents - Elizabeth II",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "bahamas",
+    "name": "Bahamas, The"
+  },
+  "issuing_entity": {
+    "id": 739,
+    "name": "Central Bank of The Bahamas"
+  },
+  "min_year": 2001,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 952,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 797,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Cents",
+    "numeric_value": 0.5,
+    "currency": {
+      "id": 39,
+      "name": "Dollar",
+      "full_name": "Dollar (1966-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 156,
+  "size2": 67,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Grey, green and orange print; multicolour underprint; black serial numbers.\r\n\r\nFront-facing bust of Queen Elizabeth II, wearing the Burmese Ruby Tiara at centre right. Outline map of the Bahamas Islands at centre. Baskets at left. Watermark area at right.\r\n\r\nAscending serial number at lower left. Security thread with country name at left. Bank logo see-through feature at left.",
+    "lettering": "THE CENTRAL BANK\r\nOF THE BAHAMAS\r\nTHESE NOTES ARE LEGAL TENDER UNDER THE\r\nCENTRAL BANK OF THE BAHAMAS ACT 2000\r\nFOR THE PAYMENT OF ANY AMOUNT\r\nFIFTY CENTS\r\nSERIES 2001\r\nGovernor\r\n$1/2",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bahamas/626c29310238c5.62417093-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahamas/626c29310238c5.62417093-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Green, yellow and brown print; multicolour underprint.\r\n\r\nSister Sarah in Nassau Market seated, front-facing, surrounded by fruits and fish, people and boats in background. Coat of arms of the Bahamas and bank logo at right. Bananas at lower left. Watermark area at left.",
+    "lettering": "THE CENTRAL BANK OF THE BAHAMAS\r\nSISTER SARAH\r\nIN NASSAU MARKET\r\nFIFTY CENTS\r\nDE LA RUE\r\n$1/2\r\nFORWARD UPWARD ONWARD TOGETHER",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/bahamas/626c2931a24699.25371707-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahamas/626c2931a24699.25371707-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "2001 Series",
+  "comments": "<p>The note has a solid security strip windowed into six pieces on the obverse.&nbsp;<br>The whole strip can be read under backlight. It has “BAHAMAS” repeated on it:</p><p><a href=\"https://en.numista.com/catalogue/images/6779931a59c5b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6779931a59c5b.jpg\"></a></p><p>&nbsp;</p><p>UV activity (365nm):</p><p><a href=\"https://en.numista.com/catalogue/images/677993475336c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/677993475336c.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/677993513027e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/677993513027e.jpg\"></a></p><p>© Brandon Bertolli</p>",
+  "tags": [
+    "Fish",
+    "Monarch",
+    "Map",
+    "Boat or watercraft",
+    "Fruit",
+    "Coat of Arms",
+    "Trade"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "68"
+    }
+  ],
+  "watermark": {
+    "description": "Sailing ship",
+    "picture": "https://en.numista.com/catalogue/photos/bahamas/63df133a988c22.86173717-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bahamas/63df133a988c22.86173717-180.jpg",
+    "picture_copyright": "oXide3030",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 1,
+      "name": "De La Rue"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

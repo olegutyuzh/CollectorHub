@@ -1,0 +1,239 @@
+[
+  {
+    "id": 493168,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Carolyn A. Wilkins",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Stephen S. Poloz",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 70000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113a"
+      },
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-77a"
+      }
+    ],
+    "comment": "▲"
+  },
+  {
+    "id": 711279,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Carolyn A. Wilkins",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Stephen S. Poloz",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 855000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113a"
+      },
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-77a"
+      }
+    ],
+    "comment": "FFE prefix - changeover"
+  },
+  {
+    "id": 711277,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Carolyn A. Wilkins",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Tiff Macklem",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 40000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113b"
+      },
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-77b"
+      }
+    ],
+    "comment": "▲"
+  },
+  {
+    "id": 711278,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Carolyn A. Wilkins",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Tiff Macklem",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 9145000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113b"
+      },
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-77b"
+      }
+    ],
+    "comment": "FFE prefix - changeover"
+  },
+  {
+    "id": 762365,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Carolyn Rogers",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Tiff Macklem",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      },
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-77c"
+      }
+    ],
+    "comment": "▲"
+  },
+  {
+    "id": 763382,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Carolyn A. Wilkins",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Tiff Macklem",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 8190000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      },
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-77b"
+      }
+    ],
+    "comment": "FFK prefix - changeover"
+  },
+  {
+    "id": 763383,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Carolyn Rogers",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Tiff Macklem",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 1810000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "113c"
+      },
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-77c"
+      }
+    ],
+    "comment": "FFK prefix - changeover"
+  }
+]

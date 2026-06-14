@@ -1,0 +1,40 @@
+[
+  {
+    "id": 494928,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "month": 2,
+    "day": 4,
+    "signatures": [
+      {
+        "signer_name": "Mangala Pinsiri Samaraweera",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Indrajit Coomaraswamy",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 5000000
+  },
+  {
+    "id": 845974,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "month": 2,
+    "day": 4,
+    "signatures": [
+      {
+        "signer_name": "Mangala Pinsiri Samaraweera",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Indrajit Coomaraswamy",
+        "title": "Governor"
+      }
+    ],
+    "comment": "(fr) (en) In Official Folder"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": 497352,
+    "is_dated": false,
+    "min_year": 2000,
+    "max_year": 2000,
+    "mintage": 518400000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "103a"
+      }
+    ],
+    "comment": "single letter serial number prefix"
+  },
+  {
+    "id": 497351,
+    "is_dated": false,
+    "min_year": 2000,
+    "max_year": 2000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "103b"
+      }
+    ],
+    "comment": "double letter serial number prefix"
+  }
+]

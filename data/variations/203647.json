@@ -1,0 +1,167 @@
+[
+  {
+    "id": 499795,
+    "is_dated": false,
+    "min_year": 1992,
+    "max_year": 1993,
+    "signatures": [
+      {
+        "signer_name": "Felipe R. Murolo",
+        "title": "Vice President"
+      },
+      {
+        "signer_name": "Roque Benjamí­n Fernández",
+        "title": "President"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1841,
+          "code": "Bottero"
+        },
+        "number": "3001-3003"
+      },
+      {
+        "catalogue": {
+          "id": 2881,
+          "code": "Colantonio"
+        },
+        "number": "734"
+      }
+    ],
+    "comment": "a Series A, B"
+  },
+  {
+    "id": 499798,
+    "is_dated": false,
+    "min_year": 1992,
+    "max_year": 1993,
+    "signatures": [
+      {
+        "signer_name": "Felipe R. Murolo",
+        "title": "Vice President"
+      },
+      {
+        "signer_name": "Roque Benjamí­n Fernández",
+        "title": "President"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1841,
+          "code": "Bottero"
+        },
+        "number": "3005"
+      },
+      {
+        "catalogue": {
+          "id": 2881,
+          "code": "Colantonio"
+        },
+        "number": "734"
+      }
+    ],
+    "comment": "ar Replacement (R1) : Prefix R"
+  },
+  {
+    "id": 499796,
+    "is_dated": false,
+    "min_year": 1993,
+    "max_year": 1994,
+    "signatures": [
+      {
+        "signer_name": "Roque Benjamí­n Fernández",
+        "title": "President of the Central Bank of Argentina"
+      },
+      {
+        "signer_name": "Eduardo Menem",
+        "title": "President of the Honourable Chamber of Senators"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1841,
+          "code": "Bottero"
+        },
+        "number": "3006-3009"
+      },
+      {
+        "catalogue": {
+          "id": 2881,
+          "code": "Colantonio"
+        },
+        "number": "735"
+      }
+    ],
+    "comment": "b Series B, C, D"
+  },
+  {
+    "id": 590661,
+    "is_dated": false,
+    "min_year": 1993,
+    "max_year": 1994,
+    "signatures": [
+      {
+        "signer_name": "Roque Benjamí­n Fernández",
+        "title": "President of the Central Bank of Argentina"
+      },
+      {
+        "signer_name": "Eduardo Menem",
+        "title": "President of the Honourable Chamber of Senators"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1841,
+          "code": "Bottero"
+        },
+        "number": "3010"
+      },
+      {
+        "catalogue": {
+          "id": 2881,
+          "code": "Colantonio"
+        },
+        "number": "735"
+      }
+    ],
+    "comment": "br Replacement (R2 R5) : Prefix R"
+  },
+  {
+    "id": 499797,
+    "is_dated": false,
+    "min_year": 1994,
+    "max_year": 1994,
+    "signatures": [
+      {
+        "signer_name": "Felipe R. Murolo",
+        "title": "Vice President"
+      },
+      {
+        "signer_name": "Roque Benjamí­n Fernández",
+        "title": "President"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1841,
+          "code": "Bottero"
+        },
+        "number": "3004"
+      },
+      {
+        "catalogue": {
+          "id": 2881,
+          "code": "Colantonio"
+        },
+        "number": "734"
+      }
+    ],
+    "comment": "c Serie L"
+  }
+]

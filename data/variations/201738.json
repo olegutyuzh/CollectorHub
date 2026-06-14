@@ -1,0 +1,104 @@
+[
+  {
+    "id": 493275,
+    "is_dated": false,
+    "min_year": 1985,
+    "max_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Horacio A. Alonso",
+        "title": "Deputy General Manager"
+      },
+      {
+        "signer_name": "Juan J. A. Concepción",
+        "title": "President"
+      }
+    ],
+    "comment": "a Serie A"
+  },
+  {
+    "id": 874300,
+    "is_dated": false,
+    "min_year": 1985,
+    "max_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Horacio A. Alonso",
+        "title": "Deputy General Manager"
+      },
+      {
+        "signer_name": "Juan J. A. Concepción",
+        "title": "President"
+      }
+    ],
+    "comment": "ar Replacement (R1) : Prefix R and suffix A"
+  },
+  {
+    "id": 494059,
+    "is_dated": false,
+    "min_year": 1986,
+    "max_year": 1986,
+    "signatures": [
+      {
+        "signer_name": "Julí­o Alberto Piekarz",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Juan J. A. Concepción",
+        "title": "President"
+      }
+    ],
+    "comment": "b.1 Serie B"
+  },
+  {
+    "id": 535869,
+    "is_dated": false,
+    "min_year": 1986,
+    "max_year": 1988,
+    "signatures": [
+      {
+        "signer_name": "Elias Salama",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Luis Machinea",
+        "title": "President"
+      }
+    ],
+    "comment": "b.2 Series B"
+  },
+  {
+    "id": 874301,
+    "is_dated": false,
+    "min_year": 1986,
+    "max_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Elias Salama",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Luis Machinea",
+        "title": "President"
+      }
+    ],
+    "comment": "b.3r Replacement (R2) : Prefix R and suffix A"
+  },
+  {
+    "id": 494060,
+    "is_dated": false,
+    "min_year": 1988,
+    "max_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Elias Salama",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Luis Machinea",
+        "title": "President"
+      }
+    ],
+    "comment": "b.3 Serie C"
+  }
+]

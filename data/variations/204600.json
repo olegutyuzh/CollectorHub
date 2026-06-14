@@ -1,0 +1,466 @@
+[
+  {
+    "id": 504407,
+    "is_dated": false,
+    "min_year": 1941,
+    "max_year": 1941,
+    "comment": "(fr) F#08/00Ed - épreuve, date O.00-0-0000.O, alphabet O.0 n°00000 (sans filigrane)"
+  },
+  {
+    "id": 504384,
+    "is_dated": true,
+    "year": 1941,
+    "gregorian_year": 1941,
+    "month": 9,
+    "day": 11,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/01 - P#99a alphabet 1"
+  },
+  {
+    "id": 504383,
+    "is_dated": true,
+    "year": 1941,
+    "gregorian_year": 1941,
+    "month": 9,
+    "day": 11,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "mintage": 100000,
+    "comment": "(fr) F#08/01A1 - P#99a alphabet A.1, billet 1 - 100 000"
+  },
+  {
+    "id": 504385,
+    "is_dated": true,
+    "year": 1941,
+    "gregorian_year": 1941,
+    "month": 10,
+    "day": 9,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/02 - P#99b alphabet 2-4"
+  },
+  {
+    "id": 504386,
+    "is_dated": true,
+    "year": 1942,
+    "gregorian_year": 1942,
+    "month": 6,
+    "day": 11,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/03 - P#99c alphabet 5-8"
+  },
+  {
+    "id": 504387,
+    "is_dated": true,
+    "year": 1942,
+    "gregorian_year": 1942,
+    "month": 10,
+    "day": 15,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/04 - P#99d alphabet 9-16"
+  },
+  {
+    "id": 504388,
+    "is_dated": true,
+    "year": 1942,
+    "gregorian_year": 1942,
+    "month": 11,
+    "day": 19,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/05 - P#99b alphabet 17-18"
+  },
+  {
+    "id": 504389,
+    "is_dated": true,
+    "year": 1942,
+    "gregorian_year": 1942,
+    "month": 11,
+    "day": 26,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/06 - P#99e alphabet 19-34"
+  },
+  {
+    "id": 504390,
+    "is_dated": true,
+    "year": 1943,
+    "gregorian_year": 1943,
+    "month": 1,
+    "day": 14,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/07 - P#99b alphabet 35-38"
+  },
+  {
+    "id": 504391,
+    "is_dated": true,
+    "year": 1943,
+    "gregorian_year": 1943,
+    "month": 3,
+    "day": 25,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/08 - P#99e alphabet 39-54"
+  },
+  {
+    "id": 504392,
+    "is_dated": true,
+    "year": 1943,
+    "gregorian_year": 1943,
+    "month": 9,
+    "day": 9,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/09 - P#99d alphabet 55-60"
+  },
+  {
+    "id": 504393,
+    "is_dated": true,
+    "year": 1944,
+    "gregorian_year": 1944,
+    "month": 1,
+    "day": 13,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/10 - P#99e alphabet 61-76"
+  },
+  {
+    "id": 504394,
+    "is_dated": true,
+    "year": 1944,
+    "gregorian_year": 1944,
+    "month": 1,
+    "day": 20,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/11 - P#99c alphabet 77-80"
+  },
+  {
+    "id": 504395,
+    "is_dated": true,
+    "year": 1944,
+    "gregorian_year": 1944,
+    "month": 6,
+    "day": 22,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/12 - P#99e alphabet 81-96"
+  },
+  {
+    "id": 504396,
+    "is_dated": true,
+    "year": 1945,
+    "gregorian_year": 1945,
+    "month": 4,
+    "day": 19,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/13 - P#99b alphabet 97-98"
+  },
+  {
+    "id": 504397,
+    "is_dated": true,
+    "year": 1945,
+    "gregorian_year": 1945,
+    "month": 4,
+    "day": 26,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/14 - P#99e alphabet 99-106"
+  },
+  {
+    "id": 504398,
+    "is_dated": true,
+    "year": 1946,
+    "gregorian_year": 1946,
+    "month": 9,
+    "day": 26,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/15 - P#99e alphabet 107-118"
+  },
+  {
+    "id": 504399,
+    "is_dated": true,
+    "year": 1946,
+    "gregorian_year": 1946,
+    "month": 12,
+    "day": 19,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/16 - P#99e alphabet 119-126"
+  },
+  {
+    "id": 504400,
+    "is_dated": true,
+    "year": 1947,
+    "gregorian_year": 1947,
+    "month": 1,
+    "day": 9,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "René Favre-Gilly",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/17 - P#99e alphabet 127-138"
+  },
+  {
+    "id": 504401,
+    "is_dated": true,
+    "year": 1947,
+    "gregorian_year": 1947,
+    "month": 10,
+    "day": 30,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "Pol Gargam",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/18 - P#99f alphabet 139-150"
+  },
+  {
+    "id": 504402,
+    "is_dated": true,
+    "year": 1947,
+    "gregorian_year": 1947,
+    "month": 12,
+    "day": 4,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "Pol Gargam",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/19 - P#99f alphabet 151-162"
+  },
+  {
+    "id": 504403,
+    "is_dated": true,
+    "year": 1949,
+    "gregorian_year": 1949,
+    "month": 3,
+    "day": 10,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "Pol Gargam",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/20 - P#99f alphabet 163-182"
+  },
+  {
+    "id": 504404,
+    "is_dated": true,
+    "year": 1949,
+    "gregorian_year": 1949,
+    "month": 4,
+    "day": 7,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "Pol Gargam",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/21 - P#99f alphabet 183-194"
+  },
+  {
+    "id": 504405,
+    "is_dated": true,
+    "year": 1949,
+    "gregorian_year": 1949,
+    "month": 6,
+    "day": 30,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "Pol Gargam",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/22 - P#99f alphabet 195-205 (199-203 rares)"
+  },
+  {
+    "id": 504406,
+    "is_dated": true,
+    "year": 1949,
+    "gregorian_year": 1949,
+    "month": 6,
+    "day": 30,
+    "signatures": [
+      {
+        "signer_name": "Pierre Rousseau",
+        "title": "General Cashier"
+      },
+      {
+        "signer_name": "Pol Gargam",
+        "title": "General Secretary"
+      }
+    ],
+    "comment": "(fr) F#08/22a - P#99f alphabet 206"
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "id": 630200,
+    "is_dated": false,
+    "comment": "(fr) P#108r Prefix Z/1"
+  },
+  {
+    "id": 528046,
+    "is_dated": true,
+    "year": 1995,
+    "gregorian_year": 1995,
+    "month": 11,
+    "day": 15,
+    "comment": "P#108a Signatures Kumaratunga & Jayawardena."
+  },
+  {
+    "id": 498514,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "month": 12,
+    "day": 12,
+    "comment": "P#108b Signatures Choksy & Jayawardena."
+  },
+  {
+    "id": 498515,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "month": 4,
+    "day": 10,
+    "comment": "P#108c Signatures Amunugama & Jayawardena."
+  },
+  {
+    "id": 528663,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "month": 7,
+    "day": 1,
+    "comment": "P#108d Signatures Amunugama & Sunil Mendis."
+  },
+  {
+    "id": 498516,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "month": 11,
+    "day": 19,
+    "signatures": [
+      {
+        "signer_name": "Mahinda Rajapaksa",
+        "title": "Finance Minister"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "108e"
+      }
+    ],
+    "comment": "Signatures Rajapaksa & Sunil Mendis."
+  },
+  {
+    "id": 498517,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "month": 7,
+    "day": 3,
+    "signatures": [
+      {
+        "signer_name": "Mahinda Rajapaksa",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Ajith Nivard Cabraal",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "108f"
+      }
+    ],
+    "comment": "(fr) P#108f Signatures Rajapaksa & Nivard Cabral."
+  }
+]

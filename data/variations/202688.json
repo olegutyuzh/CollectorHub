@@ -1,0 +1,82 @@
+[
+  {
+    "id": 495522,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "895a"
+      }
+    ],
+    "comment": "Serial prefix: XX## (letter-letter-number-number)"
+  },
+  {
+    "id": 968734,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "895a*"
+      }
+    ],
+    "comment": "Replacement. Serial prefix: XZ## (letter-\"Z\"-number-number)"
+  },
+  {
+    "id": 496606,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "895b"
+      }
+    ],
+    "comment": "Serial prefix: X#X# (letter-number-letter-number)"
+  },
+  {
+    "id": 496607,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "895c"
+      }
+    ],
+    "comment": "Serial prefix: X##X (letter-number-number-letter)"
+  },
+  {
+    "id": 496608,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "895d"
+      }
+    ],
+    "comment": "Serial prefix: X### (letter-number-number-number)"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 508905,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "month": 1,
+    "day": 15,
+    "signatures": [
+      {
+        "signer_name": "Jean Gaspard Ciza",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Aimee Laurentine Kanyana",
+        "title": "2nd Vice Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236a"
+      }
+    ]
+  },
+  {
+    "id": 508906,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "month": 7,
+    "day": 4,
+    "signatures": [
+      {
+        "signer_name": "Jean Gaspard Ciza",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Sendazirasa Annonciate",
+        "title": "2nd Vice Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236b"
+      }
+    ]
+  },
+  {
+    "id": 888509,
+    "is_dated": true,
+    "year": 2023,
+    "gregorian_year": 2023,
+    "month": 10,
+    "day": 18,
+    "signatures": [
+      {
+        "signer_name": "Edouard Normand Bigendako",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Marie Goreth Ndayishimiye",
+        "title": "2nd Vice Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "236c"
+      }
+    ]
+  }
+]

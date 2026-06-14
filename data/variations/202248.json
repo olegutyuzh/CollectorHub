@@ -1,0 +1,80 @@
+[
+  {
+    "id": 494352,
+    "is_dated": true,
+    "year": 2003,
+    "gregorian_year": 2003,
+    "signatures": [
+      {
+        "signer_name": "Serhii Leonidovych Tihipko",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P-120a"
+  },
+  {
+    "id": 528665,
+    "is_dated": true,
+    "year": 2003,
+    "gregorian_year": 2003,
+    "signatures": [
+      {
+        "signer_name": "Serhii Leonidovych Tihipko",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P-120as; specimen with overprint \"ZRAZOK\""
+  },
+  {
+    "id": 494353,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "signatures": [
+      {
+        "signer_name": "Volodymyr Semenovych Stelmakh",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P-120b"
+  },
+  {
+    "id": 494354,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "signatures": [
+      {
+        "signer_name": "Serhii Hennadiiovych Arbuzov",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P-120c"
+  },
+  {
+    "id": 494355,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "signatures": [
+      {
+        "signer_name": "Ihor Viacheslavovych Sorkin",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P-120d"
+  },
+  {
+    "id": 494356,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Valeriia Oleksiivna Hontareva",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P-120e"
+  }
+]

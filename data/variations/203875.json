@@ -1,0 +1,48 @@
+[
+  {
+    "id": 500556,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "signatures": [
+      {
+        "signer_name": "Graeme Wheeler",
+        "title": "Governor, Reserve Bank of New Zealand"
+      }
+    ],
+    "mintage": 31788958,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B137a"
+      }
+    ],
+    "comment": "Prefix: AA-BP; Two first digits on serial: 15"
+  },
+  {
+    "id": 781198,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Adrian Orr",
+        "title": "Governor, Reserve Bank of New Zealand"
+      }
+    ],
+    "mintage": 20488377,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B137b"
+      }
+    ],
+    "comment": "Prefix: AA-AW; Two first digits on serial: 18"
+  }
+]

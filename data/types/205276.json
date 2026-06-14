@@ -1,0 +1,168 @@
+{
+  "id": 205276,
+  "url": "https://en.numista.com/205276",
+  "title": "5 Dollars",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "suriname",
+    "name": "Suriname"
+  },
+  "issuing_entity": {
+    "id": 945,
+    "name": "Central Bank of Suriname",
+    "wikidata_id": "Q2981941"
+  },
+  "min_year": 2010,
+  "max_year": 2020,
+  "ruler": [
+    {
+      "id": 1928,
+      "name": "Republic",
+      "wikidata_id": "Q730"
+    }
+  ],
+  "value": {
+    "text": "5 Dollars",
+    "numeric_value": 5,
+    "currency": {
+      "id": 56,
+      "name": "Dollar",
+      "full_name": "Dollar (2004-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 140,
+  "size2": 70,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Rose and brown on multicolor underprint.\r\nCentral Bank building in Paramaribo; Water Lilly (Nymphaea missouri) flower; Coat of Arms in the lower left; holographic band.",
+    "lettering": "CENTRALE BANK VAN SURINAME\r\nVIJF DOLLAR\r\nNymphaea missouri\r\nVIJF DOLLAR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Suriname\r\nFive Dollars\r\nNymphaea missouri\r\nFive Dollars",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/664f7eff312aa2.59716466-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/664f7eff312aa2.59716466-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Coconut palm (Cocos nucifera) tree; Forests and rapids near Gran-Rio Sula.",
+    "lettering": "CENTRALE BANK VAN SURINAME\r\nCocos nucifera\r\nGran-Rio Sula\r\nVIJF DOLLAR\r\nNADRUK VERBODEN: SURINAAMS WETBOEK VAN STRAFRECHT ARTIKEL 260",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Suriname\r\nCocos nucifera\r\nGran-Rio Sula\r\nFive Dollars\r\nCounterfeiting Forbidden: Suriname Criminal Law, Article 260",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/664f7f026bbf26.34104553-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/664f7f026bbf26.34104553-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "2010-2020 Issue",
+  "comments": "<p>P#162a, signature André Eugene Telting - President of the Central Bank of Suriname from March 1994 until February 1996 and from September 2000 until August 2010<br><br>P#162b, signature Gilmore Hoefdraad - President of Central Bank of Suriname from September 2010 to August 2015.</p><p>&nbsp;</p><p>UB activity by 365nm</p><p><a href=\"https://en.numista.com/catalogue/images/6794e423486d0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6794e423486d0.jpg\"></a>. <a href=\"https://en.numista.com/catalogue/images/6794e4230f6fc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6794e4230f6fc.jpg\"></a></p>",
+  "related_types": [
+    {
+      "id": 210666,
+      "title": "10 Dollars",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2010,
+      "maxYear": 2020
+    },
+    {
+      "id": 219064,
+      "title": "20 Dollars",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2010,
+      "maxYear": 2020
+    },
+    {
+      "id": 254524,
+      "title": "50 Dollars",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2010,
+      "maxYear": 2020
+    },
+    {
+      "id": 246155,
+      "title": "100 Dollars",
+      "category": "banknote",
+      "country": {
+        "code": "suriname",
+        "name": "Suriname"
+      },
+      "minYear": 2010,
+      "maxYear": 2020
+    }
+  ],
+  "tags": [
+    "Government building",
+    "Flower",
+    "Tree",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "162"
+    },
+    {
+      "catalogue": {
+        "id": 2270,
+        "code": "Plomp"
+      },
+      "number": "PLSD2.1b"
+    },
+    {
+      "catalogue": {
+        "id": 2270,
+        "code": "Plomp"
+      },
+      "number": "PLSD2.1c"
+    }
+  ],
+  "watermark": {
+    "description": "CBvS Building",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/64e93e2479e919.04200625-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/64e93e2479e919.04200625-180.jpg",
+    "picture_copyright": "vladthiengo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 13,
+      "name": "Giesecke+Devrient"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

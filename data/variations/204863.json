@@ -1,0 +1,512 @@
+[
+  {
+    "id": 566710,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "signatures": [
+      {
+        "signer_name": "Bodil Nyboe Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55a"
+      }
+    ],
+    "comment": "Prefix: A0"
+  },
+  {
+    "id": 566709,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "signatures": [
+      {
+        "signer_name": "Torben Nielsen"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55a"
+      }
+    ],
+    "comment": "Prefix: A0"
+  },
+  {
+    "id": 566711,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "signatures": [
+      {
+        "signer_name": "Torben Nielsen"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55a"
+      }
+    ],
+    "comment": "Prefix: A1"
+  },
+  {
+    "id": 566712,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "signatures": [
+      {
+        "signer_name": "Jens Thomsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55a"
+      }
+    ],
+    "comment": "Prefix: A1"
+  },
+  {
+    "id": 566713,
+    "is_dated": true,
+    "year": 2000,
+    "gregorian_year": 2000,
+    "signatures": [
+      {
+        "signer_name": "Torben Nielsen"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55b"
+      }
+    ],
+    "comment": "Prefix: A2"
+  },
+  {
+    "id": 566714,
+    "is_dated": true,
+    "year": 2000,
+    "gregorian_year": 2000,
+    "signatures": [
+      {
+        "signer_name": "Bodil Nyboe Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55b"
+      }
+    ],
+    "comment": "Prefix: A2"
+  },
+  {
+    "id": 566715,
+    "is_dated": true,
+    "year": 2000,
+    "gregorian_year": 2000,
+    "signatures": [
+      {
+        "signer_name": "Torben Nielsen"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55b"
+      }
+    ],
+    "comment": "Prefix: A3"
+  },
+  {
+    "id": 566716,
+    "is_dated": true,
+    "year": 2000,
+    "gregorian_year": 2000,
+    "signatures": [
+      {
+        "signer_name": "Jens Thomsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55b"
+      }
+    ],
+    "comment": "Prefix: A3"
+  },
+  {
+    "id": 566719,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "signatures": [
+      {
+        "signer_name": "Torben Nielsen"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55c"
+      }
+    ],
+    "comment": "Prefix A5"
+  },
+  {
+    "id": 566718,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "signatures": [
+      {
+        "signer_name": "Bodil Nyboe Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55c"
+      }
+    ],
+    "comment": "Prefix: A4"
+  },
+  {
+    "id": 566717,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "signatures": [
+      {
+        "signer_name": "Torben Nielsen"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55c"
+      }
+    ],
+    "comment": "Prefix: A4"
+  },
+  {
+    "id": 566720,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "signatures": [
+      {
+        "signer_name": "Jens Thomsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55c"
+      }
+    ],
+    "comment": "Prefix: A5"
+  },
+  {
+    "id": 566721,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "signatures": [
+      {
+        "signer_name": "Torben Nielsen"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55c"
+      }
+    ],
+    "comment": "Prefix: A6"
+  },
+  {
+    "id": 566722,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "signatures": [
+      {
+        "signer_name": "Bodil Nyboe Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55c"
+      }
+    ],
+    "comment": "Prefix: A6"
+  },
+  {
+    "id": 566723,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "signatures": [
+      {
+        "signer_name": "Torben Nielsen"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55d"
+      }
+    ],
+    "comment": "Prefix: A7"
+  },
+  {
+    "id": 566724,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "signatures": [
+      {
+        "signer_name": "Jens Thomsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55d"
+      }
+    ],
+    "comment": "Prefix: A7"
+  },
+  {
+    "id": 566725,
+    "is_dated": true,
+    "year": 2002,
+    "gregorian_year": 2002,
+    "signatures": [
+      {
+        "signer_name": "Torben Nielsen"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55e"
+      }
+    ],
+    "comment": "Prefix: A8"
+  },
+  {
+    "id": 566726,
+    "is_dated": true,
+    "year": 2002,
+    "gregorian_year": 2002,
+    "signatures": [
+      {
+        "signer_name": "Bodil Nyboe Andersen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55e"
+      }
+    ],
+    "comment": "Prefix: A8"
+  },
+  {
+    "id": 566727,
+    "is_dated": true,
+    "year": 2002,
+    "gregorian_year": 2002,
+    "signatures": [
+      {
+        "signer_name": "Torben Nielsen"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55f"
+      }
+    ],
+    "comment": "Prefix: A9"
+  },
+  {
+    "id": 566728,
+    "is_dated": true,
+    "year": 2002,
+    "gregorian_year": 2002,
+    "signatures": [
+      {
+        "signer_name": "Jens Thomsen",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Tage Heering",
+        "title": "Head of the banknote department"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "55f"
+      }
+    ],
+    "comment": "Prefix: A9"
+  }
+]

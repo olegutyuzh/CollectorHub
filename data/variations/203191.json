@@ -1,0 +1,193 @@
+[
+  {
+    "id": 498028,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1994,
+    "signatures": [
+      {
+        "signer_name": "Salem Abdul Aziz Sa'ud al-Sabah",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Nasser Abdullah al-Rodhan",
+        "title": "Finance Minister"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "24a"
+      }
+    ]
+  },
+  {
+    "id": 499340,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1994,
+    "signatures": [
+      {
+        "signer_name": "Salem Abdul Aziz Sa'ud al-Sabah",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Ahmed al-Abdullah al-Ahmed al-Sabah",
+        "title": "Finance Minister"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "24b"
+      }
+    ]
+  },
+  {
+    "id": 499341,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1994,
+    "signatures": [
+      {
+        "signer_name": "Salem Abdul Aziz Sa'ud al-Sabah",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Yousuf Hamad Al-Ibrahim",
+        "title": "Finance Minister"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "24c"
+      }
+    ]
+  },
+  {
+    "id": 499342,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1994,
+    "signatures": [
+      {
+        "signer_name": "Salem Abdul Aziz Sa'ud al-Sabah",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Mahmoud Abdelkhaliq Al-Nouri",
+        "title": "Finance Minister"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "24d"
+      }
+    ]
+  },
+  {
+    "id": 499343,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1994,
+    "signatures": [
+      {
+        "signer_name": "Salem Abdul Aziz Sa'ud al-Sabah",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Badr Yaakub Al-Houmaithy",
+        "title": "Finance Minister"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "24e"
+      }
+    ]
+  },
+  {
+    "id": 499344,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1994,
+    "signatures": [
+      {
+        "signer_name": "Salem Abdul Aziz Sa'ud al-Sabah",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Mustafa Jassim al-Shamali",
+        "title": "Finance Minister"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "24f"
+      }
+    ]
+  },
+  {
+    "id": 499345,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1994,
+    "signatures": [
+      {
+        "signer_name": "Mohammed Yousef Al-Hashel",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Salem Abdulaziz Al Sabah",
+        "title": "Finance Minister"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "24g"
+      }
+    ]
+  },
+  {
+    "id": 499346,
+    "is_dated": true,
+    "year": 1968,
+    "gregorian_year": 1994,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "24s"
+      }
+    ],
+    "comment": "Specimen; Red overprint in Arabic"
+  }
+]

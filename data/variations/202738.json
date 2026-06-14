@@ -1,0 +1,176 @@
+[
+  {
+    "id": 753965,
+    "is_dated": true,
+    "year": 1982,
+    "gregorian_year": 1982,
+    "month": 1,
+    "day": 6,
+    "signatures": [
+      {
+        "signer_name": "Carlo Azeglio Ciampi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Vittorio Stevani",
+        "title": "Cashier"
+      }
+    ]
+  },
+  {
+    "id": 499491,
+    "is_dated": true,
+    "year": 1982,
+    "gregorian_year": 1982,
+    "month": 1,
+    "day": 6,
+    "signatures": [
+      {
+        "signer_name": "Carlo Azeglio Ciampi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Fortunato Speziali",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "109b"
+      }
+    ]
+  },
+  {
+    "id": 495665,
+    "is_dated": true,
+    "year": 1982,
+    "gregorian_year": 1982,
+    "month": 3,
+    "day": 16,
+    "signatures": [
+      {
+        "signer_name": "Carlo Azeglio Ciampi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Vittorio Stevani",
+        "title": "Cashier"
+      }
+    ],
+    "mintage": 360000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "109a"
+      }
+    ],
+    "comment": "(fr) Serie Nr from AA-0.000.001 A to TA-1.000.000T"
+  },
+  {
+    "id": 547388,
+    "is_dated": true,
+    "year": 1983,
+    "gregorian_year": 1983,
+    "month": 5,
+    "day": 2,
+    "signatures": [
+      {
+        "signer_name": "Carlo Azeglio Ciampi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Vittorio Stevani",
+        "title": "Cashier"
+      }
+    ],
+    "mintage": 360000000,
+    "comment": "Serie Nr from AB-0.000.001 A to TB-1.000.000T"
+  },
+  {
+    "id": 547389,
+    "is_dated": true,
+    "year": 1984,
+    "gregorian_year": 1984,
+    "month": 3,
+    "day": 14,
+    "signatures": [
+      {
+        "signer_name": "Carlo Azeglio Ciampi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Vittorio Stevani",
+        "title": "Cashier"
+      }
+    ],
+    "mintage": 360000000,
+    "comment": "Serie Nr from AC-0.000.001 A to TC-1.000.000T"
+  },
+  {
+    "id": 547390,
+    "is_dated": true,
+    "year": 1985,
+    "gregorian_year": 1985,
+    "month": 10,
+    "day": 28,
+    "signatures": [
+      {
+        "signer_name": "Carlo Azeglio Ciampi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Vittorio Stevani",
+        "title": "Cashier"
+      }
+    ],
+    "mintage": 360000000,
+    "comment": "Serie Nr from AD-0.000.001 A to TD-1.000.000T"
+  },
+  {
+    "id": 547391,
+    "is_dated": true,
+    "year": 1988,
+    "gregorian_year": 1988,
+    "month": 1,
+    "day": 18,
+    "signatures": [
+      {
+        "signer_name": "Carlo Azeglio Ciampi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Fortunato Speziali",
+        "title": "Cashier"
+      }
+    ],
+    "mintage": 360000000,
+    "comment": "Serie Nr from AE-0.000.001 A to TE-1.000.000T"
+  },
+  {
+    "id": 742559,
+    "is_dated": true,
+    "year": 1988,
+    "gregorian_year": 1988,
+    "month": 10,
+    "day": 20,
+    "signatures": [
+      {
+        "signer_name": "Carlo Azeglio Ciampi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Fortunato Speziali",
+        "title": "Cashier"
+      }
+    ],
+    "mintage": 348000000,
+    "comment": "Serie Nr from AF-0.000.001 A to TF-1.000.000T"
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "id": 497361,
+    "is_dated": false,
+    "min_year": 2007,
+    "max_year": 2007,
+    "signatures": [
+      {
+        "signer_name": "Goh Chok Tong",
+        "title": "Chairman Monetary Authority Of Singapore"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "47a"
+      }
+    ],
+    "comment": "No symbol. (2AA → 2JK)"
+  },
+  {
+    "id": 497362,
+    "is_dated": false,
+    "min_year": 2010,
+    "max_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "Goh Chok Tong",
+        "title": "Chairman Monetary Authority Of Singapore"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "47b"
+      }
+    ],
+    "comment": "1 square ■ (3AA → 3BM)"
+  },
+  {
+    "id": 497363,
+    "is_dated": false,
+    "min_year": 2013,
+    "max_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Tharman Shanmugaratnam",
+        "title": "Chairman Monetary Authority Of Singapore"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "47c"
+      }
+    ],
+    "comment": "2 triangles ▲▲ (4AL → 4AM, 4AZ → 4BB, 4BP → 4BS)"
+  },
+  {
+    "id": 497364,
+    "is_dated": false,
+    "min_year": 2013,
+    "max_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Tharman Shanmugaratnam",
+        "title": "Chairman Monetary Authority Of Singapore"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "47d"
+      }
+    ],
+    "comment": "1 triangle ▲ (4AA → 4A?, 4AN → 4AS, 4BC → 4BF, 4BT → 4BW)"
+  },
+  {
+    "id": 497365,
+    "is_dated": false,
+    "min_year": 2018,
+    "max_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Tharman Shanmugaratnam",
+        "title": "Chairman Monetary Authority Of Singapore"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "47f"
+      }
+    ],
+    "comment": "1 diamond ♦ (5AA → 5BQ)"
+  },
+  {
+    "id": 564169,
+    "is_dated": false,
+    "min_year": 2020,
+    "max_year": 2020,
+    "signatures": [
+      {
+        "signer_name": "Tharman Shanmugaratnam",
+        "title": "Chairman Monetary Authority Of Singapore"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "47h"
+      }
+    ],
+    "comment": "1 star ★ (6AB → 6AD, 6AK → 6AM, 6AV → 6AW, 6BB → 6BC, 6BK → 6BR, 6BV → 6BW)"
+  },
+  {
+    "id": 767350,
+    "is_dated": false,
+    "min_year": 2023,
+    "max_year": 2023,
+    "signatures": [
+      {
+        "signer_name": "Tharman Shanmugaratnam",
+        "title": "Chairman Monetary Authority Of Singapore"
+      }
+    ],
+    "comment": "2 stars ★★ (6AA → 6AB, 6AE→ 6AH, 6A? → 6AU, 6BE → 6B?, 6B? → 6BV)"
+  },
+  {
+    "id": 893291,
+    "is_dated": false,
+    "min_year": 2023,
+    "max_year": 2024,
+    "signatures": [
+      {
+        "signer_name": "Tharman Shanmugaratnam",
+        "title": "Chairman Monetary Authority Of Singapore"
+      }
+    ],
+    "comment": "1 solid house ☗ (7AZ →"
+  }
+]

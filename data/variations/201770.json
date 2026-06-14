@@ -1,0 +1,30 @@
+[
+  {
+    "id": 501255,
+    "is_dated": false,
+    "min_year": 1994,
+    "comment": "(fr) P-76as spécimen Ravelomanana"
+  },
+  {
+    "id": 493313,
+    "is_dated": false,
+    "min_year": 1994,
+    "max_year": 1996,
+    "mintage": 70000000,
+    "comment": "P# 76a - Signature 4"
+  },
+  {
+    "id": 501322,
+    "is_dated": false,
+    "min_year": 1996,
+    "comment": "(fr) P-76bs spécimen Ravelojaona"
+  },
+  {
+    "id": 494068,
+    "is_dated": false,
+    "min_year": 1996,
+    "max_year": 2004,
+    "mintage": 204000000,
+    "comment": "P# 76b - Signature 5"
+  }
+]

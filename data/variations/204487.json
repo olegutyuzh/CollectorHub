@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1058585,
+    "is_dated": false,
+    "signatures": [
+      {
+        "signer_name": "Kittiratt Na-Ranong",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Prasarn Trairatvorakul",
+        "title": "Governor"
+      }
+    ]
+  },
+  {
+    "id": 503916,
+    "is_dated": false,
+    "min_year": 2013,
+    "max_year": 2013,
+    "signatures": [
+      {
+        "signer_name": "Kittiratt Na-Ranong",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Prasarn Trairatvorakul",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#118a Signature 84"
+  },
+  {
+    "id": 503917,
+    "is_dated": false,
+    "min_year": 2013,
+    "max_year": 2013,
+    "signatures": [
+      {
+        "signer_name": "Sommai Phasee",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Prasarn Trairatvorakul",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#118b Signature 85"
+  },
+  {
+    "id": 503918,
+    "is_dated": false,
+    "min_year": 2013,
+    "max_year": 2013,
+    "signatures": [
+      {
+        "signer_name": "Apisak Tantivorawong",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Veerathai Santiprabhob",
+        "title": "Governor"
+      }
+    ],
+    "comment": "P#118c Signature 87"
+  }
+]

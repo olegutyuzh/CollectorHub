@@ -1,0 +1,122 @@
+[
+  {
+    "id": 503308,
+    "is_dated": true,
+    "year": 5738,
+    "gregorian_year": 1978,
+    "signatures": [
+      {
+        "signer_name": "David Horowitz",
+        "title": "Chairman Advisory Council"
+      },
+      {
+        "signer_name": "Arnon Gafni",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "46a"
+      }
+    ],
+    "comment": "תשל\"ח; Without small bars below serial #"
+  },
+  {
+    "id": 883324,
+    "is_dated": true,
+    "year": 5738,
+    "gregorian_year": 1978,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "46au"
+      }
+    ],
+    "comment": "תשל\"ח; Uncut sheet"
+  },
+  {
+    "id": 503309,
+    "is_dated": true,
+    "year": 5738,
+    "gregorian_year": 1978,
+    "signatures": [
+      {
+        "signer_name": "David Horowitz",
+        "title": "Chairman Advisory Council"
+      },
+      {
+        "signer_name": "Arnon Gafni",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "46b"
+      }
+    ],
+    "comment": "תשל\"ח; Without small bars below serial #, but with bar code strips on back"
+  },
+  {
+    "id": 503310,
+    "is_dated": true,
+    "year": 5738,
+    "gregorian_year": 1978,
+    "signatures": [
+      {
+        "signer_name": "David Horowitz",
+        "title": "Chairman Advisory Council"
+      },
+      {
+        "signer_name": "Arnon Gafni",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "46c"
+      }
+    ],
+    "comment": "תשל\"ח; With 2 green bars below serial # on back."
+  },
+  {
+    "id": 503311,
+    "is_dated": true,
+    "year": 5738,
+    "gregorian_year": 1978,
+    "signatures": [
+      {
+        "signer_name": "David Horowitz",
+        "title": "Chairman Advisory Council"
+      },
+      {
+        "signer_name": "Arnon Gafni",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "46d"
+      }
+    ],
+    "comment": "תשל\"ח; With 4 black bars below serial # on back"
+  }
+]

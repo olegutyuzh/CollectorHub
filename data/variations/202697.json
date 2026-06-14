@@ -1,0 +1,106 @@
+[
+  {
+    "id": 495553,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "signatures": [
+      {
+        "signer_name": "Volodymyr Semenovych Stelmakh",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "116Aa"
+      }
+    ],
+    "comment": "P#116Aa"
+  },
+  {
+    "id": 495554,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "signatures": [
+      {
+        "signer_name": "Serhii Hennadiiovych Arbuzov",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "116Ab"
+      }
+    ],
+    "comment": "P#116Ab"
+  },
+  {
+    "id": 495555,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Valeriia Oleksiivna Hontareva",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "116Ac"
+      }
+    ],
+    "comment": "P#116Ac"
+  },
+  {
+    "id": 1051273,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "116A"
+      }
+    ],
+    "comment": "Sheet of 3. Not issued. The national bank sold these notes only in sheets to dealers and collectors."
+  },
+  {
+    "id": 514304,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Yakiv Vasylovych Smolii",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "116Ad"
+      }
+    ],
+    "comment": "P#116A"
+  }
+]

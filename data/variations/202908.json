@@ -1,0 +1,94 @@
+[
+  {
+    "id": 496486,
+    "is_dated": false,
+    "min_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Alain Herve Rasolofondraibe",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "100a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "335a"
+      }
+    ],
+    "comment": "Issued note; Signature: Alain Hervé Rasolofondraibe"
+  },
+  {
+    "id": 496487,
+    "is_dated": false,
+    "min_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Alain Herve Rasolofondraibe",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "100s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "335as"
+      }
+    ],
+    "comment": "Specimen; Signature: Alain Hervé Rasolofondraibe"
+  },
+  {
+    "id": 744656,
+    "is_dated": false,
+    "min_year": 2022,
+    "signatures": [
+      {
+        "signer_name": "Henri Edmond Rabarijohn",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "335b"
+      }
+    ],
+    "comment": "Issued note; Signature: Henri Edmond Rabarijohn"
+  },
+  {
+    "id": 938617,
+    "is_dated": false,
+    "min_year": 2024,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "335c"
+      }
+    ],
+    "comment": "Issued note; Signature: Aivo Andrianarivelo"
+  }
+]

@@ -1,0 +1,107 @@
+{
+  "id": 204530,
+  "url": "https://en.numista.com/204530",
+  "title": "5 Pounds - Elizabeth II (Millennium)",
+  "object_type": {
+    "id": 80,
+    "name": "Circulating commemorative banknotes"
+  },
+  "issuer": {
+    "code": "gibraltar",
+    "name": "Gibraltar"
+  },
+  "issuing_entity": {
+    "id": 2698,
+    "name": "Government of Gibraltar"
+  },
+  "min_year": 2000,
+  "max_year": 2000,
+  "ruler": [
+    {
+      "id": 2999,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 831,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Pounds",
+    "numeric_value": 5,
+    "currency": {
+      "id": 119,
+      "name": "Pound",
+      "full_name": "Pound (decimalized, 1971-date)"
+    }
+  },
+  "size": 135,
+  "size2": 70,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Queen Elizabeth II, and the arms of Gibraltar",
+    "lettering": "GOVERNMENT OF GIBRALTAR\r\nCURRENCY NOTES ARE LEGAL TENDER IN GIBRALTAR FOR THE PAYMENT OF ANY AMOUNT\r\n\r\nFIVE POUNDS\r\nSTERLING\r\nUNDER AUTHORITY OF THE CURRENCY NOTES\r\nORDINANCE\r\n\r\nFINANCIAL AND DEVELOPMENT SECRETARY\r\nCommemorating\r\nthe\r\nMillennium",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/gibraltar/63a57109ef3303.50574971-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/gibraltar/63a57109ef3303.50574971-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Harbour view of Gibraltar, Gondola and the Rock of Gibraltar, Monkey, and Dolphins",
+    "lettering": "Government of\r\nGibraltar\r\nmillennium issue £5\r\n\r\nFive Pounds\r\nSTERLING",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/gibraltar/63a5710cc14580.37408951-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/gibraltar/63a5710cc14580.37408951-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "commemorated_topic": "Millennium",
+  "comments": "<p><strong>Signature: Timothy J. Bristow</strong></p><p>&nbsp;</p><p>Under backlight a plain security strip can be seen:<br><a href=\"https://en.numista.com/catalogue/images/6755ea4a72744.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6755ea4a72744.jpg\"></a></p><p>&nbsp;</p><p>UV activity (365nm):</p><p><a href=\"https://en.numista.com/catalogue/images/6755ea9873772.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6755ea9873772.jpg\"></a> <a href=\"https://en.numista.com/catalogue/images/6755eaa17469c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6755eaa17469c.jpg\"></a></p><p>© Brandon Bertolli</p>",
+  "tags": [
+    "Primate",
+    "Mountain",
+    "Millennium",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "29"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "127"
+    }
+  ],
+  "watermark": {
+    "description": "Portrait of Queen Elizabeth II",
+    "picture": "https://en.numista.com/catalogue/photos/gibraltar/6755eae8a95236.33076012-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/gibraltar/6755eae8a95236.33076012-180.jpg",
+    "picture_copyright": "Brandon Bertolli",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "category": "banknote",
+  "type": "Circulating commemorative banknotes"
+}

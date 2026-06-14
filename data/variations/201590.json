@@ -1,0 +1,30 @@
+[
+  {
+    "id": 492967,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "month": 8,
+    "day": 2,
+    "comment": "P#111a"
+  },
+  {
+    "id": 492968,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "month": 8,
+    "day": 2,
+    "mintage": 1000000,
+    "comment": "P#111b - In presentation leaflets (001A series)"
+  },
+  {
+    "id": 494897,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "month": 8,
+    "day": 2,
+    "comment": "P#111s - Specimen"
+  }
+]

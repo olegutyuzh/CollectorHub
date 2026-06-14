@@ -1,0 +1,70 @@
+[
+  {
+    "id": 493295,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Carolyn A. Wilkins",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Stephen S. Poloz",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 50000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "112"
+      },
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-75"
+      }
+    ],
+    "comment": "▲"
+  },
+  {
+    "id": 514650,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Carolyn A. Wilkins",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Stephen S. Poloz",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 3203796,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "112"
+      },
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-75"
+      }
+    ],
+    "comment": "CDF prefix"
+  }
+]

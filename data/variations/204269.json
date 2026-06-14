@@ -1,0 +1,30 @@
+[
+  {
+    "id": 503051,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "comment": "P# 202a, Released in 2012 Embossed 20 in window"
+  },
+  {
+    "id": 503048,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "comment": "P# 202b, Released in 2012 White 20 in window"
+  },
+  {
+    "id": 503049,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "comment": "P# 202r1, Released in 2012 Replacment A/R prefix"
+  },
+  {
+    "id": 503050,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "comment": "P# 202r2, Released in 2012 Replacment Z/1 prefix"
+  }
+]

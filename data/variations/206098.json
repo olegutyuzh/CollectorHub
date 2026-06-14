@@ -1,0 +1,130 @@
+[
+  {
+    "id": 511099,
+    "is_dated": false,
+    "min_year": 1990,
+    "max_year": 1990,
+    "signatures": [
+      {
+        "signer_name": "Zélia Maria Cardoso de Mello",
+        "title": "Minister for Economy, Finance and Planning"
+      },
+      {
+        "signer_name": "Ibrahim Eris",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 679600000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C217"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "602.01"
+      }
+    ],
+    "comment": "P# 231a - Series: A0001 - A6796 (Stamp A); Above \"MINISTRA DA ECONOMIA\""
+  },
+  {
+    "id": 521680,
+    "is_dated": false,
+    "min_year": 1990,
+    "max_year": 1990,
+    "signatures": [
+      {
+        "signer_name": "Zélia Maria Cardoso de Mello",
+        "title": "Minister for Economy, Finance and Planning"
+      },
+      {
+        "signer_name": "Ibrahim Eris",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 225000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C217a"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "602.02"
+      }
+    ],
+    "comment": "P# 231ar - Series: ✻0001 - ✻0003 (Stamp A); Replacement (with ✻ - up to 025000)"
+  },
+  {
+    "id": 511101,
+    "is_dated": false,
+    "min_year": 1990,
+    "max_year": 1990,
+    "signatures": [
+      {
+        "signer_name": "Zélia Maria Cardoso de Mello",
+        "title": "Minister for Economy, Finance and Planning"
+      },
+      {
+        "signer_name": "Ibrahim Eris",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C217m"
+      }
+    ],
+    "comment": "P# 231s - Specimen (MODELO)"
+  },
+  {
+    "id": 521681,
+    "is_dated": false,
+    "min_year": 1991,
+    "max_year": 1991,
+    "signatures": [
+      {
+        "signer_name": "Marcí­lio Marques Moreira",
+        "title": "Minister for Economy, Finance and Planning"
+      },
+      {
+        "signer_name": "Francisco Roberto André Gros",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 165700000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C218"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "602.03"
+      }
+    ],
+    "comment": "P# 231b - Series: A6797 - A8453 (Stamp A); \"MINISTRO DA ECONOMIA\""
+  }
+]

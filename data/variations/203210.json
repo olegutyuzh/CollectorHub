@@ -1,0 +1,40 @@
+[
+  {
+    "id": 498101,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "comment": "(fr) P-89 as spécimen Ravelojaona"
+  },
+  {
+    "id": 498102,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "mintage": 90000000,
+    "comment": "(fr) P-89a Ravelojaona"
+  },
+  {
+    "id": 498103,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "mintage": 263000000,
+    "comment": "(fr) P-89b Rasamoelina"
+  },
+  {
+    "id": 498232,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "comment": "(fr) P-89bs spécimen Rasamoelina"
+  },
+  {
+    "id": 498104,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "mintage": 50000000,
+    "comment": "(fr) P-89c Rasolofondraibe"
+  }
+]

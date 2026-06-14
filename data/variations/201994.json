@@ -1,0 +1,60 @@
+[
+  {
+    "id": 493684,
+    "is_dated": false,
+    "min_year": 2014,
+    "max_year": 2014,
+    "mintage": 108000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "69a"
+      }
+    ],
+    "comment": "Prefix B; Signatures: Johan Gernandt & Stefan Ingves"
+  },
+  {
+    "id": 506943,
+    "is_dated": false,
+    "min_year": 2014,
+    "max_year": 2016,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "69s"
+      }
+    ],
+    "comment": "Specimen"
+  },
+  {
+    "id": 506942,
+    "is_dated": false,
+    "min_year": 2016,
+    "max_year": 2016,
+    "mintage": 54000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "69b"
+      }
+    ],
+    "comment": "Prefix D; Signatures: Susanne Eberstein & Stefan Ingves"
+  },
+  {
+    "id": 877275,
+    "is_dated": false,
+    "min_year": 2022,
+    "max_year": 2022,
+    "mintage": 36000000,
+    "comment": "Prefix: K; Signatures: Bo Broman & Stefan Ingves"
+  }
+]

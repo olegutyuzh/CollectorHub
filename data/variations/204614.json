@@ -1,0 +1,116 @@
+[
+  {
+    "id": 504468,
+    "is_dated": false,
+    "min_year": 2005,
+    "max_year": 2005,
+    "signatures": [
+      {
+        "signer_name": "Tito Mboweni",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "130a"
+      },
+      {
+        "catalogue": {
+          "id": 958,
+          "code": "Hern BP"
+        },
+        "number": "816"
+      }
+    ]
+  },
+  {
+    "id": 569891,
+    "is_dated": false,
+    "min_year": 2005,
+    "max_year": 2005,
+    "signatures": [
+      {
+        "signer_name": "Tito Mboweni",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "130as"
+      },
+      {
+        "catalogue": {
+          "id": 958,
+          "code": "Hern BP"
+        },
+        "number": "815"
+      }
+    ],
+    "comment": "Specimen"
+  },
+  {
+    "id": 506575,
+    "is_dated": false,
+    "min_year": 2010,
+    "max_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "Gill Marcus",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "130b"
+      },
+      {
+        "catalogue": {
+          "id": 958,
+          "code": "Hern BP"
+        },
+        "number": "822"
+      }
+    ]
+  },
+  {
+    "id": 569892,
+    "is_dated": false,
+    "min_year": 2010,
+    "max_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "Gill Marcus",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "130bs"
+      },
+      {
+        "catalogue": {
+          "id": 958,
+          "code": "Hern BP"
+        },
+        "number": "821"
+      }
+    ],
+    "comment": "Specimen"
+  }
+]

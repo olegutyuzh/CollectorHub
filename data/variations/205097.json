@@ -1,0 +1,51 @@
+[
+  {
+    "id": 510190,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "comment": "P#209r; replacement note R prefix"
+  },
+  {
+    "id": 510191,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "comment": "P#209s; specimen black overprint: SPECIMEN both sides"
+  },
+  {
+    "id": 506559,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "month": 3,
+    "day": 26,
+    "comment": "P#209a"
+  },
+  {
+    "id": 834940,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "month": 4,
+    "day": 8,
+    "comment": "P#209a"
+  },
+  {
+    "id": 728761,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "month": 11,
+    "day": 18,
+    "comment": "P#209a"
+  },
+  {
+    "id": 888726,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "month": 1,
+    "day": 26
+  }
+]

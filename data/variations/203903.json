@@ -1,0 +1,193 @@
+[
+  {
+    "id": 500727,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "signatures": [
+      {
+        "signer_name": "Jorge Aurelio Villalba Leguizamón",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Jorge Raúl Corvalán Mendoza",
+        "title": "President"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "228a"
+      },
+      {
+        "catalogue": {
+          "id": 1758,
+          "code": "Pratt"
+        },
+        "number": "MC229.a"
+      }
+    ],
+    "comment": "Prefix A; Printer: Oberthur Technologies (France)"
+  },
+  {
+    "id": 500730,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "signatures": [
+      {
+        "signer_name": "Jorge Aurelio Villalba Leguizamón",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Jorge Raúl Corvalán Mendoza",
+        "title": "President"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "228s"
+      }
+    ],
+    "comment": "Specimen; Red Overprint MUESTRA SIN VALOR"
+  },
+  {
+    "id": 500728,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "signatures": [
+      {
+        "signer_name": "Jorge Aurelio Villalba Leguizamón",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Jorge Raúl Corvalán Mendoza",
+        "title": "President"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "228b"
+      },
+      {
+        "catalogue": {
+          "id": 1758,
+          "code": "Pratt"
+        },
+        "number": "MC229.b"
+      }
+    ],
+    "comment": "Prefix B; Printer: Giesecke & Devrient (Germany)"
+  },
+  {
+    "id": 500729,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "signatures": [
+      {
+        "signer_name": "Jorge Aurelio Villalba Leguizamón",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Jorge Raúl Corvalán Mendoza",
+        "title": "President"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "228c"
+      },
+      {
+        "catalogue": {
+          "id": 1758,
+          "code": "Pratt"
+        },
+        "number": "MC229.c"
+      }
+    ],
+    "comment": "Prefix C; Printer: Canadian Bank Note Company"
+  },
+  {
+    "id": 505555,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Carlos Daniel Benitez Vieira",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Carlos Gustavo Fernández Valdovinos",
+        "title": "President"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "228d"
+      },
+      {
+        "catalogue": {
+          "id": 1758,
+          "code": "Pratt"
+        },
+        "number": "MC229.d"
+      }
+    ],
+    "comment": "Prefix D; No printer's name"
+  },
+  {
+    "id": 862678,
+    "is_dated": true,
+    "year": 2023,
+    "gregorian_year": 2023,
+    "signatures": [
+      {
+        "signer_name": "Holger Anibal Insfrán Ibarraola",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Cantero Sienra",
+        "title": "President"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "228e"
+      },
+      {
+        "catalogue": {
+          "id": 1758,
+          "code": "Pratt"
+        },
+        "number": "MC229.e"
+      }
+    ],
+    "comment": "Prefix E; No printer's name"
+  }
+]

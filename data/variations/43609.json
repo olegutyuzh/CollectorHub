@@ -1,0 +1,240 @@
+[
+  {
+    "id": 454029,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Ancient Greece"
+  },
+  {
+    "id": 431335,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Ancient Rome and Roman Provinces"
+  },
+  {
+    "id": 456067,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Brazil"
+  },
+  {
+    "id": 437091,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Byzantine Empire"
+  },
+  {
+    "id": 835484,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Canada"
+  },
+  {
+    "id": 469754,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "China"
+  },
+  {
+    "id": 440561,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Colombia"
+  },
+  {
+    "id": 822241,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Contemporary counterfeit"
+  },
+  {
+    "id": 972566,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Crusader States"
+  },
+  {
+    "id": 950726,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Denmark"
+  },
+  {
+    "id": 444652,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "France"
+  },
+  {
+    "id": 732741,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Gaul"
+  },
+  {
+    "id": 433797,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Germany and German States"
+  },
+  {
+    "id": 972564,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Hungary"
+  },
+  {
+    "id": 775202,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "India and Indian states"
+  },
+  {
+    "id": 726909,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Iran"
+  },
+  {
+    "id": 478417,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Islamic states"
+  },
+  {
+    "id": 452234,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Italy and Italian States"
+  },
+  {
+    "id": 1096052,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Japan"
+  },
+  {
+    "id": 1096053,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Korea"
+  },
+  {
+    "id": 1066785,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Mauryan Empire"
+  },
+  {
+    "id": 464547,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Morocco"
+  },
+  {
+    "id": 696178,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Nabataean Kingdom"
+  },
+  {
+    "id": 824243,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Norway"
+  },
+  {
+    "id": 435987,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Ottoman Empire"
+  },
+  {
+    "id": 774481,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Peru"
+  },
+  {
+    "id": 972565,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Polish-Lithuania"
+  },
+  {
+    "id": 721866,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Post-mint damaged or altered"
+  },
+  {
+    "id": 453612,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Russia and Russian principalities"
+  },
+  {
+    "id": 916933,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Russian Empire - Michael I"
+  },
+  {
+    "id": 443865,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Spain and Spanish States"
+  },
+  {
+    "id": 431033,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "Taiwan"
+  },
+  {
+    "id": 456068,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "United Kingdom"
+  },
+  {
+    "id": 807658,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "comment": "United States"
+  }
+]

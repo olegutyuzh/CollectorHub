@@ -1,0 +1,162 @@
+[
+  {
+    "id": 509013,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "month": 7,
+    "day": 23,
+    "signatures": [
+      {
+        "signer_name": "Luis Coronel de Palma",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "José Gallego Adrados",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "José Luis Artigas Cía",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "153a.1"
+      }
+    ],
+    "comment": "Serial: 7 digit"
+  },
+  {
+    "id": 738489,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "month": 7,
+    "day": 23,
+    "signatures": [
+      {
+        "signer_name": "Luis Coronel de Palma",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "José Gallego Adrados",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "José Luis Artigas Cía",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "153a.1r"
+      }
+    ],
+    "comment": "Prefix: 9A, Serial: 7 digit"
+  },
+  {
+    "id": 738487,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "month": 7,
+    "day": 23,
+    "signatures": [
+      {
+        "signer_name": "Luis Coronel de Palma",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "José Gallego Adrados",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "José Luis Artigas Cía",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "153a.2"
+      }
+    ],
+    "comment": "Prefix: 1 letter, Serial: 7 digit"
+  },
+  {
+    "id": 738488,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "month": 7,
+    "day": 23,
+    "signatures": [
+      {
+        "signer_name": "Luis Coronel de Palma",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "José Gallego Adrados",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "José Luis Artigas Cía",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "153a.3"
+      }
+    ],
+    "comment": "Prefix: 1 digit&1 letter, Serial: 7 digit"
+  },
+  {
+    "id": 579154,
+    "is_dated": true,
+    "year": 1971,
+    "gregorian_year": 1971,
+    "month": 7,
+    "day": 23,
+    "signatures": [
+      {
+        "signer_name": "Luis Coronel de Palma",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "José Gallego Adrados",
+        "title": "Comptroller"
+      },
+      {
+        "signer_name": "José Luis Artigas Cía",
+        "title": "Cashier"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "153s"
+      }
+    ],
+    "comment": "Specimen"
+  }
+]

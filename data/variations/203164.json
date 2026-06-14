@@ -1,0 +1,711 @@
+[
+  {
+    "id": 681272,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "signatures": [
+      {
+        "signer_name": "Chukwuma Charles Soludo",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Benjamin Chuks Onyido",
+        "title": "Director of Currency and Branch Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34a"
+      }
+    ],
+    "comment": "Prefix: AA-BR; 7-digit serial#; Printer: G & D"
+  },
+  {
+    "id": 512507,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "signatures": [
+      {
+        "signer_name": "Chukwuma Charles Soludo",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Benjamin Chuks Onyido",
+        "title": "Director of Currency and Branch Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34a"
+      }
+    ],
+    "comment": "Prefix: DV-HJ; 6-digit serial#; Printer: Nigeria Security Printing"
+  },
+  {
+    "id": 512508,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "signatures": [
+      {
+        "signer_name": "Chukwuma Charles Soludo",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Benjamin Chuks Onyido",
+        "title": "Director of Currency and Branch Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34b"
+      }
+    ],
+    "comment": "Prefix: VE-WU; 7-digit serial#; Printer: G & D"
+  },
+  {
+    "id": 512509,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "signatures": [
+      {
+        "signer_name": "Chukwuma Charles Soludo",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Benjamin Chuks Onyido",
+        "title": "Director of Currency and Branch Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34c"
+      }
+    ],
+    "comment": "Prefix: FH-XF; 6-digit serial#; Printer: Nigeria Security Printing"
+  },
+  {
+    "id": 512510,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "signatures": [
+      {
+        "signer_name": "Chukwuma Charles Soludo",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Benjamin Chuks Onyido",
+        "title": "Director of Currency and Branch Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34d"
+      }
+    ]
+  },
+  {
+    "id": 512511,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "signatures": [
+      {
+        "signer_name": "Chukwuma Charles Soludo",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Benjamin Chuks Onyido",
+        "title": "Director of Currency and Branch Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34e"
+      }
+    ]
+  },
+  {
+    "id": 583737,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "signatures": [
+      {
+        "signer_name": "Mallam Sanusi Lamido Sanusi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Benjamin Chuks Onyido",
+        "title": "Director of Currency and Branch Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34e"
+      }
+    ]
+  },
+  {
+    "id": 512512,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "Mallam Sanusi Lamido Sanusi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Benjamin Chuks Onyido",
+        "title": "Director of Currency and Branch Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34f"
+      }
+    ]
+  },
+  {
+    "id": 583738,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "signatures": [
+      {
+        "signer_name": "Mallam Sanusi Lamido Sanusi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Muhammad Nda",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34f"
+      }
+    ]
+  },
+  {
+    "id": 512513,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "signatures": [
+      {
+        "signer_name": "Mallam Sanusi Lamido Sanusi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Muhammad Nda",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34g"
+      }
+    ]
+  },
+  {
+    "id": 497914,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "signatures": [
+      {
+        "signer_name": "Mallam Sanusi Lamido Sanusi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Mahmoud K. Umar",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34h"
+      }
+    ]
+  },
+  {
+    "id": 531198,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "signatures": [
+      {
+        "signer_name": "Mallam Sanusi Lamido Sanusi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Mahmoud K. Umar",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34i"
+      }
+    ]
+  },
+  {
+    "id": 531199,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Mallam Sanusi Lamido Sanusi",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Mahmoud K. Umar",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34j"
+      }
+    ]
+  },
+  {
+    "id": 583739,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Olufemi Fabamwo",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34j"
+      }
+    ]
+  },
+  {
+    "id": 531200,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Olufemi Fabamwo",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34k"
+      }
+    ]
+  },
+  {
+    "id": 531201,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Olufemi Fabamwo",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34l"
+      }
+    ]
+  },
+  {
+    "id": 530787,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Olufemi Fabamwo",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34m"
+      }
+    ]
+  },
+  {
+    "id": 517094,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Olufemi Fabamwo",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34n"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B232r"
+      }
+    ]
+  },
+  {
+    "id": 583740,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Priscilla Ekwueme Elege",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34n"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B232s"
+      }
+    ]
+  },
+  {
+    "id": 583736,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Priscilla Ekwueme Elege",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B232t"
+      }
+    ]
+  },
+  {
+    "id": 622685,
+    "is_dated": true,
+    "year": 2020,
+    "gregorian_year": 2020,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Priscilla Ekwueme Elege",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B232u"
+      }
+    ]
+  },
+  {
+    "id": 881497,
+    "is_dated": true,
+    "year": 2020,
+    "gregorian_year": 2020,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Ahmed Bello Umar",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B232v"
+      }
+    ]
+  },
+  {
+    "id": 672319,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Ahmed Bello Umar",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B232w"
+      }
+    ]
+  },
+  {
+    "id": 756404,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "signatures": [
+      {
+        "signer_name": "Godwin Ifeanyi Emefiele",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Ahmed Bello Umar",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B232x"
+      }
+    ]
+  },
+  {
+    "id": 881496,
+    "is_dated": true,
+    "year": 2024,
+    "gregorian_year": 2024,
+    "signatures": [
+      {
+        "signer_name": "Olayemi Michael Cardoso",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Elizabeth Amos Kwaghe",
+        "title": "Director of Domestic Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B232y"
+      }
+    ]
+  },
+  {
+    "id": 881498,
+    "is_dated": true,
+    "year": 2024,
+    "gregorian_year": 2024,
+    "signatures": [
+      {
+        "signer_name": "Olayemi Michael Cardoso",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Mohammed-Jamiu Olayemi Solaja",
+        "title": "Director of Currency Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B232z"
+      }
+    ]
+  },
+  {
+    "id": 1031534,
+    "is_dated": true,
+    "year": 2025,
+    "gregorian_year": 2025,
+    "signatures": [
+      {
+        "signer_name": "Olayemi Michael Cardoso",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Adetona Sikiru Adedeji",
+        "title": "Director of Currency Operations"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "232aa"
+      }
+    ]
+  },
+  {
+    "id": 1084881,
+    "is_dated": true,
+    "year": 2026,
+    "gregorian_year": 2026,
+    "signatures": [
+      {
+        "signer_name": "Olayemi Michael Cardoso",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Adetona Sikiru Adedeji",
+        "title": "Director of Currency Operations"
+      }
+    ]
+  }
+]

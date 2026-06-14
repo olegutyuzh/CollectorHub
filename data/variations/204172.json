@@ -1,0 +1,26 @@
+[
+  {
+    "id": 502432,
+    "is_dated": true,
+    "year": 1949,
+    "gregorian_year": 1949,
+    "month": 8,
+    "day": 8,
+    "comment": "P#73 - Series: 1/6 AA-ZZ (with two letters)"
+  },
+  {
+    "id": 502433,
+    "is_dated": true,
+    "year": 1949,
+    "gregorian_year": 1949,
+    "month": 8,
+    "day": 8,
+    "signatures": [
+      {
+        "signer_name": "Pieter Lieftinck",
+        "title": "Finance Minister"
+      }
+    ],
+    "comment": "P#73 - Series: AAA-AAH (with three letters)"
+  }
+]

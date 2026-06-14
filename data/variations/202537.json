@@ -1,0 +1,24 @@
+[
+  {
+    "id": 494909,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "comment": "P# 114a, red serial # in folder"
+  },
+  {
+    "id": 902969,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "comment": "P# 114a(1), orange serial #"
+  },
+  {
+    "id": 496435,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "mintage": 20000000,
+    "comment": "P# 114b, black serial #"
+  }
+]

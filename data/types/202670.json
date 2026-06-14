@@ -1,0 +1,119 @@
+{
+  "id": 202670,
+  "url": "https://en.numista.com/202670",
+  "title": "20 Kronor (small type)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "suede",
+    "name": "Sweden"
+  },
+  "issuing_entity": {
+    "id": 360,
+    "name": "National Bank of Sweden",
+    "wikidata_id": "Q564652"
+  },
+  "min_year": 1997,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 2366,
+      "name": "Carl XVI Gustaf",
+      "wikidata_id": "Q45068",
+      "group": {
+        "id": 99,
+        "name": "House of Bernadotte"
+      }
+    }
+  ],
+  "value": {
+    "text": "20 Kronor",
+    "numeric_value": 20,
+    "currency": {
+      "id": 18,
+      "name": "Krona",
+      "full_name": "Krona (1873-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2016-06-30"
+  },
+  "size": 120,
+  "size2": 66,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Portrait of Selma Lagerlöf (1858-1940), Selma Lagerlöf driving the horse carriage, Värmland landscape and a brief extract from Gösta Berling's Saga (written by Selma Lagerlöf)",
+    "lettering": "TJUGO KRONOR\r\nSVERIGES RIKSBANK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Twenty Kronor\nNational Bank of Sweden",
+    "picture": "https://en.numista.com/catalogue/photos/suede/63a580d30797a5.42012866-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/63a580d30797a5.42012866-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "A passage motif from Selma Lagerlöf's book \"Nils Holgersson's Wonderful Journey through Sweden\", with Nils and Mårten the Goose flying over the flatlands of Scania (Skåne), in southern Sweden",
+    "lettering": "TJUGO KRONOR",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Twenty Kronor",
+    "picture": "https://en.numista.com/catalogue/photos/suede/63a580d5a45df1.22654596-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/63a580d5a45df1.22654596-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>The first number in serial number is the last number in year.<br>E.g.:<br>&nbsp;</p><ul><li>Serial number: <strong>7</strong>840534962 = 200<strong>7</strong><br>&nbsp;</li><li>Serial number: <strong>8</strong>471640025 = 200<strong>8</strong><br>&nbsp;</li></ul><p><br><i>Remember to <u>check signatures</u> as a \"7\" can indicate <u>both</u> 1997 and 2007!</i><br><br><a href=\"https://en.numista.com/catalogue/images/63d9f47147da9.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63d9f47147da9.jpg\" alt=\"\"></a> P63; signatures Kjell-Olof Feldt &amp; Urban Bäckström (1997-1998)<br><a href=\"https://en.numista.com/catalogue/images/63d9f50a0f0c1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63d9f50a0f0c1.jpg\" alt=\"\"></a> P63; signatures Sven Hulterström &amp; Urban Bäckström (1999-2002)<br><a href=\"https://en.numista.com/catalogue/images/63d9f57969f05.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63d9f57969f05.jpg\" alt=\"\"></a> P63; signatures Jan Bergqvist &amp; Lars Heikensten (2003-2005)<br><a href=\"https://en.numista.com/catalogue/images/63d9f5d3e0345.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63d9f5d3e0345.jpg\" alt=\"\"></a> P63; signatures Jan Bergqvist &amp; Stefan Ingves (2006)<br><a href=\"https://en.numista.com/catalogue/images/63d9f61362986.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/63d9f61362986.jpg\" alt=\"\"></a> P63; signatures Johan Gernandt &amp; Stefan Ingves (2007-2014)</p>",
+  "related_types": [
+    {
+      "id": 205675,
+      "title": "20 Kronor (large type)",
+      "category": "banknote",
+      "country": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "minYear": 1991,
+      "maxYear": 1995
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Horse or equine",
+    "Artist",
+    "Hat"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "63"
+    }
+  ],
+  "watermark": {
+    "description": "Portraits of Selma Lagerlöf",
+    "picture": "https://en.numista.com/catalogue/photos/suede/5eba9c06032ed9.65838519-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suede/5eba9c06032ed9.65838519-180.jpg",
+    "picture_copyright": "Andy289",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "id": 494418,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 100000000,
+    "comment": "Common prefixes: M/O, N/O, P/O, Q/O, G/P, H/P, I/P, J/P, K/P, & L/P"
+  },
+  {
+    "id": 493249,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 12000000,
+    "comment": "No serial number"
+  },
+  {
+    "id": 494419,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 596296,
+    "comment": "Prefix: *B/M"
+  },
+  {
+    "id": 496763,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 80000,
+    "comment": "Prefix: *F/P"
+  },
+  {
+    "id": 496764,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 40000,
+    "comment": "Prefix: *L/O"
+  },
+  {
+    "id": 496765,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 195034,
+    "comment": "Prefix: *N/O"
+  },
+  {
+    "id": 530175,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 2840000,
+    "comment": "Prefix: F/P"
+  },
+  {
+    "id": 530173,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 3000000,
+    "comment": "Prefix: L/O"
+  },
+  {
+    "id": 496766,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 2720000,
+    "comment": "Prefix: M/P"
+  },
+  {
+    "id": 530172,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 20000000,
+    "comment": "Prefix: O/O & R/O (most certainly less than 20M printed)"
+  },
+  {
+    "id": 530174,
+    "is_dated": true,
+    "year": 1967,
+    "gregorian_year": 1967,
+    "signatures": [
+      {
+        "signer_name": "John Robert Beattie",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Louis Rasminsky",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 7900000,
+    "comment": "Prefix: S/O"
+  }
+]

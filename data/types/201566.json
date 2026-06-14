@@ -1,0 +1,208 @@
+{
+  "id": 201566,
+  "url": "https://en.numista.com/201566",
+  "title": "5 Dollars (upgraded security)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "canada",
+    "name": "Canada"
+  },
+  "issuing_entity": {
+    "id": 583,
+    "name": "Bank of Canada",
+    "wikidata_id": "Q806703"
+  },
+  "min_year": 2006,
+  "max_year": 2011,
+  "ruler": [
+    {
+      "id": 2095,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 827,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "5 Dollars",
+    "numeric_value": 5,
+    "currency": {
+      "id": 44,
+      "name": "Dollar",
+      "full_name": "Dollar (1858-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 152,
+  "size2": 70,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "engravers": [
+      "Czesław Słania"
+    ],
+    "designers": [
+      "Jorge Peral"
+    ],
+    "description": "Texts in English and French. On the left side, the issuing institute and the coat of arms of Canada with a vertical holographic stripe. The portrait is that of Sir Henry Charles Wilfrid Laurier, statesman, Canada's seventh Prime Minister from 1896 to 1911 and the first Francophone to accede to this position. In the centre is a front view of the West Block of the Parliament Buildings in Ottawa with a legend to his right. Below the legend is the note's face value \"5\" accompanied by a watermark with the portrait of Sir Henry Charles Wilfrid Laurier and above the legend a Canadian flag. The multicolored printing is dominated by blue/yellow.",
+    "lettering": "BANK OF CANADA · BANQUE DU CANADA\r\nOTTAWA\r\nCE BILLET A COURS LEGAL / THIS NOTE IS LEGAL TENDER\r\n5\r\nCANADA\r\nCINQ · FIVE\r\nDOLLARS\r\nTHE WEST BLOCK OF PARLIAMENT · L'EDIFICE DE L'OUEST DU PARLEMENT\r\n5\r\nDEPUTY GOVERNOR SOUS-GOUVERNEUR GOUVERNEUR GOVERNOR\r\nSIR WILFRID LAURIER PREMIER MINISTRE / PRIME MINISTER 1896-1911\r\nEMISSION DE 2006 / ISSUE OF 2006",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/623aee49d7d630.95321626-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/623aee49d7d630.95321626-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "designers": [
+      "Jorge Peral"
+    ],
+    "description": "The image depicts some of the sporting activities of the Canadian winter: Children playing hockey, another boy tobogganing, and a final child learning to ice skate with an adult. In the middle is a bilingual quote.",
+    "lettering": "5 - CANADA\r\nLes hivers de mon enfance\r\nétaient des saisons longues, longues.\r\nNous vivions en trois lieux:\r\nl'école, l'église et la patinoire: mais\r\nla vraie vie était sur la patinoire.\r\n- Roch Carrier -\r\nThe winters of my childhood were\r\nlong, long seasons. We lived in\r\nthree places - the school, the church\r\nand the skating rink - but our real life\r\nwas on the skating rink\r\n5\r\nIMPRIME EN 2006 / PRINTED IN 2006",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/canada/623aee4a6b3c47.85723724-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/623aee4a6b3c47.85723724-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "Canadian Journey",
+  "comments": "<p><u>Varieties :</u><br>→ <strong>Prefix \"H\"</strong> : Canadian Bank Note Company Limited<br>→<strong> Prefix \"A\"</strong> : British American Bank Note Company Limited<br><br><u>Mention \"Replacement\" :</u><br>→ Notes that were issued to replace notes that were damaged or destroyed before they were put into circulation.<br><br><u>Printed in \"2006 / 2008 / 2009 / 2010 / 2011\" :</u><br>→ On November 15th, 2006, the Bank introduced the new $5 banknote (<strong>ISSUE OF 2006</strong>) but this note also bears the year of printing on the reverse (<strong>PRINTED IN 20XX</strong>).<br><br><a href=\"https://en.numista.com/catalogue/images/5f06d08d5fac6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5f06d08d5fac6.jpg\" alt=\"\"></a></p><p>&nbsp;</p><p><u>UV activity :</u></p><p>“Bank of Canada 5” / “Banque Du Canada 5” and embedded security fibres flouresce.</p><p><u><a href=\"https://en.numista.com/catalogue/images/674e859c50973.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/674e859c50973.jpg\"></a></u></p><p><a href=\"https://en.numista.com/catalogue/images/674e85a454193.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/674e85a454193.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p><u>Security thread :</u></p><p>Windowed into four segments on the reverse side, when seen under backlight, the inscription “5 CAN” can be seen repeated throughout.</p><p><a href=\"https://en.numista.com/catalogue/images/674e869a7167d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/674e869a7167d.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p>The security thread has a multicolour tone, the colours switch between a bright lime green, darker green, and blue when the note is tilted.</p><p><a href=\"https://en.numista.com/catalogue/images/674e87259a678.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/674e87259a678.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/674e872984fe2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/674e872984fe2.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/674e872cc8a35.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/674e872cc8a35.jpg\"></a></p><p>© Kiet Tran</p>",
+  "related_types": [
+    {
+      "id": 201917,
+      "title": "5 Dollars",
+      "category": "banknote",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2001,
+      "maxYear": 2005
+    },
+    {
+      "id": 201916,
+      "title": "10 Dollars",
+      "category": "banknote",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2000,
+      "maxYear": 2004
+    },
+    {
+      "id": 201922,
+      "title": "10 Dollars (upgraded security)",
+      "category": "banknote",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2004,
+      "maxYear": 2009
+    },
+    {
+      "id": 201920,
+      "title": "20 Dollars",
+      "category": "banknote",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2004,
+      "maxYear": 2011
+    },
+    {
+      "id": 201919,
+      "title": "50 Dollars",
+      "category": "banknote",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2004,
+      "maxYear": 2011
+    },
+    {
+      "id": 201918,
+      "title": "100 Dollars",
+      "category": "banknote",
+      "country": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "minYear": 2003,
+      "maxYear": 2009
+    }
+  ],
+  "tags": [
+    "Government building",
+    "Politician",
+    "Flag",
+    "Tree",
+    "Hockey",
+    "Coat of Arms",
+    "Hologram",
+    "Micro inscriptions",
+    "Photoluminescence"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 959,
+        "code": "Ch GPM"
+      },
+      "number": "BC-67"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "101A"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "366"
+    }
+  ],
+  "watermark": {
+    "description": "Electrotype denomination 5 | Portrait of Sir Henry Charles Wilfrid Laurier",
+    "picture": "https://en.numista.com/catalogue/photos/canada/6029a996959693.46576083-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/canada/6029a996959693.46576083-180.jpg",
+    "picture_copyright": "italianumismatics"
+  },
+  "printers": [
+    {
+      "id": 31,
+      "name": "BA International Inc."
+    },
+    {
+      "id": 20,
+      "name": "Canadian Bank Note Company"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

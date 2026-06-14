@@ -1,0 +1,113 @@
+{
+  "id": 201590,
+  "url": "https://en.numista.com/201590",
+  "title": "2000 Lei (New Millennium - Total Solar Eclipse)",
+  "object_type": {
+    "id": 80,
+    "name": "Circulating commemorative banknotes"
+  },
+  "issuer": {
+    "code": "roumanie",
+    "name": "Romania"
+  },
+  "issuing_entity": {
+    "id": 49,
+    "name": "National Bank of Romania",
+    "wikidata_id": "Q967861"
+  },
+  "min_year": 1999,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 1461,
+      "name": "Republic",
+      "wikidata_id": "Q218"
+    }
+  ],
+  "value": {
+    "text": "2000 Lei",
+    "numeric_value": 2000,
+    "currency": {
+      "id": 104,
+      "name": "Third leu",
+      "full_name": "Third leu (1952-2005)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1999-08-02"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2004-12-01"
+  },
+  "size": 143,
+  "size2": 63,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Polymer"
+  },
+  "obverse": {
+    "description": "The main image is the simplified Solar System; in the down right corner, the window with the metameric filter; on the upper part: Romania's Coat of Arms, the transparent window, name of the issuing central bank \"BANCA NAŢIONALĂ A ROMÂNIEI\" and \"BNR\" logo; on the lower part: face value in figures and letters \"2.000 lei DOUA MII\" and above, the year of issue \"1999\"; on the left, placed vertically, authorized signatures of the Governor and the Chief Cashier, and the simplifed image of the Sun; face value \"DOUA MII 2.000\" is placed vertically, on the right.",
+    "lettering": "BANCA NATIONALA A ROMANIEI\r\nECLIPSA TOTALA DE SOARE 11 AUGUST 1999\r\n2.000 DOUA MII\r\nGUVERNATOR CASIER CENTRAL\r\n1999\r\n2.000 lei DOUA MII",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "National Bank of Romania\r\nTotal Solar Eclipse August 11, 1999\r\n2000 Two Thousand\r\nGobernador   Central Cashier",
+    "picture": "https://en.numista.com/catalogue/photos/roumanie/623b6ebfe4a1c8.55031772-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/roumanie/623b6ebfe4a1c8.55031772-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "In the middle, the map of Romania coloured in red, yellow and blue; on the map, the area and the cities where the eclipse was the most visible; on the upper part, face value \"2.000\" vertical and horizontal, name of the central bank \"BANCA NAŢIONALĂ A ROMÂNIEI\" and \"BNR\" logo; under the name of the central bank, the transparent window; on the lower part, on the left, the window with metameric filter; on the right: face value in letters and figures \"DOUA MII lei 2.000\"; on the right, above the face value, the text \"FALSIFICAREA ACESTOR BILETE SE PEDEPSESTE CONFORM LEGILOR\" (forgery is punished according to the law) placed horizontally; series and numbers of the banknote are printed in letters and figures with black and red ink, as follows: fonts of the same height printed vertically on the left side with black ink and fonts of ascending height on the right side with red ink.",
+    "lettering": "2.000 BANCA NATIONALA A ROMANIEI\r\nARAD TIMISOARA LUGOJ HUNEDOARA PETROSANI TARGU JIU RAMNICU-VALCEA PITESTI DRAGASANI TARGOVISTE PLOIESTI BUCURESTI \r\nFALSIFICAREA ACESTOR BILETE SE PEDEPSESTE CONFORM LEGILOR\r\nDOUA MII lei 2.000",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "2000 National Bank of Romania\r\nARAD TIMISOARA LUGOJ HUNEDOARA PETROSANI TARGU JIU RAMNICU-VALCEA PITESTI DRAGASANI TARGOVISTE PLOIESTI BUCURESTI (Romanian cities)\r\nCOUNTERFEITING OF THESE TICKETS IS PUNISHED ACCORDING TO THE LAWS\r\nTwo thousand Lei 2000",
+    "picture": "https://en.numista.com/catalogue/photos/roumanie/623b6ec07767f0.66370077-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/roumanie/623b6ec07767f0.66370077-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "commemorated_topic": "Total Eclipse of the Sun (August 11, 1999) and Entering the New Millennium",
+  "comments": "<p>UV activity:<br><a href=\"https://en.numista.com/catalogue/images/64e78474b7f34.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64e78474b7f34.png\" alt=\"\"></a><br>© gyoschak<br><br>The first polymer banknote of Europe and in the Northern Hemisphere.<br><br>Presentation leaflet<br><a href=\"https://en.numista.com/catalogue/images/5eb965e76dcb4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb965e76dcb4.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5eb965fc474f6.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb965fc474f6.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5eb9660f9ba65.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb9660f9ba65.jpg\" alt=\"\"></a></p>",
+  "tags": [
+    "Map",
+    "Millennium",
+    "Space",
+    "Sun"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "111"
+    }
+  ],
+  "watermark": {
+    "description": "BNR monogram",
+    "picture": "https://en.numista.com/catalogue/photos/roumanie/5eb966264ec9a5.75532877-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/roumanie/5eb966264ec9a5.75532877-180.jpg",
+    "picture_copyright": "Andy289",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 43,
+      "name": "Note Printing Australia"
+    }
+  ],
+  "category": "banknote",
+  "type": "Circulating commemorative banknotes"
+}

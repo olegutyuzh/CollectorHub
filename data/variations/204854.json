@@ -1,0 +1,25 @@
+[
+  {
+    "id": 505290,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "signatures": [
+      {
+        "signer_name": "Graeme Wheeler",
+        "title": "Governor, Reserve Bank of New Zealand"
+      }
+    ],
+    "mintage": 28467958,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B138a"
+      }
+    ],
+    "comment": "Prefix: AA-BP; Two first digits on serial: 15"
+  }
+]

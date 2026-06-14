@@ -1,0 +1,65 @@
+[
+  {
+    "id": 507176,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "month": 9,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Andre Eugene Telting",
+        "title": "President of Central Bank of Suriname"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "162a"
+      }
+    ],
+    "comment": "Issued note; Signature André Eugene Telting"
+  },
+  {
+    "id": 507177,
+    "is_dated": true,
+    "year": 2012,
+    "gregorian_year": 2012,
+    "month": 4,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Gillmore André Hoefdraad",
+        "title": "President of Central Bank of Suriname"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "162b"
+      }
+    ],
+    "comment": "Issued note; Signature Gilmore Hoefdraad"
+  },
+  {
+    "id": 946736,
+    "is_dated": true,
+    "year": 2020,
+    "gregorian_year": 2020,
+    "month": 6,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Maurice Roemer",
+        "title": "President of Central Bank of Suriname"
+      }
+    ],
+    "comment": "Issued note; Signature Maurice Roemer"
+  }
+]

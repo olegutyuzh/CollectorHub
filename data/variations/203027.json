@@ -1,0 +1,50 @@
+[
+  {
+    "id": 497346,
+    "is_dated": true,
+    "year": 1412,
+    "gregorian_year": 1992,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "80a"
+      }
+    ],
+    "comment": "Embossed Bank title and value at left on front; Arabic numbers \"٥\" at left and right with clear UV activity (printed in China)"
+  },
+  {
+    "id": 499591,
+    "is_dated": true,
+    "year": 1412,
+    "gregorian_year": 1992,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "80b"
+      }
+    ],
+    "comment": "Bank title and value at left on front printed only (not embossed); Arabic numbers \"٥\" at left and right with clear UV activity (printed in China)"
+  },
+  {
+    "id": 499590,
+    "is_dated": true,
+    "year": 1412,
+    "gregorian_year": 1992,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "80c"
+      }
+    ],
+    "comment": "As b. without embossed text at center (printed in Iraq)"
+  }
+]

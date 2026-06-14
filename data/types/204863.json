@@ -1,0 +1,143 @@
+{
+  "id": 204863,
+  "url": "https://en.numista.com/204863",
+  "title": "50 Kroner (Famous Men and Women. Type 1)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "issuing_entity": {
+    "id": 588,
+    "name": "National Bank of Denmark",
+    "wikidata_id": "Q683252"
+  },
+  "min_year": 1999,
+  "max_year": 2002,
+  "ruler": [
+    {
+      "id": 2404,
+      "name": "Margrethe II",
+      "wikidata_id": "Q102139",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "50 Kroner",
+    "numeric_value": 50,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "1999-05-07"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2025-05-31"
+  },
+  "size": 125,
+  "size2": 72,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Black and violet on multicolor underprint.\r\nAt the right side a green band of flowers and a portrait of famous writer Karen Blixen, with text ”Karen Blixen”.\r\nUpper left a green triangel with a flower and a latent ”L (for fifty).",
+    "lettering": "50\r\nFEMTI\r\n50\r\nKRONER KAREN BLIXEN\r\nDANMARKS NATIONALBANK ©",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Fifty Kroner\r\nDenmarks National Bank",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/5e9cb2a3802b96.59275047-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9cb2a3802b96.59275047-180.jpg",
+    "picture_copyright": "MidwestCollector"
+  },
+  "reverse": {
+    "description": "Violet underprint.\r\nAt the left a centaur stone relief from Landet Church on Tåsinge. Behind which is a heart-shaped rosette in grey and green.\r\nAt the right side a green circle surrounding the watermark. In the green circle is the serial specification. Inside the circle a lot of small orange circles.",
+    "lettering": "50\r\nFEMTI KRONER\r\nSERIE 1997 UDSTEDT I HENHOLD TIL LOV OM DANMARKS NATIONALBANK ©",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Fifty Kroner\r\nSerie 1997 issued according to law of the Nationalbank of Denmark ©",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/5e9cb2a4976476.00899259-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9cb2a4976476.00899259-180.jpg",
+    "picture_copyright": "MidwestCollector"
+  },
+  "series": "Kronesedlerne 7th issue - Famous men and women",
+  "comments": "<p><strong>Withdrawel:</strong><br>Withdrawn since: 25. August 2005.</p><p><br><strong>Year:</strong><br>Middle two digits of serial-number give the printing year: A5012N PrefixA5, year (20)01.<br>&nbsp;</p><p><strong>Signatures:</strong><br>The left signature is one of the govenors for Denmarks Nationalbank.</p><p>The right signature is the Chief Cashier.</p>",
+  "related_types": [
+    {
+      "id": 207571,
+      "title": "50 Kroner (Famous Men and Women. Type 2; enhanced security features)",
+      "category": "banknote",
+      "country": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "minYear": 2004,
+      "maxYear": 2007
+    }
+  ],
+  "tags": [
+    "Fantasy animal",
+    "Literature",
+    "Painting",
+    "Sculpture",
+    "Artist",
+    "Hat",
+    "Flower",
+    "Cold weapons"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "55"
+    },
+    {
+      "catalogue": {
+        "id": 996,
+        "code": "SIEG SD"
+      },
+      "number": "146"
+    },
+    {
+      "catalogue": {
+        "id": 2262,
+        "code": "DNF"
+      },
+      "number": "9.1"
+    }
+  ],
+  "watermark": {
+    "description": "Silhuetportrait of Karen Blixen.\r\nOther security enhancements:\r\nBlack hidden security thread. \r\nPartly visibel metalic security thread ”window thread” with ”50 KR”\r\nMicroprint. On the Obverse is ”50 KR” printet around the watermark in microprint, and several other places is microprint used ind different sizes.",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/5f6c76c85fd4c6.09972857-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f6c76c85fd4c6.09972857-180.jpg",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 151,
+      "name": "Denmarks Nationalbank's Banknote Printing Works"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

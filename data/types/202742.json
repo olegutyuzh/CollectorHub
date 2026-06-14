@@ -1,0 +1,89 @@
+{
+  "id": 202742,
+  "url": "https://en.numista.com/202742",
+  "title": "2 Kronen",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "autriche",
+    "name": "Austria"
+  },
+  "min_year": 1919,
+  "max_year": 1919,
+  "ruler": [
+    {
+      "id": 2909,
+      "name": "Republic of German-Austria",
+      "wikidata_id": "Q268970"
+    }
+  ],
+  "value": {
+    "text": "2 Kronen",
+    "numeric_value": 2,
+    "currency": {
+      "id": 622,
+      "name": "Krone",
+      "full_name": "Krone (1919-1925)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 124,
+  "size2": 84,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "technique": {
+    "text": "Overprinted (Ovpt on P#21 from Austrian Empire)"
+  },
+  "obverse": {
+    "description": "Overprint \"DEUTSCHÖSTERREICH\" on AUSTRIA P-21.",
+    "lettering": "DEUTSCHÖSTERREICH\r\nZWEI KRONEN",
+    "lettering_translation": "GERMAN AUSTRIA\r\n2 KRONEN",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/5e96fd41e50845.31593457-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/5e96fd41e50845.31593457-180.jpg",
+    "picture_copyright": "KRISHNA KAMESWAR@AMALAPURAM"
+  },
+  "reverse": {
+    "lettering": "KÉT KORONA",
+    "lettering_translation": "2 korona",
+    "picture": "https://en.numista.com/catalogue/photos/autriche/5e96fd4252ee13.63486859-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/autriche/5e96fd4252ee13.63486859-180.jpg",
+    "picture_copyright": "PUTSA@AMALAPURAM"
+  },
+  "related_types": [
+    {
+      "id": 206757,
+      "title": "2 Kronen",
+      "category": "banknote",
+      "country": {
+        "code": "autriche-habsbourg",
+        "name": "Austrian Empire"
+      },
+      "minYear": 1917,
+      "maxYear": 1917
+    }
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 990,
+        "code": "KK Banknoten"
+      },
+      "number": "134"
+    },
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "50"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

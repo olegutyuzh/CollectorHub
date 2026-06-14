@@ -1,0 +1,19 @@
+[
+  {
+    "id": 497583,
+    "is_dated": false,
+    "min_year": 2017,
+    "max_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Arthur Javadyan",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Vartan Aranyan",
+        "title": "Finance minister"
+      }
+    ],
+    "comment": "Issued note"
+  }
+]

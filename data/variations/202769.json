@@ -1,0 +1,82 @@
+[
+  {
+    "id": 495724,
+    "is_dated": true,
+    "year": 1994,
+    "gregorian_year": 1994,
+    "signatures": [
+      {
+        "signer_name": "Viktor Andriiovych Yushchenko",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ]
+  },
+  {
+    "id": 1070574,
+    "is_dated": true,
+    "year": 1994,
+    "gregorian_year": 1994,
+    "signatures": [
+      {
+        "signer_name": "Viktor Andriiovych Yushchenko",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "110as"
+      }
+    ],
+    "comment": "Specimen"
+  },
+  {
+    "id": 495725,
+    "is_dated": true,
+    "year": 1997,
+    "gregorian_year": 1997,
+    "signatures": [
+      {
+        "signer_name": "Viktor Andriiovych Yushchenko",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ]
+  },
+  {
+    "id": 1070575,
+    "is_dated": true,
+    "year": 1997,
+    "gregorian_year": 1997,
+    "signatures": [
+      {
+        "signer_name": "Viktor Andriiovych Yushchenko",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "110bs"
+      }
+    ],
+    "comment": "Specimen"
+  },
+  {
+    "id": 495726,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "signatures": [
+      {
+        "signer_name": "Volodymyr Semenovych Stelmakh",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ]
+  }
+]

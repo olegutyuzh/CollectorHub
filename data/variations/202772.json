@@ -1,0 +1,26 @@
+[
+  {
+    "id": 495730,
+    "is_dated": true,
+    "year": 1995,
+    "gregorian_year": 1995,
+    "signatures": [
+      {
+        "signer_name": "Viktor Andriiovych Yushchenko",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ]
+  },
+  {
+    "id": 495731,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "signatures": [
+      {
+        "signer_name": "Volodymyr Semenovych Stelmakh",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ]
+  }
+]

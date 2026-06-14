@@ -1,0 +1,155 @@
+{
+  "id": 205208,
+  "url": "https://en.numista.com/205208",
+  "title": "2 Dollars (CBSI Silver Jubilee)",
+  "object_type": {
+    "id": 80,
+    "name": "Circulating commemorative banknotes"
+  },
+  "issuer": {
+    "code": "iles_salomon",
+    "name": "Solomon Islands"
+  },
+  "issuing_entity": {
+    "id": 941,
+    "name": "Central Bank of Solomon Islands",
+    "wikidata_id": "Q1777295"
+  },
+  "min_year": 2001,
+  "max_year": 2001,
+  "ruler": [
+    {
+      "id": 1084,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 805,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "2 Dollars",
+    "numeric_value": 2,
+    "currency": {
+      "id": 49,
+      "name": "Dollar",
+      "full_name": "Dollar (1977-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2021-06-21"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 142,
+  "size2": 72,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Polymer (Guardian®)"
+  },
+  "obverse": {
+    "description": "Coat of Arms of Solomon Islands / Ceremonial bowl Apira between stylized fishes below. Standford Sea Eagle and Face Value on Transparent Window, Overprint Commemorative of 25 Years of CBSI (Silver Jubilee)",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_salomon/62ca9ea8bcf718.78547645-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_salomon/62ca9ea8bcf718.78547645-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Solomon Island fishermen with fishing net and spears / Commemorative Legend \"COMMEMORATING CBSI SILVER JUBILEE\"",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_salomon/62ca9ea97bb612.92980217-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_salomon/62ca9ea97bb612.92980217-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "commemorated_topic": "25th Anniversary of the Central Bank of Solomon Islands (1976-2001)",
+  "comments": "<p>The first 2 digits of the serial # are the last 2 digits of the date of issue (2001 = 01).</p>",
+  "related_types": [
+    {
+      "id": 207955,
+      "title": "2 Dollars (equal size serial)",
+      "category": "banknote",
+      "country": {
+        "code": "iles_salomon",
+        "name": "Solomon Islands"
+      },
+      "minYear": 1986,
+      "maxYear": 1986
+    },
+    {
+      "id": 214170,
+      "title": "2 Dollars (ascending size serial)",
+      "category": "banknote",
+      "country": {
+        "code": "iles_salomon",
+        "name": "Solomon Islands"
+      },
+      "minYear": 1997,
+      "maxYear": 1997
+    },
+    {
+      "id": 208193,
+      "title": "2 Dollars (with flag)",
+      "category": "banknote",
+      "country": {
+        "code": "iles_salomon",
+        "name": "Solomon Islands"
+      },
+      "minYear": 2006,
+      "maxYear": 2008
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Eagle",
+    "Fish",
+    "Sea",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "23"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "213"
+    }
+  ],
+  "watermark": {
+    "description": "Shadow image; Coat of Arms of Solomon Islands / \"CBSI\" electrotype",
+    "picture": "https://en.numista.com/catalogue/photos/iles_salomon/647b9b43a10221.29505446-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_salomon/647b9b43a10221.29505446-180.jpg",
+    "picture_copyright": "Leandro.brito",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 43,
+      "name": "Note Printing Australia"
+    }
+  ],
+  "category": "banknote",
+  "type": "Circulating commemorative banknotes"
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 493088,
+    "is_dated": true,
+    "year": 2002,
+    "gregorian_year": 2002,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "70a"
+      }
+    ],
+    "comment": "Signatures: Irakli Managadze & Zurab Noghaideli"
+  },
+  {
+    "id": 497112,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "70b"
+      }
+    ],
+    "comment": "Signatures: David Amaglobeli & Nika Gilauri"
+  },
+  {
+    "id": 497204,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "70c"
+      }
+    ],
+    "comment": "Signatures: Giorgi Kadagidze & Dmitri Gvindadze"
+  },
+  {
+    "id": 497205,
+    "is_dated": true,
+    "year": 2013,
+    "gregorian_year": 2013,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "70d"
+      }
+    ],
+    "comment": "Signatures: Giorgi Kadagidze & Aleksandre Khetaguri"
+  }
+]

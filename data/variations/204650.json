@@ -1,0 +1,50 @@
+[
+  {
+    "id": 504541,
+    "is_dated": false,
+    "min_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Simeon Malachi Athy",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Maki Simelum",
+        "title": "Minister of Finance"
+      }
+    ],
+    "comment": "Hand signed signatures"
+  },
+  {
+    "id": 742308,
+    "is_dated": false,
+    "min_year": 2014,
+    "signatures": [
+      {
+        "signer_name": "Simeon Malachi Athy",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Maki Simelum",
+        "title": "Minister of Finance"
+      }
+    ],
+    "comment": "Printed signatures"
+  },
+  {
+    "id": 812129,
+    "is_dated": false,
+    "min_year": 2020,
+    "signatures": [
+      {
+        "signer_name": "Simeon Malachi Athy",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Maki Simelum",
+        "title": "Minister of Finance"
+      }
+    ],
+    "comment": "Reprint First prefix AA20"
+  }
+]

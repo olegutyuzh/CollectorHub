@@ -1,0 +1,39 @@
+[
+  {
+    "id": 501704,
+    "is_dated": true,
+    "year": 2073,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Chiranjivi Nepal",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 260000000
+  },
+  {
+    "id": 626314,
+    "is_dated": true,
+    "year": 2076,
+    "gregorian_year": 2020,
+    "signatures": [
+      {
+        "signer_name": "Maha Prasad Adikari",
+        "title": "Governor"
+      }
+    ]
+  },
+  {
+    "id": 957720,
+    "is_dated": true,
+    "year": 2080,
+    "gregorian_year": 2024,
+    "signatures": [
+      {
+        "signer_name": "Maha Prasad Adikari",
+        "title": "Governor"
+      }
+    ]
+  }
+]

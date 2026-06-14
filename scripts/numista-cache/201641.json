@@ -1,0 +1,96 @@
+{
+  "id": 201641,
+  "url": "https://en.numista.com/201641",
+  "title": "5 Lari",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "georgie",
+    "name": "Georgia (1991-date)"
+  },
+  "issuing_entity": {
+    "id": 565,
+    "name": "National Bank of Georgia",
+    "wikidata_id": "Q2667495"
+  },
+  "min_year": 2002,
+  "max_year": 2013,
+  "ruler": [
+    {
+      "id": 3265,
+      "name": "Republic",
+      "wikidata_id": "Q230"
+    }
+  ],
+  "value": {
+    "text": "5 Lari",
+    "numeric_value": 5,
+    "currency": {
+      "id": 98,
+      "name": "Lari",
+      "full_name": "Lari (1995-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 115,
+  "size2": 61,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Borjgali at upper left-center\r\nPortrait of Ivane Javakhishvili, Georgian academician and founder of the State University, in the center. Value at the right. Serial number at the left down the upper-right corners",
+    "lettering": "საქართველო\r\nსაქართველოს ეროვნული ბანკი 2002\r\nივანე ჯავახიშვილი 1876-1940\r\nეროვნული ბანკის პრეზიდენტი: ფინანსტა მინისტრი :\r\n5 ხუთი ლარი",
+    "lettering_scripts": [
+      {
+        "name": "Georgian (Mkhedruli)"
+      }
+    ],
+    "lettering_translation": "Georgia\r\nNational Bank of Georgia 2002\r\nIvane Javakhishvili 1876-1940\r\nPresident of National Bank ( Signature) . Minister of Finance ( signature)\r\n5 Five lari",
+    "picture": "https://en.numista.com/catalogue/photos/georgie/5ebc495c604620.17922378-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/georgie/5ebc495c604620.17922378-180.jpg",
+    "picture_copyright": "SmoCa"
+  },
+  "reverse": {
+    "description": "Map of Georgia in English left, View of the State University right-centered, and Golden statue of a lion (2300-2000 B.C. found in a tomb in the Alazani valley) at the left. Georgian and English lettering",
+    "lettering": "5 ხუთი ლარი\r\nGEORGIA\r\nFive Lari\r\n5\r\nთბილისის უნივერსიტეტი",
+    "lettering_scripts": [
+      {
+        "name": "Georgian (Mkhedruli)"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Five lari\r\nTbilisi University",
+    "picture": "https://en.numista.com/catalogue/photos/georgie/5ebc495d103069.53099446-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/georgie/5ebc495d103069.53099446-180.jpg",
+    "picture_copyright": "SmoCa"
+  },
+  "comments": "On Pick 70a issue there exist a spelling mistake on the reverse where Ivane Javakhishvili&#039;s name, <span style=\"font-weight:bold;\">ივანე ჯავახიშვილი</span>, is written as Mikheil Javakhishvili (<span style=\"font-weight:bold;\"><span style=\"font-style:italic;\">მიხეილ</span> ჯავახიშვილი</span>).",
+  "tags": [
+    "Education"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "70"
+    }
+  ],
+  "watermark": {
+    "picture": "https://en.numista.com/catalogue/photos/georgie/60d13b57b50581.08895747-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/georgie/60d13b57b50581.08895747-180.jpg",
+    "picture_copyright": "oXide3030",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

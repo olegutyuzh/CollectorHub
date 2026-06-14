@@ -1,0 +1,66 @@
+[
+  {
+    "id": 495382,
+    "is_dated": false,
+    "min_year": 2017,
+    "max_year": 2017,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "222a"
+      }
+    ],
+    "comment": "Prefix: A/1 to A/3; Signatures: Denton H. Rarawa (type B) & Fred Fakarii"
+  },
+  {
+    "id": 958276,
+    "is_dated": false,
+    "min_year": 2017,
+    "max_year": 2017,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "222as"
+      }
+    ],
+    "comment": "Specimen; red overprinted \"SPECIMEN\""
+  },
+  {
+    "id": 958277,
+    "is_dated": false,
+    "min_year": 2017,
+    "max_year": 2017,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "222az"
+      }
+    ],
+    "comment": "Replacement; Prefix: X/1"
+  },
+  {
+    "id": 717675,
+    "is_dated": false,
+    "min_year": 2022,
+    "max_year": 2022,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "222b"
+      }
+    ],
+    "comment": "Prefix: A/4, A/5; Signatures: Dr. Luke Forau & Harry Kuma"
+  }
+]

@@ -1,0 +1,158 @@
+{
+  "id": 205013,
+  "url": "https://en.numista.com/205013",
+  "title": "2000 Colones",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "costa_rica",
+    "name": "Costa Rica"
+  },
+  "issuing_entity": {
+    "id": 907,
+    "name": "Central Bank of Costa Rica",
+    "wikidata_id": "Q4504273"
+  },
+  "min_year": 2009,
+  "max_year": 2015,
+  "ruler": [
+    {
+      "id": 3834,
+      "name": "Second Republic",
+      "wikidata_id": "Q800"
+    }
+  ],
+  "value": {
+    "text": "2000 Colones",
+    "numeric_value": 2000,
+    "currency": {
+      "id": 10,
+      "name": "Colón",
+      "full_name": "Colón (1896-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 132,
+  "size2": 67,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Blue and multi colour\r\nMauro Fernández Acuña,",
+    "lettering": "2 MIL COLONES\r\nCOSTARICA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/5e9d1704326d25.56608051-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/5e9d1704326d25.56608051-180.jpg",
+    "picture_copyright": "sivavarma"
+  },
+  "reverse": {
+    "description": "Bull shark (carcharhinus leucas), sea star (asteroidea), sea pens (pennatulacea)",
+    "lettering": "ARRECIFE CORALINO\r\n\r\nTiburón toro (Carcharhinus leucas)\r\nPlumas del mar (Pennatulacea)\r\nEstrella de mar de la laguna (Asteroidea)\r\n\r\n2 MIL COLONES\r\nBANCO CENTRAL DE COSTA RICA",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Coral reef\r\n\r\nBull shark (Carcharhinus leucas)\r\nSea pens (pennatulacea)\r\nSea star (asteroidea)\r\n\r\n2 Thousand Colones\r\nCentral Bank of Costa Rica",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/5e9d1704dbe774.08437301-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/5e9d1704dbe774.08437301-180.jpg",
+    "picture_copyright": "sivavarma"
+  },
+  "comments": "<p>Braille markings for the blind on front:<br><a href=\"https://en.numista.com/catalogue/images/5fc0503e421ed.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5fc0503e421ed.jpg\" alt=\"\"></a><br>© gyoschak<br><br>UV activity:<br><a href=\"https://en.numista.com/catalogue/images/64a2c275992b8.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a2c275992b8.png\" alt=\"\"></a><br>© gyoschak</p><p><a href=\"https://en.numista.com/catalogue/images/668a18bcdcffc.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/668a18bcdcffc.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p>Security thread:</p><p>Windowed into four sections on obverse side, inscription “BCCR 2000” when seen under backlight:</p><p><a href=\"https://en.numista.com/catalogue/images/668a1a4d6ad09.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/668a1a4d6ad09.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p>It has a multicolour tone and switches colours between blue and purple depending on which angle the note is held at.</p><p><a href=\"https://en.numista.com/catalogue/images/668a1a6f28290.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/668a1a6f28290.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/668a1a7103b3e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/668a1a7103b3e.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p>The map of Costa Rica in the top-centre-right of the obverse side is also printed in colour-shifting ink - switches colours between purple and magenta:</p><p><a href=\"https://en.numista.com/catalogue/images/668a1ae665492.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/668a1ae665492.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/668a1ae8485e8.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/668a1ae8485e8.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p>Blue iridescent stripe on reverse side - patterns:</p><p><a href=\"https://en.numista.com/catalogue/images/668a1b1bbecc2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/668a1b1bbecc2.jpg\"></a></p><p>© Kiet Tran</p>",
+  "related_types": [
+    {
+      "id": 204569,
+      "title": "1000 Colones",
+      "category": "banknote",
+      "country": {
+        "code": "costa_rica",
+        "name": "Costa Rica"
+      },
+      "minYear": 2009,
+      "maxYear": 2013
+    },
+    {
+      "id": 205020,
+      "title": "5000 Colones",
+      "category": "banknote",
+      "country": {
+        "code": "costa_rica",
+        "name": "Costa Rica"
+      },
+      "minYear": 2009,
+      "maxYear": 2012
+    },
+    {
+      "id": 205027,
+      "title": "10 000 Colones",
+      "category": "banknote",
+      "country": {
+        "code": "costa_rica",
+        "name": "Costa Rica"
+      },
+      "minYear": 2009,
+      "maxYear": 2014
+    },
+    {
+      "id": 205032,
+      "title": "20 000 Colones",
+      "category": "banknote",
+      "country": {
+        "code": "costa_rica",
+        "name": "Costa Rica"
+      },
+      "minYear": 2009,
+      "maxYear": 2012
+    },
+    {
+      "id": 215226,
+      "title": "50 000 Colones",
+      "category": "banknote",
+      "country": {
+        "code": "costa_rica",
+        "name": "Costa Rica"
+      },
+      "minYear": 2009,
+      "maxYear": 2009
+    }
+  ],
+  "tags": [
+    "Fish",
+    "Reptile",
+    "Turtle or tortoise"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "275"
+    }
+  ],
+  "watermark": {
+    "description": "Mauro Fernández Acuña, Costa Rica politician and lawyer",
+    "picture": "https://en.numista.com/catalogue/photos/costa_rica/5fc05053486d71.40720080-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/costa_rica/5fc05053486d71.40720080-180.jpg",
+    "picture_copyright": "gyoschak",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 7,
+      "name": "Oberthur Fiduciaire"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 500740,
+    "is_dated": false,
+    "comment": "(fr) A TRANSFERER vers P#83"
+  },
+  {
+    "id": 498488,
+    "is_dated": false,
+    "min_year": 2008,
+    "max_year": 2014,
+    "mintage": 340000000,
+    "comment": "(fr) P-90b Rasamoelina"
+  },
+  {
+    "id": 498490,
+    "is_dated": false,
+    "min_year": 2015,
+    "max_year": 2017,
+    "mintage": 46000000,
+    "comment": "(fr) P-90c Rasolofondraibe"
+  }
+]

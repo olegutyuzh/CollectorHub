@@ -1,0 +1,290 @@
+[
+  {
+    "id": 495801,
+    "is_dated": true,
+    "year": 1937,
+    "gregorian_year": 1937,
+    "month": 1,
+    "day": 2,
+    "signatures": [
+      {
+        "signer_name": "James Osborne",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Graham Ford Towers",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 50000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-21a"
+      },
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "58a"
+      }
+    ],
+    "comment": "A/A → E/A prefixes"
+  },
+  {
+    "id": 495799,
+    "is_dated": true,
+    "year": 1937,
+    "gregorian_year": 1937,
+    "month": 1,
+    "day": 2,
+    "signatures": [
+      {
+        "signer_name": "Donald Gordon",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Graham Ford Towers",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 10000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-21b"
+      },
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "58b"
+      }
+    ],
+    "comment": "H/A prefix - Narrow Panel"
+  },
+  {
+    "id": 495800,
+    "is_dated": true,
+    "year": 1937,
+    "gregorian_year": 1937,
+    "month": 1,
+    "day": 2,
+    "signatures": [
+      {
+        "signer_name": "Donald Gordon",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Graham Ford Towers",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 1028162,
+    "references": [
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-21b"
+      },
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "58c"
+      }
+    ],
+    "comment": "J/A prefix - Narrow Panel"
+  },
+  {
+    "id": 495797,
+    "is_dated": true,
+    "year": 1937,
+    "gregorian_year": 1937,
+    "month": 1,
+    "day": 2,
+    "signatures": [
+      {
+        "signer_name": "Donald Gordon",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Graham Ford Towers",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 460000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-21c"
+      },
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "58d"
+      }
+    ],
+    "comment": "K/A → Z/A, A/L → Z-L, A/M → N/M prefixes - Wide Panel"
+  },
+  {
+    "id": 495798,
+    "is_dated": true,
+    "year": 1937,
+    "gregorian_year": 1937,
+    "month": 1,
+    "day": 2,
+    "signatures": [
+      {
+        "signer_name": "Donald Gordon",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Graham Ford Towers",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 2840000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-21c"
+      },
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "58d"
+      }
+    ],
+    "comment": "O/M prefix - Wide Panel"
+  },
+  {
+    "id": 495795,
+    "is_dated": true,
+    "year": 1937,
+    "gregorian_year": 1937,
+    "month": 1,
+    "day": 2,
+    "signatures": [
+      {
+        "signer_name": "James Elliott Coyne",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Graham Ford Towers",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 7160000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-21d"
+      },
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "58e"
+      }
+    ],
+    "comment": "O/M prefix - changeover"
+  },
+  {
+    "id": 493258,
+    "is_dated": true,
+    "year": 1937,
+    "gregorian_year": 1937,
+    "month": 1,
+    "day": 2,
+    "signatures": [
+      {
+        "signer_name": "James Elliott Coyne",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Graham Ford Towers",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 240000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-21d"
+      },
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "58e"
+      }
+    ],
+    "comment": "R/M → Z/M, A/N → U/N prefixes"
+  },
+  {
+    "id": 495796,
+    "is_dated": true,
+    "year": 1937,
+    "gregorian_year": 1937,
+    "month": 1,
+    "day": 2,
+    "signatures": [
+      {
+        "signer_name": "James Elliott Coyne",
+        "title": "Deputy Governor"
+      },
+      {
+        "signer_name": "Graham Ford Towers",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 2408000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 959,
+          "code": "Ch GPM"
+        },
+        "number": "BC-21d"
+      },
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "58e"
+      }
+    ],
+    "comment": "W/N prefix"
+  }
+]

@@ -1,0 +1,143 @@
+{
+  "id": 205341,
+  "url": "https://en.numista.com/205341",
+  "title": "1 Dollar - Elizabeth II (D Series)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "iles_caimanes",
+    "name": "Cayman Islands"
+  },
+  "issuing_entity": {
+    "id": 903,
+    "name": "Cayman Islands Monetary Authority",
+    "wikidata_id": "Q1774447"
+  },
+  "min_year": 2010,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 958,
+      "name": "Elizabeth II",
+      "wikidata_id": "Q9682",
+      "group": {
+        "id": 800,
+        "name": "House of Windsor"
+      }
+    },
+    {
+      "id": 6832,
+      "name": "Charles III",
+      "wikidata_id": "Q43274",
+      "group": {
+        "id": 800,
+        "name": "House of Windsor"
+      }
+    }
+  ],
+  "value": {
+    "text": "1 Dollar",
+    "numeric_value": 1,
+    "currency": {
+      "id": 43,
+      "name": "Dollar",
+      "full_name": "Dollar (1972-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 156,
+  "size2": 66,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Blue on multicolour underprint. Coat of Arms at right centre, fish around, Queen Elizabeth II at right, denominations in opposite corners.",
+    "lettering": "Cayman Islands Monetary Authority $1\r\nCayman Brac\r\nLittle Cayman\r\nGrand Cayman\r\nHE HATH FOUNDED IT UPON THE SEAS\r\nMinister of Finance\r\nManaging Director\r\nThis note is legal tender for \r\nOne Dollar\r\n2018 Series Issued under The Monetary Authority Law\r\n© Cayman Islands Monetary Authority",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_caimanes/62d80f14319e67.29299774-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_caimanes/62d80f14319e67.29299774-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Blue on multicolour underprint.\r\nImage of the Bluff on Cayman Brac, Shell left, fish right, denominations opposite corners",
+    "lettering": "Cayman Islands Monetary Authority $1\r\n\r\n$1 One Dollar\r\n© Cayman Islands Monetary Authority\r\nDE LA RUE",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/iles_caimanes/62d80f14d85e41.49046804-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_caimanes/62d80f14d85e41.49046804-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "Series D",
+  "comments": "<p>This marks the Fourth series issued, the banknote features Ultraviolet security features on both sides:<br><a href=\"https://en.numista.com/catalogue/images/64a1985c6e834.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a1985c6e834.png\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/64a19871c9c9d.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a19871c9c9d.png\" alt=\"\"></a><br>© gyoschak</p><p>&nbsp;</p><p style=\"margin-left:0px;\">Security thread:</p><p style=\"margin-left:0px;\">Windowed into five sections on the obverse side, when seen under a backlight, the inscription of “CIMA $1” is repeated throughout.</p><p style=\"margin-left:0px;\"><a href=\"https://en.numista.com/catalogue/images/671c6cbb8b26b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/671c6cbb8b26b.jpg\"></a></p><p style=\"margin-left:0px;\">© Kiet Tran</p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\">Yellow iridescent stripe on reverse side - inscription “$1”:</p><p style=\"margin-left:0px;\"><a href=\"https://en.numista.com/catalogue/images/671c6db966ca0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/671c6db966ca0.jpg\"></a></p><p style=\"margin-left:0px;\">© Kiet Tran</p><p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\">For the 2024 issue, the title of Managing Director was updated to Chief Executive Officer.</p>",
+  "related_types": [
+    {
+      "id": 228745,
+      "title": "1 Dollar (60th Anniversary of First Constitution)",
+      "category": "banknote",
+      "country": {
+        "code": "iles_caimanes",
+        "name": "Cayman Islands"
+      },
+      "minYear": 2018,
+      "maxYear": 2018
+    }
+  ],
+  "tags": [
+    "Fish",
+    "Shell",
+    "Monarch",
+    "Beach",
+    "Coat of Arms",
+    "Latent image",
+    "Micro inscriptions",
+    "Photoluminescence"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "38"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "218"
+    }
+  ],
+  "watermark": {
+    "description": "Sea turtle and electroytpe “CIMA”",
+    "picture": "https://en.numista.com/catalogue/photos/iles_caimanes/60870561325c69.96833760-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/iles_caimanes/60870561325c69.96833760-180.jpg",
+    "picture_copyright": "oXide3030",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 1,
+      "name": "De La Rue"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

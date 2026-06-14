@@ -1,0 +1,114 @@
+[
+  {
+    "id": 497461,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2005,
+    "month": 5,
+    "day": 22,
+    "signatures": [
+      {
+        "signer_name": "Birgir Ísleifur Gunnarsson",
+        "title": "Bank governor/Director of the Bank"
+      },
+      {
+        "signer_name": "Eiríkur Guðnason",
+        "title": "Bank governor/Director of the Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "58"
+      },
+      {
+        "catalogue": {
+          "id": 996,
+          "code": "SIEG SD"
+        },
+        "number": "68"
+      }
+    ]
+  },
+  {
+    "id": 779879,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2011,
+    "month": 5,
+    "day": 22,
+    "signatures": [
+      {
+        "signer_name": "Davíð Oddsson",
+        "title": "Bank governor/Director of the Bank"
+      },
+      {
+        "signer_name": "Ingimundur Friðriksson",
+        "title": "Bank manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "58"
+      },
+      {
+        "catalogue": {
+          "id": 996,
+          "code": "SIEG SD"
+        },
+        "number": "68"
+      }
+    ]
+  },
+  {
+    "id": 779880,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2013,
+    "month": 5,
+    "day": 22,
+    "signatures": [
+      {
+        "signer_name": "Már Guðmundsson",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "58"
+      },
+      {
+        "catalogue": {
+          "id": 996,
+          "code": "SIEG SD"
+        },
+        "number": "68"
+      }
+    ]
+  },
+  {
+    "id": 1033118,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2024,
+    "month": 7,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Ásgeir Jónsson",
+        "title": "Governor"
+      }
+    ]
+  }
+]

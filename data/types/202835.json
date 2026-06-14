@@ -1,0 +1,118 @@
+{
+  "id": 202835,
+  "url": "https://en.numista.com/202835",
+  "title": "10 Dollars (polymer)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "hong_kong",
+    "name": "Hong Kong"
+  },
+  "issuing_entity": {
+    "id": 8,
+    "name": "Government of Hong Kong"
+  },
+  "min_year": 2007,
+  "max_year": 2024,
+  "ruler": [
+    {
+      "id": 924,
+      "name": "Special Administrative Region",
+      "wikidata_id": "Q8646"
+    }
+  ],
+  "value": {
+    "text": "10 Dollars",
+    "numeric_value": 10,
+    "currency": {
+      "id": 48,
+      "name": "Dollar",
+      "full_name": "Dollar (1863-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 133,
+  "size2": 66,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Polymer"
+  },
+  "obverse": {
+    "description": "Colourful geometric design throughout entire note. Transparent window at left.",
+    "lettering": "香港特別行政區\r\nGOVERNMENT OF THE HONG KONG\r\nSPECIAL ADMINISTRATIVE REGION\r\n香港法定貨幣\r\nLEGAL TENDER IN HONG KONG\r\n港幣拾元  拾\r\nTEN HONG KONG DOLLARS",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, regular script)"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/62b09daaba8770.56785458-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/62b09daaba8770.56785458-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Colourful geometric design throughout entire note. Transparent window at right with the Bauhinia Flower overprinted.",
+    "lettering": "港幣拾元\r\nTEN HONG KONG DOLLARS\r\n\r\n拾      10",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (traditional, regular script)"
+      },
+      {
+        "name": "Latin"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/62b09dab5bb3b0.15928472-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/62b09dab5bb3b0.15928472-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>Strong UV activity on front:<br><a href=\"https://en.numista.com/catalogue/images/604984d6b92f2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/604984d6b92f2.jpg\" alt=\"\"></a><br>© Max_505</p><p>&nbsp;</p><p style=\"margin-left:0px;\">On this 2018 note under UV at 365nm, the serial number on the right side fluoresces white:</p><p style=\"margin-left:0px;\"><a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/catalogue/images/67757900d913c.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67757900d913c.jpg\"></a></p><p style=\"margin-left:0px;\">© Brandon Bertolli</p><p>&nbsp;</p><p>Blue iridescent stripe on reverse - inscription “HK 10” and flower:</p><p><a href=\"https://en.numista.com/catalogue/images/67528b9504448.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67528b9504448.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p>The part of the pink squiggle over the transparent window is printed in colour-shifting ink - switches colours from pink to purple when the note is tilted. The denomination 10 is also inside the transparent window:</p><p><a href=\"https://en.numista.com/catalogue/images/67528c63d0ac1.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67528c63d0ac1.jpg\"></a><a href=\"https://en.numista.com/catalogue/images/67528c6620549.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67528c6620549.jpg\"></a></p><p>© Kiet Tran</p><p>&nbsp;</p><p>Latent image in the space to the right of the transparent window - denomination “10” can be seen when looked at closely or the note is tilted:</p><p><a href=\"https://en.numista.com/catalogue/images/67528bf105103.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67528bf105103.jpg\"></a></p><p>© Kiet Tran</p>",
+  "related_types": [
+    {
+      "id": 202838,
+      "title": "10 Dollars (paper)",
+      "category": "banknote",
+      "country": {
+        "code": "hong_kong",
+        "name": "Hong Kong"
+      },
+      "minYear": 2002,
+      "maxYear": 2005
+    }
+  ],
+  "tags": [
+    "Horse or equine",
+    "Flower",
+    "Latent image",
+    "Micro inscriptions",
+    "Photoluminescence"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "401"
+    }
+  ],
+  "watermark": {
+    "description": "Denomination electrotype \"10\"",
+    "picture": "https://en.numista.com/catalogue/photos/hong_kong/6689f3f30f5262.45911930-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/hong_kong/6689f3f30f5262.45911930-180.jpg",
+    "picture_copyright": "Kiet Tran",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

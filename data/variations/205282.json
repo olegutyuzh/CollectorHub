@@ -1,0 +1,814 @@
+[
+  {
+    "id": 507192,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "month": 11,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Geraldo Hernández Correa",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986a"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "444"
+      }
+    ]
+  },
+  {
+    "id": 733599,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "month": 11,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Geraldo Hernández Correa",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986as"
+      }
+    ],
+    "comment": "Specimen, punch hole cancelled."
+  },
+  {
+    "id": 507193,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "month": 1,
+    "day": 31,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Geraldo Hernández Correa",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456b"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986b"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "445"
+      }
+    ]
+  },
+  {
+    "id": 523324,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "month": 2,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Geraldo Hernández Correa",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456c"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986c"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "446"
+      }
+    ]
+  },
+  {
+    "id": 523325,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "month": 11,
+    "day": 7,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Geraldo Hernández Correa",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456d"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986d"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "447"
+      }
+    ]
+  },
+  {
+    "id": 523326,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "month": 11,
+    "day": 8,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Geraldo Hernández Correa",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456e"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986e"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "447"
+      }
+    ]
+  },
+  {
+    "id": 523327,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "month": 11,
+    "day": 9,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Geraldo Hernández Correa",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456f"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986f"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "447"
+      }
+    ]
+  },
+  {
+    "id": 507194,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "month": 8,
+    "day": 13,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Geraldo Hernández Correa",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456g"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986g"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "448"
+      }
+    ]
+  },
+  {
+    "id": 523328,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "month": 8,
+    "day": 14,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Geraldo Hernández Correa",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456h"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986h"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "448"
+      }
+    ]
+  },
+  {
+    "id": 523329,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "month": 8,
+    "day": 15,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Geraldo Hernández Correa",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456i"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986i"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "448"
+      }
+    ]
+  },
+  {
+    "id": 507195,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "month": 8,
+    "day": 27,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Geraldo Hernández Correa",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456j"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986j"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "449"
+      }
+    ]
+  },
+  {
+    "id": 523330,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "month": 8,
+    "day": 28,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Geraldo Hernández Correa",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456k"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986k"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "450"
+      }
+    ],
+    "comment": "Date of circulation: July 26, 2010"
+  },
+  {
+    "id": 507196,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "month": 8,
+    "day": 18,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "Geraldo Hernández Correa",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456l"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986l"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "451"
+      }
+    ],
+    "comment": "Date of circulation: February 18, 2011"
+  },
+  {
+    "id": 507197,
+    "is_dated": true,
+    "year": 2010,
+    "gregorian_year": 2010,
+    "month": 11,
+    "day": 23,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Tolosa Buitrago",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456m"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986m"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "452"
+      }
+    ],
+    "comment": "Date of circulation: September 9, 2011"
+  },
+  {
+    "id": 507198,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "month": 6,
+    "day": 10,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Tolosa Buitrago",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456n"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986n"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "453"
+      }
+    ],
+    "comment": "Date of circulation: February 27, 2012"
+  },
+  {
+    "id": 523331,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "month": 6,
+    "day": 11,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Tolosa Buitrago",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456o"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986o"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "454"
+      }
+    ],
+    "comment": "Date of circulation: July 23, 2012"
+  },
+  {
+    "id": 523332,
+    "is_dated": true,
+    "year": 2011,
+    "gregorian_year": 2011,
+    "month": 6,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Tolosa Buitrago",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456p"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986p"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "455"
+      }
+    ]
+  },
+  {
+    "id": 507199,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "month": 8,
+    "day": 27,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Tolosa Buitrago",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456q"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986q"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "455a"
+      }
+    ]
+  },
+  {
+    "id": 507200,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "month": 8,
+    "day": 19,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Tolosa Buitrago",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "456t"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B986r"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "456"
+      }
+    ]
+  },
+  {
+    "id": 520119,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "month": 8,
+    "day": 2,
+    "signatures": [
+      {
+        "signer_name": "José Darío Uribe Escobar",
+        "title": "General Manager"
+      },
+      {
+        "signer_name": "José Tolosa Buitrago",
+        "title": "Executive Manager"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "986s"
+      },
+      {
+        "catalogue": {
+          "id": 347,
+          "code": "Hernández"
+        },
+        "number": "457"
+      }
+    ]
+  }
+]

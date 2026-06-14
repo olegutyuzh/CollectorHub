@@ -1,0 +1,49 @@
+[
+  {
+    "id": 800043,
+    "is_dated": true,
+    "year": 1943,
+    "gregorian_year": 1943,
+    "month": 2,
+    "day": 4,
+    "signatures": [
+      {
+        "signer_name": "Johannes van den Broek",
+        "title": "Finance Minister"
+      }
+    ],
+    "mintage": 1000000,
+    "comment": "P#64a - Black color serial (FZ)"
+  },
+  {
+    "id": 502157,
+    "is_dated": true,
+    "year": 1943,
+    "gregorian_year": 1943,
+    "month": 2,
+    "day": 4,
+    "signatures": [
+      {
+        "signer_name": "Johannes van den Broek",
+        "title": "Finance Minister"
+      }
+    ],
+    "mintage": 18000000,
+    "comment": "P#64a - Blue color serial"
+  },
+  {
+    "id": 800044,
+    "is_dated": true,
+    "year": 1943,
+    "gregorian_year": 1943,
+    "month": 2,
+    "day": 4,
+    "signatures": [
+      {
+        "signer_name": "Johannes van den Broek",
+        "title": "Finance Minister"
+      }
+    ],
+    "comment": "P#64s - Specimen; diagonal red print \"SPECIMEN\" on both sides."
+  }
+]

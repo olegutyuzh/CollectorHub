@@ -1,0 +1,250 @@
+{
+  "Nav": {
+    "catalog": "Catalog",
+    "stats": "Statistics",
+    "addBanknote": "Add Banknote",
+    "login": "Log In",
+    "register": "Sign Up",
+    "logout": "Log Out",
+    "collection": "My Collection"
+  },
+  "Footer": {
+    "copy": "© {year} CollectorHub"
+  },
+  "Home": {
+    "hero": {
+      "title": "Your Banknote Catalog",
+      "subtitle": "Organize your collection, find rare banknotes, connect with collectors",
+      "browse": "Browse Catalog",
+      "registerFree": "Sign Up for Free"
+    },
+    "statsSection": {
+      "notes": "Banknotes in Catalog",
+      "countries": "Countries",
+      "collectors": "Collectors"
+    },
+    "features": {
+      "heading": "Everything a Collector Needs",
+      "catalog": {
+        "title": "Catalog",
+        "desc": "Banknotes from all countries with photos, descriptions, and catalog numbers"
+      },
+      "collection": {
+        "title": "My Collection",
+        "desc": "Track what you own: condition, price, purchase date"
+      },
+      "search": {
+        "title": "Search & Filters",
+        "desc": "Search by country, year, denomination, series"
+      },
+      "community": {
+        "title": "Community",
+        "desc": "Trade banknotes with collectors from around the world"
+      }
+    }
+  },
+  "Auth": {
+    "login": {
+      "title": "Log In",
+      "subtitle": "Sign in to your account",
+      "password": "Password",
+      "submit": "Log In",
+      "loading": "Logging in...",
+      "error": "Invalid email or password",
+      "noAccount": "Don't have an account?",
+      "registerLink": "Sign Up",
+      "forgotPassword": "Forgot password?"
+    },
+    "forgot": {
+      "title": "Reset Password",
+      "subtitle": "Enter your email and we'll send you a reset link",
+      "submit": "Send Reset Link",
+      "loading": "Sending...",
+      "success": "Email sent",
+      "successDesc": "Check your inbox at {email} and follow the link in the email.",
+      "backToLogin": "Back to Login",
+      "error": "Could not send email. Please check the address."
+    },
+    "reset": {
+      "title": "New Password",
+      "subtitle": "Enter a new password for your account",
+      "password": "New Password",
+      "confirm": "Confirm Password",
+      "submit": "Save Password",
+      "loading": "Saving...",
+      "success": "Password updated",
+      "successDesc": "You can now log in with your new password.",
+      "toLogin": "Log In",
+      "errorMismatch": "Passwords do not match",
+      "errorShort": "Minimum 6 characters",
+      "error": "Could not update password. Please try again."
+    },
+    "register": {
+      "title": "Sign Up",
+      "subtitle": "Free. No hidden terms.",
+      "password": "Password",
+      "passwordPlaceholder": "at least 6 characters",
+      "submit": "Create Account",
+      "loading": "Creating account...",
+      "checkEmail": "Check your email",
+      "checkEmailDesc": "We sent a confirmation link to {email}.",
+      "haveAccount": "Already have an account?",
+      "loginLink": "Log In"
+    }
+  },
+  "Catalog": {
+    "title": "Banknote Catalog",
+    "back": "Back to Catalog",
+    "searchPlaceholder": "Search by denomination, series, Pick #...",
+    "issuersPlaceholder": "All issuers...",
+    "searchBtn": "Search",
+    "moreFilters": "+ More Filters",
+    "clearAll": "Clear All",
+    "apply": "Apply Filters",
+    "country": "Country",
+    "allCountries": "All Countries",
+    "currency": "Currency",
+    "allCurrencies": "All Currencies",
+    "year": "Year",
+    "series": "Series",
+    "pickNo": "Pick #",
+    "material": "Material",
+    "allMaterials": "All",
+    "printer": "Printer",
+    "noPhoto": "No photo available",
+    "obverse": "Obverse",
+    "reverse": "Reverse",
+    "obverseDesc": "Obverse description",
+    "reverseDesc": "Reverse description",
+    "security": "Security features",
+    "details": {
+      "country": "Country",
+      "denomination": "Denomination",
+      "years": "Year(s)",
+      "series": "Series",
+      "pickNo": "Pick #",
+      "issuer": "Issuer",
+      "material": "Material",
+      "size": "Size",
+      "printer": "Printer",
+      "watermark": "Watermark"
+    },
+    "filters": {
+      "searchPlaceholder": "Search by denomination, series, Pick #...",
+      "allIssuers": "All issuers...",
+      "search": "Search",
+      "moreFilters": "+ More filters",
+      "clearAll": "Clear all",
+      "apply": "Apply filters",
+      "country": "Country",
+      "allCountries": "All countries",
+      "currency": "Currency",
+      "allCurrencies": "All currencies",
+      "year": "Year",
+      "from": "from",
+      "to": "to",
+      "series": "Series",
+      "seriesPlaceholder": "series name",
+      "pickPlaceholder": "e.g. P-118",
+      "material": "Material",
+      "all": "All",
+      "printer": "Printer",
+      "printerPlaceholder": "printer name"
+    },
+    "detail": {
+      "country": "Country",
+      "denomination": "Denomination",
+      "years": "Year(s)",
+      "series": "Series",
+      "issuer": "Issuer",
+      "material": "Material",
+      "size": "Size",
+      "printer": "Printer",
+      "watermark": "Watermark",
+      "obverse": "Obverse",
+      "reverse": "Reverse",
+      "noPhoto": "No photo",
+      "obverseDesc": "Obverse description",
+      "reverseDesc": "Reverse description",
+      "security": "Security features"
+    },
+    "count": "{count} entries",
+    "backToCatalog": "Back to catalog"
+  },
+  "Collection": {
+    "title": "My Collection",
+    "subtitle": "{unique} unique · {total} items",
+    "addBtn": "Add Banknote",
+    "emptyTitle": "Collection is empty",
+    "emptyDesc": "Find a banknote in the catalog and add it",
+    "authRequired": "Log in to view your collection",
+    "authDesc": "Sign up for free and start tracking your banknotes",
+    "badges": {
+      "trade": "Trade",
+      "sale": "Sale"
+    }
+  },
+  "CollectionItem": {
+    "back": "My Collection",
+    "obverse": "Obverse",
+    "reverse": "Reverse",
+    "pcsUnit": "pcs",
+    "sections": {
+      "myCopy": "My copy",
+      "grading": "Grading (PMG)",
+      "general": "General information",
+      "refs": "Reference numbers",
+      "physical": "Physical characteristics",
+      "manufacturer": "Manufacturer",
+      "security": "Security",
+      "obverse": "Obverse",
+      "reverse": "Reverse",
+      "comments": "Comments"
+    },
+    "fields": {
+      "grade": "Grade",
+      "quantity": "Quantity",
+      "serial": "Serial number",
+      "price": "Purchase price",
+      "purchaseDate": "Purchase date",
+      "forTrade": "For trade",
+      "forSale": "For sale",
+      "yes": "Yes",
+      "company": "Company",
+      "score": "Score",
+      "certNo": "Certificate #",
+      "designation": "Designation",
+      "issuer": "Issuer",
+      "series": "Series",
+      "type": "Type",
+      "issueDate": "Issue Date",
+      "demonetized": "Demonetized",
+      "material": "Material",
+      "size": "Size",
+      "shape": "Shape",
+      "technique": "Technique",
+      "printer": "Printer",
+      "watermark": "Watermark",
+      "securityFeatures": "Security Features",
+      "desc": "Description",
+      "designers": "Designers",
+      "engravers": "Engravers",
+      "text": "Text"
+    }
+  },
+  "Stats": {
+    "title": "Collection Statistics",
+    "items": "Items",
+    "unique": "Unique",
+    "countries": "Countries",
+    "forSwap": "For Trade",
+    "mapTitle": "Collection Geography",
+    "total": "Total",
+    "noData": "No Data",
+    "gradesTitle": "Condition Distribution",
+    "topCountriesTitle": "Top Countries",
+    "moreCountries": "+{n} more countries",
+    "mapError": "Failed to load map. Check your internet connection.",
+    "authRequired": "Log in to view statistics"
+  }
+}

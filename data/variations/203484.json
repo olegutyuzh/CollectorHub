@@ -1,0 +1,433 @@
+[
+  {
+    "id": 499287,
+    "is_dated": false,
+    "min_year": 2002,
+    "max_year": 2004,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206Ua"
+      }
+    ],
+    "comment": "U (Cameroon), Signatures: Jean-Félix Mamalepot & Peter Akumchi Awa"
+  },
+  {
+    "id": 509804,
+    "is_dated": false,
+    "min_year": 2002,
+    "max_year": 2007,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "106Ta"
+      }
+    ],
+    "comment": "T (Republic of Congo), Signatures: Jean-Félix Mamalepot & Louis Aleka-Rybert"
+  },
+  {
+    "id": 509807,
+    "is_dated": false,
+    "min_year": 2002,
+    "max_year": 2007,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "306Ma"
+      }
+    ],
+    "comment": "M (Central African Republic), Signatures: Jean-Félix Mamalepot & Louis Aleka-Rybert"
+  },
+  {
+    "id": 509810,
+    "is_dated": false,
+    "min_year": 2002,
+    "max_year": 2007,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "406Aa"
+      }
+    ],
+    "comment": "A (Gabon), Signatures: Jean-Félix Mamalepot & Louis Aleka-Rybert"
+  },
+  {
+    "id": 509813,
+    "is_dated": false,
+    "min_year": 2002,
+    "max_year": 2007,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "506Fa"
+      }
+    ],
+    "comment": "F (Equatorial Guinea), Signatures: Jean-Félix Mamalepot & Louis Aleka-Rybert"
+  },
+  {
+    "id": 509816,
+    "is_dated": false,
+    "min_year": 2002,
+    "max_year": 2007,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "606Ca"
+      }
+    ],
+    "comment": "C (Chad), Signatures: Jean-Félix Mamalepot & Louis Aleka-Rybert"
+  },
+  {
+    "id": 499288,
+    "is_dated": false,
+    "min_year": 2005,
+    "max_year": 2007,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206Ub"
+      }
+    ],
+    "comment": "U (Cameroon), Signatures: Jean-Félix Mamalepot & Elung Paul Che"
+  },
+  {
+    "id": 509805,
+    "is_dated": false,
+    "min_year": 2007,
+    "max_year": 2010,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "106Tb"
+      }
+    ],
+    "comment": "T (Republic of Congo), Signatures: Philibert Andzembe & Louis Aleka-Rybert"
+  },
+  {
+    "id": 509809,
+    "is_dated": false,
+    "min_year": 2007,
+    "max_year": 2010,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "306Mb"
+      }
+    ],
+    "comment": "M (Central African Republic), Signatures: Philibert Andzembe & Louis Aleka-Rybert"
+  },
+  {
+    "id": 509811,
+    "is_dated": false,
+    "min_year": 2007,
+    "max_year": 2010,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "406Ab"
+      }
+    ],
+    "comment": "A (Gabon), Signatures: Philibert Andzembe & Louis Aleka-Rybert"
+  },
+  {
+    "id": 509814,
+    "is_dated": false,
+    "min_year": 2007,
+    "max_year": 2010,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "506Fb"
+      }
+    ],
+    "comment": "F (Equatorial Guinea), Signatures: Philibert Andzembe & Louis Aleka-Rybert"
+  },
+  {
+    "id": 509817,
+    "is_dated": false,
+    "min_year": 2007,
+    "max_year": 2010,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "606Cb"
+      }
+    ],
+    "comment": "C (Chad), Signatures: Philibert Andzembe & Louis Aleka-Rybert"
+  },
+  {
+    "id": 499289,
+    "is_dated": false,
+    "min_year": 2009,
+    "max_year": 2009,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206Uc"
+      }
+    ],
+    "comment": "U (Cameroon), Signatures: Philibert Andzembe & Elung Paul Che"
+  },
+  {
+    "id": 509806,
+    "is_dated": false,
+    "min_year": 2010,
+    "max_year": 2017,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "106Tc"
+      }
+    ],
+    "comment": "T (Republic of Congo), Signatures: Lucas Abaga-Nchama & Louis Aleka-Rybert"
+  },
+  {
+    "id": 509815,
+    "is_dated": false,
+    "min_year": 2010,
+    "max_year": 2017,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "506Fc"
+      }
+    ],
+    "comment": "F (Equatorial Guinea), Signatures: Lucas Abaga-Nchama & Louis Aleka-Rybert"
+  },
+  {
+    "id": 509818,
+    "is_dated": false,
+    "min_year": 2010,
+    "max_year": 2017,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "606Cc"
+      }
+    ],
+    "comment": "C (Chad), Signatures: Lucas Abaga-Nchama & Louis Aleka-Rybert"
+  },
+  {
+    "id": 499290,
+    "is_dated": false,
+    "min_year": 2011,
+    "max_year": 2017,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206Ud"
+      }
+    ],
+    "comment": "U (Cameroon), Signatures: Lucas Abaga-Nchama & Salomon Francis Meke"
+  },
+  {
+    "id": 499291,
+    "is_dated": false,
+    "min_year": 2011,
+    "max_year": 2017,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206Ud2"
+      }
+    ],
+    "comment": "U (Cameroon), Signatures: Lucas Abaga-Nchama & Salomon Francis Meke (Hybrid substrate)"
+  },
+  {
+    "id": 509812,
+    "is_dated": false,
+    "min_year": 2013,
+    "max_year": 2017,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "406Ac"
+      }
+    ],
+    "comment": "A (Gabon), Signatures: Lucas Abaga-Nchama & Louis Aleka-Rybert"
+  },
+  {
+    "id": 509808,
+    "is_dated": false,
+    "min_year": 2015,
+    "max_year": 2017,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "306Mc"
+      }
+    ],
+    "comment": "M (Central African Republic), Signatures:Lucas Abaga-Nchama & Louis Aleka-Rybert"
+  },
+  {
+    "id": 792915,
+    "is_dated": false,
+    "min_year": 2017,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "606Ce"
+      }
+    ],
+    "comment": "C (Chad), Signatures: Abbas Mahamat Tolli & Angue"
+  },
+  {
+    "id": 499292,
+    "is_dated": false,
+    "min_year": 2018,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "206Ue"
+      }
+    ],
+    "comment": "U (Cameroon), Signatures: Abbas Mahamat Tolli & Salomon Francis Meke"
+  },
+  {
+    "id": 509819,
+    "is_dated": false,
+    "min_year": 2019,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "606Cd"
+      }
+    ],
+    "comment": "C (Chad), Signatures: Abbas Mahamat Tolli & Louis Aleka-Rybert"
+  },
+  {
+    "id": 792916,
+    "is_dated": false,
+    "min_year": 2021,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "106Td"
+      }
+    ],
+    "comment": "T (Republic of Congo), Signatures: Abbas Mahamat Tolli & Louis Aleka-Rybert"
+  },
+  {
+    "id": 712162,
+    "is_dated": false,
+    "min_year": 2021,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "306Md"
+      }
+    ],
+    "comment": "M (Central African Republic), Signatures: Abbas Mahamat Tolli & Louis Aleka-Rybert"
+  },
+  {
+    "id": 712161,
+    "is_dated": false,
+    "min_year": 2021,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "406Ad"
+      }
+    ],
+    "comment": "A (Gabon), Signatures: Abbas Mahamat Tolli & Louis Aleka-Rybert"
+  },
+  {
+    "id": 712160,
+    "is_dated": false,
+    "min_year": 2021,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "506Fd"
+      }
+    ],
+    "comment": "F (Equatorial Guinea), Signatures: Abbas Mahamat Tolli & Louis Aleka-Rybert"
+  },
+  {
+    "id": 963130,
+    "is_dated": false,
+    "min_year": 2022,
+    "comment": "C (Chad), Signatures: Abbas Mahamat Tolli & Angue"
+  }
+]

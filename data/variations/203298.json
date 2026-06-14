@@ -1,0 +1,605 @@
+[
+  {
+    "id": 696490,
+    "is_dated": true,
+    "year": 1977,
+    "gregorian_year": 1977,
+    "month": 6,
+    "day": 10,
+    "comment": "P#70a, Sigs: C. H. Murray & M. O Murchú"
+  },
+  {
+    "id": 498426,
+    "is_dated": true,
+    "year": 1977,
+    "gregorian_year": 1977,
+    "month": 6,
+    "day": 27,
+    "comment": "P#70a, Sigs: C. H. Murray & M. O Murchú"
+  },
+  {
+    "id": 498424,
+    "is_dated": true,
+    "year": 1977,
+    "gregorian_year": 1977,
+    "month": 9,
+    "day": 20,
+    "comment": "P#70a, Sigs: C. H. Murray & M. O Murchú"
+  },
+  {
+    "id": 498425,
+    "is_dated": true,
+    "year": 1977,
+    "gregorian_year": 1977,
+    "month": 10,
+    "day": 11,
+    "comment": "P#70a, Sigs: C. H. Murray & M. O Murchú"
+  },
+  {
+    "id": 498428,
+    "is_dated": true,
+    "year": 1977,
+    "gregorian_year": 1977,
+    "month": 11,
+    "day": 17,
+    "comment": "P#70a, Sigs: C. H. Murray & M. O Murchú"
+  },
+  {
+    "id": 696491,
+    "is_dated": true,
+    "year": 1977,
+    "gregorian_year": 1977,
+    "month": 11,
+    "day": 29,
+    "comment": "P#70a, Sigs: C. H. Murray & M. O Murchú"
+  },
+  {
+    "id": 695701,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "month": 8,
+    "day": 30,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 498430,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "month": 9,
+    "day": 26,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 696492,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "month": 11,
+    "day": 13,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501959,
+    "is_dated": true,
+    "year": 1978,
+    "gregorian_year": 1978,
+    "month": 12,
+    "day": 21,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501960,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 1,
+    "day": 18,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501961,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 6,
+    "day": 15,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501962,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 7,
+    "day": 11,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501963,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 9,
+    "day": 27,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501964,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 11,
+    "day": 1,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501965,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 11,
+    "day": 19,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501966,
+    "is_dated": true,
+    "year": 1979,
+    "gregorian_year": 1979,
+    "month": 12,
+    "day": 13,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501967,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 8,
+    "day": 20,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501968,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 9,
+    "day": 15,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501969,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 10,
+    "day": 8,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501970,
+    "is_dated": true,
+    "year": 1980,
+    "gregorian_year": 1980,
+    "month": 10,
+    "day": 31,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501971,
+    "is_dated": true,
+    "year": 1981,
+    "gregorian_year": 1981,
+    "month": 4,
+    "day": 9,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501994,
+    "is_dated": true,
+    "year": 1981,
+    "gregorian_year": 1981,
+    "month": 5,
+    "day": 8,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501995,
+    "is_dated": true,
+    "year": 1981,
+    "gregorian_year": 1981,
+    "month": 5,
+    "day": 21,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501996,
+    "is_dated": true,
+    "year": 1981,
+    "gregorian_year": 1981,
+    "month": 9,
+    "day": 21,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501997,
+    "is_dated": true,
+    "year": 1981,
+    "gregorian_year": 1981,
+    "month": 10,
+    "day": 9,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501998,
+    "is_dated": true,
+    "year": 1981,
+    "gregorian_year": 1981,
+    "month": 10,
+    "day": 20,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 501999,
+    "is_dated": true,
+    "year": 1981,
+    "gregorian_year": 1981,
+    "month": 10,
+    "day": 21,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 502000,
+    "is_dated": true,
+    "year": 1981,
+    "gregorian_year": 1981,
+    "month": 10,
+    "day": 30,
+    "comment": "P#70b, Sigs: C. H. Murray & Tomás F. Ó Cofaigh"
+  },
+  {
+    "id": 502001,
+    "is_dated": true,
+    "year": 1982,
+    "gregorian_year": 1982,
+    "month": 6,
+    "day": 30,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502010,
+    "is_dated": true,
+    "year": 1982,
+    "gregorian_year": 1982,
+    "month": 8,
+    "day": 18,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502011,
+    "is_dated": true,
+    "year": 1982,
+    "gregorian_year": 1982,
+    "month": 9,
+    "day": 9,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502012,
+    "is_dated": true,
+    "year": 1982,
+    "gregorian_year": 1982,
+    "month": 9,
+    "day": 29,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502013,
+    "is_dated": true,
+    "year": 1983,
+    "gregorian_year": 1983,
+    "month": 2,
+    "day": 3,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502014,
+    "is_dated": true,
+    "year": 1983,
+    "gregorian_year": 1983,
+    "month": 3,
+    "day": 9,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502015,
+    "is_dated": true,
+    "year": 1983,
+    "gregorian_year": 1983,
+    "month": 4,
+    "day": 15,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502016,
+    "is_dated": true,
+    "year": 1983,
+    "gregorian_year": 1983,
+    "month": 5,
+    "day": 4,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502017,
+    "is_dated": true,
+    "year": 1983,
+    "gregorian_year": 1983,
+    "month": 9,
+    "day": 14,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502018,
+    "is_dated": true,
+    "year": 1984,
+    "gregorian_year": 1984,
+    "month": 2,
+    "day": 20,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502019,
+    "is_dated": true,
+    "year": 1984,
+    "gregorian_year": 1984,
+    "month": 3,
+    "day": 22,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502020,
+    "is_dated": true,
+    "year": 1984,
+    "gregorian_year": 1984,
+    "month": 4,
+    "day": 6,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502021,
+    "is_dated": true,
+    "year": 1984,
+    "gregorian_year": 1984,
+    "month": 7,
+    "day": 10,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502022,
+    "is_dated": true,
+    "year": 1984,
+    "gregorian_year": 1984,
+    "month": 9,
+    "day": 6,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502023,
+    "is_dated": true,
+    "year": 1984,
+    "gregorian_year": 1984,
+    "month": 10,
+    "day": 24,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502024,
+    "is_dated": true,
+    "year": 1984,
+    "gregorian_year": 1984,
+    "month": 11,
+    "day": 15,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502025,
+    "is_dated": true,
+    "year": 1985,
+    "gregorian_year": 1985,
+    "month": 3,
+    "day": 4,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502026,
+    "is_dated": true,
+    "year": 1985,
+    "gregorian_year": 1985,
+    "month": 6,
+    "day": 11,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502027,
+    "is_dated": true,
+    "year": 1985,
+    "gregorian_year": 1985,
+    "month": 7,
+    "day": 9,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502028,
+    "is_dated": true,
+    "year": 1985,
+    "gregorian_year": 1985,
+    "month": 11,
+    "day": 25,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502029,
+    "is_dated": true,
+    "year": 1986,
+    "gregorian_year": 1986,
+    "month": 1,
+    "day": 6,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502030,
+    "is_dated": true,
+    "year": 1986,
+    "gregorian_year": 1986,
+    "month": 2,
+    "day": 19,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502031,
+    "is_dated": true,
+    "year": 1986,
+    "gregorian_year": 1986,
+    "month": 4,
+    "day": 28,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502032,
+    "is_dated": true,
+    "year": 1986,
+    "gregorian_year": 1986,
+    "month": 5,
+    "day": 30,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502033,
+    "is_dated": true,
+    "year": 1986,
+    "gregorian_year": 1986,
+    "month": 9,
+    "day": 18,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502083,
+    "is_dated": true,
+    "year": 1987,
+    "gregorian_year": 1987,
+    "month": 2,
+    "day": 16,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502084,
+    "is_dated": true,
+    "year": 1987,
+    "gregorian_year": 1987,
+    "month": 3,
+    "day": 25,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502085,
+    "is_dated": true,
+    "year": 1987,
+    "gregorian_year": 1987,
+    "month": 4,
+    "day": 22,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502086,
+    "is_dated": true,
+    "year": 1987,
+    "gregorian_year": 1987,
+    "month": 4,
+    "day": 24,
+    "comment": "P#70c, Sigs: Tomás F. Ó Cofaigh & Maurice Doyle"
+  },
+  {
+    "id": 502087,
+    "is_dated": true,
+    "year": 1988,
+    "gregorian_year": 1988,
+    "month": 3,
+    "day": 23,
+    "comment": "P#70d, Sigs: Maurice Doyle & S. P. Cromien"
+  },
+  {
+    "id": 502088,
+    "is_dated": true,
+    "year": 1988,
+    "gregorian_year": 1988,
+    "month": 4,
+    "day": 26,
+    "comment": "P#70d, Sigs: Maurice Doyle & S. P. Cromien"
+  },
+  {
+    "id": 502089,
+    "is_dated": true,
+    "year": 1988,
+    "gregorian_year": 1988,
+    "month": 7,
+    "day": 14,
+    "comment": "P#70d, Sigs: Maurice Doyle & S. P. Cromien"
+  },
+  {
+    "id": 502090,
+    "is_dated": true,
+    "year": 1988,
+    "gregorian_year": 1988,
+    "month": 10,
+    "day": 10,
+    "comment": "P#70d, Sigs: Maurice Doyle & S. P. Cromien"
+  },
+  {
+    "id": 502091,
+    "is_dated": true,
+    "year": 1989,
+    "gregorian_year": 1989,
+    "month": 1,
+    "day": 9,
+    "comment": "P#70d, Sigs: Maurice Doyle & S. P. Cromien"
+  },
+  {
+    "id": 502092,
+    "is_dated": true,
+    "year": 1989,
+    "gregorian_year": 1989,
+    "month": 2,
+    "day": 15,
+    "comment": "P#70d, Sigs: Maurice Doyle & S. P. Cromien"
+  },
+  {
+    "id": 502093,
+    "is_dated": true,
+    "year": 1989,
+    "gregorian_year": 1989,
+    "month": 3,
+    "day": 16,
+    "comment": "P#70d, Sigs: Maurice Doyle & S. P. Cromien"
+  },
+  {
+    "id": 502094,
+    "is_dated": true,
+    "year": 1989,
+    "gregorian_year": 1989,
+    "month": 4,
+    "day": 12,
+    "comment": "P#70d, Sigs: Maurice Doyle & S. P. Cromien"
+  },
+  {
+    "id": 502095,
+    "is_dated": true,
+    "year": 1989,
+    "gregorian_year": 1989,
+    "month": 7,
+    "day": 17,
+    "comment": "P#70d, Sigs: Maurice Doyle & S. P. Cromien"
+  }
+]

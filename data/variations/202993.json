@@ -1,0 +1,104 @@
+[
+  {
+    "id": 497266,
+    "is_dated": false,
+    "min_year": 2017,
+    "max_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Alain Herve Rasolofondraibe",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "102a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B337a"
+      }
+    ],
+    "comment": "Issued note"
+  },
+  {
+    "id": 497267,
+    "is_dated": false,
+    "min_year": 2017,
+    "max_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Alain Herve Rasolofondraibe",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "102s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B337as"
+      }
+    ],
+    "comment": "Specimen"
+  },
+  {
+    "id": 843591,
+    "is_dated": false,
+    "min_year": 2022,
+    "max_year": 2022,
+    "signatures": [
+      {
+        "signer_name": "Henri Edmond Rabarijohn",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B337b"
+      }
+    ],
+    "comment": "Issued note"
+  },
+  {
+    "id": 1035807,
+    "is_dated": false,
+    "min_year": 2025,
+    "max_year": 2025,
+    "signatures": [
+      {
+        "signer_name": "Aivo Handriatiana Andrianarivelo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B337c"
+      }
+    ],
+    "comment": "Issued note"
+  }
+]

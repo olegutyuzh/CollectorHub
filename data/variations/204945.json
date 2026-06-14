@@ -1,0 +1,90 @@
+[
+  {
+    "id": 810290,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "John A. Rolle",
+        "title": "Governor of Central Bank of The Bahamas"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "77 var."
+      }
+    ],
+    "comment": "Specimen (No overprint)"
+  },
+  {
+    "id": 810289,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "John A. Rolle",
+        "title": "Governor of Central Bank of The Bahamas"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "77 var."
+      }
+    ],
+    "comment": "Specimen (Red overprint)"
+  },
+  {
+    "id": 505561,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "John A. Rolle",
+        "title": "Governor of Central Bank of The Bahamas"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "77a"
+      }
+    ],
+    "comment": "Issued note"
+  },
+  {
+    "id": 512706,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "John A. Rolle",
+        "title": "Governor of Central Bank of The Bahamas"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "77r"
+      }
+    ],
+    "comment": "Replacement (Z prefix)"
+  }
+]

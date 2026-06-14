@@ -1,0 +1,598 @@
+[
+  {
+    "id": 517086,
+    "is_dated": true,
+    "year": 1423,
+    "gregorian_year": 2002,
+    "signatures": [
+      {
+        "signer_name": "Michael Marto \"2nd sign\"",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Umayya Salah Toukan",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229a"
+      }
+    ]
+  },
+  {
+    "id": 535280,
+    "is_dated": true,
+    "year": 1423,
+    "gregorian_year": 2002,
+    "signatures": [
+      {
+        "signer_name": "Michael Marto \"2nd sign\"",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Umayya Salah Toukan",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229as"
+      }
+    ],
+    "comment": "Specimen; as a"
+  },
+  {
+    "id": 510959,
+    "is_dated": true,
+    "year": 1426,
+    "gregorian_year": 2005,
+    "signatures": [
+      {
+        "signer_name": "Bassem Awadallah",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Umayya Salah Toukan",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34b"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229b"
+      }
+    ]
+  },
+  {
+    "id": 535281,
+    "is_dated": true,
+    "year": 1426,
+    "gregorian_year": 2005,
+    "signatures": [
+      {
+        "signer_name": "Bassem Awadallah",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Umayya Salah Toukan",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229bs"
+      }
+    ],
+    "comment": "Specimen, as b"
+  },
+  {
+    "id": 535279,
+    "is_dated": true,
+    "year": 1427,
+    "gregorian_year": 2006,
+    "signatures": [
+      {
+        "signer_name": "Ziad Fariz",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Umayya Salah Toukan",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34c"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229c"
+      }
+    ]
+  },
+  {
+    "id": 535282,
+    "is_dated": true,
+    "year": 1427,
+    "gregorian_year": 2006,
+    "signatures": [
+      {
+        "signer_name": "Ziad Fariz",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Umayya Salah Toukan",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229cs"
+      }
+    ],
+    "comment": "Specimen, as c"
+  },
+  {
+    "id": 510960,
+    "is_dated": true,
+    "year": 1429,
+    "gregorian_year": 2008,
+    "signatures": [
+      {
+        "signer_name": "Hamad Al-Kasasbeh",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Umayya Salah Toukan",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34d"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229d"
+      }
+    ]
+  },
+  {
+    "id": 535283,
+    "is_dated": true,
+    "year": 1429,
+    "gregorian_year": 2008,
+    "signatures": [
+      {
+        "signer_name": "Hamad Al-Kasasbeh",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Umayya Salah Toukan",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229ds"
+      }
+    ],
+    "comment": "Specimen, as d"
+  },
+  {
+    "id": 510962,
+    "is_dated": true,
+    "year": 1430,
+    "gregorian_year": 2009,
+    "signatures": [
+      {
+        "signer_name": "Basem Al-Salem",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Umayya Salah Toukan",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34e"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229e"
+      }
+    ]
+  },
+  {
+    "id": 535284,
+    "is_dated": true,
+    "year": 1430,
+    "gregorian_year": 2009,
+    "signatures": [
+      {
+        "signer_name": "Basem Al-Salem",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Umayya Salah Toukan",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229es"
+      }
+    ],
+    "comment": "Specimen, as e"
+  },
+  {
+    "id": 510963,
+    "is_dated": true,
+    "year": 1432,
+    "gregorian_year": 2011,
+    "signatures": [
+      {
+        "signer_name": "Mohammad Abu Hammour",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Faris Abdel Hamid Sharaf",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34f"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229f"
+      }
+    ]
+  },
+  {
+    "id": 535285,
+    "is_dated": true,
+    "year": 1432,
+    "gregorian_year": 2011,
+    "signatures": [
+      {
+        "signer_name": "Mohammad Abu Hammour",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Faris Abdel Hamid Sharaf",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229fs"
+      }
+    ],
+    "comment": "Specimen, as f"
+  },
+  {
+    "id": 503828,
+    "is_dated": true,
+    "year": 1434,
+    "gregorian_year": 2013,
+    "signatures": [
+      {
+        "signer_name": "Suleiman Hafez",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Ziad Fariz",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34g"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229g"
+      }
+    ]
+  },
+  {
+    "id": 535286,
+    "is_dated": true,
+    "year": 1434,
+    "gregorian_year": 2013,
+    "signatures": [
+      {
+        "signer_name": "Suleiman Hafez",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Ziad Fariz",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229gs"
+      }
+    ],
+    "comment": "Specimen, as g"
+  },
+  {
+    "id": 503829,
+    "is_dated": true,
+    "year": 1437,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Umayya Salah Toukan",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Ziad Fariz",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34h"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229h"
+      }
+    ]
+  },
+  {
+    "id": 535287,
+    "is_dated": true,
+    "year": 1437,
+    "gregorian_year": 2016,
+    "signatures": [
+      {
+        "signer_name": "Umayya Salah Toukan",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Ziad Fariz",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "34s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229hs"
+      }
+    ],
+    "comment": "Specimen, as h"
+  },
+  {
+    "id": 686020,
+    "is_dated": true,
+    "year": 1441,
+    "gregorian_year": 2020,
+    "signatures": [
+      {
+        "signer_name": "Ezzedine Mohiuddin Kanakriyah",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Ziad Fariz",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229i"
+      }
+    ]
+  },
+  {
+    "id": 686021,
+    "is_dated": true,
+    "year": 1442,
+    "gregorian_year": 2021,
+    "signatures": [
+      {
+        "signer_name": "Mohamad Al-Ississ",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Ziad Fariz",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229j"
+      }
+    ]
+  },
+  {
+    "id": 686022,
+    "is_dated": true,
+    "year": 1442,
+    "gregorian_year": 2021,
+    "signatures": [
+      {
+        "signer_name": "Mohamad Al-Ississ",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Ziad Fariz",
+        "title": "Governor of The Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B229js"
+      }
+    ],
+    "comment": "Specimen, as j"
+  }
+]

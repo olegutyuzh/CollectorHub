@@ -1,0 +1,16 @@
+[
+  {
+    "id": 499862,
+    "is_dated": false,
+    "min_year": 1940,
+    "max_year": 1945,
+    "comment": "#R138a; 7 digit serial#; September 1939"
+  },
+  {
+    "id": 503497,
+    "is_dated": false,
+    "min_year": 1940,
+    "max_year": 1945,
+    "comment": "#R138b; 8 digit serial#"
+  }
+]

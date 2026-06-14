@@ -1,0 +1,220 @@
+[
+  {
+    "id": 781196,
+    "is_dated": false,
+    "min_year": 2000,
+    "max_year": 2000,
+    "signatures": [
+      {
+        "signer_name": "Pedro Sampaio Malan",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Armí­nio Fraga Neto",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "comment": "Series: #A0009...C; Print error - Should be A0009...D"
+  },
+  {
+    "id": 529208,
+    "is_dated": false,
+    "min_year": 2000,
+    "max_year": 2000,
+    "signatures": [
+      {
+        "signer_name": "Pedro Sampaio Malan",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Armí­nio Fraga Neto",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 100000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C331"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "630.02"
+      }
+    ],
+    "comment": "Series: #0211 AD; Replacement (without ✻)"
+  },
+  {
+    "id": 494652,
+    "is_dated": false,
+    "min_year": 2000,
+    "max_year": 2000,
+    "signatures": [
+      {
+        "signer_name": "Pedro Sampaio Malan",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Armí­nio Fraga Neto",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 58600000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C331"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "630.01"
+      },
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "248a"
+      }
+    ],
+    "comment": "Series: #A0001 - A0586 (Stamp D); Name as \"PEDRO A. CABRAL\""
+  },
+  {
+    "id": 529296,
+    "is_dated": false,
+    "min_year": 2000,
+    "max_year": 2000,
+    "signatures": [
+      {
+        "signer_name": "Pedro Sampaio Malan",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Armí­nio Fraga Neto",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C331"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "630.01"
+      }
+    ],
+    "comment": "Series: #A0001; Special folder"
+  },
+  {
+    "id": 529207,
+    "is_dated": false,
+    "min_year": 2000,
+    "max_year": 2000,
+    "signatures": [
+      {
+        "signer_name": "Pedro Sampaio Malan",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Armí­nio Fraga Neto",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C331m"
+      }
+    ],
+    "comment": "Specimen (MODELO / SEM VALOR)"
+  },
+  {
+    "id": 494653,
+    "is_dated": false,
+    "min_year": 2001,
+    "max_year": 2001,
+    "signatures": [
+      {
+        "signer_name": "Pedro Sampaio Malan",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Armí­nio Fraga Neto",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "mintage": 195000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C332"
+      },
+      {
+        "catalogue": {
+          "id": 2109,
+          "code": "PMLC"
+        },
+        "number": "630.03"
+      },
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "248b"
+      }
+    ],
+    "comment": "Series: #A0587 - A2536 (Stamp D); Name as \"PEDRO ÁLVARES CABRAL\""
+  },
+  {
+    "id": 533886,
+    "is_dated": false,
+    "min_year": 2001,
+    "max_year": 2001,
+    "signatures": [
+      {
+        "signer_name": "Pedro Sampaio Malan",
+        "title": "Finance Minister"
+      },
+      {
+        "signer_name": "Armí­nio Fraga Neto",
+        "title": "President of the Central Bank of Brazil"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 1186,
+          "code": "AI Notes"
+        },
+        "number": "C332m"
+      }
+    ],
+    "comment": "Specimen (MODELO / SEM VALOR)"
+  }
+]

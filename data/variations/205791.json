@@ -1,0 +1,527 @@
+[
+  {
+    "id": 509214,
+    "is_dated": true,
+    "year": 1918,
+    "gregorian_year": 1918,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33a"
+      }
+    ]
+  },
+  {
+    "id": 509215,
+    "is_dated": true,
+    "year": 1919,
+    "gregorian_year": 1919,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33b"
+      }
+    ]
+  },
+  {
+    "id": 509216,
+    "is_dated": true,
+    "year": 1920,
+    "gregorian_year": 1920,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33c"
+      }
+    ]
+  },
+  {
+    "id": 509217,
+    "is_dated": true,
+    "year": 1921,
+    "gregorian_year": 1921,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33d"
+      }
+    ]
+  },
+  {
+    "id": 509218,
+    "is_dated": true,
+    "year": 1922,
+    "gregorian_year": 1922,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33e"
+      }
+    ]
+  },
+  {
+    "id": 509219,
+    "is_dated": true,
+    "year": 1923,
+    "gregorian_year": 1923,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33f"
+      }
+    ]
+  },
+  {
+    "id": 509220,
+    "is_dated": true,
+    "year": 1924,
+    "gregorian_year": 1924,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33g"
+      }
+    ]
+  },
+  {
+    "id": 509221,
+    "is_dated": true,
+    "year": 1925,
+    "gregorian_year": 1925,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33h"
+      }
+    ]
+  },
+  {
+    "id": 509222,
+    "is_dated": true,
+    "year": 1926,
+    "gregorian_year": 1926,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33i"
+      }
+    ]
+  },
+  {
+    "id": 509223,
+    "is_dated": true,
+    "year": 1927,
+    "gregorian_year": 1927,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33j"
+      }
+    ]
+  },
+  {
+    "id": 509224,
+    "is_dated": true,
+    "year": 1928,
+    "gregorian_year": 1928,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33k"
+      }
+    ]
+  },
+  {
+    "id": 509225,
+    "is_dated": true,
+    "year": 1929,
+    "gregorian_year": 1929,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33l"
+      }
+    ]
+  },
+  {
+    "id": 509226,
+    "is_dated": true,
+    "year": 1930,
+    "gregorian_year": 1930,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33m"
+      }
+    ]
+  },
+  {
+    "id": 509227,
+    "is_dated": true,
+    "year": 1931,
+    "gregorian_year": 1931,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33n"
+      }
+    ]
+  },
+  {
+    "id": 509228,
+    "is_dated": true,
+    "year": 1932,
+    "gregorian_year": 1932,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33o"
+      }
+    ]
+  },
+  {
+    "id": 509229,
+    "is_dated": true,
+    "year": 1933,
+    "gregorian_year": 1933,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33p"
+      }
+    ]
+  },
+  {
+    "id": 509230,
+    "is_dated": true,
+    "year": 1934,
+    "gregorian_year": 1934,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33q"
+      }
+    ]
+  },
+  {
+    "id": 509231,
+    "is_dated": true,
+    "year": 1935,
+    "gregorian_year": 1935,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33r"
+      }
+    ]
+  },
+  {
+    "id": 509232,
+    "is_dated": true,
+    "year": 1936,
+    "gregorian_year": 1936,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33s"
+      }
+    ]
+  },
+  {
+    "id": 509233,
+    "is_dated": true,
+    "year": 1937,
+    "gregorian_year": 1937,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33t"
+      }
+    ]
+  },
+  {
+    "id": 509234,
+    "is_dated": true,
+    "year": 1938,
+    "gregorian_year": 1938,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33u"
+      }
+    ]
+  },
+  {
+    "id": 509235,
+    "is_dated": true,
+    "year": 1939,
+    "gregorian_year": 1939,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33v"
+      }
+    ]
+  },
+  {
+    "id": 509236,
+    "is_dated": true,
+    "year": 1940,
+    "gregorian_year": 1940,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33w"
+      }
+    ]
+  },
+  {
+    "id": 509237,
+    "is_dated": true,
+    "year": 1941,
+    "gregorian_year": 1941,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33x"
+      }
+    ]
+  },
+  {
+    "id": 509238,
+    "is_dated": true,
+    "year": 1942,
+    "gregorian_year": 1942,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33y"
+      }
+    ]
+  },
+  {
+    "id": 509239,
+    "is_dated": true,
+    "year": 1943,
+    "gregorian_year": 1943,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33z"
+      }
+    ]
+  },
+  {
+    "id": 509240,
+    "is_dated": true,
+    "year": 1944,
+    "gregorian_year": 1944,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33aa"
+      }
+    ]
+  },
+  {
+    "id": 509241,
+    "is_dated": true,
+    "year": 1945,
+    "gregorian_year": 1945,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33ab"
+      }
+    ]
+  },
+  {
+    "id": 509242,
+    "is_dated": true,
+    "year": 1946,
+    "gregorian_year": 1946,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33ac"
+      }
+    ]
+  },
+  {
+    "id": 509243,
+    "is_dated": true,
+    "year": 1947,
+    "gregorian_year": 1947,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33ad"
+      }
+    ]
+  },
+  {
+    "id": 509244,
+    "is_dated": true,
+    "year": 1948,
+    "gregorian_year": 1948,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33ae"
+      }
+    ]
+  },
+  {
+    "id": 509245,
+    "is_dated": true,
+    "year": 1949,
+    "gregorian_year": 1949,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33af"
+      }
+    ]
+  },
+  {
+    "id": 509246,
+    "is_dated": true,
+    "year": 1950,
+    "gregorian_year": 1950,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33ag"
+      }
+    ]
+  },
+  {
+    "id": 509247,
+    "is_dated": true,
+    "year": 1951,
+    "gregorian_year": 1951,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33ah"
+      }
+    ]
+  },
+  {
+    "id": 509248,
+    "is_dated": true,
+    "year": 1952,
+    "gregorian_year": 1952,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "33ai"
+      }
+    ]
+  }
+]

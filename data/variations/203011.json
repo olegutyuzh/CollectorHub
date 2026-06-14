@@ -1,0 +1,61 @@
+[
+  {
+    "id": 497313,
+    "is_dated": true,
+    "year": 1992,
+    "gregorian_year": 1992,
+    "month": 1,
+    "day": 15,
+    "signatures": [
+      {
+        "signer_name": "France Arhar",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Velimir Bole",
+        "title": "Member of Council"
+      }
+    ],
+    "mintage": 40000000,
+    "comment": "P#12a Known serial # prefixes: AA, FF-FH, FJ-FN, FP, FR-FT, FV, FZ, GF, HF, HP, HR, JF, KF, LF, MF, NF, PF, RF, SF, TF, UF, VF, VG-VH, VJ-VN, VP, VR-VS"
+  },
+  {
+    "id": 497314,
+    "is_dated": true,
+    "year": 1992,
+    "gregorian_year": 1992,
+    "month": 1,
+    "day": 15,
+    "signatures": [
+      {
+        "signer_name": "France Arhar",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Velimir Bole",
+        "title": "Member of Council"
+      }
+    ],
+    "comment": "P#12r Replacement note with serial # prefix AZ"
+  },
+  {
+    "id": 497315,
+    "is_dated": true,
+    "year": 1992,
+    "gregorian_year": 1992,
+    "month": 1,
+    "day": 15,
+    "signatures": [
+      {
+        "signer_name": "France Arhar",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Velimir Bole",
+        "title": "Member of Council"
+      }
+    ],
+    "mintage": 1000,
+    "comment": "P#12s Specimen note with overprint SPECIMEN and VZOREC"
+  }
+]

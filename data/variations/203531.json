@@ -1,0 +1,95 @@
+[
+  {
+    "id": 499411,
+    "is_dated": true,
+    "year": 2003,
+    "gregorian_year": 2003,
+    "month": 6,
+    "day": 30,
+    "signatures": [
+      {
+        "signer_name": "Jean-Claude Masangu-Mulongo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "93a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "312a"
+      }
+    ],
+    "comment": "Issued note; printer: Giesecke & Devrient, Germany"
+  },
+  {
+    "id": 568132,
+    "is_dated": true,
+    "year": 2003,
+    "gregorian_year": 2003,
+    "month": 6,
+    "day": 30,
+    "signatures": [
+      {
+        "signer_name": "Jean-Claude Masangu-Mulongo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "93A"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "312b"
+      }
+    ],
+    "comment": "Issued note; printer: Hôtel des Monnaies, Kinshasa"
+  },
+  {
+    "id": 501863,
+    "is_dated": true,
+    "year": 2003,
+    "gregorian_year": 2003,
+    "month": 6,
+    "day": 30,
+    "signatures": [
+      {
+        "signer_name": "Jean-Claude Masangu-Mulongo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "93s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "312as"
+      }
+    ],
+    "comment": "Specimen; printer: Giesecke & Devrient, Germany"
+  }
+]

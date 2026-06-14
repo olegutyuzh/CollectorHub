@@ -1,0 +1,147 @@
+{
+  "id": 205730,
+  "url": "https://en.numista.com/205730",
+  "title": "100 Kroner (Famous Men and Women. Type 2; enhanced security features)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "danemark",
+    "name": "Denmark"
+  },
+  "issuing_entity": {
+    "id": 588,
+    "name": "National Bank of Denmark",
+    "wikidata_id": "Q683252"
+  },
+  "min_year": 2002,
+  "max_year": 2008,
+  "ruler": [
+    {
+      "id": 2404,
+      "name": "Margrethe II",
+      "wikidata_id": "Q102139",
+      "group": {
+        "id": 104,
+        "name": "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+      }
+    }
+  ],
+  "value": {
+    "text": "100 Kroner",
+    "numeric_value": 100,
+    "currency": {
+      "id": 13,
+      "name": "Krone",
+      "full_name": "Krone (1873-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2002-11-27"
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2025-05-31"
+  },
+  "size": 135,
+  "size2": 72,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Mainly identical with type 1, but more security features are added.\r\nRed brown and black on orange background.\r\nOn the right side a portrait of famous composer Carl Nielsen, with a note and text ”Carl Nielsen\" and 3 stylized snails.\r\nUpper left a rhombe shaped hologram with notes, a \"C (for hundred) and \"100\" can be seen depending on how the note is angeled. \r\nThe numbers and signatures are printet with luminous colors. Furthermore the main motif from the reverse is printet with ultraviolet color and can only be seen in ultraviolet light.",
+    "lettering": "100\r\n100\r\nHUNDREDE\r\nKRONER\r\nDANMARKS NATIONALBANK ©",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Hundred Kroner\r\nNational Bank of Denmark",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/5f29b92231f6a6.81324311-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f29b92231f6a6.81324311-180.jpg",
+    "picture_copyright": "dampe54",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "On the left a basilisk inspired by a stone relief from Tømmerby Church in Thy. Behind which is a cross-shaped rosette in orange and gray.\r\nOn the right side an orange circle surrounding the watermark. In the orange circle is the serial specification. Inside the circle, a lot of smaller orange circles.",
+    "lettering": "100\r\nHUNDREDE KRONER\r\nSERIE 1997 UDSTEDT I HENHOLD TIL LOV OM DANMARKS NATIONALBANK ©",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Hundred Kroner\r\nSerie 1997, issued according to the law of the Nationalbank of Denmark ©",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/5e9ec042821776.12935943-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9ec042821776.12935943-180.jpg",
+    "picture_license_name": "CC0",
+    "picture_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "series": "Kronesedlerne 8th issue - Famous men and women",
+  "comments": "<p><strong>Withdrawel:</strong><br>Withdrawn since: 4th May 2010<br>&nbsp;</p><p><strong>Year:</strong><br>Middle two digits of Serial-number give the printing year: D3082A Prefix D3, year (20)08.<br>&nbsp;</p><p><strong>Signatures:</strong><br>The Left signature is one of the Govenors for Denmarks National Bank. The right signature is the Chief Cashier.<br>&nbsp;</p><p><strong>Difference from P#56:</strong></p><p><strong>- UV</strong><br>Type 2 has a hologram with microprint and lumiscent colours. The obverse has an invisible print of the main motive on the reverse, only visible in UV light. The serial numbers, the signatures and the main colours of the obvers' motive.</p>",
+  "related_types": [
+    {
+      "id": 205743,
+      "title": "100 Kroner (Famous Men and Women. Type 1)",
+      "category": "banknote",
+      "country": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "minYear": 1999,
+      "maxYear": 2001
+    }
+  ],
+  "tags": [
+    "Fantasy animal",
+    "Other animal",
+    "Music",
+    "Sculpture",
+    "Artist",
+    "Hat",
+    "Flower",
+    "Cross"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "61"
+    },
+    {
+      "catalogue": {
+        "id": 996,
+        "code": "SIEG SD"
+      },
+      "number": "152"
+    },
+    {
+      "catalogue": {
+        "id": 2262,
+        "code": "DNF"
+      },
+      "number": "10.2"
+    }
+  ],
+  "watermark": {
+    "description": "Portrait of Carl Nielsen.\r\nBlack hidden Security thread. \r\nPartly visible metallic security thread ”window thread ” with ”100 KR”\r\nMicro print. On the Obverse is ”100 KR” printed around the watermark in micro print, and several other places, micro print are used in different sizes.",
+    "picture": "https://en.numista.com/catalogue/photos/danemark/5f29b1bf70b5f0.55022283-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f29b1bf70b5f0.55022283-180.jpg",
+    "picture_copyright": "dampe54",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 151,
+      "name": "Denmarks Nationalbank's Banknote Printing Works"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

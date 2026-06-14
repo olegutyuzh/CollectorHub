@@ -1,0 +1,58 @@
+[
+  {
+    "id": 501725,
+    "is_dated": true,
+    "year": 2072,
+    "gregorian_year": 2015,
+    "signatures": [
+      {
+        "signer_name": "Chiranjivi Nepal",
+        "title": "Governor"
+      }
+    ],
+    "mintage": 120000000,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "80a"
+      }
+    ]
+  },
+  {
+    "id": 505986,
+    "is_dated": true,
+    "year": 2075,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "Chiranjivi Nepal",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "80b"
+      }
+    ],
+    "comment": "Chinese Printer"
+  },
+  {
+    "id": 1037597,
+    "is_dated": true,
+    "year": 2081,
+    "gregorian_year": 2025,
+    "signatures": [
+      {
+        "signer_name": "Maha Prasad Adikari",
+        "title": "Governor"
+      }
+    ]
+  }
+]

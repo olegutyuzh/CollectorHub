@@ -1,0 +1,114 @@
+[
+  {
+    "id": 505909,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "month": 1,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Alan F. Richardson",
+        "title": "Chairman, Bermuda Monetary Authority"
+      },
+      {
+        "signer_name": "E. Barclay Simmons",
+        "title": "Director, Bermuda Monetary Authority"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57a"
+      }
+    ],
+    "comment": "Serial prefix onion"
+  },
+  {
+    "id": 509026,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "month": 1,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Alan C. Cossar",
+        "title": "Chairman, Bermuda Monetary Authority"
+      },
+      {
+        "signer_name": "E. Barclay Simmons",
+        "title": "Director, Bermuda Monetary Authority"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "Serial prefix A/1; A/2"
+  },
+  {
+    "id": 509027,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "month": 1,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Gerald Simons",
+        "title": "Director, Bermuda Monetary Authority"
+      },
+      {
+        "signer_name": "Ronald Simons",
+        "title": "Director, Bermuda Monetary Authority"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57c"
+      }
+    ],
+    "comment": "Serial prefix A/2; A/3"
+  },
+  {
+    "id": 509028,
+    "is_dated": true,
+    "year": 2009,
+    "gregorian_year": 2009,
+    "month": 1,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Alan F. Richardson",
+        "title": "Chairman, Bermuda Monetary Authority"
+      },
+      {
+        "signer_name": "E. Barclay Simmons",
+        "title": "Director, Bermuda Monetary Authority"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57s"
+      }
+    ],
+    "comment": "Specimen"
+  }
+]

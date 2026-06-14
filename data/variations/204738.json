@@ -1,0 +1,972 @@
+[
+  {
+    "id": 504947,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "signatures": [
+      {
+        "signer_name": "Ali Mohamed Negm",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 59999994,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57a"
+      }
+    ],
+    "comment": "01.04.1985 to 02.06.1985; Prefix (142/ص) to (147/ص); -->** Admin Please add year 1985"
+  },
+  {
+    "id": 504955,
+    "is_dated": false,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57s"
+      }
+    ],
+    "comment": "Specimen. Red overprint in Arabic script."
+  },
+  {
+    "id": 767102,
+    "is_dated": true,
+    "year": 0,
+    "gregorian_year": 0,
+    "month": 1,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "Mohamed Shalaby",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "(141/ص) ; WM1 ; ST1 --->** Admin Please add year 1985"
+  },
+  {
+    "id": 1053550,
+    "is_dated": true,
+    "year": 1985,
+    "gregorian_year": 1985,
+    "month": 1,
+    "day": 4,
+    "signatures": [
+      {
+        "signer_name": "Ali Mohamed Negm",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57a"
+      }
+    ],
+    "comment": "Replacement (200/ص)"
+  },
+  {
+    "id": 1053549,
+    "is_dated": true,
+    "year": 1985,
+    "gregorian_year": 1985,
+    "month": 1,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "Mohamed Shalaby",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57a"
+      }
+    ],
+    "comment": "Replacement (200/ص)"
+  },
+  {
+    "id": 1023542,
+    "is_dated": true,
+    "year": 1987,
+    "gregorian_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Mahmoud Salah Eldin Hamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 79999992,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57a"
+      }
+    ],
+    "comment": "03.05.1987 to 07.12.1987; Prefix (148/ص) to (155/ص); WM1 ; ST1;8 Prefixes"
+  },
+  {
+    "id": 1053666,
+    "is_dated": true,
+    "year": 1987,
+    "gregorian_year": 1987,
+    "month": 5,
+    "day": 3,
+    "signatures": [
+      {
+        "signer_name": "Mahmoud Salah Eldin Hamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57a"
+      }
+    ],
+    "comment": "Replacement (200/ص); WM1; ST1"
+  },
+  {
+    "id": 1053667,
+    "is_dated": true,
+    "year": 1987,
+    "gregorian_year": 1987,
+    "month": 5,
+    "day": 3,
+    "signatures": [
+      {
+        "signer_name": "Mahmoud Salah Eldin Hamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "Replacement (200/ص); WM1; ST2"
+  },
+  {
+    "id": 1023541,
+    "is_dated": true,
+    "year": 1989,
+    "gregorian_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Mahmoud Salah Eldin Hamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 79999992,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57a"
+      }
+    ],
+    "comment": "29.01.1989 to 28.11.1989; Prefix (156/ص) to (163/ص); WM1 ; ST1;8 Prefixes"
+  },
+  {
+    "id": 1053668,
+    "is_dated": true,
+    "year": 1989,
+    "gregorian_year": 1989,
+    "signatures": [
+      {
+        "signer_name": "Mahmoud Salah Eldin Hamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 19999998,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "29.11.1989 & 30.11.1989; Prefix (164/ص) & (165/ص); WM1 ; ST2; 2 Prefixes"
+  },
+  {
+    "id": 1053664,
+    "is_dated": true,
+    "year": 1989,
+    "gregorian_year": 1989,
+    "month": 11,
+    "day": 28,
+    "signatures": [
+      {
+        "signer_name": "Mahmoud Salah Eldin Hamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "(163/ص); ST2; See Comments."
+  },
+  {
+    "id": 1053663,
+    "is_dated": true,
+    "year": 1989,
+    "gregorian_year": 1989,
+    "month": 11,
+    "day": 29,
+    "signatures": [
+      {
+        "signer_name": "Mahmoud Salah Eldin Hamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57a"
+      }
+    ],
+    "comment": "(164/ص); ST1; See comments."
+  },
+  {
+    "id": 1053819,
+    "is_dated": true,
+    "year": 1990,
+    "gregorian_year": 1990,
+    "signatures": [
+      {
+        "signer_name": "Mahmoud Salah Eldin Hamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 129999987,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "25.02.1990 to 19.12.1990; Prefix (166/ص) to (178/ص); WM1 ; ST2;13 Prefixes"
+  },
+  {
+    "id": 504948,
+    "is_dated": false,
+    "min_year": 1990,
+    "max_year": 1999,
+    "signatures": [
+      {
+        "signer_name": "Mahmoud Salah Eldin Hamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "P#57b Segmented security thread with bank name repeated. Signature: (Salah Hamed), (Ismaeil Hassan)"
+  },
+  {
+    "id": 1053820,
+    "is_dated": true,
+    "year": 1991,
+    "gregorian_year": 1991,
+    "signatures": [
+      {
+        "signer_name": "Mahmoud Salah Eldin Hamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 159999984,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "11.03.1991 to 16.10.1991; Prefix (179/ص) to (194/ص); WM1 ; ST2;16 Prefixes"
+  },
+  {
+    "id": 1053544,
+    "is_dated": true,
+    "year": 1992,
+    "gregorian_year": 1992,
+    "signatures": [
+      {
+        "signer_name": "Mahmoud Salah Eldin Hamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 79999992,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "17.02.1992 to 08.10.1992; Prefix (195/ص) to (203/ص);\t8 Prefixes"
+  },
+  {
+    "id": 1053826,
+    "is_dated": true,
+    "year": 1993,
+    "gregorian_year": 1993,
+    "signatures": [
+      {
+        "signer_name": "Mahmoud Salah Eldin Hamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 159999984,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "14.01.1993 to 13.05.1993; Prefix (204/ص) to (219/ص); WM1 ; ST2; 16 Prefixes"
+  },
+  {
+    "id": 1053827,
+    "is_dated": true,
+    "year": 1997,
+    "gregorian_year": 1997,
+    "signatures": [
+      {
+        "signer_name": "Ismail Hassan Mohamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 139999986,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "06.11.1997 to 30.12.1997; Prefix (220/ص) to (233/ص); WM1 ; ST3;14 Prefixes"
+  },
+  {
+    "id": 1053841,
+    "is_dated": true,
+    "year": 1997,
+    "gregorian_year": 1997,
+    "month": 11,
+    "day": 6,
+    "signatures": [
+      {
+        "signer_name": "Ismail Hassan Mohamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "Replacement (200/ص); WM1; ST3"
+  },
+  {
+    "id": 1053853,
+    "is_dated": true,
+    "year": 1997,
+    "gregorian_year": 1997,
+    "month": 11,
+    "day": 6,
+    "signatures": [
+      {
+        "signer_name": "Ismail Hassan Mohamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "Replacement (200/ص); WM1; ST4"
+  },
+  {
+    "id": 952700,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "month": 5,
+    "day": 25,
+    "signatures": [
+      {
+        "signer_name": "Ismail Hassan Mohamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 89999991,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "Prefix (234/ص) to (242/ص); WM1 ; ST3;\t9 Prefixes"
+  },
+  {
+    "id": 952701,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "month": 9,
+    "day": 23,
+    "signatures": [
+      {
+        "signer_name": "Ismail Hassan Mohamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 109999989,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "Prefix (243/ص) to (253/ص); WM1 ; ST3; 11 Prefixes"
+  },
+  {
+    "id": 1053847,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "month": 2,
+    "day": 7,
+    "signatures": [
+      {
+        "signer_name": "Ismail Hassan Mohamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 99999990,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "Prefix (254/ص) to (263/ص); WM1 ; ST3; 10 Prefixes"
+  },
+  {
+    "id": 1053848,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "month": 9,
+    "day": 8,
+    "signatures": [
+      {
+        "signer_name": "Ismail Hassan Mohamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 99999990,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "Prefix (264/ص) to (273/ص); WM1 ; ST3;\t10 Prefixes"
+  },
+  {
+    "id": 1053849,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "month": 12,
+    "day": 2,
+    "signatures": [
+      {
+        "signer_name": "Ismail Hassan Mohamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 99999990,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "Prefix (274/ص) to (283/ص); WM1 ; ST3;\t10 Prefixes"
+  },
+  {
+    "id": 1053850,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "month": 12,
+    "day": 5,
+    "signatures": [
+      {
+        "signer_name": "Ismail Hassan Mohamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 24999998,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "Prefix (284/ص) to (286/ص); WM1 ; ST3;\t3 Prefixes"
+  },
+  {
+    "id": 1053851,
+    "is_dated": true,
+    "year": 1999,
+    "gregorian_year": 1999,
+    "month": 12,
+    "day": 5,
+    "signatures": [
+      {
+        "signer_name": "Ismail Hassan Mohamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 74999992,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57b"
+      }
+    ],
+    "comment": "Prefix (286/ص) to (293/ص); WM1 ; ST4; 8 Prefixes"
+  },
+  {
+    "id": 504949,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "month": 8,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Ismail Hassan Mohamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "mintage": 79999992,
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57c"
+      }
+    ],
+    "comment": "Prefix (294/ص) to (301/ص); WM1 ; ST4;\t8 Prefixes"
+  },
+  {
+    "id": 1053861,
+    "is_dated": true,
+    "year": 2001,
+    "gregorian_year": 2001,
+    "month": 8,
+    "day": 5,
+    "signatures": [
+      {
+        "signer_name": "Ismail Hassan Mohamed",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "57c"
+      }
+    ],
+    "comment": "Replacement (300/ص); WM1; ST4"
+  },
+  {
+    "id": 807802,
+    "is_dated": true,
+    "year": 2002,
+    "gregorian_year": 2002,
+    "month": 1,
+    "day": 22,
+    "comment": "٢٠٠٢/١/٢٢"
+  },
+  {
+    "id": 504950,
+    "is_dated": false,
+    "min_year": 2002,
+    "max_year": 2003,
+    "comment": "P#57d Solid security thread. Signature: Mahmoud Abu El-Oyoun"
+  },
+  {
+    "id": 880815,
+    "is_dated": true,
+    "year": 2003,
+    "gregorian_year": 2003,
+    "month": 1,
+    "day": 21,
+    "signatures": [
+      {
+        "signer_name": "Mohamed Abul Eyoun",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "(315/ص) to (323/ص)"
+  },
+  {
+    "id": 883764,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "month": 2,
+    "day": 11,
+    "signatures": [
+      {
+        "signer_name": "Farouk El-Okdah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "324/ص)"
+  },
+  {
+    "id": 610773,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "month": 2,
+    "day": 12,
+    "signatures": [
+      {
+        "signer_name": "Farouk El-Okdah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "P#57e.2 P#57f; (325/ص) to (334/ص); WM1"
+  },
+  {
+    "id": 883761,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "month": 2,
+    "day": 15,
+    "signatures": [
+      {
+        "signer_name": "Farouk El-Okdah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "300/ص Replacement; WM2"
+  },
+  {
+    "id": 504951,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "month": 8,
+    "day": 3,
+    "comment": "P#57e (335/ص) to (344/ص) Signature: Mahmoud Abu El-Oyoun"
+  },
+  {
+    "id": 610772,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "month": 11,
+    "day": 2,
+    "comment": "P#57e.1"
+  },
+  {
+    "id": 666541,
+    "is_dated": true,
+    "year": 2004,
+    "gregorian_year": 2004,
+    "month": 12,
+    "day": 9,
+    "signatures": [
+      {
+        "signer_name": "Farouk El-Okdah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "P#57f; P#57 g; (345/ص) to (354/ص); WM1"
+  },
+  {
+    "id": 504952,
+    "is_dated": false,
+    "min_year": 2004,
+    "max_year": 2005,
+    "comment": "P#57f Signature: Farouk El-Okda (2nd kind)"
+  },
+  {
+    "id": 541853,
+    "is_dated": true,
+    "year": 2005,
+    "gregorian_year": 2005,
+    "month": 10,
+    "day": 31,
+    "signatures": [
+      {
+        "signer_name": "Farouk El-Okdah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "P#57f; P#57 g; (355/ص) to (364/ص); WM1"
+  },
+  {
+    "id": 541848,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "month": 5,
+    "day": 10,
+    "signatures": [
+      {
+        "signer_name": "Farouk El-Okdah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "P#57f; P#57 g; (365/ص) to (374/ص); WM1"
+  },
+  {
+    "id": 828854,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "month": 9,
+    "day": 24,
+    "signatures": [
+      {
+        "signer_name": "Farouk El-Okdah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "P#57 g; (375/ص) to (377/ص); WM1"
+  },
+  {
+    "id": 504953,
+    "is_dated": true,
+    "year": 2006,
+    "gregorian_year": 2006,
+    "month": 9,
+    "day": 24,
+    "signatures": [
+      {
+        "signer_name": "Farouk El-Okdah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "P#57 g; (377/ص) to (384/ص); WM2"
+  },
+  {
+    "id": 589978,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "month": 6,
+    "day": 11,
+    "signatures": [
+      {
+        "signer_name": "Farouk El-Okdah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "P#57 g; (385/ص) to (394/ص); WM2"
+  },
+  {
+    "id": 504954,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "month": 6,
+    "day": 27,
+    "comment": "P#57h; **--->Revise the date"
+  },
+  {
+    "id": 695395,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "month": 3,
+    "day": 4,
+    "signatures": [
+      {
+        "signer_name": "Farouk El-Okdah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "P#57h; (395/ص) to (405/ص); WM2"
+  },
+  {
+    "id": 541851,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "month": 7,
+    "day": 13,
+    "signatures": [
+      {
+        "signer_name": "Farouk El-Okdah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "P#57h; (406/ص) to (415/ص); WM2"
+  },
+  {
+    "id": 532403,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "month": 9,
+    "day": 10,
+    "signatures": [
+      {
+        "signer_name": "Farouk El-Okdah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "P#57h; (416/ص) to (425/ص) ; WM2"
+  },
+  {
+    "id": 541850,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "month": 10,
+    "day": 28,
+    "signatures": [
+      {
+        "signer_name": "Farouk El-Okdah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "P#57h; (426/ص) to (435/ص) & Replacement (300/ص); WM2"
+  },
+  {
+    "id": 519779,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "month": 12,
+    "day": 24,
+    "signatures": [
+      {
+        "signer_name": "Farouk El-Okdah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "P#57h; (436/ص) to (445/ص) & Replacement (300/ص); WM2"
+  },
+  {
+    "id": 541849,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "month": 12,
+    "day": 25,
+    "signatures": [
+      {
+        "signer_name": "Farouk El-Okdah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "P#57h; (446/ص) to (455/ص) & Replacement (300/ص); WM2"
+  },
+  {
+    "id": 541852,
+    "is_dated": true,
+    "year": 2008,
+    "gregorian_year": 2008,
+    "month": 12,
+    "day": 28,
+    "signatures": [
+      {
+        "signer_name": "Farouk El-Okdah",
+        "title": "Governor, Central Bank of Egypt"
+      }
+    ],
+    "comment": "P#57h; (456/ص) to (459/ص) ; WM2"
+  }
+]

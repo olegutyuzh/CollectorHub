@@ -1,0 +1,106 @@
+[
+  {
+    "id": 499389,
+    "is_dated": false,
+    "min_year": 1970,
+    "max_year": 1975,
+    "signatures": [
+      {
+        "signer_name": "Sarukkai Jagannathan",
+        "title": "Governor of the Reserve Bank of India"
+      }
+    ],
+    "comment": "P#81a without Insert Letter, signature: S. Jagannathan"
+  },
+  {
+    "id": 499390,
+    "is_dated": false,
+    "min_year": 1975,
+    "max_year": 1977,
+    "signatures": [
+      {
+        "signer_name": "Kocheril Raman Puri",
+        "title": "Governor of the Reserve Bank of India"
+      }
+    ],
+    "comment": "P#81b without Insert Letter, signature: K. R. Puri"
+  },
+  {
+    "id": 499391,
+    "is_dated": false,
+    "min_year": 1977,
+    "max_year": 1977,
+    "signatures": [
+      {
+        "signer_name": "Maidavolu Narasimham",
+        "title": "Governor of the Reserve Bank of India"
+      }
+    ],
+    "comment": "P#81c without Insert Letter, signature: M. Narasimham"
+  },
+  {
+    "id": 499392,
+    "is_dated": false,
+    "min_year": 1977,
+    "max_year": 1982,
+    "signatures": [
+      {
+        "signer_name": "Indraprasad Gordhanbhai Patel",
+        "title": "Governor of the Reserve Bank of India"
+      }
+    ],
+    "comment": "P#81d Insert Letter A, signature: I. G. Patel"
+  },
+  {
+    "id": 499393,
+    "is_dated": false,
+    "min_year": 1977,
+    "max_year": 1982,
+    "signatures": [
+      {
+        "signer_name": "Indraprasad Gordhanbhai Patel",
+        "title": "Governor of the Reserve Bank of India"
+      }
+    ],
+    "comment": "P#81e without Insert Letter, signature: I. G. Patel"
+  },
+  {
+    "id": 499394,
+    "is_dated": false,
+    "min_year": 1982,
+    "max_year": 1985,
+    "signatures": [
+      {
+        "signer_name": "Manmohan Singh",
+        "title": "Governor of the Reserve Bank of India"
+      }
+    ],
+    "comment": "P#81f Insert Letter A, signature: Manmohan Singh"
+  },
+  {
+    "id": 499395,
+    "is_dated": false,
+    "min_year": 1985,
+    "max_year": 1990,
+    "signatures": [
+      {
+        "signer_name": "Ram Narain Malhotra",
+        "title": "Governor of the Reserve Bank of India"
+      }
+    ],
+    "comment": "P#81 g Insert Letter B, signature: R. N. Malhotra"
+  },
+  {
+    "id": 499396,
+    "is_dated": false,
+    "min_year": 1985,
+    "max_year": 1990,
+    "signatures": [
+      {
+        "signer_name": "Ram Narain Malhotra",
+        "title": "Governor of the Reserve Bank of India"
+      }
+    ],
+    "comment": "P#81h Insert Letter C, signature: R. N. Malhotra"
+  }
+]

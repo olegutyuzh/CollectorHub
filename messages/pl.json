@@ -1,0 +1,250 @@
+{
+  "Nav": {
+    "catalog": "Katalog",
+    "stats": "Statystyki",
+    "addBanknote": "Dodaj banknot",
+    "login": "Zaloguj się",
+    "register": "Rejestracja",
+    "logout": "Wyloguj się",
+    "collection": "Moja kolekcja"
+  },
+  "Footer": {
+    "copy": "© {year} CollectorHub"
+  },
+  "Home": {
+    "hero": {
+      "title": "Twój katalog banknotów",
+      "subtitle": "Porządkuj kolekcję, znajdź rzadkie banknoty, rozmawiaj z kolekcjonerami",
+      "browse": "Przeglądaj katalog",
+      "registerFree": "Zarejestruj się za darmo"
+    },
+    "statsSection": {
+      "notes": "Banknotów w katalogu",
+      "countries": "Krajów",
+      "collectors": "Kolekcjonerów"
+    },
+    "features": {
+      "heading": "Wszystko czego potrzebuje kolekcjoner",
+      "catalog": {
+        "title": "Katalog ogólny",
+        "desc": "Banknoty ze wszystkich krajów ze zdjęciami, opisami i numerami katalogowymi"
+      },
+      "collection": {
+        "title": "Moja kolekcja",
+        "desc": "Śledź co posiadasz: stan, cena, data zakupu"
+      },
+      "search": {
+        "title": "Wyszukiwanie i filtry",
+        "desc": "Szukaj według kraju, roku, nominału, serii"
+      },
+      "community": {
+        "title": "Społeczność",
+        "desc": "Wymieniaj banknoty z kolekcjonerami z całego świata"
+      }
+    }
+  },
+  "Auth": {
+    "login": {
+      "title": "Logowanie",
+      "subtitle": "Zaloguj się na swoje konto",
+      "password": "Hasło",
+      "submit": "Zaloguj się",
+      "loading": "Logowanie...",
+      "error": "Nieprawidłowy email lub hasło",
+      "noAccount": "Nie masz konta?",
+      "registerLink": "Zarejestruj się",
+      "forgotPassword": "Zapomniałeś hasła?"
+    },
+    "forgot": {
+      "title": "Resetowanie hasła",
+      "subtitle": "Podaj email — wyślemy link do resetowania",
+      "submit": "Wyślij link",
+      "loading": "Wysyłanie...",
+      "success": "Email wysłany",
+      "successDesc": "Sprawdź skrzynkę {email} i kliknij link w wiadomości.",
+      "backToLogin": "Powrót do logowania",
+      "error": "Nie można wysłać emaila. Sprawdź adres."
+    },
+    "reset": {
+      "title": "Nowe hasło",
+      "subtitle": "Wprowadź nowe hasło do swojego konta",
+      "password": "Nowe hasło",
+      "confirm": "Potwierdź hasło",
+      "submit": "Zapisz hasło",
+      "loading": "Zapisywanie...",
+      "success": "Hasło zmienione",
+      "successDesc": "Możesz teraz zalogować się nowym hasłem.",
+      "toLogin": "Zaloguj się",
+      "errorMismatch": "Hasła nie są zgodne",
+      "errorShort": "Minimum 6 znaków",
+      "error": "Nie można zmienić hasła. Spróbuj ponownie."
+    },
+    "register": {
+      "title": "Rejestracja",
+      "subtitle": "Bezpłatnie. Bez ukrytych warunków.",
+      "password": "Hasło",
+      "passwordPlaceholder": "minimum 6 znaków",
+      "submit": "Utwórz konto",
+      "loading": "Rejestracja...",
+      "checkEmail": "Sprawdź pocztę",
+      "checkEmailDesc": "Wysłaliśmy link potwierdzający na {email}.",
+      "haveAccount": "Masz już konto?",
+      "loginLink": "Zaloguj się"
+    }
+  },
+  "Catalog": {
+    "title": "Katalog banknotów",
+    "back": "Powrót do katalogu",
+    "searchPlaceholder": "Szukaj według nominału, serii, Pick #...",
+    "issuersPlaceholder": "Wszyscy emitenci...",
+    "searchBtn": "Szukaj",
+    "moreFilters": "+ Więcej filtrów",
+    "clearAll": "Wyczyść wszystko",
+    "apply": "Zastosuj filtry",
+    "country": "Kraj",
+    "allCountries": "Wszystkie kraje",
+    "currency": "Waluta",
+    "allCurrencies": "Wszystkie waluty",
+    "year": "Rok",
+    "series": "Seria",
+    "pickNo": "Pick #",
+    "material": "Materiał",
+    "allMaterials": "Wszystkie",
+    "printer": "Drukarnia",
+    "noPhoto": "Brak zdjęcia",
+    "obverse": "Awers",
+    "reverse": "Rewers",
+    "obverseDesc": "Opis awersu",
+    "reverseDesc": "Opis rewersu",
+    "security": "Elementy zabezpieczające",
+    "details": {
+      "country": "Kraj",
+      "denomination": "Nominał",
+      "years": "Rok(i)",
+      "series": "Seria",
+      "pickNo": "Pick #",
+      "issuer": "Emitent",
+      "material": "Materiał",
+      "size": "Rozmiar",
+      "printer": "Drukarnia",
+      "watermark": "Znak wodny"
+    },
+    "filters": {
+      "searchPlaceholder": "Szukaj po nominale, serii, Pick #...",
+      "allIssuers": "Wszyscy emitenci...",
+      "search": "Szukaj",
+      "moreFilters": "+ Więcej filtrów",
+      "clearAll": "Wyczyść wszystko",
+      "apply": "Zastosuj filtry",
+      "country": "Kraj",
+      "allCountries": "Wszystkie kraje",
+      "currency": "Waluta",
+      "allCurrencies": "Wszystkie waluty",
+      "year": "Rok",
+      "from": "od",
+      "to": "do",
+      "series": "Seria",
+      "seriesPlaceholder": "nazwa serii",
+      "pickPlaceholder": "np. P-118",
+      "material": "Materiał",
+      "all": "Wszystkie",
+      "printer": "Drukarnia",
+      "printerPlaceholder": "nazwa drukarni"
+    },
+    "detail": {
+      "country": "Kraj",
+      "denomination": "Nominał",
+      "years": "Rok(i)",
+      "series": "Seria",
+      "issuer": "Emitent",
+      "material": "Materiał",
+      "size": "Rozmiar",
+      "printer": "Drukarnia",
+      "watermark": "Znak wodny",
+      "obverse": "Awers",
+      "reverse": "Rewers",
+      "noPhoto": "Brak zdjęcia",
+      "obverseDesc": "Opis awersu",
+      "reverseDesc": "Opis rewersu",
+      "security": "Zabezpieczenia"
+    },
+    "count": "{count} pozycji",
+    "backToCatalog": "Powrót do katalogu"
+  },
+  "Collection": {
+    "title": "Moja kolekcja",
+    "subtitle": "{unique} unikalnych · {total} egzemplarzy",
+    "addBtn": "Dodaj banknot",
+    "emptyTitle": "Kolekcja jest pusta",
+    "emptyDesc": "Znajdź banknot w katalogu i dodaj go",
+    "authRequired": "Zaloguj się, aby zobaczyć kolekcję",
+    "authDesc": "Zarejestruj się za darmo i zacznij prowadzić ewidencję swoich banknotów",
+    "badges": {
+      "trade": "Wymiana",
+      "sale": "Sprzedaż"
+    }
+  },
+  "CollectionItem": {
+    "back": "Moja kolekcja",
+    "obverse": "Awers",
+    "reverse": "Rewers",
+    "pcsUnit": "szt.",
+    "sections": {
+      "myCopy": "Mój egzemplarz",
+      "grading": "Certyfikacja (PMG)",
+      "general": "Informacje ogólne",
+      "refs": "Numery katalogowe",
+      "physical": "Cechy fizyczne",
+      "manufacturer": "Producent",
+      "security": "Zabezpieczenia",
+      "obverse": "Awers",
+      "reverse": "Rewers",
+      "comments": "Komentarze"
+    },
+    "fields": {
+      "grade": "Stan",
+      "quantity": "Ilość",
+      "serial": "Numer seryjny",
+      "price": "Cena zakupu",
+      "purchaseDate": "Data zakupu",
+      "forTrade": "Na wymianę",
+      "forSale": "Na sprzedaż",
+      "yes": "Tak",
+      "company": "Firma",
+      "score": "Ocena",
+      "certNo": "Nr certyfikatu",
+      "designation": "Designation",
+      "issuer": "Emitent",
+      "series": "Seria",
+      "type": "Typ",
+      "issueDate": "Data emisji",
+      "demonetized": "Wycofany z obiegu",
+      "material": "Materiał",
+      "size": "Rozmiar",
+      "shape": "Kształt",
+      "technique": "Technika",
+      "printer": "Drukarnia",
+      "watermark": "Znak wodny",
+      "securityFeatures": "Zabezpieczenia",
+      "desc": "Opis",
+      "designers": "Projektanci",
+      "engravers": "Grawery",
+      "text": "Tekst"
+    }
+  },
+  "Stats": {
+    "title": "Statystyki kolekcji",
+    "items": "Egzemplarzy",
+    "unique": "Unikalnych",
+    "countries": "Krajów",
+    "forSwap": "Na wymianę",
+    "mapTitle": "Geografia kolekcji",
+    "total": "Łącznie",
+    "noData": "Brak danych",
+    "gradesTitle": "Rozkład według stanu",
+    "topCountriesTitle": "Najpopularniejsze kraje",
+    "moreCountries": "+{n} kolejnych krajów",
+    "mapError": "Nie można załadować mapy. Sprawdź połączenie z internetem.",
+    "authRequired": "Zaloguj się, aby zobaczyć statystyki"
+  }
+}

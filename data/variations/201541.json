@@ -1,0 +1,23 @@
+[
+  {
+    "id": 492885,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019,
+    "signatures": [
+      {
+        "signer_name": "John A. Rolle",
+        "title": "Governor of Central Bank of The Bahamas"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "348a"
+      }
+    ]
+  }
+]

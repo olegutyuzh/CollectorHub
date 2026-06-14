@@ -1,0 +1,100 @@
+[
+  {
+    "id": 496156,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Philip Lowe",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "John. A. Fraser",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "63"
+      },
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R326"
+      }
+    ]
+  },
+  {
+    "id": 676165,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Philip Lowe",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "John. A. Fraser",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "63"
+      },
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R326F"
+      }
+    ],
+    "comment": "First prefix: AA17"
+  },
+  {
+    "id": 676166,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Philip Lowe",
+        "title": "Governor of the Reserve Bank of Australia"
+      },
+      {
+        "signer_name": "John. A. Fraser",
+        "title": "Secretary to the Treasury"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "63"
+      },
+      {
+        "catalogue": {
+          "id": 2625,
+          "code": "Renniks"
+        },
+        "number": "R326L"
+      }
+    ],
+    "comment": "Last prefix: EA17"
+  }
+]

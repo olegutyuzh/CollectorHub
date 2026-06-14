@@ -1,0 +1,191 @@
+{
+  "id": 202688,
+  "url": "https://en.numista.com/202688",
+  "title": "1 Yuan",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "chine",
+    "name": "China, People's Republic of"
+  },
+  "issuing_entity": {
+    "id": 591,
+    "name": "People's Bank of China",
+    "wikidata_id": "Q249203"
+  },
+  "min_year": 1999,
+  "max_year": 1999,
+  "ruler": [
+    {
+      "id": 1436,
+      "name": "People's Republic",
+      "wikidata_id": "Q148"
+    }
+  ],
+  "value": {
+    "text": "1 Yuan",
+    "numeric_value": 1,
+    "currency": {
+      "id": 198,
+      "name": "Rénmínbì",
+      "full_name": "Rénmínbì (1955-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2004-07-30"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 131,
+  "size2": 63,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Deep green print on multicoloured underprint; serial number red and black.\r\nPortrait of Mao Zedong (Mao Tse-Tung) (26 December 1893 – 9 September 1976) at right and hidden latent image. Coat of arms at top-left corner.",
+    "lettering": "中国人民银行 1\r\n1\r\n壹圆\r\n毛泽东 1893-1976",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (simplified)"
+      }
+    ],
+    "picture": "https://en.numista.com/catalogue/photos/chine/6270dc895c3f67.55827458-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/6270dc895c3f67.55827458-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Olive green print on multicoloured underprint\r\nThe \"Three Pools Mirroring the Moon\" depicting lanterns in water on West Lake in Hangzhou City, Zhejiang province.",
+    "lettering": "ZHONGGUO RENMIN YINHANG\r\nᠳᠤᠮᠳᠠᠳᠤ ᠤᠯᠤᠰ ᠤᠨ ᠠᠷᠠᠳ ᠤᠨ ᠪᠠᠩᠬᠢ ༅༅། །ཀྲུང་གོམི་མི་རྣམས་དངུལ་ཁང་། སྒོར་གཅིག\r\nجۇڭگو خەلق بانكىسىنىڭ بىر يۈەن Cunghgoz Yinzminz Yinzhangz it maenz\r\n\r\n1 YUAN　1999年",
+    "lettering_scripts": [
+      {
+        "name": "Chinese (simplified)"
+      },
+      {
+        "name": "Latin"
+      },
+      {
+        "name": "Mongolian / Manchu"
+      },
+      {
+        "name": "Tibetan"
+      }
+    ],
+    "lettering_translation": "People's Bank of China One Yuan\r\nYear 1999",
+    "picture": "https://en.numista.com/catalogue/photos/chine/6270dc8a26f140.91337089-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/6270dc8a26f140.91337089-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "毛爷爷",
+  "comments": "<p>UV activity:<br><a href=\"https://en.numista.com/catalogue/images/64f679864287e.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64f679864287e.png\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/64f679960e0da.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64f679960e0da.png\" alt=\"\"></a><br>© gyoschak</p><p>&nbsp;</p><p>Hidden latent image in the green space to the right of Mao's head - the denomination “1” in a vertical orientation can be seen when looked at closely or the note is tilted:</p><p><a href=\"https://en.numista.com/catalogue/images/6860c5c37d2b0.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6860c5c37d2b0.jpg\"></a></p><p>© Kiet Tran</p>",
+  "related_types": [
+    {
+      "id": 220873,
+      "title": "1 Yuan (enhanced security)",
+      "category": "banknote",
+      "country": {
+        "code": "chine",
+        "name": "China, People's Republic of"
+      },
+      "minYear": 2019,
+      "maxYear": 2019
+    },
+    {
+      "id": 202145,
+      "title": "5 Yuan",
+      "category": "banknote",
+      "country": {
+        "code": "chine",
+        "name": "China, People's Republic of"
+      },
+      "minYear": 2005,
+      "maxYear": 2005
+    },
+    {
+      "id": 204747,
+      "title": "10 Yuan",
+      "category": "banknote",
+      "country": {
+        "code": "chine",
+        "name": "China, People's Republic of"
+      },
+      "minYear": 2005,
+      "maxYear": 2005
+    },
+    {
+      "id": 204347,
+      "title": "20 Yuan",
+      "category": "banknote",
+      "country": {
+        "code": "chine",
+        "name": "China, People's Republic of"
+      },
+      "minYear": 2005,
+      "maxYear": 2005
+    },
+    {
+      "id": 204346,
+      "title": "50 Yuan",
+      "category": "banknote",
+      "country": {
+        "code": "chine",
+        "name": "China, People's Republic of"
+      },
+      "minYear": 2005,
+      "maxYear": 2005
+    },
+    {
+      "id": 204344,
+      "title": "100 Yuan",
+      "category": "banknote",
+      "country": {
+        "code": "chine",
+        "name": "China, People's Republic of"
+      },
+      "minYear": 2005,
+      "maxYear": 2005
+    }
+  ],
+  "tags": [
+    "Bridge",
+    "Tower",
+    "Politician",
+    "Lake",
+    "Flower",
+    "Coat of Arms",
+    "Latent image",
+    "Micro inscriptions",
+    "Photoluminescence"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "895"
+    }
+  ],
+  "watermark": {
+    "description": "Orchid Flower",
+    "picture": "https://en.numista.com/catalogue/photos/chine/5edc3527085422.43457289-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/chine/5edc3527085422.43457289-180.jpg",
+    "picture_copyright": "Salaction"
+  },
+  "printers": [
+    {
+      "id": 75,
+      "name": "China Banknote Printing and Minting Corporation"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

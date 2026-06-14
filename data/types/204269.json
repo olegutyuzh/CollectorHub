@@ -1,0 +1,95 @@
+{
+  "id": 204269,
+  "url": "https://en.numista.com/204269",
+  "title": "20 Córdobas",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "nicaragua",
+    "name": "Nicaragua"
+  },
+  "issuing_entity": {
+    "id": 863,
+    "name": "Central Bank of Nicaragua",
+    "wikidata_id": "Q4504274"
+  },
+  "min_year": 2007,
+  "max_year": 2007,
+  "ruler": [
+    {
+      "id": 4284,
+      "name": "Republic",
+      "wikidata_id": "Q811"
+    }
+  ],
+  "value": {
+    "text": "20 Córdobas",
+    "numeric_value": 20,
+    "currency": {
+      "id": 3150,
+      "name": "Third Córdoba \"Oro\"",
+      "full_name": "Third Córdoba \"Oro\" (1991-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 136,
+  "size2": 67,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Polymer"
+  },
+  "obverse": {
+    "description": "Illustration of a costa caribe, a type of hut",
+    "lettering": "Banco Central de Nicaragua\r\nVeinte Córdobas\r\n20\r\ncosta caribe",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central bank of Nicaragua\r\n20 Córdobas\r\n20\r\ncosta caribe",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/5f665f9336cef2.03243756-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/5f665f9336cef2.03243756-180.jpg",
+    "picture_copyright": "Mohiul Abedin"
+  },
+  "reverse": {
+    "description": "Illustration of palo de mayo, a type of dance",
+    "lettering": "Banco Central de Nicaragua\r\nVeinte Córdobas\r\n20\r\npalo de mayo",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central bank of Nicaragua\r\n20 Córdobas\r\n20\r\npalo de mayo",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/5f665f9378bfc6.75502188-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/5f665f9378bfc6.75502188-180.jpg",
+    "picture_copyright": "Mohiul Abedin"
+  },
+  "comments": "<p>On the reverse of the P#202b note there is a pale blue iridescent ink strip. On it “20” is repeated:</p><p><a href=\"https://en.numista.com/catalogue/images/677ae7a33e33b.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/677ae7a33e33b.jpg\"></a></p><p>&nbsp;</p><p>UV activity on the P#202b note is on the obverse only. Here seen at 365nm:</p><p><a href=\"https://en.numista.com/catalogue/images/677ae7d9392dd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/677ae7d9392dd.jpg\"></a></p><p>© Brandon Bertolli</p>",
+  "tags": [
+    "Dance",
+    "Other building",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "202"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "498"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

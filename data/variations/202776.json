@@ -1,0 +1,28 @@
+[
+  {
+    "id": 495735,
+    "is_dated": true,
+    "year": 1994,
+    "gregorian_year": 1994,
+    "signatures": [
+      {
+        "signer_name": "Viktor Andriiovych Yushchenko",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P# 108a"
+  },
+  {
+    "id": 495736,
+    "is_dated": true,
+    "year": 1995,
+    "gregorian_year": 1995,
+    "signatures": [
+      {
+        "signer_name": "Viktor Andriiovych Yushchenko",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ],
+    "comment": "P# 108b"
+  }
+]

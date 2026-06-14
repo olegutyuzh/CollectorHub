@@ -1,0 +1,66 @@
+[
+  {
+    "id": 507246,
+    "is_dated": true,
+    "year": 1991,
+    "gregorian_year": 1991,
+    "month": 7,
+    "day": 9,
+    "signatures": [
+      {
+        "signer_name": "Henk O. Goedschalk",
+        "title": "President of Central Bank of Suriname"
+      }
+    ],
+    "mintage": 4500000,
+    "comment": "P# 137a - Issued note; Series AA000001 - AE500000"
+  },
+  {
+    "id": 507247,
+    "is_dated": true,
+    "year": 1995,
+    "gregorian_year": 1995,
+    "month": 6,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Andre Eugene Telting",
+        "title": "President of Central Bank of Suriname"
+      }
+    ],
+    "mintage": 1000000,
+    "comment": "P# 137b - Issued note; Series AE500001 - AF500000"
+  },
+  {
+    "id": 507248,
+    "is_dated": true,
+    "year": 1996,
+    "gregorian_year": 1996,
+    "month": 12,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Andre Eugene Telting",
+        "title": "President of Central Bank of Suriname"
+      }
+    ],
+    "mintage": 4100000,
+    "comment": "P# 137b - Issued note; Series AF500001 - AJ600000"
+  },
+  {
+    "id": 507249,
+    "is_dated": true,
+    "year": 1998,
+    "gregorian_year": 1998,
+    "month": 2,
+    "day": 10,
+    "signatures": [
+      {
+        "signer_name": "Henk O. Goedschalk",
+        "title": "President of Central Bank of Suriname"
+      }
+    ],
+    "mintage": 3000000,
+    "comment": "P# 137b - Issued note; Series AJ600001 - AM600000"
+  }
+]

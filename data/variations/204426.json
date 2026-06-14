@@ -1,0 +1,51 @@
+[
+  {
+    "id": 503617,
+    "is_dated": true,
+    "year": 1994,
+    "gregorian_year": 1994,
+    "comment": "(fr) F.69ter/01a, P#154h - alphabet 260 et 271"
+  },
+  {
+    "id": 503618,
+    "is_dated": true,
+    "year": 1994,
+    "gregorian_year": 1994,
+    "comment": "(fr) F.69ter/01b, P#154h - alphabet 261-270"
+  },
+  {
+    "id": 503619,
+    "is_dated": true,
+    "year": 1994,
+    "gregorian_year": 1994,
+    "comment": "(fr) F.69ter/01c, P#154h - alphabet 279-284"
+  },
+  {
+    "id": 503620,
+    "is_dated": true,
+    "year": 1995,
+    "gregorian_year": 1995,
+    "comment": "(fr) F.69ter/02a, P#154h - alphabet 257-259"
+  },
+  {
+    "id": 503621,
+    "is_dated": true,
+    "year": 1995,
+    "gregorian_year": 1995,
+    "comment": "(fr) F.69ter/02b, P#154h - alphabet 272-278"
+  },
+  {
+    "id": 503622,
+    "is_dated": true,
+    "year": 1995,
+    "gregorian_year": 1995,
+    "comment": "(fr) F.69ter/02c, P#154h - alphabet 285-297"
+  },
+  {
+    "id": 503623,
+    "is_dated": true,
+    "year": 1995,
+    "gregorian_year": 1995,
+    "comment": "(fr) F.69ter/02d, P#154h - alphabet 298"
+  }
+]

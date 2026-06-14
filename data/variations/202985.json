@@ -1,0 +1,128 @@
+[
+  {
+    "id": 497252,
+    "is_dated": false,
+    "min_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Alain Herve Rasolofondraibe",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "101a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "336a"
+      }
+    ],
+    "comment": "Prefix: A-D"
+  },
+  {
+    "id": 497255,
+    "is_dated": false,
+    "min_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Alain Herve Rasolofondraibe",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "101r"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "336ar"
+      }
+    ],
+    "comment": "Replacement; Prefix: Z"
+  },
+  {
+    "id": 497253,
+    "is_dated": false,
+    "min_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Alain Herve Rasolofondraibe",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "101s"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "336as"
+      }
+    ],
+    "comment": "Specimen"
+  },
+  {
+    "id": 843592,
+    "is_dated": false,
+    "min_year": 2022,
+    "signatures": [
+      {
+        "signer_name": "Henri Edmond Rabarijohn",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "336b"
+      }
+    ],
+    "comment": "Prefix: Z"
+  },
+  {
+    "id": 845788,
+    "is_dated": false,
+    "min_year": 2023,
+    "signatures": [
+      {
+        "signer_name": "Aivo Handriatiana Andrianarivelo",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "336c"
+      }
+    ],
+    "comment": "Prefix: E"
+  }
+]

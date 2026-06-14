@@ -1,0 +1,66 @@
+[
+  {
+    "id": 494896,
+    "is_dated": false,
+    "min_year": 2013,
+    "max_year": 2013,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "224a"
+      }
+    ],
+    "comment": "Prefix: A/1-A/3; Signatures: Denton H. Rarawa (type B) & Shadrach Fanega"
+  },
+  {
+    "id": 958283,
+    "is_dated": false,
+    "min_year": 2013,
+    "max_year": 2013,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "224as"
+      }
+    ],
+    "comment": "Specimen; red overprinted \"SPECIMEN\""
+  },
+  {
+    "id": 958284,
+    "is_dated": false,
+    "min_year": 2017,
+    "max_year": 2017,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "224b"
+      }
+    ],
+    "comment": "Prefix: A/5, A/6; Signatures: Denton H. Rarawa (type B) & Fred Fakarii"
+  },
+  {
+    "id": 958285,
+    "is_dated": false,
+    "min_year": 2017,
+    "max_year": 2017,
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "224bz"
+      }
+    ],
+    "comment": "Replacement; Prefix: X/1"
+  }
+]

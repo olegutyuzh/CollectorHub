@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1076394,
+    "is_dated": true,
+    "year": 1415,
+    "gregorian_year": 1994,
+    "signatures": [
+      {
+        "signer_name": "Essam Rashid Hawish",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "85b2"
+      }
+    ]
+  },
+  {
+    "id": 524754,
+    "is_dated": true,
+    "year": 1415,
+    "gregorian_year": 1995,
+    "signatures": [
+      {
+        "signer_name": "Essam Rashid Hawish",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "comment": "As b1, different spelling of first word of denomination; not listed in SCWPM"
+  },
+  {
+    "id": 840018,
+    "is_dated": true,
+    "year": 1415,
+    "gregorian_year": 1995,
+    "signatures": [
+      {
+        "signer_name": "Essam Rashid Hawish",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "comment": "First word of the text for the denomination similar to a1 except the top of the first diacritical mark is even with the top of the Alif; not listed in SCWPM"
+  },
+  {
+    "id": 524753,
+    "is_dated": true,
+    "year": 1415,
+    "gregorian_year": 1995,
+    "signatures": [
+      {
+        "signer_name": "Essam Rashid Hawish",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "85a1"
+      }
+    ],
+    "comment": "First word of the text for the denomination has its second letters as a long 'a'. Printed on white paper which fluoresces"
+  },
+  {
+    "id": 508810,
+    "is_dated": true,
+    "year": 1415,
+    "gregorian_year": 1995,
+    "signatures": [
+      {
+        "signer_name": "Essam Rashid Hawish",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "85a2"
+      }
+    ],
+    "comment": "As a1, doesn't fluoresce under UV light"
+  },
+  {
+    "id": 508811,
+    "is_dated": true,
+    "year": 1415,
+    "gregorian_year": 1995,
+    "signatures": [
+      {
+        "signer_name": "Essam Rashid Hawish",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "85b1"
+      }
+    ],
+    "comment": "First word of the text for the denomonation has its second last letters as a long 'i', also with different diacritical marks"
+  }
+]

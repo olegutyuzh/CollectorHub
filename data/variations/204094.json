@@ -1,0 +1,49 @@
+[
+  {
+    "id": 501866,
+    "is_dated": true,
+    "year": 2016,
+    "gregorian_year": 2016,
+    "comment": "P#156a"
+  },
+  {
+    "id": 501867,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "comment": "P#156b"
+  },
+  {
+    "id": 501869,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "comment": "P#156c.1"
+  },
+  {
+    "id": 501870,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "comment": "P#156c.2"
+  },
+  {
+    "id": 633022,
+    "is_dated": true,
+    "year": 2019,
+    "gregorian_year": 2019
+  },
+  {
+    "id": 633024,
+    "is_dated": true,
+    "year": 2020,
+    "gregorian_year": 2020
+  },
+  {
+    "id": 648720,
+    "is_dated": true,
+    "year": 2021,
+    "gregorian_year": 2021,
+    "comment": "Signatures : Mulyani Indrawati, Perry Warjiyo"
+  }
+]

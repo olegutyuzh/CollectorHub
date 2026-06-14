@@ -1,0 +1,112 @@
+{
+  "id": 202649,
+  "url": "https://en.numista.com/202649",
+  "title": "50 Zlotys (Pope John Paul II)",
+  "object_type": {
+    "id": 80,
+    "name": "Circulating commemorative banknotes"
+  },
+  "issuer": {
+    "code": "pologne",
+    "name": "Poland"
+  },
+  "issuing_entity": {
+    "id": 731,
+    "name": "National Bank of Poland",
+    "wikidata_id": "Q168844"
+  },
+  "min_year": 2006,
+  "max_year": 2006,
+  "ruler": [
+    {
+      "id": 3739,
+      "name": "Third Republic",
+      "wikidata_id": "Q1259201"
+    }
+  ],
+  "value": {
+    "text": "50 Zlotys",
+    "numeric_value": 50,
+    "currency": {
+      "id": 200,
+      "name": "Fourth Zloty",
+      "full_name": "Fourth Zloty (1995-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 144,
+  "size2": 72,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "engravers": [
+      "Andrzej Heidrich"
+    ],
+    "description": "Light blue and gold (color) print; black serial; Pope John Paul II dressed in papal vestments at right center, right hand raised in a gesture of greeting and left hand holding crosier, over world map.",
+    "lettering": "NARODOWY BANK POLSKI\r\nPIĘĆDZIESIĄT ZŁOTYCH\r\nJAN PAWEŁ II\r\n16 X 1978 - 2 IV 2005\r\nWARSZAWA\r\n16 PAŹDZIERNIKA 2006 r.\r\nPREZES\r\nGŁÓWNY SKARBNIK",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "National Bank of Poland\r\nFifty Zlotys\r\nJohn Paul II\r\n16 X 1978 - 2 IV 2005\r\nWarsaw\r\n16th October 2006\r\nCEO\r\nMain Treasurer",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/692f0dc42f6605.12612261-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/692f0dc42f6605.12612261-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "engravers": [
+      "Jan Maciej Kopecki"
+    ],
+    "designers": [
+      "Andrzej Heidrich"
+    ],
+    "description": "Pope John Paul II seated at left, kissing the hand of the kneeling Cardinal Stefan Wyszynski. On the right, text from Pope John Paul II's Letter to the Poles with facsimile signature and rendering of Jasna Góra Monastery beneath.",
+    "lettering": "NARODOWY BANK POLSKI\r\n„NIE BYŁOBY\r\nNA STOLICY PIOTROWEJ\r\nTEGO PAPIEŻA POLAKA\r\n[…], GDYBY NIE BYŁO\r\nTWOJEJ WIARY\r\nNIE COFAJĄCEJ SIĘ\r\nPRZED WIĘZIENIEM\r\nI CIERPIENIEM,\r\nTWOJEJ HEROICZNEJ\r\nNADZIEI” …\r\nJan Paweł II\r\n23 X 1978\r\nTOTUS TUUS  SOLI DEO\r\nPIĘĆDZIESIĄT ZŁOTYCH\r\nBANKNOTY EMITOWANE PRZEZ NARODOWY BANK POLSKI SĄ PRAWNYM ŚRODKIEM PŁATNICZYM W POLSCE\r\nA. HEIDRICH DEL. J. M. KOPECKI SC. PWPW S.A.\r\nNBP",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "National Bank of Poland\r\n„There wouldn’t be the in Holy See this Pope Pole if there wasn’t your faith not backing down from prison and suffering, your heroic hope”\r\nJohn Paul II\r\n23 X 1978\r\nAll Yours   to God Alone [Latin]\r\nFifty Zlotys\r\nBanknotes issued by the National Bank of Poland are legal tender in Poland\r\nA. HEIDRICH DEL. J. M. KOPECKI SC. PWPW S.A.\r\nNBP",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/692f0dc6bdbd05.70327202-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/692f0dc6bdbd05.70327202-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "NBP Commemorative note series",
+  "commemorated_topic": "Anniversary of Karol Wojtyła's Election to the Papacy",
+  "comments": "The National Bank of Poland&#039;s public presentation of a collector note design depicting Pope John Paul II was held on Wednesday, 19 April 2006. This note was the first collector note in the history of Poland. The issue of the collector note was scheduled for 16 October 2006, the anniversary of Karol Wojtyła&#039;s election to the papacy.<br /><br />\r\nThe note was originally sold in a folder for 90 złotych.<br /><br />\r\nA full list of this series of collectible banknotes is on the National Bank of Poland website:<br />\r\n<a href=\"https://nbp.pl/en/coins-and-banknotes/collector-banknotes/catalogue/\" rel=\"nofollow\">https://nbp.pl/en/coins-and-banknotes/collector-banknotes/catalogue/</a>",
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "178"
+    }
+  ],
+  "watermark": {
+    "description": "Papal coat of arms",
+    "picture": "https://en.numista.com/catalogue/photos/pologne/65c7b965e47876.15991873-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/pologne/65c7b965e47876.15991873-180.jpg",
+    "picture_copyright": "DominikG",
+    "picture_license_name": "CC BY-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 100,
+      "name": "Polish Security Printing Works"
+    }
+  ],
+  "category": "banknote",
+  "type": "Circulating commemorative banknotes"
+}

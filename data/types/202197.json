@@ -1,0 +1,192 @@
+{
+  "id": 202197,
+  "url": "https://en.numista.com/202197",
+  "title": "2 Reais (2nd. Family; Casa da Moeda do Brasil)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "bresil",
+    "name": "Brazil"
+  },
+  "issuing_entity": {
+    "id": 900,
+    "name": "Central Bank of Brazil",
+    "wikidata_id": "Q806186"
+  },
+  "min_year": 2010,
+  "max_year": 2025,
+  "ruler": [
+    {
+      "id": 2684,
+      "name": "Federative Republic of Brazil",
+      "wikidata_id": "Q155"
+    }
+  ],
+  "value": {
+    "text": "2 Reais",
+    "numeric_value": 2,
+    "currency": {
+      "id": 158,
+      "name": "Real",
+      "full_name": "Real (1994-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2013-07-29"
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 121,
+  "size2": 65,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Country name on top, symbolic effigy of the Republic, interpreted in the form of sculpture.\r\nIn the lower right corner, a tactile mark with a slanted bar to the right, for use by the visually impaired. \r\nFace value in number on upper right, in number and letters on lower left.\r\n\r\nNombre del país arriba, imagen de la República, interpretada como escultura.\r\nAbajo, derecha marca táctil, barra inclinada a la derecha, para uso de discapacitados visuales.\r\nValor facial en número arriba derecha, en número y letras abajo izquierda.",
+    "lettering": "REPÚBLICA FEDERATIVA DO BRASIL 2\r\n2010\r\n2\r\nREAIS\r\nREPÚBLICA\r\nDEUS SEJA LOUVADO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Federative Republic of Brazil \r\n2\r\n2010\r\n2\r\nReais\r\nRepublic\r\nGod be praised\r\n\r\nRepública Federativa de Brasil    2\r\n2010\r\n2 Reais\r\nRepública\r\nDios sea alabado",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/5eb4b89f99c432.97713538-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eb4b89f99c432.97713538-180.jpg",
+    "picture_copyright": "SmoCa"
+  },
+  "reverse": {
+    "description": "On the left, sea turtle (Eretmochelys imbricata) swimming; and on the right, two sea turtles swimming next to each other. In the background marine vegetation and starfish. Issuer name on top, face value in number on top left and right, in letters on lower right.\r\n\r\nA la izquierda, tortuga marina (Eretmochelys imbricata) nadando; y a la derecha dos tortugas nadando juntas. En el fondo, vegetación marina y estrella de mar. Nombre del emisor arriba, valor facial en número arriba a izquierda y derecha, en letras abajo derecha.",
+    "lettering": "BANCO CENTRAL DO BRASIL 2\r\n2\r\nMINISTRO DA FAZENDA\r\nPRESIDENTE DO\r\nBANCO CENTRAL DO BRASIL\r\nTARTARUGA MARINHA\r\nDOIS REAIS\r\nCASA DA MOEDA DO BRASIL",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Brazil       2\r\n2\r\nFinance Minister\r\nPresident of the Central Bank of Brazil\r\nSea turtle\r\nTwo Reais\r\nCoin House of Brazil (Brazilian Mint)\r\n\r\nBanco Central de Brasil          2\r\n2\r\nMinistro de Finanzas\r\nPresidente del Banco Central de Brasil\r\nTortuga marina\r\nDos Reais\r\nCasa de la Moneda de Brasil (ceca)",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/5eb4b8a08cb728.23385429-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eb4b8a08cb728.23385429-180.jpg",
+    "picture_copyright": "SmoCa"
+  },
+  "series": "Real - 2nd Family",
+  "comments": "<p><strong>Curiosity</strong><br>(1) <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Ef%C3%ADgie_da_Rep%C3%BAblica\"><i>Effigy of the Republic</i></a><br><br>(2) <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Sea_turtle\"><i>Sea turtle (Eretmochelys imbricata)</i></a><br>---<br><strong>Notes</strong><br><a href=\"https://en.numista.com/catalogue/images/5eb1d428e8152.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb1d428e8152.jpg\" alt=\"\"></a><br><i>more...</i> <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/numisdoc/brazil-179.html\">Federative Republic of <strong>Brazil</strong></a> and <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Brazilian_real\">Real (R$)</a><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eb1d3e357398.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb1d3e357398.jpg\" alt=\"\"></a><br><i><strong>Important:</strong> Date is frozen on 2010 (release of the new banknote series)</i><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eb1c97f92669.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb1c97f92669.jpg\" alt=\"\"></a><br><i>Tactile mark for the visually impaired</i><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eb1c998235eb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb1c998235eb.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5eb1c9a9f0acd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb1c9a9f0acd.jpg\" alt=\"\"></a><br><i>Specimen note sample</i><br><br><strong>Curiosidad</strong><br>(1) <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Ef%C3%ADgie_da_Rep%C3%BAblica\"><i>Efigie de la República</i></a><br><br>(2) <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Sea_turtle\"><i>Tortuga marina (Eretmochelys imbricata)</i></a><br>---<br><strong>Notas</strong><br><a href=\"https://en.numista.com/catalogue/images/5eb1d428e8152.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb1d428e8152.jpg\" alt=\"\"></a><br><i>more...</i> <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.numista.com/numisdoc/brazil-179.html\">República Federativa de <strong>Brasil</strong></a> y <a target=\"_blank\" rel=\"noopener noreferrer ugc\" href=\"https://en.wikipedia.org/wiki/Brazilian_real\">Real (R$)</a><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eb1d3e357398.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb1d3e357398.jpg\" alt=\"\"></a><br><i><strong>Important:</strong> La fecha que figura es 2010, pero fue emitido en varios años (nueva serie de billetes)</i><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eb1c97f92669.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb1c97f92669.jpg\" alt=\"\"></a><br><i>Marca táctil para discapacitados visuales</i><br>---<br><a href=\"https://en.numista.com/catalogue/images/5eb1c998235eb.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb1c998235eb.jpg\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/5eb1c9a9f0acd.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/5eb1c9a9f0acd.jpg\" alt=\"\"></a><br><i>Espécimen</i><br><br>UV activity:<br><a href=\"https://en.numista.com/catalogue/images/64a028e8c2721.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a028e8c2721.png\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/64a028f989683.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a028f989683.png\" alt=\"\"></a><br>© gyoschak</p>",
+  "related_types": [
+    {
+      "id": 205028,
+      "title": "2 Reais (1st. Family; Stamp A)",
+      "category": "banknote",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2001,
+      "maxYear": 2009
+    },
+    {
+      "id": 212215,
+      "title": "2 Reais (2nd. Family; Crane-AB)",
+      "category": "banknote",
+      "country": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "minYear": 2016,
+      "maxYear": 2016
+    }
+  ],
+  "tags": [
+    "Allegory",
+    "Turtle or tortoise",
+    "Sea"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "252"
+    },
+    {
+      "catalogue": {
+        "id": 1186,
+        "code": "AI Notes"
+      },
+      "number": "C333"
+    },
+    {
+      "catalogue": {
+        "id": 1186,
+        "code": "AI Notes"
+      },
+      "number": "C334"
+    },
+    {
+      "catalogue": {
+        "id": 1186,
+        "code": "AI Notes"
+      },
+      "number": "C335"
+    },
+    {
+      "catalogue": {
+        "id": 1186,
+        "code": "AI Notes"
+      },
+      "number": "C336"
+    },
+    {
+      "catalogue": {
+        "id": 1186,
+        "code": "AI Notes"
+      },
+      "number": "C337"
+    },
+    {
+      "catalogue": {
+        "id": 1186,
+        "code": "AI Notes"
+      },
+      "number": "C338"
+    },
+    {
+      "catalogue": {
+        "id": 1186,
+        "code": "AI Notes"
+      },
+      "number": "C339"
+    },
+    {
+      "catalogue": {
+        "id": 1186,
+        "code": "AI Notes"
+      },
+      "number": "C340"
+    },
+    {
+      "catalogue": {
+        "id": 2109,
+        "code": "PMLC"
+      },
+      "number": "631"
+    }
+  ],
+  "watermark": {
+    "description": "Hawksbill turtle (Eretmochelys imbricata) and electrotype “2”",
+    "picture": "https://en.numista.com/catalogue/photos/bresil/5eb1dc6a5e7bf9.77991562-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eb1dc6a5e7bf9.77991562-180.jpg",
+    "picture_copyright": "Wilson Roberto Vasques Nunes"
+  },
+  "printers": [
+    {
+      "id": 12,
+      "name": "Casa da Moeda do Brasil"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

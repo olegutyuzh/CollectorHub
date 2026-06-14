@@ -1,0 +1,161 @@
+{
+  "id": 205282,
+  "url": "https://en.numista.com/205282",
+  "title": "1000 Pesos (small size)",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "colombie",
+    "name": "Colombia"
+  },
+  "issuing_entity": {
+    "id": 905,
+    "name": "Bank of the Republic of Colombia",
+    "wikidata_id": "Q686329"
+  },
+  "min_year": 2005,
+  "max_year": 2016,
+  "ruler": [
+    {
+      "id": 4088,
+      "name": "Republic",
+      "wikidata_id": "Q739"
+    }
+  ],
+  "value": {
+    "text": "1000 Pesos",
+    "numeric_value": 1000,
+    "currency": {
+      "id": 147,
+      "name": "Peso decimalized",
+      "full_name": "Peso decimalized (1847-date)"
+    }
+  },
+  "issue_terms": {
+    "is_issued": true,
+    "issue_date": "2006-11-17"
+  },
+  "demonetization": {
+    "is_demonetized": true
+  },
+  "size": 130,
+  "size2": 65,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Square symbol for blind; scales registration device; crowd as seen from Nutibara hotel in Medellín; portrait of Jorge Eliécer Gaitán Ayala at right.",
+    "lettering": "1000\r\nMIL PESOS\r\nCOLOMBIA\r\n9 DE NOVIEMBRE DE 2006\r\nBANCO DE LA REPUBLICA\r\n1000",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "One Thousand Pesos\r\nColombia\r\nNovember 9, 2006\r\nBank of Republic",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/62cae14a578e94.44715318-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/62cae14a578e94.44715318-180.jpg",
+    "picture_copyright": "RuibaiK",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Portrait of Jorge Eliecer Gaitan with Hand raised next to two quotes:\r\n\"I am not a man, I am a people\"\r\n\"the people are superior to their leaders\"",
+    "lettering": "COLOMBIA\r\nMIL PESOS\r\n\"Yo no soy un hombre, soy un pueblo.\"\r\n\"El pueblo es superior a sus dirigentes.\"",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Colombia\r\nOne Hundred Pesos\r\n\"I am not a man, I am a people.\"\r\n\"The people are superior to their leaders.\"",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/62cae14c3c9a15.84756415-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/62cae14c3c9a15.84756415-180.jpg",
+    "picture_copyright": "RuibaiK",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "comments": "<p>The note has one security thread.<br><br>UV activity with automobile:<br><a href=\"https://en.numista.com/catalogue/images/64a1d9b05ff4a.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a1d9b05ff4a.png\" alt=\"\"></a><br><a href=\"https://en.numista.com/catalogue/images/64a1d9c0ef02a.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64a1d9c0ef02a.png\" alt=\"\"></a><br>© gyoschak</p>",
+  "related_types": [
+    {
+      "id": 237007,
+      "title": "1000 Pesos",
+      "category": "banknote",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 1979,
+      "maxYear": 1979
+    },
+    {
+      "id": 216958,
+      "title": "1000 Pesos Oro",
+      "category": "banknote",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 1982,
+      "maxYear": 1993
+    },
+    {
+      "id": 213680,
+      "title": "1000 Pesos",
+      "category": "banknote",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 1994,
+      "maxYear": 1995
+    },
+    {
+      "id": 210180,
+      "title": "1000 Pesos",
+      "category": "banknote",
+      "country": {
+        "code": "colombie",
+        "name": "Colombia"
+      },
+      "minYear": 2001,
+      "maxYear": 2005
+    }
+  ],
+  "tags": [
+    "Politician"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "456"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "986"
+    }
+  ],
+  "watermark": {
+    "description": "Portrait of Jorge E. Gaitán, looking right.",
+    "picture": "https://en.numista.com/catalogue/photos/colombie/62cae14e074702.09572030-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/colombie/62cae14e074702.09572030-180.jpg",
+    "picture_copyright": "RuibaiK",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 53,
+      "name": "Imprenta de Billetes (Bogotá; Santa Fe de Bogotá; Banco de la República)"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

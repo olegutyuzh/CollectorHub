@@ -1,0 +1,21 @@
+[
+  {
+    "id": 493267,
+    "is_dated": true,
+    "year": 1997,
+    "gregorian_year": 1997,
+    "month": 7,
+    "day": 1,
+    "signatures": [
+      {
+        "signer_name": "Arnoud Henricus Elisabeth Maria Wellink",
+        "title": "President"
+      },
+      {
+        "signer_name": "Jacob Koning",
+        "title": "Secretary-Director"
+      }
+    ],
+    "comment": "See varieties in comments above."
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 507609,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "month": 7,
+    "day": 5,
+    "signatures": [
+      {
+        "signer_name": "Carlos Augusto de Burgo",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Manuel Pinto Frederico",
+        "title": "Administrator"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "220"
+      }
+    ],
+    "comment": "Issued note"
+  },
+  {
+    "id": 912546,
+    "is_dated": true,
+    "year": 2014,
+    "gregorian_year": 2014,
+    "month": 7,
+    "day": 5,
+    "signatures": [
+      {
+        "signer_name": "Carlos Augusto de Burgo",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Manuel Pinto Frederico",
+        "title": "Administrator"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "74s"
+      }
+    ],
+    "comment": "Specimen"
+  },
+  {
+    "id": 948837,
+    "is_dated": true,
+    "year": 2024,
+    "gregorian_year": 2024,
+    "month": 8,
+    "day": 27,
+    "signatures": [
+      {
+        "signer_name": "Óscar Humberto Évora Santos",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Antônia Lopes",
+        "title": "Administrator"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "225"
+      }
+    ],
+    "comment": "Issued note"
+  }
+]

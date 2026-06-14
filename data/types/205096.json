@@ -1,0 +1,103 @@
+{
+  "id": 205096,
+  "url": "https://en.numista.com/205096",
+  "title": "10 Córdobas",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "nicaragua",
+    "name": "Nicaragua"
+  },
+  "issuing_entity": {
+    "id": 863,
+    "name": "Central Bank of Nicaragua",
+    "wikidata_id": "Q4504274"
+  },
+  "min_year": 2007,
+  "max_year": 2007,
+  "ruler": [
+    {
+      "id": 4284,
+      "name": "Republic",
+      "wikidata_id": "Q811"
+    }
+  ],
+  "value": {
+    "text": "10 Córdobas",
+    "numeric_value": 10,
+    "currency": {
+      "id": 3150,
+      "name": "Third Córdoba \"Oro\"",
+      "full_name": "Third Córdoba \"Oro\" (1991-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 131,
+  "size2": 67,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Polymer"
+  },
+  "obverse": {
+    "description": "Colour: Green and light blue. \r\nFortress of the Immaculate Conception on southern bank of the San Juan River in El Castillo (Castillo Inmaculada Concepción).\r\nIssuer name on top left, face value in numbers on top left and lower right corners, in letters below issuer name. Serial #s 8 digits with prefix letter over number, horizontal red on top center, vertical black on left edge; green signature with name and title below, on lower center. Two round see-thru windows with small image of the fortress on left, with embossed \"10\" on upper right. Raised circle device for visually impaired on top right. Creation detail on lower right.",
+    "lettering": "10           BANCO CENTRAL DE NICARAGUA\r\nDIEZ CÓRDOBAS\r\nA/1 05339625\r\nCASTILLO INMACULADA\r\nCONCEPCIÓN         10\r\nANTENOR ROSALES BOLAÑOS\r\nPRESIDENTE\r\nBANCO CENTRAL DE NICARAGUA\r\nRESOLUCIÓN DEL CONSEJO DIRECTIVO DEL BANCO CENTRAL DE NICARAGUA CD-BCN-XXXVI-1-07 DEL12 DE SEPTIEMBRE DE 2007",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "10           Central Bank of Nicaragua\r\nTen Córdobas\r\nImmaculate Conception castle\r\nAntenor Rosales Bolaños, President, Central Bank of Nicaragua\r\nResolution of the Directors Board of Central Bank of Nicaragua # CD-BCN-XXXVI-1-07 from September 12th., 2007",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/63e6564ec77330.60428529-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/63e6564ec77330.60428529-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Nicaraguan coat of arms; adobe farm house with tiled roof on site of National War battle in 1856 (Casa Hacienda San Jacinto in Managua). Issuer name on top, face value in numbers on top right and left edge; in letters on lower left.\r\nSimulated security thread.",
+    "lettering": "BANCO CENTRAL DE NICARAGUA         10\r\n10\r\nDIEZ CÓRDOBAS\r\nREPÚBLICA DE NICARAGUA\r\n- AMÉRICA CENTRAL -\r\nHACIENDA SAN JACINTO",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Nicaragua 10\r\nTen Córdobas\r\nRepublic of Nicaragua, Central America\r\n\"San Jacinto\" farm",
+    "picture": "https://en.numista.com/catalogue/photos/nicaragua/63e656524a6731.85429098-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/nicaragua/63e656524a6731.85429098-180.jpg",
+    "picture_copyright": "ngdawa",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "comments": "<p>See-thru window (as watermark)</p><p>There are two varieties:&nbsp;</p><p><img class=\"image_resized\" style=\"width:22.07%;\" src=\"https://en.numista.com/catalogue/images/miniatures/67752822065bb.jpg\"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"https://en.numista.com/catalogue/images/67752839789a4.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/67752839789a4.jpg\"></a></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Embossed “10” &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;White “10”</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;© ngdawa &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; © adanieluy</p><p>They are easy to see, but difficult to make pictures, so was needed to add color background to make them visible.</p><p>&nbsp;</p><p>UV activity:<br><a href=\"https://en.numista.com/catalogue/images/64e4c3dc81d99.png\"><img src=\"https://en.numista.com/catalogue/images/miniatures/64e4c3dc81d99.png\" alt=\"\"></a><br>© gyoschak</p><p>&nbsp;</p><p>On the P#201b (version with the white 10) there is a blue iridescent ink strip on the reverse. It has “10” repeated on it:</p><p><a href=\"https://en.numista.com/catalogue/images/677ae4449a78d.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/677ae4449a78d.jpg\"></a></p><p>© Brandon Bertolli</p>",
+  "tags": [
+    "Castle or fortification",
+    "Other building",
+    "Flag",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "201"
+    },
+    {
+      "catalogue": {
+        "id": 936,
+        "code": "TBB"
+      },
+      "number": "497"
+    }
+  ],
+  "watermark": {
+    "description": "Embossed \"10\", with \"10\" numbers repeated several times around. (see comments for variants)"
+  },
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

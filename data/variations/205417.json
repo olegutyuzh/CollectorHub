@@ -1,0 +1,54 @@
+[
+  {
+    "id": 507598,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "signatures": [
+      {
+        "signer_name": "Carlos Augusto de Burgo",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Manuel Pinto Frederico",
+        "title": "Administrator"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "70a"
+      }
+    ],
+    "comment": "Issued note"
+  },
+  {
+    "id": 507599,
+    "is_dated": true,
+    "year": 2007,
+    "gregorian_year": 2007,
+    "signatures": [
+      {
+        "signer_name": "Carlos Augusto de Burgo",
+        "title": "Governor"
+      },
+      {
+        "signer_name": "Manuel Pinto Frederico",
+        "title": "Administrator"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "70s"
+      }
+    ],
+    "comment": "Specimen"
+  }
+]

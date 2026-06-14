@@ -1,0 +1,26 @@
+[
+  {
+    "id": 496153,
+    "is_dated": true,
+    "year": 1992,
+    "gregorian_year": 1992,
+    "signatures": [
+      {
+        "signer_name": "Vadym Petrovych Hetman",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ]
+  },
+  {
+    "id": 496154,
+    "is_dated": true,
+    "year": 1992,
+    "gregorian_year": 1992,
+    "signatures": [
+      {
+        "signer_name": "Viktor Andriiovych Yushchenko",
+        "title": "Chairman of the National Bank of Ukraine"
+      }
+    ]
+  }
+]

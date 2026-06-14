@@ -1,0 +1,153 @@
+{
+  "id": 205390,
+  "url": "https://en.numista.com/205390",
+  "title": "50 Rupees",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "sri_lanka_period",
+    "name": "Sri Lanka (1972-date)"
+  },
+  "issuing_entity": {
+    "id": 542,
+    "name": "Central Bank of Sri Lanka",
+    "wikidata_id": "Q2640939"
+  },
+  "min_year": 2010,
+  "max_year": 2022,
+  "ruler": [
+    {
+      "id": 589,
+      "name": "Democratic Socialist Republic",
+      "wikidata_id": "Q854"
+    }
+  ],
+  "value": {
+    "text": "50 Rupees",
+    "numeric_value": 50,
+    "currency": {
+      "id": 176,
+      "name": "Rupee",
+      "full_name": "Rupee (1972-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": false
+  },
+  "size": 133,
+  "size2": 67,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "The newly constructed bridge in Manampitiya appears on the center of the note. The formerly used bridge, over which both trains and other vehicles ran, appears to the left of the new bridge. Above both, is the faint visualization of a historical railway arch bridge. The bird on the right side of the note is the Sri Lankan Dull Blue Flycatcher (Eumyias sordida). The butterfly on the left is the Blue Oakleaf (Kallima philarchus).",
+    "lettering": "CENTRAL BANK OF SRI LANKA\r\nFIFTY RUPEES",
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668cdb3636.05438207-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668cdb3636.05438207-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "When the back of the note is viewed vertically, a Vadiga Patuna Dancer (who belongs to the low country dancing tradition) is dancing to the tune of the Yakbera drummer, playing his Yakbera drum to the left of the dancer. The guard-stone of the Punkalasa, or the “pot of plenty”, which is a symbol of prosperity, is on the top right of the note. A Liya Vela, or “the stylized floral motif” appears on the back.",
+    "lettering": "CENTRAL BANK OF SRI LANKA\r\nFIFTY RUPEES",
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668ce92e61.45990797-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/6537668ce92e61.45990797-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "Development, Prosperity and Sri Lanka Dancers",
+  "comments": "<p>Under backlight the cornerstone watermarks can be seen. This is a 2021 note:</p><p><a href=\"https://en.numista.com/catalogue/images/6834435a69554.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/6834435a69554.jpg\"></a></p><p>&nbsp;</p><p>Also under backlight micro-printing can be seen. It has “CBSL RS 50” repeated on it:</p><p><a href=\"https://en.numista.com/catalogue/images/683443a0c569e.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/683443a0c569e.jpg\"></a></p><p>&nbsp;</p><p>UV activity at 365nm on a 2021 note:<br><a href=\"https://en.numista.com/catalogue/images/683443c92a148.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/683443c92a148.jpg\"></a> &nbsp;<a href=\"https://en.numista.com/catalogue/images/683443d492175.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/683443d492175.jpg\"></a><br>© Brandon Bertolli</p>",
+  "related_types": [
+    {
+      "id": 203329,
+      "title": "20 Rupees",
+      "category": "banknote",
+      "country": {
+        "code": "sri_lanka_period",
+        "name": "Sri Lanka (1972-date)"
+      },
+      "minYear": 2010,
+      "maxYear": 2024
+    },
+    {
+      "id": 205392,
+      "title": "100 Rupees",
+      "category": "banknote",
+      "country": {
+        "code": "sri_lanka_period",
+        "name": "Sri Lanka (1972-date)"
+      },
+      "minYear": 2010,
+      "maxYear": 2024
+    },
+    {
+      "id": 206985,
+      "title": "500 Rupees",
+      "category": "banknote",
+      "country": {
+        "code": "sri_lanka_period",
+        "name": "Sri Lanka (1972-date)"
+      },
+      "minYear": 2010,
+      "maxYear": 2024
+    },
+    {
+      "id": 206982,
+      "title": "1000 Rupees",
+      "category": "banknote",
+      "country": {
+        "code": "sri_lanka_period",
+        "name": "Sri Lanka (1972-date)"
+      },
+      "minYear": 2010,
+      "maxYear": 2024
+    },
+    {
+      "id": 206097,
+      "title": "5000 Rupees",
+      "category": "banknote",
+      "country": {
+        "code": "sri_lanka_period",
+        "name": "Sri Lanka (1972-date)"
+      },
+      "minYear": 2010,
+      "maxYear": 2024
+    }
+  ],
+  "tags": [
+    "Bird",
+    "Dance",
+    "Bridge",
+    "Train"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "124"
+    }
+  ],
+  "watermark": {
+    "description": "Dull-blue flycatcher (Eumyias sordidus) and electrotype “50”\r\nThe note also has cornerstone watermarks, see the comments section",
+    "picture": "https://en.numista.com/catalogue/photos/sri_lanka_period/67baafb16fe530.11958639-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/sri_lanka_period/67baafb16fe530.11958639-180.jpg",
+    "picture_copyright": "ajbbarbados",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 1,
+      "name": "De La Rue"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

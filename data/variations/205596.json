@@ -1,0 +1,80 @@
+[
+  {
+    "id": 508508,
+    "is_dated": true,
+    "year": 5747,
+    "gregorian_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Shlomo Lorincz",
+        "title": "Chairman of the Advisory Committee"
+      },
+      {
+        "signer_name": "Michael Bruno",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "54a"
+      }
+    ],
+    "comment": "תשמ\"ז; Without small double circle with dot in watermark area"
+  },
+  {
+    "id": 508509,
+    "is_dated": true,
+    "year": 5747,
+    "gregorian_year": 1987,
+    "signatures": [
+      {
+        "signer_name": "Shlomo Lorincz",
+        "title": "Chairman of the Advisory Committee"
+      },
+      {
+        "signer_name": "Michael Bruno",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "54b"
+      }
+    ],
+    "comment": "תשמ\"ז; With small double circle with dot in watermark area Obverse & Reverse"
+  },
+  {
+    "id": 508510,
+    "is_dated": true,
+    "year": 5753,
+    "gregorian_year": 1993,
+    "signatures": [
+      {
+        "signer_name": "Shlomo Lorincz",
+        "title": "Chairman of the Advisory Committee"
+      },
+      {
+        "signer_name": "Yaakov A. Frenkel",
+        "title": "Governor"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "54c"
+      }
+    ],
+    "comment": "תשנ״ג; With small double circle with dot in watermark area"
+  }
+]

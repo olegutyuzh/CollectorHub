@@ -1,0 +1,74 @@
+[
+  {
+    "id": 495351,
+    "is_dated": true,
+    "year": 1436,
+    "gregorian_year": 2015,
+    "month": 10,
+    "day": 5,
+    "signatures": [
+      {
+        "signer_name": "Azeema Adam",
+        "title": "Governor of the Maldives Monetary Authority"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "216a"
+      }
+    ],
+    "comment": "Prefix: A-D"
+  },
+  {
+    "id": 959834,
+    "is_dated": true,
+    "year": 1436,
+    "gregorian_year": 2015,
+    "month": 10,
+    "day": 5,
+    "signatures": [
+      {
+        "signer_name": "Azeema Adam",
+        "title": "Governor of the Maldives Monetary Authority"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "216az"
+      }
+    ],
+    "comment": "Replacement; Prefix: Z"
+  },
+  {
+    "id": 721646,
+    "is_dated": true,
+    "year": 1439,
+    "gregorian_year": 2018,
+    "month": 3,
+    "day": 10,
+    "signatures": [
+      {
+        "signer_name": "Ahmed Naseer",
+        "title": "Governor of the Maldives Monetary Authority"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "216b"
+      }
+    ],
+    "comment": "Prefix: D"
+  }
+]

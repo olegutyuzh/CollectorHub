@@ -1,0 +1,115 @@
+{
+  "id": 205295,
+  "url": "https://en.numista.com/205295",
+  "title": "10 Gulden",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "suriname",
+    "name": "Suriname"
+  },
+  "issuing_entity": {
+    "id": 945,
+    "name": "Central Bank of Suriname",
+    "wikidata_id": "Q2981941"
+  },
+  "min_year": 1991,
+  "max_year": 1998,
+  "ruler": [
+    {
+      "id": 1928,
+      "name": "Republic",
+      "wikidata_id": "Q730"
+    }
+  ],
+  "value": {
+    "text": "10 Guilders",
+    "numeric_value": 10,
+    "currency": {
+      "id": 318,
+      "name": "Guilder",
+      "full_name": "Guilder (1826-2003)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2003-12-31"
+  },
+  "size": 146,
+  "size2": 69,
+  "shape": "Rectangular",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Red and dark green on multicolor underprint.\r\nCentral Bank Building in Paramaribo at center; bananas at upper left. \r\nVertical serial number in red color.",
+    "lettering": "CENTRALE BANK VAN SURINAME\r\n10 Gulden\r\n1 DECEMBER 1996\r\nTIEN Gulden",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Central Bank of Suriname\r\n10 Gulden\r\nDecember 1st., 1996\r\nTen Gulden",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/623c2feb5ca4a3.86151687-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/623c2feb5ca4a3.86151687-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Coat of Arms at upper right; banana harvesting at center right; toucan at left.",
+    "lettering": "VIJF Gulden\r\n\r\nTHOMAS DE LA RUE AND COMPANY LIMITED\r\nNADRUK VERBODEN SURINAAMS WETBOEK VAN STRAFRECHT - ARTIKEL 260",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Ten Guilders\r\n\r\nThomas de La Rue and Company Limited\r\nEmphasis Forbidden Suriname's Criminal Code - Article 260",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/623c2febee5ed6.40631583-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/623c2febee5ed6.40631583-180.jpg",
+    "picture_copyright": "hex7ech",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "series": "1991-1999 Issue \"Central Bank Building\"",
+  "comments": "<p>Banknotes series <strong>AD000001 through AD400000</strong> were issued (reprinted) in <strong>1992</strong>.<br>Banknotes series <strong>AD400001 through AE500000</strong> were issued (reprinted) in <strong>1994</strong>.<br><br>P#137a, signature Henk Goedschalk (2nd type) - President of the Central Bank of Suriname from January 1985 until January 1994 and from January 1997 until August 2000.<br>P#137b (1995/1996), signature André Telting - President of the Central Bank of Suriname from March 1994 until February 1996 and from September 2000 until August 2010.<br>P#137b (1998), signature Henk Goedschalk (3rd type) - President of the Central Bank of Suriname from January 1985 until January 1994 and from January 1997 until August 2000.</p><p>&nbsp;</p><p>Solid 0.4mm security thread.</p><p>UV activity:</p><p><a href=\"https://en.numista.com/catalogue/images/65f5bc50ddc98.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65f5bc50ddc98.jpg\"></a></p><p><a href=\"https://en.numista.com/catalogue/images/65f5bc5be78c2.jpg\"><img src=\"https://en.numista.com/catalogue/images/miniatures/65f5bc5be78c2.jpg\"></a></p><p>© gyoschak</p>",
+  "tags": [
+    "Agriculture",
+    "Government building",
+    "Coat of Arms"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "137"
+    },
+    {
+      "catalogue": {
+        "id": 2270,
+        "code": "Plomp"
+      },
+      "number": "PLS21.2"
+    }
+  ],
+  "watermark": {
+    "description": "Toucan",
+    "picture": "https://en.numista.com/catalogue/photos/suriname/64f30d07cf46c1.56501622-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/suriname/64f30d07cf46c1.56501622-180.jpg",
+    "picture_copyright": "vladthiengo",
+    "picture_license_name": "CC BY-NC",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+  },
+  "printers": [
+    {
+      "id": 1,
+      "name": "De La Rue"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

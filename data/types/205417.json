@@ -1,0 +1,97 @@
+{
+  "id": 205417,
+  "url": "https://en.numista.com/205417",
+  "title": "1000 Escudos",
+  "object_type": {
+    "id": 79,
+    "name": "Standard circulation banknotes"
+  },
+  "issuer": {
+    "code": "cap-vert",
+    "name": "Cape Verde"
+  },
+  "issuing_entity": {
+    "id": 902,
+    "name": "Bank of Cape Verde",
+    "wikidata_id": "Q4077341"
+  },
+  "min_year": 2007,
+  "max_year": 2007,
+  "ruler": [
+    {
+      "id": 4333,
+      "name": "Republic",
+      "wikidata_id": "Q1011"
+    }
+  ],
+  "value": {
+    "text": "1000 Escudos",
+    "numeric_value": 1000,
+    "currency": {
+      "id": 1573,
+      "name": "Escudo",
+      "full_name": "Escudo (1914-date)"
+    }
+  },
+  "demonetization": {
+    "is_demonetized": true,
+    "demonetization_date": "2019-06-00"
+  },
+  "size": 136,
+  "size2": 66,
+  "shape": "Rectangular (Vertical alignment)",
+  "composition": {
+    "text": "Paper"
+  },
+  "obverse": {
+    "description": "Violet, blue and rose on multicolor underprint\r\nPortrait of Antonio Aurelio Conçalves at bottom.",
+    "lettering": "BANCO DE CABO VERDE\r\nO GOVERNADOR\r\nO ADMINISTRATOR\r\nMIL ESCUDOS\r\nANTONIO AURELIO GONÇALVES",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bank of Cape Verde\r\nGovernor\r\nAdministrator\r\nOne Thousand Escudos",
+    "picture": "https://en.numista.com/catalogue/photos/cap-vert/5e9dd21ae6d909.16040488-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cap-vert/5e9dd21ae6d909.16040488-180.jpg",
+    "picture_copyright": "alexmusat",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "reverse": {
+    "description": "Dragon tree at bottom.",
+    "lettering": "BANCO DE CABO VERDE\r\nA LEI PUNE O CONTRAFACTOR\r\n1000\r\nMIL ESCUDOS\r\n25 DE SETEMBRO DE 2007\r\nDRAGOEIRO - ILHA DE SÃO NICOLAU",
+    "lettering_scripts": [
+      {
+        "name": "Latin"
+      }
+    ],
+    "lettering_translation": "Bank of Cape Verde\r\nThe law punishes the counterfactor\r\nOne Thousand Escudos\r\nSeptember 25, 2007\r\nDragon Tree- Island of St Nicolas",
+    "picture": "https://en.numista.com/catalogue/photos/cap-vert/5e9dd21c501fe2.73808931-original.jpg",
+    "thumbnail": "https://en.numista.com/catalogue/photos/cap-vert/5e9dd21c501fe2.73808931-180.jpg",
+    "picture_copyright": "alexmusat",
+    "picture_license_name": "CC BY-NC-SA",
+    "picture_license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+  },
+  "series": "2005-2007 Issue",
+  "tags": [
+    "Tree"
+  ],
+  "references": [
+    {
+      "catalogue": {
+        "id": 931,
+        "code": "P"
+      },
+      "number": "70"
+    }
+  ],
+  "printers": [
+    {
+      "id": 7,
+      "name": "Oberthur Fiduciaire"
+    }
+  ],
+  "category": "banknote",
+  "type": "Standard circulation banknotes"
+}

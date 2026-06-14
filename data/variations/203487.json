@@ -1,0 +1,141 @@
+[
+  {
+    "id": 499295,
+    "is_dated": true,
+    "year": 2015,
+    "gregorian_year": 2015,
+    "signatures": [
+      {
+        "signer_name": "Karamokoba Camara",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Louncény Nabe",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "48a"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B339a"
+      }
+    ]
+  },
+  {
+    "id": 499296,
+    "is_dated": true,
+    "year": 2017,
+    "gregorian_year": 2017,
+    "signatures": [
+      {
+        "signer_name": "Malado Kaba",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Louncény Nabe",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 931,
+          "code": "P"
+        },
+        "number": "48b"
+      },
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B339b"
+      }
+    ]
+  },
+  {
+    "id": 730114,
+    "is_dated": true,
+    "year": 2018,
+    "gregorian_year": 2018,
+    "signatures": [
+      {
+        "signer_name": "Malado Kaba",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Louncény Nabe",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B339c"
+      }
+    ]
+  },
+  {
+    "id": 845345,
+    "is_dated": true,
+    "year": 2022,
+    "gregorian_year": 2022,
+    "signatures": [
+      {
+        "signer_name": "Moussa Cissé",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Karamo Kaba",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B339d"
+      }
+    ]
+  },
+  {
+    "id": 1085572,
+    "is_dated": true,
+    "year": 2024,
+    "gregorian_year": 2024,
+    "signatures": [
+      {
+        "signer_name": "Mourana Soumah",
+        "title": "Minister of Finance"
+      },
+      {
+        "signer_name": "Karamo Kaba",
+        "title": "Governor of the Central Bank"
+      }
+    ],
+    "references": [
+      {
+        "catalogue": {
+          "id": 936,
+          "code": "TBB"
+        },
+        "number": "B339e"
+      }
+    ]
+  }
+]

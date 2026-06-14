@@ -1,0 +1,32 @@
+[
+  {
+    "id": 493184,
+    "is_dated": true,
+    "year": 1944,
+    "gregorian_year": 1944,
+    "comment": "VF.17/00Sp - N°00000000, specimen"
+  },
+  {
+    "id": 493182,
+    "is_dated": true,
+    "year": 1944,
+    "gregorian_year": 1944,
+    "mintage": 100000000,
+    "comment": "VF.17/01 - no series number"
+  },
+  {
+    "id": 493183,
+    "is_dated": true,
+    "year": 1944,
+    "gregorian_year": 1944,
+    "mintage": 60000000,
+    "comment": "VF.17/02 - series 2"
+  },
+  {
+    "id": 496769,
+    "is_dated": true,
+    "year": 1944,
+    "gregorian_year": 1944,
+    "comment": "VF.17/03 - series X"
+  }
+]
