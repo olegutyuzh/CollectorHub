@@ -1,9 +1,10 @@
-export interface CountryStat        { code: string; name: string; flag: string; count: number }
+export interface CountryStat        { code: string; name: string; flag: string; count: number; totalSpent?: number; avgValue?: number }
 export interface IssuerStat         { name: string; count: number }
 export interface GradeStat          { grade: string; count: number; color: string }
 export interface YearStat           { year: number; count: number }
 export interface GradingCompanyStat { company: string; count: number }
 export interface SlabGradeStat      { grade: string; count: number }
+export interface AwardIssueStat     { name: string; flag: string; count: number }
 
 export interface StatsSummary {
   items: number
@@ -20,4 +21,6 @@ export interface AllStats {
   yearStats:          YearStat[]
   gradingCompanyStats: GradingCompanyStat[]
   slabGradeStats:     SlabGradeStat[]
+  awardWinners:       AwardIssueStat[]
+  awardNominees:      AwardIssueStat[]
 }

@@ -1,8 +1,8 @@
 import { createServerSupabaseClient } from '@/lib/supabase-server'
 import Image from 'next/image'
 import { Link } from '@/i18n/navigation'
-import { Star, Plus, Camera, Award, Hash, DollarSign, MessageSquare } from 'lucide-react'
-import type { CollectedItem, CollectibleWithRelations, CollectibleVariation, NumistaPicture, Country } from '@/types/database'
+import { Star, Plus, Camera, Award, Hash, DollarSign, MessageSquare, Trophy } from 'lucide-react'
+import type { CollectedItem, CollectibleWithRelations, CollectibleVariation, NumistaPicture, Country, CollectibleAward } from '@/types/database'
 import { getTranslations } from 'next-intl/server'
 import { EditCollectedItemButton } from '@/components/ui/EditCollectedItemButton'
 import { DeleteCollectedItemButton } from '@/components/ui/DeleteCollectedItemButton'
@@ -140,6 +140,17 @@ export default async function CollectionPage({ searchParams }: { searchParams: P
     const series = typeof d.series === 'string' ? d.series : null
     const refs   = parseRefs(d.references_data)
     detailsMap.set(d.collectible_id, { series, refs })
+  }
+
+  // ── Awards for displayed collectibles ──────────────────────────────────────
+  const { data: awardsRaw } = collectibleIds.length
+    ? await supabase.from('collectible_awards').select('*').in('collectible_id', collectibleIds)
+    : { data: [] }
+  const awardsPerCollectible = new Map<number, CollectibleAward[]>()
+  for (const a of (awardsRaw ?? []) as CollectibleAward[]) {
+    const arr = awardsPerCollectible.get(a.collectible_id) ?? []
+    arr.push(a)
+    awardsPerCollectible.set(a.collectible_id, arr)
   }
 
   const countryOrder: string[] = []
@@ -391,9 +402,43 @@ export default async function CollectionPage({ searchParams }: { searchParams: P
                                           <span className="ml-1.5 text-xs text-slate-500 font-normal">{colGroup.refs}</span>
                                         )}
                                       </Link>
-                                      <p className="text-xs text-slate-500 mt-0.5">
-                                        In my collection: <span className="font-semibold text-slate-300">{colGroup.totalQty}</span>
-                                      </p>
+                                      <div className="flex items-center gap-2 mt-0.5 flex-wrap">
+                                        <p className="text-xs text-slate-500">
+                                          In my collection: <span className="font-semibold text-slate-300">{colGroup.totalQty}</span>
+                                        </p>
+                                        {/* Award badges */}
+                                        {(() => {
+                                          const awards = awardsPerCollectible.get(c?.id ?? 0) ?? []
+                                          if (!awards.length) return null
+                                          const winner = awards.find(a => a.award_type === 'winner')
+                                          const nominees = awards.filter(a => a.award_type === 'nominee')
+                                          const latestNominee = [...nominees].sort((a, b) => b.award_year - a.award_year)[0]
+                                          return (
+                                            <span className="inline-flex items-center gap-1">
+                                              {winner ? (
+                                                <span
+                                                  className="inline-flex items-center gap-0.5 text-[10px] font-bold rounded-full px-1.5 py-0.5 bg-amber-500/90 text-[#07111f]"
+                                                  title={`${winner.award_name} — Переможець ${winner.award_year}`}
+                                                >
+                                                  <Trophy className="h-2.5 w-2.5" />{winner.award_year}
+                                                </span>
+                                              ) : latestNominee ? (
+                                                <span
+                                                  className="inline-flex items-center gap-0.5 text-[10px] font-bold rounded-full px-1.5 py-0.5 bg-white/20 text-white"
+                                                  title={`${latestNominee.award_name} — Номінант ${latestNominee.award_year}`}
+                                                >
+                                                  <Star className="h-2.5 w-2.5" />{latestNominee.award_year}
+                                                </span>
+                                              ) : null}
+                                              {winner && nominees.length > 0 && (
+                                                <span className="inline-flex items-center text-[9px] font-medium rounded-full px-1.5 py-0.5 bg-white/10 text-white/70">
+                                                  +{nominees.length} ном.
+                                                </span>
+                                              )}
+                                            </span>
+                                          )
+                                        })()}
+                                      </div>
                                     </div>
                                   </div>
 

@@ -5,7 +5,7 @@ import { getTranslations } from 'next-intl/server'
 import { StatsCharts } from './StatsCharts'
 import type {
   AllStats, CountryStat, IssuerStat, GradeStat,
-  YearStat, GradingCompanyStat, SlabGradeStat,
+  YearStat, GradingCompanyStat, SlabGradeStat, AwardIssueStat,
 } from './types'
 
 const GRADE_COLORS: Record<string, string> = {
@@ -21,10 +21,46 @@ export default async function StatsPage() {
   const { data: { user } } = await supabase.auth.getUser()
   if (!user) redirect('/auth/login')
 
+  // ── Award country distribution (global IBNS data) ───────────────────────────
+  const { data: awardRows } = await supabase
+    .from('collectible_awards')
+    .select(`
+      award_type,
+      collectibles!inner(
+        issuer_name,
+        countries(flag_emoji)
+      )
+    `)
+    .eq('organization_id', 1)
+
+  type AwardRow = {
+    award_type: string
+    collectibles: {
+      issuer_name: string | null
+      countries:   { flag_emoji: string | null } | null
+    } | null
+  }
+
+  const byAwardWinner  = new Map<string, AwardIssueStat>()
+  const byAwardNominee = new Map<string, AwardIssueStat>()
+
+  for (const row of (awardRows ?? []) as unknown as AwardRow[]) {
+    const issuer = row.collectibles?.issuer_name ?? 'Unknown'
+    const flag   = row.collectibles?.countries?.flag_emoji ?? ''
+    const map    = row.award_type === 'winner' ? byAwardWinner : byAwardNominee
+    const ex     = map.get(issuer)
+    if (ex) ex.count++
+    else map.set(issuer, { name: issuer, flag, count: 1 })
+  }
+
+  const awardWinners  = [...byAwardWinner.values()].sort((a, b) => b.count - a.count)
+  const awardNominees = [...byAwardNominee.values()].sort((a, b) => b.count - a.count)
+
+  // ── User collection data ─────────────────────────────────────────────────────
   const { data: rawItems } = await supabase
     .from('collected_items')
     .select(`
-      quantity, grade, for_swap, grading_company, slab_grade,
+      quantity, grade, for_swap, grading_company, slab_grade, price_value,
       collectibles!inner(
         id, issuer_name, min_year,
         countries(code, name_uk, name_en, flag_emoji)
@@ -38,6 +74,7 @@ export default async function StatsPage() {
     for_swap:        boolean
     grading_company: string | null
     slab_grade:      string | null
+    price_value:     number | null
     collectibles: {
       id:          number
       issuer_name: string | null
@@ -77,14 +114,20 @@ export default async function StatsPage() {
       bySlabGrade.set(sg, (bySlabGrade.get(sg) ?? 0) + 1)
     }
     if (country?.code) {
+      const spent = item.price_value != null ? Number(item.price_value) * qty : 0
       const ex = byCountry.get(country.code)
-      if (ex) { ex.count += qty }
-      else byCountry.set(country.code, {
-        code:  country.code,
-        name:  country.name_uk ?? country.name_en ?? country.code,
-        flag:  country.flag_emoji ?? '',
-        count: qty,
-      })
+      if (ex) {
+        ex.count += qty
+        if (item.price_value != null) ex.totalSpent = (ex.totalSpent ?? 0) + spent
+      } else {
+        byCountry.set(country.code, {
+          code:  country.code,
+          name:  country.name_uk ?? country.name_en ?? country.code,
+          flag:  country.flag_emoji ?? '',
+          count: qty,
+          totalSpent: item.price_value != null ? spent : undefined,
+        })
+      }
     }
     if (col?.issuer_name) {
       const ex = byIssuer.get(col.issuer_name)
@@ -118,14 +161,21 @@ export default async function StatsPage() {
     .map(([company, count]) => ({ company, count }))
     .sort((a, b) => b.count - a.count)
 
+  const countryStatsArr = [...byCountry.values()].sort((a, b) => b.count - a.count)
+  for (const c of countryStatsArr) {
+    if (c.totalSpent != null && c.count > 0) c.avgValue = c.totalSpent / c.count
+  }
+
   const stats: AllStats = {
     summary: { items: totalItems, types: totalTypes, countries: byCountry.size, forSwap: totalForSwap },
-    countryStats:        [...byCountry.values()].sort((a, b) => b.count - a.count),
+    countryStats:        countryStatsArr,
     issuerStats:         [...byIssuer.values()].sort((a, b) => b.count - a.count),
     gradeStats,
     yearStats,
     gradingCompanyStats,
     slabGradeStats,
+    awardWinners,
+    awardNominees,
   }
 
   return (

@@ -17,6 +17,7 @@ interface SearchParams {
   country?: string
   currency?: string
   category?: string
+  award?: string   // '' | 'any' | 'winner' | 'nominee'
   page?: string
 }
 
@@ -38,17 +39,32 @@ export default async function CatalogPage({ searchParams }: { searchParams: Prom
 
   const currencyId = sp.currency ? parseInt(sp.currency) : null
 
+  // ── Award filter: resolve collectible IDs that match ───────────────────────
+  let awardFilterIds: number[] | null = null
+  if (sp.award) {
+    let aq = supabase.from('collectible_awards').select('collectible_id')
+    if (sp.award === 'winner' || sp.award === 'nominee') {
+      aq = aq.eq('award_type', sp.award)
+    }
+    const { data: aIds } = await aq
+    awardFilterIds = [...new Set((aIds ?? []).map((a: { collectible_id: number }) => a.collectible_id))]
+  }
+
   // ── Count query ────────────────────────────────────────────────────────────
   let countQ = supabase
     .from('collectibles')
     .select('*', { count: 'exact', head: true })
-  if (sp.q)        countQ = countQ.ilike('title', `%${sp.q}%`)
-  if (sp.issuer)   countQ = countQ.ilike('issuer_name', `%${sp.issuer}%`)
-  if (sp.year_from) countQ = countQ.gte('min_year', parseInt(sp.year_from))
-  if (sp.year_to)   countQ = countQ.lte('max_year', parseInt(sp.year_to))
-  if (countryId)    countQ = countQ.eq('country_id', countryId)
-  if (currencyId)   countQ = countQ.eq('currency_id', currencyId)
-  if (sp.category)  countQ = countQ.eq('category_code', sp.category)
+  if (sp.q)          countQ = countQ.ilike('title', `%${sp.q}%`)
+  if (sp.issuer)     countQ = countQ.ilike('issuer_name', `%${sp.issuer}%`)
+  if (sp.year_from)  countQ = countQ.gte('min_year', parseInt(sp.year_from))
+  if (sp.year_to)    countQ = countQ.lte('max_year', parseInt(sp.year_to))
+  if (countryId)     countQ = countQ.eq('country_id', countryId)
+  if (currencyId)    countQ = countQ.eq('currency_id', currencyId)
+  if (sp.category)   countQ = countQ.eq('category_code', sp.category)
+  if (awardFilterIds !== null) {
+    if (awardFilterIds.length > 0) countQ = countQ.in('id', awardFilterIds)
+    else countQ = countQ.in('id', [-1])  // force empty result
+  }
   const { count: totalCount } = await countQ
 
   const totalPages = Math.ceil((totalCount ?? 0) / PAGE_SIZE)
@@ -60,13 +76,17 @@ export default async function CatalogPage({ searchParams }: { searchParams: Prom
     .from('collectibles')
     .select('*, countries(*)')
     .order('id', { ascending: false })
-  if (sp.q)        query = query.ilike('title', `%${sp.q}%`)
-  if (sp.issuer)   query = query.ilike('issuer_name', `%${sp.issuer}%`)
+  if (sp.q)         query = query.ilike('title', `%${sp.q}%`)
+  if (sp.issuer)    query = query.ilike('issuer_name', `%${sp.issuer}%`)
   if (sp.year_from) query = query.gte('min_year', parseInt(sp.year_from))
   if (sp.year_to)   query = query.lte('max_year', parseInt(sp.year_to))
   if (countryId)    query = query.eq('country_id', countryId)
   if (currencyId)   query = query.eq('currency_id', currencyId)
   if (sp.category)  query = query.eq('category_code', sp.category)
+  if (awardFilterIds !== null) {
+    if (awardFilterIds.length > 0) query = query.in('id', awardFilterIds)
+    else query = query.in('id', [-1])
+  }
   const { data: collectibles } = await query.range(offset, offset + PAGE_SIZE - 1)
 
   // ── Issuers for filter dropdown ────────────────────────────────────────────
@@ -108,16 +128,15 @@ export default async function CatalogPage({ searchParams }: { searchParams: Prom
   const { data: awardsRaw } = pageIds.length
     ? await supabase.from('collectible_awards').select('*').in('collectible_id', pageIds)
     : { data: [] }
-  // Keep best award per collectible: winner > nominee
-  const awardMap = new Map<number, CollectibleAward>()
+  // Group all awards per collectible
+  const awardsPerItem = new Map<number, CollectibleAward[]>()
   for (const a of (awardsRaw ?? []) as CollectibleAward[]) {
-    const existing = awardMap.get(a.collectible_id)
-    if (!existing || (a.award_type === 'winner' && existing.award_type !== 'winner')) {
-      awardMap.set(a.collectible_id, a)
-    }
+    const arr = awardsPerItem.get(a.collectible_id) ?? []
+    arr.push(a)
+    awardsPerItem.set(a.collectible_id, arr)
   }
 
-  const hasSearch = !!(sp.q || sp.issuer || sp.year_from || sp.year_to || sp.country || sp.currency || sp.category)
+  const hasSearch = !!(sp.q || sp.issuer || sp.year_from || sp.year_to || sp.country || sp.currency || sp.category || sp.award)
 
   // ── Href builder for pagination ────────────────────────────────────────────
   function getHref(p: number): string {
@@ -129,6 +148,7 @@ export default async function CatalogPage({ searchParams }: { searchParams: Prom
     if (sp.country)   params.set('country', sp.country)
     if (sp.currency)  params.set('currency', sp.currency)
     if (sp.category)  params.set('category', sp.category)
+    if (sp.award)     params.set('award', sp.award)
     params.set('page', String(p))
     return `/catalog?${params.toString()}`
   }
@@ -146,7 +166,7 @@ export default async function CatalogPage({ searchParams }: { searchParams: Prom
       </div>
 
       <Suspense fallback={<div className="h-16 mb-8 card rounded-xl animate-pulse bg-white/5" />}>
-        <CatalogFilters issuers={issuers} countries={countries} currencies={currencies} />
+        <CatalogFilters issuers={issuers} countries={countries} currencies={currencies} currentAward={sp.award ?? ''} />
       </Suspense>
 
       {!collectibles?.length ? (
@@ -155,7 +175,7 @@ export default async function CatalogPage({ searchParams }: { searchParams: Prom
         <>
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
             {(collectibles as CollectibleWithRelations[]).map((c) => (
-              <CollectibleCard key={c.id} collectible={c} award={awardMap.get(c.id) ?? null} />
+              <CollectibleCard key={c.id} collectible={c} awards={awardsPerItem.get(c.id) ?? []} />
             ))}
           </div>
           <Pagination currentPage={page} totalPages={totalPages} getHref={getHref} />

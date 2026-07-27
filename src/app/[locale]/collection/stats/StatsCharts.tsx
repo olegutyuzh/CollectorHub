@@ -5,7 +5,7 @@ import { useState, useCallback } from 'react'
 import { useRouter } from '@/i18n/navigation'
 import { Link } from '@/i18n/navigation'
 import { useTranslations } from 'next-intl'
-import type { AllStats, GradeStat, YearStat } from './types'
+import type { AllStats, AwardIssueStat, GradeStat, YearStat } from './types'
 
 const WorldMap = dynamic(() => import('./WorldMap'), {
   ssr: false,
@@ -23,7 +23,7 @@ function getColor(count: number): string {
   return '#dc2626'
 }
 
-// ── Donut chart ────────────────────────────────────────────────────────────────
+// Donut chart
 function DonutChart({ data, noDataLabel, totalLabel, onSegmentClick }: {
   data: GradeStat[]
   noDataLabel: string
@@ -90,7 +90,7 @@ function DonutChart({ data, noDataLabel, totalLabel, onSegmentClick }: {
   )
 }
 
-// ── Year bar chart ─────────────────────────────────────────────────────────────
+// Year bar chart
 function YearChart({ data }: { data: YearStat[] }) {
   const [hovered, setHovered] = useState<YearStat | null>(null)
   if (data.length === 0) return <p className="text-sm text-slate-500">Немає даних</p>
@@ -134,11 +134,100 @@ function YearChart({ data }: { data: YearStat[] }) {
   )
 }
 
-// ── Main client component ──────────────────────────────────────────────────────
+// Country rank widget (compact ranked list)
+function CountryRankWidget({ title, items, onItemClick }: {
+  title: string
+  items: { code: string; name: string; flag: string; display: string }[]
+  onItemClick?: (code: string) => void
+}) {
+  return (
+    <div className="card p-4">
+      <h3 className="text-xs font-semibold text-slate-300 mb-3">{title}</h3>
+      {items.length === 0 ? (
+        <p className="text-xs text-slate-500">Немає даних</p>
+      ) : (
+        <div className="space-y-2">
+          {items.map((item, i) => (
+            <div
+              key={item.code + i}
+              onClick={() => onItemClick?.(item.code)}
+              className={`flex items-center gap-2 rounded px-1 -mx-1 transition-colors ${onItemClick ? 'cursor-pointer hover:bg-white/10' : ''}`}
+            >
+              <span className="text-xs text-slate-500 w-4 text-right flex-shrink-0">{i + 1}</span>
+              <span className="text-sm leading-none flex-shrink-0">{item.flag}</span>
+              <span className="text-sm text-slate-200 font-medium flex-1 truncate min-w-0" title={item.name}>{item.name}</span>
+              <span className="text-xs text-slate-400 flex-shrink-0 tabular-nums">{item.display}</span>
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+  )
+}
+
+// Award horizontal bar chart
+function AwardBarsChart({
+  data, max, accentColor, showAll, onItemClick,
+}: {
+  data: AwardIssueStat[]
+  max: number
+  accentColor: string
+  showAll?: boolean
+  onItemClick?: (name: string) => void
+}) {
+  const [expanded, setExpanded] = useState(false)
+  const LIMIT = 12
+  const visible = (showAll || expanded) ? data : data.slice(0, LIMIT)
+  const hasMore = data.length > LIMIT
+
+  if (data.length === 0) return <p className="text-sm text-slate-500">Немає даних</p>
+
+  return (
+    <div>
+      <div className="space-y-2">
+        {visible.map((item, i) => (
+          <div
+            key={item.name}
+            className={`flex items-center gap-2 rounded-lg px-1 -mx-1 transition-colors ${onItemClick ? 'cursor-pointer hover:bg-white/10' : ''}`}
+            onClick={() => onItemClick?.(item.name)}
+          >
+            <span className="text-xs text-slate-500 w-5 text-right flex-shrink-0">{i + 1}</span>
+            <span className="text-base w-6 text-center leading-none flex-shrink-0">{item.flag}</span>
+            <span
+              className={`text-sm flex-1 truncate min-w-0 transition-colors ${onItemClick ? 'text-slate-200 hover:text-[#c9a96e]' : 'text-slate-200'}`}
+              title={item.name}
+            >
+              {item.name}
+            </span>
+            <div className="flex items-center gap-2 flex-shrink-0">
+              <div className="w-24 bg-white/10 rounded-full h-1.5 overflow-hidden">
+                <div
+                  className="h-1.5 rounded-full transition-all"
+                  style={{ width: `${Math.round((item.count / max) * 100)}%`, background: accentColor }}
+                />
+              </div>
+              <span className="text-sm font-semibold text-white w-5 text-right">{item.count}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+      {hasMore && !showAll && (
+        <button
+          onClick={() => setExpanded(prev => !prev)}
+          className="mt-3 text-xs text-slate-500 hover:text-slate-300 transition-colors"
+        >
+          {expanded ? 'Згорнути' : `Показати всі ${data.length}`}
+        </button>
+      )}
+    </div>
+  )
+}
+
+// Main client component
 export function StatsCharts({ stats }: { stats: AllStats }) {
   const t = useTranslations('Stats')
   const router = useRouter()
-  const { summary, countryStats, issuerStats, gradeStats, yearStats, gradingCompanyStats, slabGradeStats } = stats
+  const { summary, countryStats, issuerStats, gradeStats, yearStats, gradingCompanyStats, slabGradeStats, awardWinners, awardNominees } = stats
 
   const handleCountryClick = useCallback((code: string) => {
     router.push(`/collection?country=${code}`)
@@ -146,6 +235,12 @@ export function StatsCharts({ stats }: { stats: AllStats }) {
 
   const maxCount       = countryStats[0]?.count ?? 1
   const maxIssuerCount = issuerStats[0]?.count   ?? 1
+
+  // Derived sorted arrays for country rank widgets
+  const byCount    = countryStats.slice(0, 10)
+  const bySpent    = [...countryStats].filter(c => (c.totalSpent ?? 0) > 0).sort((a, b) => (b.totalSpent ?? 0) - (a.totalSpent ?? 0)).slice(0, 10)
+  const byAlpha    = [...countryStats].sort((a, b) => a.name.localeCompare(b.name, 'uk')).slice(0, 10)
+  const byAvgValue = [...countryStats].filter(c => (c.avgValue ?? 0) > 0).sort((a, b) => (b.avgValue ?? 0) - (a.avgValue ?? 0)).slice(0, 10)
 
   const COMPANY_COLORS = ['#6366f1','#ec4899','#f59e0b','#10b981','#3b82f6','#ef4444','#8b5cf6','#14b8a6','#f97316','#06b6d4']
   const companyData: GradeStat[] = gradingCompanyStats.map((g, i) => ({
@@ -171,6 +266,35 @@ export function StatsCharts({ stats }: { stats: AllStats }) {
         ))}
       </div>
 
+      {/* Collection per Country — 4 rank widgets */}
+      {countryStats.length > 0 && (
+        <div className="mb-6">
+          <h2 className="text-sm font-semibold text-slate-300 mb-3">Колекція по країнах</h2>
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-3">
+            <CountryRankWidget
+              title="Найбільше банкнот"
+              items={byCount.map(c => ({ code: c.code, name: c.name, flag: c.flag, display: `${c.count} шт.` }))}
+              onItemClick={code => router.push(`/collection?country=${code}`)}
+            />
+            <CountryRankWidget
+              title="Найбільше витрачено"
+              items={bySpent.map(c => ({ code: c.code, name: c.name, flag: c.flag, display: (c.totalSpent ?? 0).toFixed(2) }))}
+              onItemClick={code => router.push(`/collection?country=${code}`)}
+            />
+            <CountryRankWidget
+              title="За алфавітом"
+              items={byAlpha.map(c => ({ code: c.code, name: c.name, flag: c.flag, display: `${c.count} шт.` }))}
+              onItemClick={code => router.push(`/collection?country=${code}`)}
+            />
+            <CountryRankWidget
+              title="Найдорожчі (середня)"
+              items={byAvgValue.map(c => ({ code: c.code, name: c.name, flag: c.flag, display: (c.avgValue ?? 0).toFixed(2) }))}
+              onItemClick={code => router.push(`/collection?country=${code}`)}
+            />
+          </div>
+        </div>
+      )}
+
       {/* World map */}
       <div className="card p-4 mb-6">
         <h2 className="text-sm font-semibold text-slate-300 mb-3">{t('mapTitle')}</h2>
@@ -191,6 +315,47 @@ export function StatsCharts({ stats }: { stats: AllStats }) {
           ))}
         </div>
       </div>
+
+      {/* IBNS Award distribution by country */}
+      {(awardWinners.length > 0 || awardNominees.length > 0) && (
+        <div className="grid md:grid-cols-2 gap-6 mb-6">
+          <div className="card p-5">
+            <div className="flex items-center justify-between mb-4">
+              <h2 className="text-sm font-semibold text-slate-300">
+                Переможці IBNS по країнах
+              </h2>
+              <span className="text-xs text-slate-500">
+                {awardWinners.reduce((s, w) => s + w.count, 0)} перемог · {awardWinners.length} країн
+              </span>
+            </div>
+            <p className="text-xs text-slate-500 mb-3">Натисніть для переходу в каталог</p>
+            <AwardBarsChart
+              data={awardWinners}
+              max={awardWinners[0]?.count ?? 1}
+              accentColor="#c9a96e"
+              onItemClick={(name) => router.push(`/catalog?issuer=${encodeURIComponent(name)}&award=winner`)}
+            />
+          </div>
+
+          <div className="card p-5">
+            <div className="flex items-center justify-between mb-4">
+              <h2 className="text-sm font-semibold text-slate-300">
+                Номінанти IBNS по країнах
+              </h2>
+              <span className="text-xs text-slate-500">
+                {awardNominees.reduce((s, n) => s + n.count, 0)} номінацій · {awardNominees.length} країн
+              </span>
+            </div>
+            <p className="text-xs text-slate-500 mb-3">Натисніть для переходу в каталог</p>
+            <AwardBarsChart
+              data={awardNominees}
+              max={awardNominees[0]?.count ?? 1}
+              accentColor="#3b82f6"
+              onItemClick={(name) => router.push(`/catalog?issuer=${encodeURIComponent(name)}&award=nominee`)}
+            />
+          </div>
+        </div>
+      )}
 
       {/* Year distribution */}
       {yearStats.length > 0 && (
@@ -274,7 +439,7 @@ export function StatsCharts({ stats }: { stats: AllStats }) {
                   <button
                     key={g.grade}
                     onClick={() => router.push(`/collection?slab_grade=${encodeURIComponent(g.grade)}`)}
-                    className="w-full flex items-center gap-2 rounded-lg px-2 py-1 -mx-2 hover:bg-white/8 transition-colors cursor-pointer text-left"
+                    className="w-full flex items-center gap-2 rounded-lg px-2 py-1 -mx-2 hover:bg-white/10 transition-colors cursor-pointer text-left"
                   >
                     <span
                       className="text-xs font-mono font-semibold w-14 text-right px-1.5 py-0.5 rounded flex-shrink-0"
@@ -307,7 +472,7 @@ export function StatsCharts({ stats }: { stats: AllStats }) {
                 <Link
                   key={c.code}
                   href={`/collection?country=${c.code}`}
-                  className="flex items-center gap-2 group hover:bg-white/8 rounded-lg px-1 -mx-1 transition-colors"
+                  className="flex items-center gap-2 group hover:bg-white/10 rounded-lg px-1 -mx-1 transition-colors"
                 >
                   <span className="text-xs text-slate-500 w-5 text-right">{i + 1}</span>
                   <span className="text-base w-6 text-center leading-none">{c.flag}</span>

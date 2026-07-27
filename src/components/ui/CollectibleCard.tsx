@@ -6,7 +6,7 @@ import type { CollectibleWithRelations, CollectibleAward } from '@/types/databas
 interface CollectibleCardProps {
   collectible: CollectibleWithRelations
   inCollection?: boolean
-  award?: CollectibleAward | null
+  awards?: CollectibleAward[]
 }
 
 const CATEGORY_LABELS: Record<string, string> = {
@@ -15,11 +15,15 @@ const CATEGORY_LABELS: Record<string, string> = {
   EXON: 'Екзонумія',
 }
 
-export function CollectibleCard({ collectible, inCollection, award }: CollectibleCardProps) {
+export function CollectibleCard({ collectible, inCollection, awards = [] }: CollectibleCardProps) {
   const country = collectible.countries
   const years = collectible.max_year && collectible.max_year !== collectible.min_year
     ? `${collectible.min_year}–${collectible.max_year}`
     : collectible.min_year?.toString() ?? '—'
+
+  const winner = awards.find(a => a.award_type === 'winner')
+  const nominees = awards.filter(a => a.award_type === 'nominee')
+  const latestNominee = nominees.sort((a, b) => b.award_year - a.award_year)[0]
 
   return (
     <Link
@@ -54,23 +58,31 @@ export function CollectibleCard({ collectible, inCollection, award }: Collectibl
           </div>
         )}
 
-        {/* Award badge — top-left */}
-        {award && (
-          <div className="absolute top-2 left-2">
-            <span
-              className={[
-                'inline-flex items-center gap-1 text-[10px] font-bold rounded-full px-2 py-0.5',
-                award.award_type === 'winner'
-                  ? 'bg-amber-500/90 text-[#07111f]'
-                  : 'bg-white/20 text-white backdrop-blur-sm',
-              ].join(' ')}
-              title={`${award.award_name} ${award.award_year}`}
-            >
-              {award.award_type === 'winner'
-                ? <Trophy className="h-2.5 w-2.5" />
-                : <Star className="h-2.5 w-2.5" />}
-              {award.award_year}
-            </span>
+        {/* Award badges — top-left */}
+        {awards.length > 0 && (
+          <div className="absolute top-2 left-2 flex flex-col gap-1">
+            {winner ? (
+              <span
+                className="inline-flex items-center gap-1 text-[10px] font-bold rounded-full px-2 py-0.5 bg-amber-500/90 text-[#07111f]"
+                title={`${winner.award_name} — Переможець ${winner.award_year}`}
+              >
+                <Trophy className="h-2.5 w-2.5" />
+                {winner.award_year}
+              </span>
+            ) : latestNominee ? (
+              <span
+                className="inline-flex items-center gap-1 text-[10px] font-bold rounded-full px-2 py-0.5 bg-white/20 text-white backdrop-blur-sm"
+                title={`${latestNominee.award_name} — Номінант ${latestNominee.award_year}`}
+              >
+                <Star className="h-2.5 w-2.5" />
+                {latestNominee.award_year}
+              </span>
+            ) : null}
+            {winner && nominees.length > 0 && (
+              <span className="inline-flex items-center text-[9px] font-medium rounded-full px-2 py-0.5 bg-white/10 text-white/70">
+                +{nominees.length} ном.
+              </span>
+            )}
           </div>
         )}
 

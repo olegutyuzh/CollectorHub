@@ -1,7 +1,7 @@
 'use client'
 
 import { useRouter, useSearchParams, usePathname } from 'next/navigation'
-import { Search, X, SlidersHorizontal, ChevronDown, ChevronUp } from 'lucide-react'
+import { Search, X, SlidersHorizontal, ChevronDown, ChevronUp, Trophy, Star } from 'lucide-react'
 import { useState } from 'react'
 import { useTranslations } from 'next-intl'
 
@@ -10,6 +10,13 @@ const CATEGORIES = [
   { code: 'BKNT', label: 'Банкноти' },
   { code: 'COIN', label: 'Монети' },
   { code: 'EXON', label: 'Екзонумія' },
+]
+
+const AWARD_FILTERS = [
+  { value: '',        label: 'Без обмежень',     icon: null },
+  { value: 'any',     label: 'Будь-які нагороди', icon: <Star className="h-3.5 w-3.5" /> },
+  { value: 'winner',  label: 'Переможці',         icon: <Trophy className="h-3.5 w-3.5" /> },
+  { value: 'nominee', label: 'Номінанти',          icon: <Star className="h-3.5 w-3.5" /> },
 ]
 
 interface Country {
@@ -29,9 +36,10 @@ interface CatalogFiltersProps {
   issuers: string[]
   countries: Country[]
   currencies: Currency[]
+  currentAward?: string
 }
 
-export function CatalogFilters({ issuers, countries, currencies }: CatalogFiltersProps) {
+export function CatalogFilters({ issuers, countries, currencies, currentAward = '' }: CatalogFiltersProps) {
   const router = useRouter()
   const pathname = usePathname()
   const searchParams = useSearchParams()
@@ -46,8 +54,9 @@ export function CatalogFilters({ issuers, countries, currencies }: CatalogFilter
   const [country, setCountry]   = useState(searchParams.get('country') ?? '')
   const [currency, setCurrency] = useState(searchParams.get('currency') ?? '')
   const [category, setCategory] = useState(searchParams.get('category') ?? '')
+  const [award, setAward]       = useState(currentAward)
 
-  const activeCount = [issuer, yearFrom, yearTo, country, currency, category].filter(Boolean).length
+  const activeCount = [issuer, yearFrom, yearTo, country, currency, category, award].filter(Boolean).length
 
   function applyFilters() {
     const params = new URLSearchParams()
@@ -58,16 +67,17 @@ export function CatalogFilters({ issuers, countries, currencies }: CatalogFilter
     if (country)  params.set('country', country)
     if (currency) params.set('currency', currency)
     if (category) params.set('category', category)
+    if (award)    params.set('award', award)
     router.push(`${pathname}?${params.toString()}`)
   }
 
   function clearAll() {
     setQ(''); setIssuer(''); setYearFrom(''); setYearTo('')
-    setCountry(''); setCurrency(''); setCategory('')
+    setCountry(''); setCurrency(''); setCategory(''); setAward('')
     router.push(pathname)
   }
 
-  const hasAnyFilter = q || issuer || yearFrom || yearTo || country || currency || category
+  const hasAnyFilter = q || issuer || yearFrom || yearTo || country || currency || category || award
 
   return (
     <div className="mb-8 card overflow-hidden">
@@ -227,6 +237,29 @@ export function CatalogFilters({ issuers, countries, currencies }: CatalogFilter
                 placeholder={t('filters.to')}
                 className="input w-full text-sm"
               />
+            </div>
+          </div>
+
+          {/* Award filter */}
+          <div className="sm:col-span-2 lg:col-span-3">
+            <label className="block text-xs font-medium text-slate-500 mb-2 uppercase tracking-wide">Нагороди IBNS</label>
+            <div className="flex flex-wrap gap-2">
+              {AWARD_FILTERS.map(af => (
+                <button
+                  key={af.value}
+                  type="button"
+                  onClick={() => setAward(af.value)}
+                  className={[
+                    'px-3.5 py-1.5 rounded-lg text-sm font-medium border transition-colors inline-flex items-center gap-1.5',
+                    award === af.value
+                      ? 'bg-[#c9a96e]/15 text-[#c9a96e] border-[#c9a96e]/30'
+                      : 'bg-white/5 text-slate-400 border-white/10 hover:bg-white/10 hover:text-slate-200',
+                  ].join(' ')}
+                >
+                  {af.icon}
+                  {af.label}
+                </button>
+              ))}
             </div>
           </div>
 

@@ -1,9 +1,17 @@
 import { createServerSupabaseClient } from '@/lib/supabase-server'
 import Image from 'next/image'
 import { notFound } from 'next/navigation'
-import { Tag, Trophy, Star } from 'lucide-react'
+import { Tag, Trophy, Star, ExternalLink } from 'lucide-react'
 import { getTranslations } from 'next-intl/server'
 import type { CollectibleWithRelations, CollectibleVariation, CollectibleDetails, CollectibleAward } from '@/types/database'
+
+type AwardWithOrg = CollectibleAward & {
+  award_organizations: {
+    short_name: string
+    long_name: string
+    website: string | null
+  } | null
+}
 import { AddToCollectionButton } from '@/components/ui/AddToCollectionButton'
 import { VariationsTable } from '@/components/ui/VariationsTable'
 import { BackButton } from '@/components/ui/BackButton'
@@ -65,11 +73,15 @@ export default async function CollectiblePage({ params }: { params: Promise<{ id
       ? supabase.from('collected_items').select('id, user_id, collectible_id, collectible_variation_id, grade, quantity, for_swap, price_value, price_currency, serial_number, private_comment, public_comment, grading_company, grading_company_id, slab_grade, slab_number, grading_designations, pictures, created_at').eq('collectible_id', id).eq('user_id', user.id)
       : Promise.resolve({ data: [] }),
     supabase.from('collectible_details').select('*').eq('collectible_id', id).maybeSingle(),
-    supabase.from('collectible_awards').select('*').eq('collectible_id', id).order('award_year', { ascending: true }),
+    supabase
+      .from('collectible_awards')
+      .select('*, award_organizations(short_name, long_name, website)')
+      .eq('collectible_id', id)
+      .order('award_year', { ascending: false }),
   ])
 
   const details = (detailsResult.data as unknown) as CollectibleDetails | null
-  const awards = (awardsRaw ?? []) as CollectibleAward[]
+  const awards = (awardsRaw ?? []) as AwardWithOrg[]
 
   if (!collectible) notFound()
 
@@ -185,26 +197,36 @@ export default async function CollectiblePage({ params }: { params: Promise<{ id
             </div>
           )}
 
-          {/* Awards */}
+          {/* Award badges in header */}
           {awards.length > 0 && (
             <div className="flex flex-wrap gap-2 mb-4">
-              {awards.map(a => (
-                <span
-                  key={a.id}
-                  className={[
-                    'inline-flex items-center gap-1.5 text-xs font-semibold rounded-full px-3 py-1.5 border',
-                    a.award_type === 'winner'
-                      ? 'bg-amber-500/15 text-amber-300 border-amber-500/30'
-                      : 'bg-white/8 text-slate-300 border-white/15',
-                  ].join(' ')}
-                  title={a.award_name}
-                >
-                  {a.award_type === 'winner'
-                    ? <Trophy className="h-3.5 w-3.5 shrink-0" />
-                    : <Star className="h-3.5 w-3.5 shrink-0" />}
-                  {a.award_type === 'winner' ? 'Переможець' : 'Номінант'} {a.award_year}
-                </span>
-              ))}
+              {awards.map(a => {
+                const org = a.award_organizations
+                const badge = (
+                  <span
+                    className={[
+                      'inline-flex items-center gap-1.5 text-xs font-semibold rounded-full px-3 py-1.5 border',
+                      a.award_type === 'winner'
+                        ? 'bg-amber-500/15 text-amber-300 border-amber-500/30'
+                        : 'bg-white/[0.08] text-slate-300 border-white/15',
+                    ].join(' ')}
+                    title={a.award_name}
+                  >
+                    {a.award_type === 'winner'
+                      ? <Trophy className="h-3.5 w-3.5 shrink-0" />
+                      : <Star className="h-3.5 w-3.5 shrink-0" />}
+                    {a.award_type === 'winner' ? 'Переможець' : 'Номінант'}
+                    {org?.short_name ? ` ${org.short_name}` : ''} {a.award_year}
+                  </span>
+                )
+                return org?.website ? (
+                  <a key={a.id} href={org.website} target="_blank" rel="noopener noreferrer" className="hover:opacity-80 transition-opacity">
+                    {badge}
+                  </a>
+                ) : (
+                  <span key={a.id}>{badge}</span>
+                )
+              })}
             </div>
           )}
 
@@ -235,6 +257,73 @@ export default async function CollectiblePage({ params }: { params: Promise<{ id
           )}
         </div>
       </div>
+
+      {/* Awards full section */}
+      {awards.length > 0 && (
+        <div className="mt-8">
+          <div className="card overflow-hidden">
+            <div className="px-4 py-3 border-b border-white/10 flex items-center gap-2">
+              <Trophy className="h-4 w-4 text-[#c9a96e]" />
+              <span className="text-sm font-semibold text-slate-300">Нагороди та номінації</span>
+              <span className="ml-auto text-xs text-slate-600">{awards.length} запис{awards.length === 1 ? '' : 'ів'}</span>
+            </div>
+            <div className="divide-y divide-white/[0.06]">
+              {awards.map(a => {
+                const org = a.award_organizations
+                return (
+                  <div key={a.id} className="flex items-center gap-3 px-4 py-3">
+                    {/* Year pill */}
+                    <span className={[
+                      'text-[11px] font-bold px-2.5 py-0.5 rounded-full min-w-[52px] text-center border shrink-0',
+                      a.award_type === 'winner'
+                        ? 'bg-amber-500/10 text-amber-300 border-amber-500/25'
+                        : 'bg-white/5 text-slate-400 border-white/10',
+                    ].join(' ')}>
+                      {a.award_year}
+                    </span>
+
+                    {/* Award name */}
+                    <span className="flex-1 text-sm text-slate-200 truncate">{a.award_name}</span>
+
+                    {/* Winner/Nominee tag */}
+                    <span className={[
+                      'inline-flex items-center gap-1 text-[11px] font-medium px-2.5 py-0.5 rounded-full shrink-0',
+                      a.award_type === 'winner'
+                        ? 'bg-amber-500/10 text-amber-400'
+                        : 'bg-white/5 text-slate-500',
+                    ].join(' ')}>
+                      {a.award_type === 'winner'
+                        ? <Trophy className="h-3 w-3" />
+                        : <Star className="h-3 w-3" />}
+                      {a.award_type === 'winner' ? 'Переможець' : 'Номінант'}
+                    </span>
+
+                    {/* Org link */}
+                    {org && (
+                      org.website ? (
+                        <a
+                          href={org.website}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="inline-flex items-center gap-1 text-[11px] text-slate-500 hover:text-[#c9a96e] transition-colors shrink-0"
+                          title={org.long_name}
+                        >
+                          {org.short_name}
+                          <ExternalLink className="h-3 w-3" />
+                        </a>
+                      ) : (
+                        <span className="text-[11px] text-slate-600 shrink-0" title={org.long_name}>
+                          {org.short_name}
+                        </span>
+                      )
+                    )}
+                  </div>
+                )
+              })}
+            </div>
+          </div>
+        </div>
+      )}
 
       {/* Variations table */}
       {vars.length > 0 && (
